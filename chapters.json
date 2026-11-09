@@ -3095,5 +3095,511 @@
 "note": "Saul dies as the Lord's anointed, a fact that shapes David's later response to news of the fall."
 }
 ]
+},
+"2Sa.1": {
+"occasion": "David learns of Saul's death from an Amalekite runner and mourns.",
+"structure": "The report, the execution of the messenger, then the lament of the bow taught to Judah.",
+"world_behind": "Torn clothes and dust on the head were standard signs of grief; a crown and armlet taken from the dead king were proof of death.",
+"deep_background": [
+{
+"concept": "Mourning rites",
+"note": "Fasting until evening and tearing garments marked public grief in Israel and the wider ancient Near East."
+}
+]
+},
+"2Sa.2": {
+"occasion": "David is anointed king over Judah while Ish-bosheth rules Israel; civil war begins.",
+"structure": "David at Hebron, Ish-bosheth installed by Abner, the contest at Gibeon's pool, Abner's retreat.",
+"world_behind": "Hebron was Judah's chief city and David's base for years; the pool at Gibeon made a natural assembly point for a staged contest.",
+"deep_background": [
+{
+"concept": "Staged combat",
+"note": "Single combat between champions was a recognised way to settle a dispute without full battle, used elsewhere in the ancient world."
+}
+]
+},
+"2Sa.3": {
+"occasion": "Abner defects to David and Joab murders him, leaving David publicly innocent.",
+"structure": "Abner's quarrel with Ish-bosheth, negotiation with David, Michal returned, Joab's kill, David's curse and fast.",
+"world_behind": "Control of a king's daughter signalled political legitimacy, so returning Michal was itself a negotiating move.",
+"deep_background": [
+{
+"concept": "Blood vengeance",
+"note": "Joab killed Abner to avenge Asahel, an act of family vengeance that David could disown politically but not undo."
+}
+]
+},
+"2Sa.4": {
+"occasion": "Ish-bosheth is murdered and David executes the killers.",
+"structure": "The two captains kill the king at noon, bring the head to Hebron, and are put to death.",
+"world_behind": "Midday heat meant the palace guard was relaxed, which is why a beheading raid could succeed.",
+"deep_background": [
+{
+"concept": "Hands and feet cut off",
+"note": "Dismembering executed criminals displayed the justice done and removed the threat of the corpse being honoured."
+}
+]
+},
+"2Sa.5": {
+"occasion": "All Israel anoints David at Hebron and he takes Jerusalem as his capital.",
+"structure": "Covenant at Hebron, capture of Zion by the water shaft, Hiram's cedar palace, two Philistine defeats.",
+"world_behind": "Jerusalem sat between Judah and Benjamin, a neutral royal city with its own Jebusite population and strong walls.",
+"deep_background": [
+{
+"concept": "Baal-perazim",
+"note": "The name commemorates a breakout victory; the second battle used the sound in the balsam trees as the signal to attack."
+}
+]
+},
+"2Sa.6": {
+"occasion": "The ark is brought to Jerusalem; Uzzah is struck dead and David dances before it.",
+"structure": "First attempt on a cart, Uzzah's death, the ark left with Obed-edom, the second procession with sacrifice, Michal's contempt.",
+"world_behind": "The ark was carried by Levites on poles, never on an ox cart, which is why the Philistine method ended in judgement.",
+"deep_background": [
+{
+"concept": "The ephod",
+"note": "David wore a linen ephod, a priestly garment, while leading worship, and was criticised for undignified public rejoicing."
+}
+]
+},
+"2Sa.7": {
+"occasion": "Nathan announces God's covenant with David, and David prays in response.",
+"structure": "David's intent to build, Nathan's first answer, the night oracle, David's prayer of praise.",
+"world_behind": "A royal house of cedar contrasted with a tent, and temple building was a standard duty of ancient kings toward their gods.",
+"deep_background": [
+{
+"concept": "Everlasting dynasty",
+"note": "Promises of an enduring royal line were also claimed by other ancient kings, but here the covenant is unconditional and tied to discipline rather than rejection."
+}
+]
+},
+"2Sa.8": {
+"occasion": "David's victories and administration are summarised.",
+"structure": "Campaigns in every direction, tribute received, spoils dedicated, then the list of officials.",
+"world_behind": "Bridles under the horses and garrisons in Edom were instruments of occupation, not raiding.",
+"deep_background": [
+{
+"concept": "Dedicated spoils",
+"note": "Holy gifts were deposited for the future temple, a practice also recorded on Egyptian and Moabite victory inscriptions."
+}
+]
+},
+"2Sa.9": {
+"occasion": "David shows covenant kindness to Mephibosheth, Saul's grandson.",
+"structure": "Search for a survivor, Ziba summoned, lands restored, a permanent seat at the king's table.",
+"world_behind": "A lame man whose feet were crippled in a fall had no claim to a throne and needed royal patronage to survive.",
+"deep_background": [
+{
+"concept": "Eating at the king's table",
+"note": "Table fellowship was a formal grant of status and protection, not merely hospitality."
+}
+]
+},
+"2Sa.10": {
+"occasion": "Ammon and its Aramean allies are defeated after insulting David's envoys.",
+"structure": "Envoys humiliated, Ammon hires mercenaries, Joab fights two fronts, David finishes the war.",
+"world_behind": "Shaving half a beard and cutting garments at the hips stripped an envoy of the marks of manhood and honour.",
+"deep_background": [
+{
+"concept": "Seasonal warfare",
+"note": "Campaigns resumed after harvest when roads were passable and men could be freed from the fields."
+}
+]
+},
+"2Sa.11": {
+"occasion": "David's adultery with Bathsheba and the arranged death of Uriah.",
+"structure": "The view from the roof, the pregnancy, two failed cover attempts, the letter to Joab, the report.",
+"world_behind": "Kings departed for spring campaigns, and a siege camp outside Rabbah was the natural posting to arrange a battlefield death.",
+"deep_background": [
+{
+"concept": "Roofs as observation",
+"note": "Flat roofs with parapets were living space and sleeping areas in warm months, so seeing a bathing woman was ordinary, the act was not."
+}
+]
+},
+"2Sa.12": {
+"occasion": "Nathan confronts David; the child dies, and Solomon is born.",
+"structure": "The parable of the lamb, the accusation, David's confession, the illness and death, the naming of Solomon, Rabbah taken.",
+"world_behind": "Seven days of fasting and lying on the ground was the customary appeal for a sick child, abandoned after death because mourning ends.",
+"deep_background": [
+{
+"concept": "The sword never departing",
+"note": "The judgement binds the consequences of the act to the dynasty rather than to the individual's life."
+}
+]
+},
+"2Sa.13": {
+"occasion": "Amnon violates Tamar and Absalom takes revenge.",
+"structure": "Amnon's scheme with Jonadab, the assault, Tamar's desolation, David's anger, Absalom's two-year plot, Amnon killed.",
+"world_behind": "A desolate woman and a widow's house meant permanent social damage; Absalom's long silence was calculated patience.",
+"deep_background": [
+{
+"concept": "Absalom's flight",
+"note": "Fleeing to Geshur put him under the protection of his maternal grandfather's court while the family feud cooled."
+}
+]
+},
+"2Sa.14": {
+"occasion": "Joab uses a wise woman of Tekoa to bring Absalom home.",
+"structure": "The woman's fabricated case, the king's verdict, Joab's confession, Absalom recalled but kept from court, his hair and sons.",
+"world_behind": "A mourner's costume and a long false story were courtroom rhetoric, appealing to the king as judge.",
+"deep_background": [
+{
+"concept": "Weighing Absalom's hair",
+"note": "Hair weight was noted as a mark of vigour and beauty; the annual cutting suggests a Nazirite-like dedication of hair."
+}
+]
+},
+"2Sa.15": {
+"occasion": "Absalom steals the people's loyalty and David flees Jerusalem.",
+"structure": "Absalom at the gate, the Hebron conspiracy, David's evacuation, Ittai and the ark turned back, Hushai planted.",
+"world_behind": "Sitting at the gate to hear cases was the king's judicial role, so Absalom offered justice where David was unavailable.",
+"deep_background": [
+{
+"concept": "Barefoot and weeping",
+"note": "Leaving the city barefoot over Kidron was the posture of a mourning exile, and also a deliberate abandonment of royal dignity."
+}
+]
+},
+"2Sa.16": {
+"occasion": "Ziba's deception and Shimei's cursing mark David's flight; Absalom takes possession of the kingdom.",
+"structure": "Ziba's provisions, Shimei cursing and stones, Abishai's request denied, the spy in Absalom's court, the roof proclaiming rebellion.",
+"world_behind": "A king's concubines were part of the royal property, so public possession of them announced a successful takeover of the throne.",
+"deep_background": [
+{
+"concept": "Cursing the king",
+"note": "Cursing a ruler was treated as a capital offence, which is exactly the restraint David demands from Abishai."
+}
+]
+},
+"2Sa.17": {
+"occasion": "Hushai overturns Ahithophel's counsel and David escapes.",
+"structure": "Two rival strategies, Absalom's choice, the warning through the well, the flight across the Jordan, Ahithophel's suicide.",
+"world_behind": "Ahithophel's counsel was regarded as a word from God, so beating it required an appeal to the risk of a night surprise.",
+"deep_background": [
+{
+"concept": "Well signals",
+"note": "A courtyard well doubled as a hiding place and a relay point in a city with no private roads for messengers."
+}
+]
+},
+"2Sa.18": {
+"occasion": "Absalom's army is destroyed and he is killed in the oak.",
+"structure": "Three divisions march, the battle in Ephraim's wood, Absalom caught, Joab's three darts, the runners, David's lament.",
+"world_behind": "A mule was a royal mount; caught by hair in low branches, a rider could not free himself while the beast ran on.",
+"deep_background": [
+{
+"concept": "Ten young men the armourbearers",
+"note": "The killing is delegated to the king's armourbearers, spreading responsibility across the guard rather than resting on Joab alone."
+}
+]
+},
+"2Sa.19": {
+"occasion": "David returns to Jerusalem and the tribes quarrel over who brought him back.",
+"structure": "Joab's rebuke, the ferry at the Jordan, Shimei and Ziba at the crossing, Mephibosheth's explanation, the Israel-Judah dispute.",
+"world_behind": "The king's crossing place at Gilgal made a public stage where loyalty could be renegotiated visibly.",
+"deep_background": [
+{
+"concept": "Why Mephibosheth's feet",
+"note": "Unwashed feet and hands were the marks of a man who had fasted and been housebound since the king's departure."
+}
+]
+},
+"2Sa.20": {
+"occasion": "Sheba's revolt is put down and Joab takes command.",
+"structure": "Sheba's trumpet call, Amasa delayed then killed, the pursuit north, the woman of Abel's bargain, David's cabinet.",
+"world_behind": "Headless body in a field and a city's wise woman negotiating at the wall both reflect the practical justice of walled towns.",
+"deep_background": [
+{
+"concept": "Able's mother city",
+"note": "Abel-beth-maacah was known as a place of counsel, which is why the woman appeals to its reputation for settling disputes."
+}
+]
+},
+"2Sa.21": {
+"occasion": "Gibeonite vengeance is settled and Philistine giants are killed.",
+"structure": "The three-year famine, the Gibeonite account, the sons given over, Rizpah's vigil, the burial, four battles with giants.",
+"world_behind": "Exposure of bodies without burial was the ultimate dishonour in Israel, so Rizpah's guarding was an act of profound defiance.",
+"deep_background": [
+{
+"concept": "Suspending bodies",
+"note": "Impaling or exposing bodies was practised by neighbouring peoples, but Israelite law required burial before sunset."
+}
+]
+},
+"2Sa.22": {
+"occasion": "David sings a song of deliverance.",
+"structure": "Praise and the call in distress, the theophany, the rescue, the ground of reward, the victories, thanksgiving.",
+"world_behind": "The imagery of rock, horn, lamp and shield comes from daily survival skills and from covenant language.",
+"deep_background": [
+{
+"concept": "Smoke from his nostrils",
+"note": "Storm theophany language borrowed from Canaanite poetry is redirected to describe the Lord's own warfare."
+}
+]
+},
+"2Sa.23": {
+"occasion": "David's last words and the roll of his mighty men.",
+"structure": "The oracle about the rightful ruler, then the thirty-seven warriors with their signature deeds.",
+"world_behind": "Mighty men were a professional warrior corps; the three and the thirty were ranks within the king's personal guard.",
+"deep_background": [
+{
+"concept": "The well at Bethlehem",
+"note": "The three breaking through enemy lines for a cup of water turned it into a libation to God, refusing to consume a life-risking gift."
+}
+]
+},
+"2Sa.24": {
+"occasion": "A census is followed by plague, and the threshing floor of Araunah becomes an altar.",
+"structure": "The census ordered, Joab's protest, the count, the offer of three judgements, the plague, the altar built and the plague stayed.",
+"world_behind": "Censuses were ancient tools for taxation and conscription; Araunah's threshing floor on Mount Moriah became the temple site.",
+"deep_background": [
+{
+"concept": "The threshing floor as holy ground",
+"note": "Where the plague halted and sacrifice was accepted, tradition later identified this as the site of the temple."
+}
+]
+},
+"1Ki.1": {
+"occasion": "Adonijah claims the throne and Solomon is anointed instead.",
+"structure": "Adonijah's feast, Nathan and Bathsheba's appeal, David's oath, Zadok anoints Solomon, the guests scatter.",
+"world_behind": "A king's bed and a mule were instruments of succession; riding the king's own mule publicly transferred the throne.",
+"deep_background": [
+{
+"concept": "Grip on the horns of the altar",
+"note": "The altar offered a place of asylum for someone accused of a capital offence, which Adonijah uses immediately."
+}
+]
+},
+"1Ki.2": {
+"occasion": "David charges Solomon and dies; Solomon secures the kingdom.",
+"structure": "The deathbed charge, David's death, Adonijah's request refused then executed, Abiathar exiled, Joab and Shimei killed.",
+"world_behind": "An oath sworn to a dying king bound the successor, which is why Adonijah's request is treated as a claim on the throne.",
+"deep_background": [
+{
+"concept": "Blood on the altar",
+"note": "Joab's death at the altar shows asylum did not cover a man already guilty of cold-blooded murder."
+}
+]
+},
+"1Ki.3": {
+"occasion": "Solomon asks for wisdom and judges the two mothers.",
+"structure": "The marriage alliance, sacrifice at Gibeon, the dream offer, the request for a listening heart, the child dispute.",
+"world_behind": "Gibeon held the great high place before the temple existed, and royal justice was the king's advertised duty.",
+"deep_background": [
+{
+"concept": "A listening heart",
+"note": "The Hebrew idiom describes an obedient, discerning ear rather than cleverness, framing wisdom as governable judgement."
+}
+]
+},
+"1Ki.4": {
+"occasion": "Solomon's officials and the reach of his wisdom are catalogued.",
+"structure": "The cabinet list, twelve district officers, the daily provisions, the extent of the kingdom, the wisdom statement.",
+"world_behind": "Twelve administrative districts cut across tribal lines, a deliberate centralisation of taxation.",
+"deep_background": [
+{
+"concept": "Wisdom of the East",
+"note": "Solomon's reputed learning is compared with Egyptian and Mesopotamian scribal wisdom, the professional learning of the era."
+}
+]
+},
+"1Ki.5": {
+"occasion": "Solomon and Hiram of Tyre prepare for the temple.",
+"structure": "Hiram's congratulations, the timber agreement, conscripted labour from Israel, the stone preparation.",
+"world_behind": "Lebanese cedar was the prestige timber of the region, floated down the coast and hauled inland.",
+"deep_background": [
+{
+"concept": "Corvee labour",
+"note": "Thirty thousand men in relays, plus carriers and quarrymen, was a standard royal building levy, and it later fed the revolt against his son."
+}
+]
+},
+"1Ki.6": {
+"occasion": "The temple is built in the fourth year of Solomon's reign.",
+"structure": "Dimensions and stonework, the oracle about walking in God's statutes, the inner sanctuary, the carved cherubim, the date.",
+"world_behind": "The three-part plan, porch, nave and inner sanctuary, follows known Syrian and Phoenician temple layouts.",
+"deep_background": [
+{
+"concept": "Built without a chisel",
+"note": "Stones prepared at the quarry meant the site stayed quiet, treating construction as a ritual act rather than a building job."
+}
+]
+},
+"1Ki.7": {
+"occasion": "Solomon's palace and the temple furnishings are completed.",
+"structure": "The thirteen-year house, the hall of judgement, Hiram's bronze pillars and sea, lampstands, the finished work.",
+"world_behind": "Cedar throughout and a separate palace indicate the temple was one part of a royal citadel complex.",
+"deep_background": [
+{
+"concept": "The bronze sea",
+"note": "A colossal laver on twelve oxen replaced the portable laver of the wilderness tabernacle and served the priests' washing."
+}
+]
+},
+"1Ki.8": {
+"occasion": "The ark is installed and Solomon prays at the dedication.",
+"structure": "Procession of the ark, the cloud filling the house, Solomon's blessing, the long prayer of confession, the offerings.",
+"world_behind": "Spreading hands toward the sanctuary was the posture of prayer in this period, as shown on reliefs and in other texts.",
+"deep_background": [
+{
+"concept": "Heaven as dwelling",
+"note": "The prayer holds together a house for the Name and heaven as the true dwelling, refusing to make the building a container for God."
+}
+]
+},
+"1Ki.9": {
+"occasion": "God answers the dedication and warns about apostasy; Solomon's building works continue.",
+"structure": "The second appearance, the conditional promise, the twenty cities ceded to Hiram, the forced labour list.",
+"world_behind": "Boundary cities were a currency between kings; giving Galilean towns to Tyre shifted regional power.",
+"deep_background": [
+{
+"concept": "The Name and the house",
+"note": "The warning makes the temple's survival conditional on obedience, a claim that later prophets use to condemn misplaced trust in the building."
+}
+]
+},
+"1Ki.10": {
+"occasion": "The queen of Sheba visits and tests Solomon with hard questions.",
+"structure": "Her arrival and questions, her verdict, the gifts exchanged, the wealth inventory, the trade in chariots and horses.",
+"world_behind": "Sabeans controlled the incense trade from south Arabia, so her visit was also commercial diplomacy.",
+"deep_background": [
+{
+"concept": "Solomon's gold",
+"note": "Gold shields, ivory thrones and trading fleets signal a court economy funded by caravan tolls rather than only tribute."
+}
+]
+},
+"1Ki.11": {
+"occasion": "Solomon's foreign marriages lead to idolatry and the kingdom is divided.",
+"structure": "The wives and their shrines, God's anger, Hadad and Rezon as adversaries, Ahijah's torn cloak, Jeroboam's flight.",
+"world_behind": "Royal marriage was treaty-making, so each foreign wife carried obligations to fund her own deity's shrine.",
+"deep_background": [
+{
+"concept": "Torn garment prophecy",
+"note": "Tearing a garment to give ten pieces dramatised the transfer of ten tribes, a visual act later echoed by the divided kingdom itself."
+}
+]
+},
+"1Ki.12": {
+"occasion": "Rehoboam's harshness splits the kingdom and Jeroboam sets up golden calves.",
+"structure": "The Shechem assembly, the elders' counsel refused, the tax burden, the northern secession, the calves at Dan and Bethel.",
+"world_behind": "Bethel and Dan were ancient shrines at the northern and southern ends of the new kingdom, chosen to replace Jerusalem's pilgrim trade.",
+"deep_background": [
+{
+"concept": "The two calves",
+"note": "The calves were not framed as new gods but as pedestals of the Lord, and the golden calf at Sinai is the model being repeated."
+}
+]
+},
+"1Ki.13": {
+"occasion": "A prophet from Judah denounces Jeroboam's altar and is killed by a lion.",
+"structure": "The prediction at Bethel, the withered hand and its healing, the disobedient detour with the old prophet, the lion and the burial.",
+"world_behind": "Standing before an altar to pronounce against it was a legal act of prophetic accusation, not just a gesture.",
+"deep_background": [
+{
+"concept": "Testimony of the altar",
+"note": "Mourning the man who predicted the altar's later destruction; the lion as judgement, not accident."
+}
+]
+},
+"1Ki.14": {
+"occasion": "Ahijah pronounces judgement on Jeroboam and Rehoboam's reign is summarised.",
+"structure": "Jeroboam sends his wife to Ahijah in disguise, the prediction of the house cut off, the death of the child, Rehoboam's apostasy.",
+"world_behind": "Shiloh was a ruined former shrine; disguising the queen's identity was meant to secure an unbiased oracle.",
+"deep_background": [
+{
+"concept": "A single man cut off",
+"note": "The phrase about the house being swept away says even a dog or bird will not survive, a total-destruction formula."
+}
+]
+},
+"1Ki.15": {
+"occasion": "Abijam, Asa, Nadab and Baasha are measured by covenant loyalty.",
+"structure": "Abijam's short reign, Asa's reforms and the removal of the queen mother, Asa's war with Baasha, Nadab killed by Baasha.",
+"world_behind": "Asa's campaign against Aram and the purchase of an alliance with Ben-hadad show the old regional rivalry continuing.",
+"deep_background": [
+{
+"concept": "Feet disease",
+"note": "A judgement on Asa's later failure; the phrasing links the state of the body to covenant fidelity."
+}
+]
+},
+"1Ki.16": {
+"occasion": "Five northern kings rise and fall and Ahab's reign begins.",
+"structure": "Baasha's house destroyed, Elah, Zimri's suicide, Omri's rise and Samaria founded, Ahab's marriage to Jezebel and Baal altar.",
+"world_behind": "Samaria was a new hilltop capital without a tribal past, which suited the Omride dynasty's centralised rule.",
+"deep_background": [
+{
+"concept": "Ahab's Baal altar",
+"note": "Ahab's marriage to a Sidonian princess brought state sponsorship for Baal, the real shift that triggers Elijah's involvement."
+}
+]
+},
+"1Ki.17": {
+"occasion": "Elijah announces drought and is fed in the wilderness and by a widow.",
+"structure": "The announcement, the brook and ravens, the widow of Zarephath's oil and flour, her son's illness and resurrection.",
+"world_behind": "Drought was the natural weapon in a rain-dependent economy and the drought's length was measured in years.",
+"deep_background": [
+{
+"concept": "Ravens and a foreign widow",
+"note": "Unclean birds and a Sidonian widow, the very heartland of Baal, become the agents of the Lord's provision."
+}
+]
+},
+"1Ki.18": {
+"occasion": "Elijah challenges the prophets of Baal on Mount Carmel.",
+"structure": "Obadiah's meeting, Ahab's accusation, the assembly of Israel, the two sacrifices, fire from heaven, the rain.",
+"world_behind": "Carmel was a ridge between Israel and Phoenicia, and Baal was believed to answer by lightning, so the contest used his own signature.",
+"deep_background": [
+{
+"concept": "Limping between two opinions",
+"note": "The verdict is covenant exclusivity: the question is which deity is real, answered on the terrain associated with the storm god."
+}
+]
+},
+"1Ki.19": {
+"occasion": "Elijah flees to Horeb, meets God in a still small voice, and calls Elisha.",
+"structure": "Jezebel's threat and escape, the broom tree, the cave and the wind, fire and earthquake then the voice, the commission, Elisha called.",
+"world_behind": "Horeb is Sinai, the covenant mountain, so the journey is a return to the founding place of Israel's faith.",
+"deep_background": [
+{
+"concept": "Seven thousand",
+"note": "The last line prevents Elijah's despair from being treated as the truth; the remnant is a counter-claim to 'I alone am left'."
+}
+]
+},
+"1Ki.20": {
+"occasion": "Ahab defeats Ben-hadad twice but spares him, and is condemned.",
+"structure": "First siege, the rout, the second campaign, the prophet's disguise and verdict, the treaty.",
+"world_behind": "New Year campaigns came after the rains when chariots could move cross-country.",
+"deep_background": [
+{
+"concept": "Ahab's lenient treaty",
+"note": "Sparing the enemy king and replacing him with a pardon meddled with holy war and cost Ahab his own life. The prophet's verdict makes that explicit in the context of the release."
+}
+]
+},
+"1Ki.21": {
+"occasion": "Ahab takes Naboth's vineyard and Elijah pronounces the house's end.",
+"structure": "The offer refused, Jezebel's plot with false witnesses, the stoning, Elijah's confrontation, the sentence and Ahab's abasement.",
+"world_behind": "Ancestral land was inalienable in Israelite law, so sealing a purchase with a family's death struck at covenant inheritance.",
+"deep_background": [
+{
+"concept": "Covenant land",
+"note": "The rage in the story is legal before it is moral: the field belonged to the family and could not be sold outright, and the king's takeover of an ancestral plot is the trigger for Elijah's sentence."
+}
+]
+},
+"1Ki.22": {
+"occasion": "Ahab and Jehoshaphat march on Ramoth-gilead and Ahab dies.",
+"structure": "The alliance, the four hundred prophets, Micaiah's vision, the battle, Ahab hit by a random arrow, the dogs and the pools.",
+"world_behind": "Kings disguised themselves on the battlefield to blunt targeted assassination, which is why the stray arrow is a divine verdict.",
+"deep_background": [
+{
+"concept": "A lying spirit",
+"note": "The vision of a deceiving spirit in the court of heaven raises a hard question about prophetic claims, answered in this case by the death of the king."
+}
+]
 }
 }
