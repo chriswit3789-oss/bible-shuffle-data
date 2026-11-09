@@ -1,24 +1,384 @@
 {
-"Gen.1": "God creates the heavens and the earth in six days, orders light, sky, land, and living things, and rests on the seventh day.",
-"Gen.2": "The creation account focuses on the garden, the man formed from dust, the command about the tree, and the woman made from his side.",
-"Gen.3": "The serpent questions God's word, the man and woman eat the forbidden fruit, and God pronounces judgment and clothes them.",
-"Gen.4": "Cain and Abel bring offerings, Cain murders his brother, and the line of Cain is set beside the birth of Seth.",
-"Gen.5": "A genealogy from Adam to Noah records the long lifespans and the refrain that each man died, with Enoch taken by God.",
-"Gen.6": "Human wickedness spreads, God resolves to judge the earth, and Noah is commanded to build an ark.",
-"Gen.7": "Noah, his family, and the animals enter the ark, the flood covers the earth, and the waters prevail for a hundred and fifty days.",
-"Gen.8": "God remembers Noah, the waters recede, the dove returns with an olive leaf, and Noah builds an altar.",
-"Gen.9": "God establishes his covenant with Noah and the rainbow sign, blesses his sons, and Noah curses Canaan.",
-"Gen.10": "The table of nations traces the descendants of Noah's sons and the founding of cities and peoples.",
-"Gen.11": "Humanity builds the tower of Babel, God scatters the languages, and the genealogy runs from Shem to Terah.",
-"Gen.12": "God calls Abram to leave his country with a promise of land, nation, and blessing, and Abram journeys to Canaan and Egypt.",
-"Gen.13": "Abram and Lot separate over pasture, Lot chooses the Jordan plain, and God renews the land promise to Abram.",
-"Gen.14": "A coalition of kings raids the plain, Abram rescues Lot, and Melchizedek blesses Abram, who refuses the spoils.",
-"Gen.15": "God cuts a covenant with Abram, promises descendants like the stars, and Abram believes and is counted righteous.",
-"Gen.16": "Sarai gives Hagar to Abram, Hagar conceives and despises her mistress, and the angel promises Ishmael.",
-"Gen.17": "God confirms the covenant, renames Abram and Sarai, institutes circumcision, and promises a son by Sarah.",
-"Gen.18": "Three visitors announce Isaac's birth, Sarah laughs, and Abraham intercedes for Sodom.",
-"Gen.19": "Two angels visit Lot in Sodom, the city is destroyed with fire, and Lot's wife looks back.",
-"Gen.20": "Abraham passes Sarah off as his sister to Abimelech, who is warned in a dream and restores her.",
+"Gen.1": {
+"occasion": "The opening account of creation, introducing God as the maker of everything that exists.",
+"structure": "Six days of forming and filling, each marked by evening and morning, followed by the seventh day of rest. Days one to three create realms; days four to six fill them.",
+"world_behind": "Ancient Near Eastern cultures told creation stories in which the world emerged from conflict among gods. This account instead presents one God speaking, without struggle, opposition, or rival deities, and it dignifies the sun and moon as created lights rather than gods.",
+"deep_background": [
+{
+"concept": "Creating by speech",
+"note": "Creation by divine command was a distinctive claim. Deity in surrounding cultures shaped matter that already existed; here God speaks and what does not exist comes to be."
+},
+{
+"concept": "The sun and moon unnamed",
+"note": "The text calls them the greater and lesser lights rather than by name, likely to avoid the Hebrew names that also served as names of deities in surrounding religions."
+},
+{
+"concept": "Rest on the seventh day",
+"note": "Divine rest is not fatigue but the settling of a completed work into rule. It becomes the pattern behind the Sabbath command later given at Sinai."
+}
+]
+},
+"Gen.2": {
+"occasion": "A closer look at the sixth day, narrowing from the whole cosmos to the garden and the first human pair.",
+"structure": "The camera moves from wide to near: the seventh day, then the land before rain, then the man, the garden, the command, and the woman.",
+"world_behind": "Gardens were the preserve of kings in the ancient world, planted with fruit trees and watered by channels. Placing the first humans in a garden made them caretakers in a royal setting rather than slaves or wanderers.",
+"deep_background": [
+{
+"concept": "Dust and breath",
+"note": "The man is formed from the ground and animated by God's own breath, joining lowly material with direct divine life-giving. The wordplay between adam (man) and adamah (ground) is lost in English."
+},
+{
+"concept": "A helper fit for him",
+"note": "The Hebrew ezer does not imply inferiority; it is used elsewhere of God as Israel's help. The phrase means a counterpart, one who corresponds to him."
+},
+{
+"concept": "Tree of the knowledge of good and evil",
+"note": "In Hebrew idiom, knowing good and evil can mean moral discernment or comprehensive knowledge. The tree marks a boundary on human self-determination rather than a test of general intelligence."
+}
+]
+},
+"Gen.3": {
+"occasion": "The account of the first disobedience and its consequences for the man, the woman, the serpent, and the ground.",
+"structure": "Temptation, transgression, hiding, interrogation, judgment, and expulsion, closing with God clothing the pair before they leave the garden.",
+"world_behind": "Serpents were common symbols in ancient Near Eastern art, sometimes representing wisdom or healing, sometimes chaos. The narrative presents this creature as a talking deceiver who distorts God's words rather than as a symbol to be decoded.",
+"deep_background": [
+{
+"concept": "Distorting the command",
+"note": "The serpent begins by exaggerating the prohibition, then denies the stated consequence. The strategy is misquotation before denial, a pattern repeated in later biblical temptation accounts."
+},
+{
+"concept": "Fear and hiding",
+"note": "Shame and concealment follow the act immediately. The first consequence described is relational rupture, not physical punishment."
+},
+{
+"concept": "Garments of skin",
+"note": "God clothes the pair himself before they leave, an act of provision inside the sentence of exile. Ancient readers would hear the cost of the covering in the animals killed for it."
+}
+]
+},
+"Gen.4": {
+"occasion": "The first murder, and the widening fracture between the line of Cain and the line of Seth.",
+"structure": "Two brothers, two offerings, one accepted; then the murder, the confrontation, the curse, and a genealogy that ends with the birth of Seth and the first public worship.",
+"world_behind": "Offering from flock and field reflects the two central economies of the ancient Near East, herding and farming. The text does not explain the reason for the rejection, and ancient interpreters debated it for centuries.",
+"deep_background": [
+{
+"concept": "Sin crouching at the door",
+"note": "Sin is pictured as a predatory animal waiting to pounce, with the added phrase that its desire is for Cain. The language mirrors the words spoken to the woman in chapter 3, framing sin as a rival that must be mastered."
+},
+{
+"concept": "The mark of Cain",
+"note": "The mark is a protective sign, not a brand of punishment. It guarantees that no one who finds him will kill him, which limits vengeance rather than inviting it."
+},
+{
+"concept": "City and culture",
+"note": "Cain's descendants are credited with tents, livestock, music, and metalworking. The narrative places the beginnings of civilization in the line of the exile, not the line of promise."
+}
+]
+},
+"Gen.5": {
+"occasion": "A genealogy from Adam to Noah, ending with the birth of Noah's sons and a note about the spread of humanity.",
+"structure": "Ten generations in a repeating pattern: this is the book of the generations, the man lived, fathered, lived more years, and died. Enoch breaks the pattern; Noah closes it.",
+"world_behind": "Genealogies in the ancient Near East established legal and tribal standing, not just family history. Long lifespans appear in other ancient king lists from Mesopotamia, where reigns of hundreds or thousands of years honored figures rather than reporting ages.",
+"deep_background": [
+{
+"concept": "Enoch walked with God",
+"note": "The phrase is the same one used of Noah later. Instead of the standard formula of death, Enoch is simply not there, because God took him, leaving the reader to infer a different ending."
+},
+{
+"concept": "Naming at birth",
+"note": "Noah's name is tied to the hope of comfort from the ground the Lord cursed. Names in Genesis regularly carry the narrative's argument."
+},
+{
+"concept": "The refrain of death",
+"note": "The repeating formula that each man died sets a drumbeat under the chapter, making the one exception visible and preparing for the judgment that follows."
+}
+]
+},
+"Gen.6": {
+"occasion": "The corruption of humanity and God's decision to judge the earth while preserving Noah.",
+"structure": "A report of increasing wickedness, then God's verdict, then Noah's favor, then the command to build the ark with its dimensions and cargo.",
+"world_behind": "Ark-building instructions describe a pitched, sealed vessel rather than a ship with sail or rudder. Mesopotamian flood traditions also feature a saved survivor warned in advance, but the biblical account attaches the rescue to moral judgment rather than divine annoyance at noise.",
+"deep_background": [
+{
+"concept": "Sons of God",
+"note": "The phrase is debated. It may refer to divine beings, to kings, or to the line of Seth. The text leaves the identity unresolved but clear about the result: boundaries between the heavenly and human realms collapsed."
+},
+{
+"concept": "Grieved to his heart",
+"note": "God's regret is described in emotional language, presenting the flood as sorrow as much as sentencing."
+},
+{
+"concept": "Cubits and gopher wood",
+"note": "Cubits were roughly the length of a forearm. The wood is unidentified; the point of the detail is that the vessel was built to spec by command, not improvised."
+}
+]
+},
+"Gen.7": {
+"occasion": "The flood itself: entry into the ark, the rising water, and the death of all life outside it.",
+"structure": "The command to enter, the entrance, the seven days of waiting, the rising water in escalating stages, the destruction, and the water prevailing a hundred and fifty days.",
+"world_behind": "Flood narratives were widespread in Mesopotamia, where annual river flooding could be catastrophic. The biblical account differs in scale and in cause: the whole earth is judged, and the survivor is spared because of righteousness, not because a god was persuaded.",
+"deep_background": [
+{
+"concept": "Clean and unclean animals",
+"note": "The distinction appears here long before the law of Leviticus, and the extra clean pairs allow for sacrifice after the landing."
+},
+{
+"concept": "The springs of the great deep",
+"note": "The flood is described as water from above and below at once, reversing the separation of waters in chapter one. Creation is being undone before it is remade."
+},
+{
+"concept": "Shut in by God",
+"note": "The text says the Lord shut the door, not Noah. The rescue is sealed from the outside, which the narrative treats as belonging to God's action."
+}
+]
+},
+"Gen.8": {
+"occasion": "The receding of the waters and Noah's first act on dry ground.",
+"structure": "God remembers Noah, the wind passes over, the waters subside, the bird sequence measures the recession, then the command to leave the ark and the altar is built.",
+"world_behind": "Raven and dove were both ordinary birds in the region. The dove returning with an olive leaf used the timing of the olive harvest as a signal, a detail a farming audience would read as a calendar.",
+"deep_background": [
+{
+"concept": "God remembered",
+"note": "In biblical idiom, remembering is not recalling information but acting on a prior commitment. The covenant with Noah begins to operate here, before it is formally stated."
+},
+{
+"concept": "The altar after the flood",
+"note": "The first thing built on the renewed earth is an altar. Worship precedes the new covenant and the new command about blood and life."
+},
+{
+"concept": "The sigh of relief",
+"note": "God's internal resolve never again to curse the ground, though the human heart is still inclined to evil, is stated before any human promise is asked for."
+}
+]
+},
+"Gen.9": {
+"occasion": "The covenant after the flood, its sign in the sky, and the blessing and failure of Noah's sons.",
+"structure": "Blessing and permission, the prohibition on blood, the covenant and rainbow sign, then the vineyard, Noah's drunkenness, and the pronouncement over his sons.",
+"world_behind": "Covenants in the ancient Near East were sealed with signs and witnesses, often visible objects. A bow in the clouds would also be heard as a war bow hung up, since the same Hebrew word covers both.",
+"deep_background": [
+{
+"concept": "The rainbow as a war bow",
+"note": "The sign is described as God's bow set in the cloud. Ancient readers pictured a weapon of judgment turned away from the earth and hung in the sky."
+},
+{
+"concept": "Blood and life",
+"note": "The prohibition on eating blood rests on the claim that the life is in the blood. This reasoning recurs throughout later sacrificial law."
+},
+{
+"concept": "The curse on Canaan",
+"note": "The text records a curse on Canaan, son of Ham, not on Ham himself, and it has been read both as a prediction of national relations and as a narrative explanation for Israel's later conflicts in the land."
+}
+]
+},
+"Gen.10": {
+"occasion": "The table of nations: the descendants of Noah's sons and the peoples and cities they founded.",
+"structure": "Three lists, one per son, each expanding into names of peoples and territories, with Nimrod and his cities singled out for narrative comment.",
+"world_behind": "This is a map in text form. It lists the peoples Israel knew, grouped by geography from the Aegean through Anatolia, Mesopotamia, Arabia, and north Africa, and it treats all of them as one family descended from one survivor.",
+"deep_background": [
+{
+"concept": "Seventy nations",
+"note": "The list arrives at seventy names, a number used elsewhere in the Hebrew Bible for completeness, matching the seventy members of Jacob's household who go down to Egypt later."
+},
+{
+"concept": "Nimrod the hunter",
+"note": "Nimrod is the one figure given a story rather than a name, associated with Babel, Erech, and Nineveh. Ancient tradition later made him a tyrant, though the text only calls him a mighty hunter."
+},
+{
+"concept": "Coastland and language",
+"note": "The list groups peoples by clan, language, land, and nation, distinguishing four ways ancient identity was reckoned."
+}
+]
+},
+"Gen.11": {
+"occasion": "The tower of Babel and the genealogy that carries the story from Shem to Abram's father.",
+"structure": "One city, one language, one project, then the divine assessment, the scattering, and the naming of the place; then ten generations from Shem to Terah.",
+"world_behind": "Mesopotamian temple towers called ziggurats were built with stairways and were understood as meeting points between heaven and earth. A city built with baked brick and bitumen is a distinctly Mesopotamian description, since stone and mortar were scarce there.",
+"deep_background": [
+{
+"concept": "Brick for stone",
+"note": "The builders use manufactured brick where stone would be expected, and bitumen for mortar. It reads as an engineered substitute for what the land did not supply."
+},
+{
+"concept": "Making a name",
+"note": "The stated motive is a name for themselves so they will not be scattered. The punishment inverts the motive exactly, and the line of Shem later receives a name that is called upon."
+},
+{
+"concept": "The genealogy narrows",
+"note": "After the scattering of many nations, the genealogy picks a single line and runs it to Abram, setting up the call in the next chapter."
+}
+]
+},
+"Gen.12": {
+"occasion": "God's call to Abram, the first promises of land, nation, and blessing, and Abram's entry into Canaan and detour to Egypt.",
+"structure": "The call and promises, then Abram's obedience and travel, then the building of altars, then the famine and the sister deception in Egypt.",
+"world_behind": "Moving a household for pasture and trade was normal in the ancient Near East, but moving on the strength of a divine promise was not. Egypt's grain supply made it the region's fallback in famine, a pattern repeated later in the Joseph story.",
+"deep_background": [
+{
+"concept": "Leave your country",
+"note": "The command names three departures: country, kindred, and father's house. Each strips away a layer of ancient identity and security, from land to clan to family."
+},
+{
+"concept": "Blessing to the families of the earth",
+"note": "The promise reaches past Abram's own descendants to all peoples, which later prophets and Paul treat as the charter of the Gentile mission."
+},
+{
+"concept": "Altars along the way",
+"note": "Abram builds altars at Shechem and Bethel, marking the land with worship before he owns any of it."
+}
+]
+},
+"Gen.13": {
+"occasion": "Abram and Lot separate because their herds have outgrown the pasture.",
+"structure": "Wealth leads to conflict, Abram offers the first choice, Lot chooses the fertile plain, then God renews the land promise to Abram after the separation.",
+"world_behind": "Herding households needed large grazing ranges, and disputes over wells and pasture were a common source of conflict in the region. Archaeology and later documents record grazing agreements and water rights as central to survival.",
+"deep_background": [
+{
+"concept": "The Jordan plain",
+"note": "Lot's choice is described as well watered, like the garden and like Egypt. That comparison plants a warning: both images carry exile and judgment in this book."
+},
+{
+"concept": "Abram's generosity",
+"note": "The elder and the one with the promise yields first choice. In a culture where seniority carried claim, offering the choice is a substantial concession."
+},
+{
+"concept": "Dust of the earth",
+"note": "The promise moves from land to descendants as numerous as dust, then later as stars and sand, expanding the scope of the covenant each time it is restated."
+}
+]
+},
+"Gen.14": {
+"occasion": "A regional war, Lot's capture, Abram's rescue mission, and Abram's encounter with Melchizedek.",
+"structure": "The campaign of four kings against five, the capture of Lot, Abram's night attack with his trained men, the meeting with Melchizedek and the king of Sodom, and Abram's refusal of spoil.",
+"world_behind": "Coalition warfare over trade routes and tribute was routine in the Bronze Age Levant. The chapter preserves some of the oldest place names in the Bible, and its geography matches routes north and east of the Dead Sea.",
+"deep_background": [
+{
+"concept": "Melchizedek",
+"note": "He is priest of God Most High in Salem and receives tithes from Abram. He appears once, is named again only in Psalm 110, and becomes a major argument in Hebrews about a priesthood older than Levi."
+},
+{
+"concept": "Refusing the spoil",
+"note": "Abram refuses so that no one can say a Canaanite king made him rich. The promise of wealth must come from God, not from alliance with local powers."
+},
+{
+"concept": "Trained servants",
+"note": "Abram has 318 trained men born in his household, which indicates a substantial and organized household rather than a small family group."
+}
+]
+},
+"Gen.15": {
+"occasion": "God formalizes the covenant with Abram in a vision, addressing his heirlessness and confirming the land promise.",
+"structure": "A vision, Abram's objection about an heir, the promise of descendants, Abram's belief and its reckoning, then a covenant ceremony, a prophecy of exile, and the boundary of the land.",
+"world_behind": "Covenants were often sealed by cutting animals and walking between the pieces, calling down on oneself the fate of the cut animals if the terms were broken. The Hebrew idiom for making a covenant is literally cutting one.",
+"deep_background": [
+{
+"concept": "Count the stars",
+"note": "The promise is made after dark, with the sky as the visual aid. The comparison to stars follows dust and sand, each image tied to a different aspect of abundance."
+},
+{
+"concept": "Belief reckoned as righteousness",
+"note": "This sentence becomes central to Paul's argument in Romans and to Reformation theology. In its own context it describes trust in a promise about descendants, made before any law existed."
+},
+{
+"concept": "A deep sleep and a smoking firepot",
+"note": "Abram is put to sleep and God alone passes between the pieces as the firepot and torch, meaning the covenant obligation falls entirely on God rather than on both parties."
+}
+]
+},
+"Gen.16": {
+"occasion": "Sarai gives Hagar to Abram, and the first child of the promise is not the child of the promise.",
+"structure": "A barren wife proposes a surrogate, the servant conceives and is mistreated, Hagar flees, an angel meets her at a spring, and she returns with a promise and a name for God.",
+"world_behind": "Ancient Near Eastern law and custom permitted a barren wife to give her servant to her husband, and legal documents from Mesopotamia record such arrangements. The child counted as the wife's, which explains Sarai's claim on the child.",
+"deep_background": [
+{
+"concept": "El Roi",
+"note": "Hagar names God the God who sees me, making her the only person in the Bible to give God a name. The naming comes from a servant, a foreigner, and a woman on the run."
+},
+{
+"concept": "Ishmael",
+"note": "The name means God hears, taken from the announcement that God has heard her affliction. The promise to Ishmael is real and is kept, though it is not the covenant line."
+},
+{
+"concept": "The well on the road to Shur",
+"note": "The location is on the desert road toward Egypt. Hagar is heading home, and the angel sends her back into the household she fled."
+}
+]
+},
+"Gen.17": {
+"occasion": "God renews the covenant with Abram, renames the couple, institutes circumcision, and promises a son by Sarah.",
+"structure": "A theophany with the divine name, the covenant expanded to nations and kings, circumcision commanded, the renaming of Sarai, the promise of Isaac, and the circumcision of the household.",
+"world_behind": "Circumcision was practiced in Egypt and across the Levant, so the rite itself was not unique. What is distinctive is its meaning here: a covenant sign attached to a specific family and its land promise, applied to every male in the household including servants.",
+"deep_background": [
+{
+"concept": "A new name",
+"note": "Abram becomes Abraham, and Sarai becomes Sarah. Renaming in the ancient world signaled a change of status or destiny, and both names are reshaped around the promise of many nations."
+},
+{
+"concept": "Everlasting covenant",
+"note": "The term used is olam, which in Hebrew can mean perpetual or enduring for an age. It is applied to the covenant and to the land grant."
+},
+{
+"concept": "Laughter",
+"note": "Abraham falls on his face and laughs at the promise of a son at a hundred. The son's name, Isaac, means he laughs, turning the scepticism into a name carried for a lifetime."
+}
+]
+},
+"Gen.18": {
+"occasion": "Three visitors announce Isaac's birth, and Abraham bargains for Sodom.",
+"structure": "Hospitality at the tent, the announcement and Sarah's laughter, the visitors turning toward Sodom, and the intercession bargaining down from fifty to ten.",
+"world_behind": "Offering water, rest, and a meal to travelers was a standard obligation in a region where travel between settlements meant exposure and danger. Abraham's haste and the size of the meal signal generosity far beyond the minimum.",
+"deep_background": [
+{
+"concept": "One or three",
+"note": "The text shifts between plural visitors and a single divine speaker. The ambiguity has been read as a theophany and was later taken up in Christian reflection on the Trinity, though the narrative itself does not explain the grammar."
+},
+{
+"concept": "Nothing too hard for the Lord",
+"note": "The question answers Sarah's laugh, tying the birth of Isaac to the claim that the promise is not limited by biology or age."
+},
+{
+"concept": "The bargaining",
+"note": "Intercession proceeds in six steps from fifty to ten. The passage presents prayer as argumentative and repetitive, and it is the first sustained intercession in the Bible."
+}
+]
+},
+"Gen.19": {
+"occasion": "The destruction of Sodom and Gomorrah and the rescue of Lot and his daughters.",
+"structure": "The angels arrive, the city threatens them, Lot protects them, the escape is hurried, the cities are destroyed, Lot's wife looks back, and the daughters act in the cave.",
+"world_behind": "Hospitality and the protection of guests were binding in the ancient world; a host's duty to guests could outweigh obligations to the town. Sodom's threat against visitors is presented as a violation of the most basic code of the region.",
+"deep_background": [
+{
+"concept": "Sodom's sin",
+"note": "The narrative names the threat against the visitors, while later prophets describe Sodom's guilt in terms of arrogance, excess, and unconcern for the poor. The biblical witnesses hold several strands together."
+},
+{
+"concept": "Fleeing without looking back",
+"note": "The command to escape without stopping or looking back frames the rescue as a break with what is being judged. Lot's wife becomes the sign of attachment to the city."
+},
+{
+"concept": "Zoar and the cave",
+"note": "Lot asks for a small town and is granted it, then leaves it anyway. The cave setting moves the story from city to wilderness, matching the arc of the book's earlier chapters."
+}
+]
+},
+"Gen.20": {
+"occasion": "Abraham repeats the sister deception before Abimelech of Gerar, and God intervenes to protect Sarah.",
+"structure": "Abraham arrives and misrepresents Sarah, Abimelech takes her, God warns him in a dream, Abimelech confronts Abraham, and Abraham prays, restoring fertility to the household.",
+"world_behind": "Royal households did take women into harems, and a foreign man could be killed to obtain his wife. Passing a wife off as a sister was a known survival tactic, documented in other ancient texts and repeated in chapter 26.",
+"deep_background": [
+{
+"concept": "A prophet who prays",
+"note": "Abraham is called a prophet here for the first time, and the role is exercised in prayer for the very king he deceived. The title appears at Abraham's least impressive moment."
+},
+{
+"concept": "Abimelech's integrity",
+"note": "The pagan king is described as acting in integrity, and God agrees. The narrative is willing to credit an outsider with moral clarity that the patriarch lacks."
+},
+{
+"concept": "Closed wombs",
+"note": "The household's infertility is tied directly to the taking of Sarah and reversed by Abraham's prayer, making the episode about the power of blessing and curse rather than about Sarah alone."
+}
+]
+},
 "Gen.21": "Isaac is born, Hagar and Ishmael are sent away, and Abraham makes a treaty at Beersheba.",
 "Gen.22": "God tests Abraham with the command to offer Isaac, the ram is provided, and the covenant promise is confirmed.",
 "Gen.23": "Sarah dies and Abraham buys the cave of Machpelah as a burial place.",
