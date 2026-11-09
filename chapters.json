@@ -2215,5 +2215,885 @@
 "note": "Deuteronomy's claim that no one knows Moses' burial place prevented his tomb from becoming a pilgrimage site."
 }
 ]
+},
+"Jos.1": {
+"occasion": "God commissions Joshua after Moses' death and calls Israel to cross the Jordan.",
+"structure": "Commission to Joshua, the promise of presence, and orders to prepare the people for crossing within three days.",
+"world_behind": "Succession in the ancient Near East normally passed to a son or a trained heir; Joshua inherits leadership by divine appointment, not by lineage.",
+"deep_background": [
+{
+"concept": "Be strong and courageous",
+"note": "The phrase is a standard royal and military charge in ancient covenant settings, here tied to keeping the law rather than to military skill."
+}
+]
+},
+"Jos.2": {
+"occasion": "Two spies enter Jericho and are hidden by Rahab.",
+"structure": "The spies are sheltered, Rahab's confession and oath, the scarlet cord, and the spies' report.",
+"world_behind": "Jericho was a fortified Bronze Age city with mudbrick walls; a house built into the wall was ordinary architecture on the tell's edge.",
+"deep_background": [
+{
+"concept": "The scarlet cord",
+"note": "A visible marker on the wall identified the household to be spared, the same principle as the blood on the doorposts in Egypt."
+}
+]
+},
+"Jos.3": {
+"occasion": "The ark leads Israel across the Jordan at flood stage.",
+"structure": "Preparation and consecration, the ark carried ahead, waters cut off at Adam, and the people crossing on dry ground.",
+"world_behind": "The Jordan flooded its banks in spring harvest; crossing opposite Jericho at that season was a genuine physical obstacle.",
+"deep_background": [
+{
+"concept": "Ark as throne",
+"note": "The ark represented God's enthroned presence, so its lead position declared that the king entered the land ahead of the army."
+}
+]
+},
+"Jos.4": {
+"occasion": "Twelve stones are taken from the Jordan as a memorial.",
+"structure": "Stones taken from the riverbed, set at Gilgal, and explained to future generations.",
+"world_behind": "Piled stones were standard ancient memorials; they carried no inscription but were explained orally each generation.",
+"deep_background": [
+{
+"concept": "Teaching by object",
+"note": "Israelite instruction was heavily oral and visual, so a heap of stones became a recurring teaching prompt for children."
+}
+]
+},
+"Jos.5": {
+"occasion": "Israel is circumcised at Gilgal and the manna ceases.",
+"structure": "Circumcision of the wilderness generation, Passover kept, manna ends, and the commander of the LORD's army appears.",
+"world_behind": "Circumcision marked covenant membership across the ancient Levant; performing it before battle was a deliberate act of trust.",
+"deep_background": [
+{
+"concept": "Holy ground",
+"note": "Joshua removes his sandals as Moses did at the burning bush, marking the site as a place of divine encounter."
+}
+]
+},
+"Jos.6": {
+"occasion": "Jericho falls after seven days of marching.",
+"structure": "Orders for the procession, daily circuits, the seventh day's shout, the wall's collapse, and Rahab's rescue.",
+"world_behind": "Sieges in this period were often resolved by starvation or by collapsing walls with ramps and fire, not by direct assault.",
+"deep_background": [
+{
+"concept": "Trumpets and shout",
+"note": "Ram's horns were used to signal assembly and alarm; a ritual procession in silence followed by a shout was a liturgical act, not a tactic."
+}
+]
+},
+"Jos.7": {
+"occasion": "Achan's hidden plunder causes Israel's defeat at Ai.",
+"structure": "Defeat at Ai, Joshua's lament, the exposure by lot, Achan's confession, and his execution.",
+"world_behind": "Lots were a normal judicial means of narrowing a group to an individual; the practice presumed divine direction in the outcome.",
+"deep_background": [
+{
+"concept": "Devoted things",
+"note": "Under herem, goods from a defeated city belonged to God and were not to be taken; keeping them was treated as robbing the sanctuary."
+}
+]
+},
+"Jos.8": {
+"occasion": "Ai is captured by ambush and the law is read at Shebam.",
+"structure": "Divine strategy, the ambush, the city destroyed, and the covenant reading between Ebal and Gerizim.",
+"world_behind": "Reading from Mount Ebal with Gerizim opposite matches the site's natural amphitheater, where voices carry across the valley.",
+"deep_background": [
+{
+"concept": "Writing on stones",
+"note": "Covenant texts were commonly inscribed on plastered stones at boundaries so the terms were publicly visible."
+}
+]
+},
+"Jos.9": {
+"occasion": "Gibeonites deceive Israel into a treaty.",
+"structure": "The ruse with worn supplies, the treaty sworn without inquiry, and the discovery of the deception.",
+"world_behind": "Treaty-making involved oaths before witnesses and a shared meal; once sworn, a covenant bound both parties regardless of how it was obtained.",
+"deep_background": [
+{
+"concept": "Hivite cities",
+"note": "Gibeon was a substantial city with dependent towns, so its survival created an enclave of allied non-Israelites inside the land."
+}
+]
+},
+"Jos.10": {
+"occasion": "The sun stands still as Israel defeats the southern coalition.",
+"structure": "The Gibeonite appeal, the ambush from Gilgal, the hail, the sun and moon command, and the execution of the five kings.",
+"world_behind": "Hailstorms in the Judean hills are real and lethal; the account layers a natural event with a liturgical poem.",
+"deep_background": [
+{
+"concept": "Book of Jashar",
+"note": "The sun command is quoted from a lost collection of poems, showing the narrative draws on older poetic sources."
+}
+]
+},
+"Jos.11": {
+"occasion": "The northern coalition is defeated at the waters of Merom.",
+"structure": "Coalition assembled, the surprise attack, hamstringing the horses, and burning Hazor.",
+"world_behind": "Hazor was the largest Canaanite city in the region; chariots were the era's decisive military technology in flat ground.",
+"deep_background": [
+{
+"concept": "Burning chariots",
+"note": "Israel disabled chariotry rather than adopting it, refusing the symbol of Canaanite military supremacy."
+}
+]
+},
+"Jos.12": {
+"occasion": "A summary list of the kings Israel defeated.",
+"structure": "Eastern kings under Moses, then thirty-one kings west of the Jordan by region.",
+"world_behind": "Administrative summary lists were a standard ancient genre, used to record the extent of a conquered territory.",
+"deep_background": [
+{
+"concept": "City-state kings",
+"note": "Each entry is a city ruler rather than a national monarch, matching the fragmented city-state map of the Bronze Age."
+}
+]
+},
+"Jos.13": {
+"occasion": "Land still unconquered is named and eastern tribes receive their inheritance.",
+"structure": "Remaining territory listed by region, then Reuben, Gad and half of Manasseh's borders.",
+"world_behind": "Land allocation in this world was done by clan and household, recorded by boundary descriptions rather than maps.",
+"deep_background": [
+{
+"concept": "Borders as speech",
+"note": "Boundaries were recited aloud and memorized; the list itself functioned as the legal deed."
+}
+]
+},
+"Jos.14": {
+"occasion": "Caleb claims Hebron as his inheritance.",
+"structure": "The general division begins, then Caleb's request, his account of the spies, and the grant.",
+"world_behind": "Hebron was an old fortified town associated with the patriarchs, and Anakite populations were remembered there.",
+"deep_background": [
+{
+"concept": "Eighty-five years old",
+"note": "Caleb's age ties the conquest to the wilderness generation, making his inheritance a claim about faithfulness over time."
+}
+]
+},
+"Jos.15": {
+"occasion": "The territory and cities of Judah are described.",
+"structure": "Borders to the four points, Caleb's portion, Othniel's marriage to Achsah, and a long city list.",
+"world_behind": "Judah's territory runs from the Dead Sea through the hill country to the coastal plain, three very different ecologies.",
+"deep_background": [
+{
+"concept": "Water rights",
+"note": "Achsah's request for springs shows that in a dry hill country, water sources were the decisive asset in an inheritance."
+}
+]
+},
+"Jos.16": {
+"occasion": "Ephraim receives its territory.",
+"structure": "Joseph's allotment introduced, Ephraim's boundary described, and the unconquered Gezer noted.",
+"world_behind": "Ephraim occupied the central hill country, the region that later held Israel's main shrines and royal centers.",
+"deep_background": [
+{
+"concept": "Canaanite labor",
+"note": "Gezer is recorded as a Canaanite city put to forced labor, a common administrative arrangement in the Late Bronze Age."
+}
+]
+},
+"Jos.17": {
+"occasion": "Manasseh's portion is assigned and the daughters of Zelophehad receive land.",
+"structure": "Manasseh's boundaries, the daughters' petition, the wooded hill country, and a complaint about insufficient land.",
+"world_behind": "Inheritance normally passed to sons, so a legal precedent for daughters is a notable case in Israel's land law.",
+"deep_background": [
+{
+"concept": "Iron chariots",
+"note": "Canaanites in the plain are said to have iron chariots, reflecting the advantage of iron fittings in the early Iron Age."
+}
+]
+},
+"Jos.18": {
+"occasion": "The remaining land is surveyed and Benjamin's portion assigned.",
+"structure": "The tabernacle set up at Shiloh, seven tribes rebuked, surveyors sent, and Benjamin's boundaries drawn by lot.",
+"world_behind": "Shiloh became Israel's central sanctuary for generations before Jerusalem, and the tabernacle stood there during the judges.",
+"deep_background": [
+{
+"concept": "Written survey",
+"note": "A survey written in a book and divided by lot shows a formal cadastral process, not an informal land grab."
+}
+]
+},
+"Jos.19": {
+"occasion": "The remaining six tribes receive territories.",
+"structure": "Portions for Simeon, Zebulun, Issachar, Asher, Naphtali and Dan, ending with Joshua's own inheritance.",
+"world_behind": "Dan's allocation was small and pressure from the coastal plain pushed the tribe north to Laish, as Judges recounts.",
+"deep_background": [
+{
+"concept": "Town lists",
+"note": "These city lists preserve genuine Iron Age settlement patterns in the northern valleys and Sharon plain."
+}
+]
+},
+"Jos.20": {
+"occasion": "Six cities of refuge are designated.",
+"structure": "The law for unintentional killers, then the cities named east and west of the Jordan.",
+"world_behind": "Ancient Near Eastern societies used sanctuary and asylum practices; Israel's version channeled blood vengeance into a legal process.",
+"deep_background": [
+{
+"concept": "Blood avenger",
+"note": "The kinsman who avenged a death was performing a recognized duty, so refuge towns protected the innocent from legal vengeance."
+}
+]
+},
+"Jos.21": {
+"occasion": "Levite towns are given and the promise of rest is declared fulfilled.",
+"structure": "The Levites' request, allocation by clan, a total count, and a closing statement of fulfilled promise.",
+"world_behind": "The Levites had no tribal territory, so distributing towns across all tribes kept them resident everywhere and dependent on offerings.",
+"deep_background": [
+{
+"concept": "Scattered clergy",
+"note": "The arrangement spread teaching and priestly presence across every tribal region rather than concentrating it at one shrine."
+}
+]
+},
+"Jos.22": {
+"occasion": "Eastern tribes return home and build an altar, nearly causing war.",
+"structure": "Their dismissal with blessing, the altar built at the Jordan, the western tribes' challenge, and the explanation that averts war.",
+"world_behind": "The Jordan formed the border, and a shared altar on the border could mean a rival cult site, which is why the reaction was immediate.",
+"deep_background": [
+{
+"concept": "Witness altar",
+"note": "The altar was built as a copy rather than for sacrifice, intended as a standing witness that the eastern tribes shared Israel's worship."
+}
+]
+},
+"Jos.23": {
+"occasion": "Joshua's farewell charge to Israel's leaders.",
+"structure": "Recounting what God has done, the warning about intermarriage and idols, and a covenant renewal at the end of Joshua's life.",
+"world_behind": "Elder-led assemblies governed Israel between judges, and a leader's farewell address was a recognized form of teaching.",
+"deep_background": [
+{
+"concept": "Covenant loyalty",
+"note": "The charge ties land possession to exclusive worship, making the land a gift held under covenant rather than by conquest right."
+}
+]
+},
+"Jos.24": {
+"occasion": "Joshua renews the covenant at Shechem and Israel commits to serve the LORD.",
+"structure": "A covenant history from Abraham to the conquest, the call to choose, the people's vow, and the stone of witness.",
+"world_behind": "Shechem hosted a shrine between Ebal and Gerizim on the ancient route, making it a natural assembly site for covenant renewal.",
+"deep_background": [
+{
+"concept": "Stone of witness",
+"note": "A standing stone could serve as a legal witness in ancient practice, standing beside the sanctuary as a record of the oath."
+}
+]
+},
+"Jdg.1": {
+"occasion": "Judah's campaigns after Joshua's death leave parts of the land unconquered.",
+"structure": "Caleb's portion, Judah's victories, the failure of the northern tribes, and a summary of what remained in Canaanite hands.",
+"world_behind": "The Iron I settlement pattern shows villages in the hill country alongside fortified Canaanite towns holding the valleys.",
+"deep_background": [
+{
+"concept": "Incomplete conquest",
+"note": "The chapter names the failures plainly, which sets up the cycle of compromise and oppression the rest of the book explains."
+}
+]
+},
+"Jdg.2": {
+"occasion": "An angel at Bochim rebukes Israel and the pattern of the judges is described.",
+"structure": "The rebuke, the people's weeping, the region's state, and the cycle of sin, oppression, crying out, and deliverance.",
+"world_behind": "Local shrines and Baalism were bound to agricultural success, so religious compromise and economic pressure were inseparable.",
+"deep_background": [
+{
+"concept": "The judge",
+"note": "A judge was a deliverer and military leader, not a courtroom magistrate in the modern sense."
+}
+]
+},
+"Jdg.3": {
+"occasion": "Othniel, Ehud and Shamgar deliver Israel.",
+"structure": "The nations left to test Israel, then three deliverance accounts with the years of rest each brought.",
+"world_behind": "Moab was a settled kingdom east of the Dead Sea, and Ehud's crossing of the fords was a genuine border control problem.",
+"deep_background": [
+{
+"concept": "Left-handedness",
+"note": "A left-handed man could pass a weapon on the thigh where a right-handed guard would not think to check."
+}
+]
+},
+"Jdg.4": {
+"occasion": "Deborah and Barak defeat Sisera, who is killed by Jael.",
+"structure": "Deborah's summons to Barak, the battle at the Kishon, Sisera's flight, and his death in Jael's tent.",
+"world_behind": "Chariot armies needed firm ground; the Kishon's flood plain turning soft is a plausible physical reason the chariots failed.",
+"deep_background": [
+{
+"concept": "A prophetess judging",
+"note": "Hebrew prophecy included female figures such as Deborah and Huldah, though this is unusual in the wider ancient Near East."
+}
+]
+},
+"Jdg.5": {
+"occasion": "The song of Deborah celebrates the victory.",
+"structure": "Opening call to praise, the gathering of tribes, the battle, Jael's deed, and the lament of Sisera's mother.",
+"world_behind": "Victory poems were performed at assemblies and likely sung repeatedly to teach and celebrate the event.",
+"deep_background": [
+{
+"concept": "Stars and rivers",
+"note": "The poem attributes the battle to the stars and the Kishon torrent, a common ancient idiom for cosmic participation in war."
+}
+]
+},
+"Jdg.6": {
+"occasion": "Gideon is called while threshing in hiding.",
+"structure": "Israel's oppression by Midian, Gideon's call, the sign of the fleece, and the altar called the LORD is peace.",
+"world_behind": "Threshing floors were set on open ridgelines for wind; working hidden in a winepress indicates fear of raid.",
+"deep_background": [
+{
+"concept": "Midianite raiding",
+"note": "Seasonal raiders came with camels across the desert margin, stripping harvests before the agrarian cycle could recover."
+}
+]
+},
+"Jdg.7": {
+"occasion": "Gideon's three hundred defeat Midian.",
+"structure": "The army reduced, the dream of the barley loaf, the night raid with trumpets and jars, and the rout.",
+"world_behind": "Night raids caused panic in the ancient battlefield, where unit identification depended on loud signals rather than sight.",
+"deep_background": [
+{
+"concept": "Jars and torches",
+"note": "The clay jars broken with the shout combined light and sound, mimicking an approaching army far larger than three hundred."
+}
+]
+},
+"Jdg.8": {
+"occasion": "Midian is defeated and Gideon's rule ends in darkness.",
+"structure": "Pursuit to the Jordan, Succoth and Penuel's refusal, the ephod made at Ophrah, and Gideon's death.",
+"world_behind": "Zebah and Zalmunna's camels wore crescent ornaments, a detail from desert raider culture and a sign of plundered wealth.",
+"deep_background": [
+{
+"concept": "Monumental ephod",
+"note": "A golden ephod made into an object of veneration became a shrine, showing how quickly a victory memorial became an idol."
+}
+]
+},
+"Jdg.9": {
+"occasion": "Abimelech seizes power and falls after the assault on Shechem.",
+"structure": "Murder of Gideon's sons, Jotham's fable, the revolt of Shechem, the assault on Thebez, and Abimelech's death.",
+"world_behind": "Shechem's population included a temple of Baal Berith, and its civic structure shows a city with its own assembly.",
+"deep_background": [
+{
+"concept": "Jotham's fable",
+"note": "Trees electing a king is an early example of political satire, aimed at the kingship demand itself."
+}
+]
+},
+"Jdg.10": {
+"occasion": "Tola and Jair judge, then Ammon oppresses Israel and Jephthah emerges.",
+"structure": "Two brief judges, a summary of apostasy, the Ammonite campaign, Israel's confession, and Jephthah's assembly.",
+"world_behind": "Ammon east of the Jordan claimed territory recovered from the Amorites, which is the legal dispute Jephthah later answers.",
+"deep_background": [
+{
+"concept": "Foreign gods",
+"note": "The list includes several neighboring deities and shows that Israel's compromise was pluralism rather than outright abandonment."
+}
+]
+},
+"Jdg.11": {
+"occasion": "Jephthah defeats Ammon and makes a costly vow.",
+"structure": "Negotiation with the Ammonite king, the Spirit's coming on Jephthah, the vow, the victory, and the return home.",
+"world_behind": "Borders were defended by claims of prior possession; Jephthah's speech is a legal argument from history, not a battle plan.",
+"deep_background": [
+{
+"concept": "The vow",
+"note": "Vows were solemn and enforced in ancient culture, and a burnt offering required a person to be dedicated permanently rather than literally immolated in some readings."
+}
+]
+},
+"Jdg.12": {
+"occasion": "Ephraim quarrels with Jephthah, then Ibzan, Elon and Abdon judge.",
+"structure": "Ephraim's complaint, the Shibboleth test, Jephthah's death, and three minor judges.",
+"world_behind": "Dialect differences between Transjordanian and Ephraimite speech made a single word a reliable identity test at the fords.",
+"deep_background": [
+{
+"concept": "Shibboleth",
+"note": "The word later became a permanent idiom for any test that filters people by how they speak."
+}
+]
+},
+"Jdg.13": {
+"occasion": "Samson's birth is announced to a childless couple.",
+"structure": "Manoah's wife meets the angel, the repeated visit, the ascension in the flame, and Samson's birth at Zorah.",
+"world_behind": "Nazirite vows involved abstaining from wine, not cutting hair, and avoiding contact with the dead, either for life or a period.",
+"deep_background": [
+{
+"concept": "Dedicated from birth",
+"note": "A lifelong Nazirite calling was rare and placed the man's whole life under vow rather than a temporary discipline."
+}
+]
+},
+"Jdg.14": {
+"occasion": "Samson marries a Philistine woman and poses a riddle.",
+"structure": "The Timnah wedding, the lion and honey, the riddle, the wife's coercion, and the bet paid in garments.",
+"world_behind": "Philistine feasts lasted seven days with a formal panel of companions who acted as witnesses and participants in the riddle.",
+"deep_background": [
+{
+"concept": "Changing garments",
+"note": "Clothing was high-value and labor-intensive, so a wager of thirty linen and thirty festival garments was a serious stake."
+}
+]
+},
+"Jdg.15": {
+"occasion": "Samson takes revenge on the Philistines with foxes and a jawbone.",
+"structure": "The grain fires, the killing after his wife is given away, the jawbone victory, the spring, and twenty years as judge.",
+"world_behind": "Grain fields ripening in the spring wind made a fire an economically devastating act, not merely symbolic.",
+"deep_background": [
+{
+"concept": "Lehi's spring",
+"note": "A spot in Judah called Jawbone is where water is said to open, tying a place name to the story's central wordplay."
+}
+]
+},
+"Jdg.16": {
+"occasion": "Delilah betrays Samson and he dies pulling down the Philistine temple.",
+"structure": "The prostitute at Gaza, Delilah's four attempts, the haircut, the blinded grinding, the feast, and his death.",
+"world_behind": "Philistine temples had two central supporting pillars, a design that archaeology confirms at sites like Tel Qasile.",
+"deep_background": [
+{
+"concept": "Grinding at the mill",
+"note": "Turning a mill was women's work and imprisonment at it marked the ultimate humiliation for a warrior."
+}
+]
+},
+"Jdg.17": {
+"occasion": "Micah builds a private shrine with silver and a hired Levite.",
+"structure": "Stolen silver returned, the idol made, a wandering Levite hired, and his installation as family priest.",
+"world_behind": "Metal images in domestic shrines were widespread, and Levites displaced in the hill country offered their services where they could.",
+"deep_background": [
+{
+"concept": "Everyone did as they saw fit",
+"note": "The refrain frames the story as a moral diagnosis of a society ruled by preference rather than covenant."
+}
+]
+},
+"Jdg.18": {
+"occasion": "The tribe of Dan migrates north, takes Micah's shrine, and conquers Laish.",
+"structure": "The reconnaissance, the raid on Micah's house, the seizing of priest and objects, and the destruction of Laish.",
+"world_behind": "Laish was an isolated, unfortified city in a fertile valley, and its easy capture reflects the political vacuum in the north.",
+"deep_background": [
+{
+"concept": "Dan's apostate shrine",
+"note": "The northern shrine at Dan persisted for centuries and is later cited as one of the causes of Israel's division and exile."
+}
+]
+},
+"Jdg.19": {
+"occasion": "A Levite's concubine is abused and killed at Gibeah, sparking civil war.",
+"structure": "The journey from Ephraim, refusal of lodging at Gibeah, the outrage, and the dismembering of the body sent through Israel.",
+"world_behind": "Hospitality to travelers was a core obligation; closing the door to a stranger and abusing him was a violation of the whole social order.",
+"deep_background": [
+{
+"concept": "Gibeah's parallel",
+"note": "The scene deliberately echoes Sodom's account, and the narrator is counting on that recognition."
+}
+]
+},
+"Jdg.20": {
+"occasion": "Israel's tribes war against Benjamin and nearly annihilate it.",
+"structure": "Assembly at Mizpah, two defeats, the third battle with an ambush, and the near destruction of Benjamin.",
+"world_behind": "Tribal justice was administered in assembly, and refusal to hand over offenders escalated to war against a whole tribe.",
+"deep_background": [
+{
+"concept": "The lot and the battle",
+"note": "The ebb of victory and defeat in the three days reflects how ancient armies read outcomes as divine judgment."
+}
+]
+},
+"Jdg.21": {
+"occasion": "Israel arranges wives for surviving Benjaminites to preserve the tribe.",
+"structure": "The oath at Mizpah, the slaughter of Jabesh Gilead, and the capture of women at Shiloh's festival.",
+"world_behind": "Tribal survival depended on land and heirs, so losing a tribe meant a hole in the covenant structure and land claim.",
+"deep_background": [
+{
+"concept": "Oaths not to give daughters",
+"note": "The legal knot is created by a vow the tribes refuse to break, so they solve it by seizing women instead of renouncing the oath."
+}
+]
+},
+"Rut.1": {
+"occasion": "Naomi and Ruth return from Moab after famine and bereavement.",
+"structure": "Migration to Moab, the deaths of the husband and sons, Naomi's speech, and Ruth's pledge to stay.",
+"world_behind": "The period of the judges was marked by localized famine and mobility, and Moab lay close enough for temporary migration.",
+"deep_background": [
+{
+"concept": "Elimelech's name",
+"note": "Names in the book carry meaning: Naomi asks to be called Mara, bitterness, after losing her family."
+}
+]
+},
+"Rut.2": {
+"occasion": "Ruth gleans in Boaz's field and their first meeting takes place.",
+"structure": "The gleaning by accident, Boaz's protection, the midday meal, the report to Naomi, and the harvest's progress.",
+"world_behind": "Gleaning law let the poor follow the harvesters; being allowed extra sheaves was a personal mercy beyond the legal obligation.",
+"deep_background": [
+{
+"concept": "The kinsman",
+"note": "A close relative was expected to protect the family's land and produce an heir for a dead man, a legal role Boaz takes seriously."
+}
+]
+},
+"Rut.3": {
+"occasion": "Ruth asks Boaz to cover her at the threshing floor.",
+"structure": "Naomi's plan, the threshing floor at night, the request for redemption, the gift of barley, and the return home.",
+"world_behind": "Threshing floors were public sites guarded at night during harvest, and a woman uncovering a man's feet in that setting was an unambiguous proposal.",
+"deep_background": [
+{
+"concept": "Spread your wings",
+"note": "Boaz answers Ruth's request for covering with the wing imagery of refuge, linking the costume of redemption to divine protection."
+}
+]
+},
+"Rut.4": {
+"occasion": "Boaz redeems Ruth and the line continues to David.",
+"structure": "The gate proceedings, the nearer kinsman's refusal, the pledge, the witnesses' blessing, and the genealogy to David.",
+"world_behind": "The city gate was the legal court where elders witnessed transfers of property and swore agreements.",
+"deep_background": [
+{
+"concept": "The sandal",
+"note": "Taking off and transferring a sandal symbolized the transfer of the right to tread the land, a custom the book explains for later readers."
+}
+]
+},
+"1Sa.1": {
+"occasion": "Hannah prays for a son at Shiloh and dedicates him to the LORD.",
+"structure": "Elkanah's family and Hannah's barrenness, the vow at the sanctuary, Samuel's birth, and his dedication at Shiloh.",
+"world_behind": "Annual shrine festivals included sacrificial meals shared by rank, and a husband's double portion to a loved wife was legal discretion.",
+"deep_background": [
+{
+"concept": "The vow at a shrine",
+"note": "Shiloh's annual feasts brought families together, and a childless woman praying silently was read by the priest as drunk."
+}
+]
+},
+"1Sa.2": {
+"occasion": "Hannah sings of God's reversal and Eli's sons corrupt the sanctuary.",
+"structure": "Hannah's song, the corruption of Hophni and Phinehas, the boy's growing service, and the judgment announced on Eli's house.",
+"world_behind": "Priestly portions from sacrifices were set by customs that the sons of Eli abused by taking raw meat with a fork before the fat was burned.",
+"deep_background": [
+{
+"concept": "Faithful priest",
+"note": "The promise of a lasting priesthood in these verses is later read as pointing beyond Eli's line to an enduring house."
+}
+]
+},
+"1Sa.3": {
+"occasion": "God calls the boy Samuel in the night at Shiloh.",
+"structure": "The three calls and Elijah's guidance, the oracle against Eli's house, and Samuel's fear of speaking it.",
+"world_behind": "The lamp of God burned through the night in the tabernacle, so Samuel slept near the sanctuary where the call came.",
+"deep_background": [
+{
+"concept": "Vision and word",
+"note": "Before this point divine words were rare; the narrative frames Samuel as a restored prophetic channel."
+}
+]
+},
+"1Sa.4": {
+"occasion": "Israel is defeated and the ark is captured; Eli dies.",
+"structure": "Battle and defeat, the ark brought to camp, another defeat, the capture, Eli's fall, the ark with the Philistines.",
+"world_behind": "Treating the ark as a talisman parallels ancient armies carrying divine images into battle on roughly the same logic.",
+"deep_background": [
+{
+"concept": "Ichabod",
+"note": "The name given to the child at the collapse of Eli's line means no glory, tying the loss of the ark to the loss of honor."
+}
+]
+},
+"1Sa.5": {
+"occasion": "The ark brings disaster on Philistine cities.",
+"structure": "The ark beside Dagon, the god's fall, the tumors of Ashdod, the decision to move it, and the spread to other cities.",
+"world_behind": "Philistine temple practice paired a divine image with a pedestal; placing the ark beside Dagon was a contest of divine presence.",
+"deep_background": [
+{
+"concept": "The hand of God",
+"note": "The chapter's refrain about the LORD's hand reflects a common ancient way of speaking about plague as divine action."
+}
+]
+},
+"1Sa.6": {
+"occasion": "The Philistines return the ark on a cart with a trespass offering.",
+"structure": "The Philistine plan and the golden objects, the cows pulling the cart to Beth-shemesh, and the reception at the field of Joshua.",
+"world_behind": "Plague literature of the ancient world often used images of mice and tumors, matching the appearance of rodents in outbreaks.",
+"deep_background": [
+{
+"concept": "Cows with calves",
+"note": "Unweaned cows pulling to a foreign border is the narrative's test of whether the ark's return was coincidence or divine."
+}
+]
+},
+"1Sa.7": {
+"occasion": "Samuel leads Israel to repentance at Mizpah and defeats the Philistines.",
+"structure": "The call to put away foreign gods, the water poured out, the battle with thunder, the Ebenezer stone, and Samuel's circuit.",
+"world_behind": "Mizpah was an assembly site in Benjamin, and a standing stone named for help marked the boundary of the deliverance.",
+"deep_background": [
+{
+"concept": "Samuel as judge",
+"note": "Samuel's circuit to Bethel, Gilgal and Mizpah shows a leadership pattern of traveling court sessions rather than a fixed capital."
+}
+]
+},
+"1Sa.8": {
+"occasion": "Israel demands a king and Samuel warns them of the cost.",
+"structure": "The elders' demand, Samuel's warning about taxation and conscription, the people's insistence, and divine permission.",
+"world_behind": "A king in this period meant a standing army, a noble court, and taxation in kind, all of which a tribal league lacked.",
+"deep_background": [
+{
+"concept": "Like the nations",
+"note": "The request is framed as imitation of surrounding peoples, which sets the tension between national security and covenant identity."
+}
+]
+},
+"1Sa.9": {
+"occasion": "Saul searches for stray donkeys and meets Samuel.",
+"structure": "The search, the servant's suggestion to consult the seer, the encounter, the private meal, and the night's lodging.",
+"world_behind": "Seers were consulted for lost animals and property, a normal part of ancient rural life alongside the shrine's other functions.",
+"deep_background": [
+{
+"concept": "Saul's appearance",
+"note": "Saul's height and bearing match the ideal of a king who stands out in a society without monumental dynastic imagery."
+}
+]
+},
+"1Sa.10": {
+"occasion": "Saul is anointed privately and publicly chosen at Mizpah.",
+"structure": "The anointing and signs, the company of prophets, the public lot, and the dissent at Gibeah.",
+"world_behind": "Anointing with oil marked the setting apart of a leader, and prophetic bands were groups associated with music and ecstatic speech.",
+"deep_background": [
+{
+"concept": "Is Saul among the prophets?",
+"note": "The proverb is generated by Saul's unanticipated participation in prophetic gathering, showing that leadership would cross social roles."
+}
+]
+},
+"1Sa.11": {
+"occasion": "Saul rescues Jabesh-gilead and the kingdom is confirmed.",
+"structure": "The Ammonite threat, Saul's call to arms after the Spirit's coming, the victory, and the renewal of the kingdom at Gilgal.",
+"world_behind": "The messenger cutting the oxen and sending pieces through Israel is a traditional summons, not merely shock.",
+"deep_background": [
+{
+"concept": "Jabesh-gilead",
+"note": "This rescue establishes a lasting loyalty that returns at the end, when Jabesh-gilead retrieves Saul's remains."
+}
+]
+},
+"1Sa.12": {
+"occasion": "Samuel gives a farewell address to Israel.",
+"structure": "The declaration of integrity, the recital of God's faithfulness, the sign of thunder and rain, and an appeal not to fear.",
+"world_behind": "Thunder and rain during the wheat harvest fall outside the season's normal pattern, making it an effective sign.",
+"deep_background": [
+{
+"concept": "Witness against me",
+"note": "Samuel frames his record as a legal witness statement to the nation rather than a personal defense."
+}
+]
+},
+"1Sa.13": {
+"occasion": "Saul offers a sacrifice unlawfully and loses the kingdom's future.",
+"structure": "The Philistine threat, the gathering at Gilgal, Saul's unlawful sacrifice, and the judgment on his line.",
+"world_behind": "The Philistines controlled ironworking in the region, leaving Israel dependent on them for sharpened tools, a real strategic gap.",
+"deep_background": [
+{
+"concept": "Seven days",
+"note": "The narrative hinges on waiting out the agreed interval; Saul's timing problem was about obedience, not military precision."
+}
+]
+},
+"1Sa.14": {
+"occasion": "Jonathan's raid sparks a rout and Saul's oath endangers the army.",
+"structure": "Jonathan's climb with his armor bearer, the panic among the Philistines, Saul's rash oath, and the near killing of Jonathan.",
+"world_behind": "The Philistines were organized in military camps with distinct units, and the geography of Michmash's crags allows a concealed ascent.",
+"deep_background": [
+{
+"concept": "The honey",
+"note": "The scene seconds the chapter's argument that a leader's vow can imperil his own people, foreshadowing Saul's repeated oath-making."
+}
+]
+},
+"1Sa.15": {
+"occasion": "Saul spares Amalek's king and spoil, and Samuel declares him rejected.",
+"structure": "The command, the partial obedience, Samuel's confrontation, the confession, and the execution of Agag.",
+"world_behind": "Dedicated war goods belonged to the sanctuary, so keeping animals was not simply greed but a misdirected act of worship.",
+"deep_background": [
+{
+"concept": "Obedience over sacrifice",
+"note": "This line became a foundational ethical claim in later prophecy, echoed in Hosea and Micah."
+}
+]
+},
+"1Sa.16": {
+"occasion": "David is anointed and enters Saul's court as a musician.",
+"structure": "Samuel sent to Bethlehem, the sons passed over, David anointed, the troubled spirit of Saul, and David's arrival.",
+"world_behind": "A musical healer for a troubled king reflects the period's use of music as therapy in royal courts.",
+"deep_background": [
+{
+"concept": "The heart",
+"note": "The choice of the youngest son overturns primogeniture and later defines David's legitimacy as divine rather than genealogical."
+}
+]
+},
+"1Sa.17": {
+"occasion": "David kills Goliath and the Philistine army breaks.",
+"structure": "The giant's challenge, David's arrival with provisions, the exchange, the sling, and the rout.",
+"world_behind": "Champion combat was a recognized ancient practice aimed at deciding a battle with minimal casualties; Goliath's bronze armor matches Late Bronze and Iron I equipment.",
+"deep_background": [
+{
+"concept": "The sling",
+"note": "Skilled slingers could hit at lethal speed; the sling was a real weapon of war, not a children's toy."
+}
+]
+},
+"1Sa.18": {
+"occasion": "Jonathan befriends David and Saul turns jealous.",
+"structure": "Jonathan's covenant and the robe, the women's song, Saul's plots, and David's rise in the army.",
+"world_behind": "Cultic songs celebrating kings were common in the ancient world, and public praise of a rival threatened a king's legitimacy.",
+"deep_background": [
+{
+"concept": "The robe",
+"note": "Giving his robe and armor to David was a symbolic transfer that a king would not normally make to a rival."
+}
+]
+},
+"1Sa.19": {
+"occasion": "Saul attempts to kill David and Michal helps him escape.",
+"structure": "Jonathan's advocacy, the spear, the escape through the window, and the household image trick.",
+"world_behind": "Houses in that period often had a window opening over an exterior wall, making escape plausible while guards watched the door.",
+"deep_background": [
+{
+"concept": "Prophesying and rescue",
+"note": "Saul's stripping and prophecy underscore that royal power cannot secure the ark's future, which has moved to David."
+}
+]
+},
+"1Sa.20": {
+"occasion": "Jonathan warns David with an oath and arrows and they part.",
+"structure": "The plan for testing Saul's intentions, the New Moon feast, the arrow signal, and the farewell.",
+"world_behind": "New Moon feasts were monthly festivals involving family or court gatherings where absence was noticeable.",
+"deep_background": [
+{
+"concept": "Covenant friendship",
+"note": "The covenant binds Jonathan's house to David's, a bond that later explains David's treatment of Mephibosheth."
+}
+]
+},
+"1Sa.21": {
+"occasion": "David takes the showbread, receives Goliath's sword, and flees to Gath.",
+"structure": "The encounter with Ahimelech at Nob, the bread and sword, the flight to Gath, and feigned madness.",
+"world_behind": "Sanctuary bread was replaced weekly and was ordinarily priestly food, making the concession a legal exception.",
+"deep_background": [
+{
+"concept": "Doeg the Edomite",
+"note": "The witness who reports David's visit later carries out Saul's slaughter of Nob, so this chapter seeds a tragedy."
+}
+]
+},
+"1Sa.22": {
+"occasion": "Saul massacres the priests of Nob and David takes Abiathar.",
+"structure": "David's family at Adullam, the gathering of the distressed, Saul's accusation, Doeg's execution of the priests, and Abiathar's escape.",
+"world_behind": "The cave of Adullam sat in the Judean lowland with a network of refuges, and a royal servant from Edom could stand outside Israelite protection.",
+"deep_background": [
+{
+"concept": "Standing at the king's service",
+"note": "Serving at court meant standing, and the detail marks Doeg as a palace insider who could act without question."
+}
+]
+},
+"1Sa.23": {
+"occasion": "David saves Keilah and is hunted in the wilderness of Ziph.",
+"structure": "The consult about Keilah, the rescue, the retreat to Ziph and Maon, and Jonathan's encouragement.",
+"world_behind": "Keilah was a lowland town with threshing floors near the Philistine plain, making it valuable and exposed.",
+"deep_background": [
+{
+"concept": "The ephod",
+"note": "David inquiring through the ephod shows the priestly oracle functioning as a practical decision tool in war."
+}
+]
+},
+"1Sa.24": {
+"occasion": "David spares Saul in the cave at En-gedi.",
+"structure": "Saul enters the cave, David cuts the corner of his robe, the confrontation outside, and Saul's admission.",
+"world_behind": "En-gedi's cliffs and caves above the Dead Sea provided natural cover in the wilderness of Judah.",
+"deep_background": [
+{
+"concept": "Cutting the robe",
+"note": "Cutting a king's garment was itself a symbolic assault on his office, which is why David's conscience strikes him."
+}
+]
+},
+"1Sa.25": {
+"occasion": "Abigail's intervention prevents David from avenging himself on Nabal.",
+"structure": "David's request and Nabal's insult, Abigail's approach with provisions, her speech, Nabal's death, and the marriage.",
+"world_behind": "Sheep-shearing was a festival-season event where hospitality to neighbors and protectors was socially expected.",
+"deep_background": [
+{
+"concept": "Abigail's speech",
+"note": "Her argument appeals to David's future reputation, asking him not to open his reign with self-inflicted bloodguilt."
+}
+]
+},
+"1Sa.26": {
+"occasion": "David again spares Saul, this time at Hachilah.",
+"structure": "The night approach, the spear and water jar taken, David's speech across the valley, and Saul's departure.",
+"world_behind": "A spear stuck in the ground at the head was a soldier's bedding arrangement, and a water jar marked a man who needed to survive the night.",
+"deep_background": [
+{
+"concept": "Two refusals",
+"note": "Two separate sparing scenes establish a pattern that legitimizes David's restraint before he becomes king."
+}
+]
+},
+"1Sa.27": {
+"occasion": "David takes refuge with the Philistines at Ziklag.",
+"structure": "The flight to Achish, the grant of Ziklag, the raids against Israel's southern neighbors, and the deception about them.",
+"world_behind": "Serving a Philistine lord as a vassal was common in the region's politics, and Ziklag became a border holding under Philistine oversight.",
+"deep_background": [
+{
+"concept": "Raid geography",
+"note": "The southern tribes named here were the desert and southern groups David later governed after Saul's death."
+}
+]
+},
+"1Sa.28": {
+"occasion": "Saul consults a medium at Endor before the final battle.",
+"structure": "Saul's fear, the disguise and the search for a medium, Samuel's appearance, and the prediction of defeat.",
+"world_behind": "Consulting the dead was widespread in the ancient Near East and was formally forbidden in Israel's law because it appealed to rival spiritual powers.",
+"deep_background": [
+{
+"concept": "Gods rising from the earth",
+"note": "The medium's description of an old man wrapped in a cloak follows a known ancient image of a summoned shade."
+}
+]
+},
+"1Sa.29": {
+"occasion": "The Philistine lords refuse David's participation in the battle.",
+"structure": "Muster at Aphek, the lords' objection, Achish's dismissal of David, and the return to Ziklag.",
+"world_behind": "Philistine decision-making involved a council of lords beside the king, a pattern also visible in their city alliances.",
+"deep_background": [
+{
+"concept": "A lucky outcome",
+"note": "David's rejection spared him the choice of fighting Israel; the narrative frames it as providential rather than political."
+}
+]
+},
+"1Sa.30": {
+"occasion": "Amalekites raid Ziklag and David recovers everything.",
+"structure": "The raided city, the men's fury, David's inquiry of the LORD, the pursuit, the Egyptian guide, and the full recovery.",
+"world_behind": "Raiders operated on the desert routes and took captives for the slave trade, which is what the Amalekites had done at Ziklag.",
+"deep_background": [
+{
+"concept": "The spoil law",
+"note": "David's rule that those who stayed with the baggage share equally set a lasting precedent in Israel's army."
+}
+]
+},
+"1Sa.31": {
+"occasion": "Saul and his sons die on Mount Gilboa and the kingdom turns.",
+"structure": "The battle, Saul's sons killed, Saul's suicide, the armor torn from him, and the burial by Jabesh-gilead.",
+"world_behind": "Taking a king's armor and displaying his body on a city wall was a standard victory ritual, and Jabesh-gilead's retrieval repaid Saul's first rescue.",
+"deep_background": [
+{
+"concept": "The anointed king",
+"note": "Saul dies as the Lord's anointed, a fact that shapes David's later response to news of the fall."
+}
+]
 }
 }
