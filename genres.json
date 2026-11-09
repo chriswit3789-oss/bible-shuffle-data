@@ -1,0 +1,82 @@
+{
+"Law": {
+"genre": "Law (Torah)",
+"how_to_read": "Read as covenant instruction: watch who is speaking, who is bound by the command, and how the passage shapes a people's life together."
+},
+"Narrative": {
+"genre": "Narrative",
+"how_to_read": "Read as story: track the characters, the conflict, and what the narrator shows rather than tells. Judgement about the events usually comes later, not in the scene itself."
+},
+"Poetry": {
+"genre": "Hebrew poetry",
+"how_to_read": "Read for parallelism: the second line restates, sharpens, or contrasts the first. Images are meant to be felt, not decoded as code."
+},
+"Wisdom": {
+"genre": "Wisdom literature",
+"how_to_read": "Read as observation about how life usually works, not as a promise in every case. Proverbs describe patterns; Job and Ecclesiastes test them."
+},
+"Prophecy": {
+"genre": "Prophetic oracle",
+"how_to_read": "Read in layers: the immediate audience, the near fulfilment, and the wider hope. Watch for covenant lawsuit language and calls to return."
+},
+"Apocalyptic": {
+"genre": "Apocalyptic vision",
+"how_to_read": "Read as symbolic vision: images stand for empires, powers, and realities rather than literal objects. Look for the throne, the beast, and the end of exile."
+},
+"Gospel": {
+"genre": "Gospel",
+"how_to_read": "Read as an ordered account with a purpose. Note what each writer chooses to include, where scenes are placed, and who recognises Jesus and who does not."
+},
+"Parable": {
+"genre": "Parable",
+"how_to_read": "Read for the single main point of comparison, then notice who is addressed. Parables often turn on an unexpected character or reversal."
+},
+"Letter": {
+"genre": "Epistle",
+"how_to_read": "Read as a real letter to a real situation: identify the problem being answered, then the argument, then the application."
+},
+"Genealogy": {
+"genre": "Genealogy",
+"how_to_read": "Read as argument by lineage: names are selected to make a point about continuity, legitimacy, and promise."
+},
+"Legal code": {
+"genre": "Legal material",
+"how_to_read": "Read case by case: the situation, the ruling, and the principle behind the ruling. Distinguish case law from sweeping command."
+},
+"Lament": {
+"genre": "Lament",
+"how_to_read": "Read as honest speech to God from pain. Notice the address, the complaint, the request, and whether resolution comes."
+},
+"Praise": {
+"genre": "Hymn of praise",
+"how_to_read": "Read as a call to worship: who is being praised, for what, and who is invited to join."
+},
+"Prayer": {
+"genre": "Prayer",
+"how_to_read": "Read as a model of address to God: the posture, the petition, and the grounds on which the request is made."
+},
+"Vision": {
+"genre": "Vision report",
+"how_to_read": "Read as a first-person account of what was seen; separate the description of the vision from its interpretation."
+},
+"Discourse": {
+"genre": "Discourse",
+"how_to_read": "Read as sustained argument: follow the connectives, since each paragraph answers the one before it."
+},
+"Chronicle": {
+"genre": "Historical chronicle",
+"how_to_read": "Read with an eye to the writer's selection and emphasis, especially where the account differs from parallel versions."
+},
+"Diatribe": {
+"genre": "Argument in dialogue form",
+"how_to_read": "Read the imagined objections as part of the argument; Paul answers an opponent, not himself."
+},
+"Household code": {
+"genre": "Household instruction",
+"how_to_read": "Read within its ancient social setting, then trace how the passage reframes authority and responsibility."
+},
+"Doxology": {
+"genre": "Doxology",
+"how_to_read": "Read as a burst of praise closing an argument; the content summarises what the writer wants remembered."
+}
+}
