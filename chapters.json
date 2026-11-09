@@ -3601,5 +3601,1358 @@
 "note": "The vision of a deceiving spirit in the court of heaven raises a hard question about prophetic claims, answered in this case by the death of the king."
 }
 ]
+},
+"2Ki.1": {
+"occasion": "Ahaziah consults Baal-zebub and Elijah calls down fire.",
+"structure": "Ahaziah's fall, two captains consumed, the third spared, the king's death.",
+"world_behind": "Consulting a foreign deity for healing was a royal act of apostasy, and fire marked prophetic authority.",
+"deep_background": [
+{
+"concept": "Baal-zebub of Ekron",
+"note": "A Philistine oracle the narrator mocks, later echoed in the New Testament as Beelzebul."
+}
+]
+},
+"2Ki.2": {
+"occasion": "Elijah is taken up and Elisha inherits his spirit.",
+"structure": "Journey from Gilgal to the Jordan, the whirlwind, the mantle, healing of Jericho's water.",
+"world_behind": "Mantles carried prophetic authority, and the double portion was an inheritance claim from a firstborn heir.",
+"deep_background": [
+{
+"concept": "Chariots and horsemen of Israel",
+"note": "A title for the prophet as the nation's true defense, not merely a description of the whirlwind."
+}
+]
+},
+"2Ki.3": {
+"occasion": "Moab rebels and Elisha supplies water for the allied kings.",
+"structure": "Jehoram's alliance with Judah and Edom, Elisha's music and prophecy, water in the desert, Moab routed.",
+"world_behind": "Desert warfare depended on water, and a dry wadi suddenly filled would read as divine provision.",
+"deep_background": [
+{
+"concept": "Mesha of Moab",
+"note": "Moab's revolt is documented on the Mesha Stele, which names Omri and Israel's oppression."
+}
+]
+},
+"2Ki.4": {
+"occasion": "Four miracles of provision for the poor and faithful.",
+"structure": "Widow's oil, Shunammite's son, poisoned stew, bread multiplied.",
+"world_behind": "Debt could enslave children, so the oil miracle preserved a family's freedom.",
+"deep_background": [
+{
+"concept": "Firstfruits and Baal-shalisha",
+"note": "The bread of firstfruits belongs to priests, so giving it away signals abundance beyond obligation."
+}
+]
+},
+"2Ki.5": {
+"occasion": "Naaman is healed of leprosy and Gehazi is struck with it.",
+"structure": "The Syrian general's visit, the Jordan dipping, the refusal of gifts, Gehazi's greed.",
+"world_behind": "Leprosy made a person socially dead, and washing in Israel's river meant submitting to Israel's prophet.",
+"deep_background": [
+{
+"concept": "The servant girl's witness",
+"note": "An unnamed captured child sets the whole story in motion, a quiet note on exile and faith."
+}
+]
+},
+"2Ki.6": {
+"occasion": "Elisha floats an axe head and blinds an Aramean raiding party.",
+"structure": "The lost axe head, the Syrian ambush revealed, the fiery mountain, the blinded soldiers fed and released.",
+"world_behind": "Iron was costly, and a borrowed tool lost was a debt a prophet's student could not pay.",
+"deep_background": [
+{
+"concept": "Chariots of fire",
+"note": "The unseen army reframes fear, showing that the servant sees only half of reality."
+}
+]
+},
+"2Ki.7": {
+"occasion": "Four lepers discover the Aramean camp abandoned and Samaria is relieved.",
+"structure": "Famine siege, the lepers' dilemma, the empty camp, the report to the king, spoils and prices.",
+"world_behind": "Lepers lived outside the gate and depended on scraps, so their choice to speak saved a city.",
+"deep_background": [
+{
+"concept": "Siege famine prices",
+"note": "The measured prices of flour and barley mark the reversal as economic, not just military."
+}
+]
+},
+"2Ki.8": {
+"occasion": "Elisha predicts Hazael's rise and the Shunammite's land is restored.",
+"structure": "The woman's return, Hazael's visit, Ben-hadad's death, the reigns of Jehoram and Ahaziah in Judah.",
+"world_behind": "Charcoal-burning kingship transfers could be quick and brutal in the ninth-century Levant.",
+"deep_background": [
+{
+"concept": "The king's official recounting her story",
+"note": "The providence is in the timing, as the land case is heard exactly when she arrives."
+}
+]
+},
+"2Ki.9": {
+"occasion": "Jehu is anointed and destroys the house of Ahab.",
+"structure": "Elisha's young prophet, the anointing, Joram killed at Jezreel, Jezebel thrown down, Jehu's triumph.",
+"world_behind": "Driving furiously and the watchman's report reflect chariot warfare and city gate surveillance.",
+"deep_background": [
+{
+"concept": "Naboth's vineyard",
+"note": "Jezebel's death fulfills Elijah's sentence on that very plot of ground."
+}
+]
+},
+"2Ki.10": {
+"occasion": "Jehu wipes out Ahab's descendants and Baal's worship.",
+"structure": "Letters to Samaria, the seventy sons killed, the meeting with Rechab, the Baal temple destroyed.",
+"world_behind": "Purges consolidated coups, and the Rechabites stood outside settled society as desert traditionalists.",
+"deep_background": [
+{
+"concept": "Jehu's incomplete loyalty",
+"note": "He keeps Jeroboam's calves, so political reform outruns religious reform."
+}
+]
+},
+"2Ki.11": {
+"occasion": "Athaliah's usurpation ends and Joash is crowned.",
+"structure": "The hidden heir, Jehoiada's covenant, the temple guard, Athaliah killed, the covenant renewed.",
+"world_behind": "The temple guard functioned as a royal bodyguard, and a queen regnant was rare in Judah.",
+"deep_background": [
+{
+"concept": "Six years in the temple",
+"note": "A single child hidden in a sacred building preserves the Davidic line."
+}
+]
+},
+"2Ki.12": {
+"occasion": "Joash repairs the temple and later buys off Hazael.",
+"structure": "The temple coffers, the repair plan, the treasury chest, Hazael's threat, Joash killed by his servants.",
+"world_behind": "Temple repair was an act of royal piety and fiscal accountability through designated chests.",
+"deep_background": [
+{
+"concept": "Money for guilt and sin offerings diverted",
+"note": "A note on how sacred funds were handled when urgent repairs were required."
+}
+]
+},
+"2Ki.13": {
+"occasion": "Elisha dies and a dead man revives at his bones.",
+"structure": "Jehoahaz and Jehoash oppressed by Aram, Elisha's arrow prophecy, his death, the grave miracle.",
+"world_behind": "Touching a prophet's bones reflected belief that holiness persisted in remains.",
+"deep_background": [
+{
+"concept": "The arrow and the spear",
+"note": "Symbolic acts in war confirmed the extent of victory before it was won."
+}
+]
+},
+"2Ki.14": {
+"occasion": "Amaziah and Jeroboam II reign during a period of expansion.",
+"structure": "Amaziah's victory over Edom, his defeat by Jehoash, his death, Jeroboam II's long reign.",
+"world_behind": "Parables of the thistle and cedar warning against overreaching ambition between kingdoms.",
+"deep_background": [
+{
+"concept": "Restored boundaries",
+"note": "Jeroboam II restores territory as Jonah son of Amittai foretold, the prophet of the book of Jonah."
+}
+]
+},
+"2Ki.15": {
+"occasion": "A rapid succession of kings in Israel and Judah.",
+"structure": "Azariah's long reign, then Zechariah, Shallum, Menahem, Pekahiah, Pekah, Jotham.",
+"world_behind": "Assyrian pressure destabilized the region, and usurpers depended on Assyrian favor.",
+"deep_background": [
+{
+"concept": "Tribute to Pul",
+"note": "Menahem's tribute names an Assyrian ruler, tying the text to Tiglath-Pileser III."
+}
+]
+},
+"2Ki.16": {
+"occasion": "Ahaz copies a Damascus altar and pays Assyria.",
+"structure": "Ahaz's idolatry, the Syrian campaign, the new altar installed, temple furnishings altered.",
+"world_behind": "A vassal king adopting his overlord's cult was a visible act of political submission.",
+"deep_background": [
+{
+"concept": "The Damascus altar",
+"note": "A conquered model brought home marks a reversal of the temple's intended purpose."
+}
+]
+},
+"2Ki.17": {
+"occasion": "Samaria falls and the northern kingdom is deported.",
+"structure": "Hoshea's reign, the siege, the exile, the narrator's explanation, resettled peoples and mixed worship.",
+"world_behind": "Assyrian deportation policy mixed populations to break national resistance.",
+"deep_background": [
+{
+"concept": "The reasons for exile",
+"note": "The text argues the exile was covenant judgment, not Assyrian superiority."
+}
+]
+},
+"2Ki.18": {
+"occasion": "Hezekiah reforms and Sennacherib invades Judah.",
+"structure": "The reform, the Assyrian advance, the Rabshakeh's taunt, the people's silence.",
+"world_behind": "The Rabshakeh speaks Hebrew at the wall to undermine morale among common people.",
+"deep_background": [
+{
+"concept": "Egypt as a broken reed",
+"note": "Relying on Egyptian alliance is exposed as folly against Assyrian power."
+}
+]
+},
+"2Ki.19": {
+"occasion": "Hezekiah prays and Assyria is defeated.",
+"structure": "The king's appeal to Isaiah, the letter laid out in the temple, Sennacherib's death foretold, deliverance.",
+"world_behind": "Spreading a letter before a deity was a recognized petitioning gesture in the ancient Near East.",
+"deep_background": [
+{
+"concept": "Gentile kings who became cedars",
+"note": "The poem compares Assyria to a tree god himself fells."
+}
+]
+},
+"2Ki.20": {
+"occasion": "Hezekiah is healed and foolishly shows his wealth.",
+"structure": "The illness, the sign of the sundial, the Babylonian envoys, Isaiah's prophecy of exile.",
+"world_behind": "Royal gift-giving displayed a kingdom's resources, and envoys served as intelligence missions.",
+"deep_background": [
+{
+"concept": "Fifteen years added",
+"note": "The extra years of life introduce the fragile succession that follows."
+}
+]
+},
+"2Ki.21": {
+"occasion": "Manasseh and Amon lead Judah into idolatry.",
+"structure": "Manasseh's long evil reign, the soothsayers and altars, Amon's brief reign and assassination.",
+"world_behind": "Assyrian vassal status brought foreign cults into Jerusalem's temple precincts.",
+"deep_background": [
+{
+"concept": "The measuring line of Samaria",
+"note": "Judah is measured against judgement already carried out on the north."
+}
+]
+},
+"2Ki.22": {
+"occasion": "Josiah repairs the temple and finds the law book.",
+"structure": "The repair, the discovered scroll, Josiah's alarm, Huldah's prophecy, the repentance.",
+"world_behind": "Prophetesses could serve as recognized royal advisors, as Huldah does.",
+"deep_background": [
+{
+"concept": "The book found",
+"note": "Josiah's reaction suggests a measured revival far stronger than minor reform."
+}
+]
+},
+"2Ki.23": {
+"occasion": "Josiah reforms worship and celebrates a great Passover.",
+"structure": "The covenant renewed, high places removed, the Passover kept, Josiah killed at Megiddo.",
+"world_behind": "High places were local sanctuaries that competed with Jerusalem's centralized worship.",
+"deep_background": [
+{
+"concept": "Darkness in Israel",
+"note": "A note on the underworld language that marks the depth of the loss."
+}
+]
+},
+"2Ki.24": {
+"occasion": "Babylon takes control and deports Judah's leaders.",
+"structure": "Jehoiakim's reign, Nebuchadnezzar's first siege, the temple vessels taken, Zedekiah installed.",
+"world_behind": "Deporting skilled and elite populations reduced rebellion while supplying labor and talent.",
+"deep_background": [
+{
+"concept": "The first deportation",
+"note": "It includes Ezekiel and the leaders, shaping the exile that follows."
+}
+]
+},
+"2Ki.25": {
+"occasion": "Jerusalem falls and the temple is destroyed.",
+"structure": "The siege, starvation, the breach, Zedekiah blinded, the city burned, Gedaliah, Jehoiachin released.",
+"world_behind": "Burning a sanctuary and blinding a vassal king were standard punitive practices for rebellion.",
+"deep_background": [
+{
+"concept": "Jehoiachin's raised status",
+"note": "The final note holds the Davidic line alive in exile."
+}
+]
+},
+"1Ch.1": {
+"occasion": "Genealogies from Adam establish Israel's place among the nations.",
+"structure": "Adam to Noah, the table of nations, Abraham through Esau and Israel.",
+"world_behind": "Genealogies were legal and identity documents in the post-exilic community.",
+"deep_background": [
+{
+"concept": "Noah's sons",
+"note": "Peoples are ordered by their relationship to Israel rather than chronology."
+}
+]
+},
+"1Ch.2": {
+"occasion": "Judah's descendants are traced to David.",
+"structure": "Judah's sons, Caleb's line, Jerahmeel's line.",
+"world_behind": "Post-exilic land claims depended on documented tribal descent.",
+"deep_background": [
+{
+"concept": "Caleb the Kenizzite",
+"note": "Foreign-origin ancestry is included without apology in the tribal record."
+}
+]
+},
+"1Ch.3": {
+"occasion": "David's descendants through the exile are listed.",
+"structure": "David's sons in Hebron and Jerusalem, the royal line after the exile.",
+"world_behind": "A royal line maintained after the fall preserved hope of restoration.",
+"deep_background": [
+{
+"concept": "Zerubbabel's place",
+"note": "The line continues through the governor who rebuilds the temple."
+}
+]
+},
+"1Ch.4": {
+"occasion": "Judah and Simeon's families are listed with land notes.",
+"structure": "Judah's line, Jabez, Simeon's territory and towns.",
+"world_behind": "Land notes reflected the geography of the post-exilic province.",
+"deep_background": [
+{
+"concept": "Jabez's prayer",
+"note": "A brief narrative breaks the lists to name a man whose prayer reversed his name's meaning."
+}
+]
+},
+"1Ch.5": {
+"occasion": "Reuben, Gad and half Manasseh are recorded east of the Jordan.",
+"structure": "Reuben's genealogy and loss of birthright, Gad's warriors, Manasseh's conquests, the Assyrian exile.",
+"world_behind": "The eastern tribes were the first deported, remembered here as a warning.",
+"deep_background": [
+{
+"concept": "The lost birthright",
+"note": "Reuben's birthright shifts to Joseph's sons, explaining the tribal ordering."
+}
+]
+},
+"1Ch.6": {
+"occasion": "Levi's line and the temple singers are traced.",
+"structure": "Aaron's line, the Levite genealogies, the singers, the cities of the Levites.",
+"world_behind": "The temple choir is an organized guild with a documented lineage.",
+"deep_background": [
+{
+"concept": "Singing as Levitical duty",
+"note": "Music is treated as priestly service, not incidental worship."
+}
+]
+},
+"1Ch.7": {
+"occasion": "The northern tribes are recorded without narrative aside.",
+"structure": "Issachar, Benjamin, Naphtali, Manasseh, Ephraim, Asher.",
+"world_behind": "Northern tribe records survived in the south and were preserved after exile.",
+"deep_background": [
+{
+"concept": "Ephraim's grief",
+"note": "A brief note on a man born in grief, an odd detail among lists."
+}
+]
+},
+"1Ch.8": {
+"occasion": "Benjamin's line and Saul's family are recorded.",
+"structure": "Benjamin's sons, families of Gibeon, Saul's house.",
+"world_behind": "The writer prepares for Saul's story by establishing his lineage.",
+"deep_background": [
+{
+"concept": "The nearby capital",
+"note": "Gibeah and Jerusalem sit within a short distance, explaining later conflict."
+}
+]
+},
+"1Ch.9": {
+"occasion": "Those who returned from exile and served the temple are listed.",
+"structure": "Israel and Judah's return, priests, Levites, gatekeepers, Saul's genealogy repeated.",
+"world_behind": "Gatekeeping was a serious security and ceremonial office at the rebuilt temple.",
+"deep_background": [
+{
+"concept": "The returned community",
+"note": "The list anchors the community's legitimacy after the exile."
+}
+]
+},
+"1Ch.10": {
+"occasion": "Saul's death is retold to open David's rise.",
+"structure": "The battle on Gilboa, Saul's wounding, the armor-bearer, the burial, the reason for rejection.",
+"world_behind": "Mounting a defeated king's head and armor in a temple advertised divine victory.",
+"deep_background": [
+{
+"concept": "Why Saul died",
+"note": "The chronicler names seeking a medium as the decisive offense."
+}
+]
+},
+"1Ch.11": {
+"occasion": "David becomes king over all Israel and takes Jerusalem.",
+"structure": "The anointing at Hebron, capture of Zion, Joab's promotion, the mighty men listed.",
+"world_behind": "Water from the Bethlehem well behind enemy lines was a costly act of homage.",
+"deep_background": [
+{
+"concept": "The three who broke through",
+"note": "Their exploit is refused as a drink offering, showing David's view of sacred loyalty."
+}
+]
+},
+"1Ch.12": {
+"occasion": "Fighters join David at Ziklag and Hebron.",
+"structure": "Benjamite archers, Gadites, the men of Benjamin and Judah, the Hebron muster.",
+"world_behind": "David's band mirrored the profile of an outlaw warlord consolidating allegiance.",
+"deep_background": [
+{
+"concept": "The Amasai speech",
+"note": "A pivotal declaration marks the Spirit's public endorsement of David's cause."
+}
+]
+},
+"1Ch.13": {
+"occasion": "The ark is moved improperly and Uzzah dies.",
+"structure": "Consultation of the assembly, the cart, the threshing floor, Uzzah's death, David's fear.",
+"world_behind": "The ark travelled on poles carried by Levites, not on an ox cart, a distinction central to the story.",
+"deep_background": [
+{
+"concept": "The threshing floor of Chidon",
+"note": "A boundary place where an ordinary labor site becomes dangerous ground."
+}
+]
+},
+"1Ch.14": {
+"occasion": "David's house grows and Philistia is defeated twice.",
+"structure": "Hiram's timber, children born, the first battle at Baal-perazim, the second with a marching signal.",
+"world_behind": "The sound in the balsam trees served as the signal to attack at Yahweh's advance.",
+"deep_background": [
+{
+"concept": "Burning the Philistine idols",
+"note": "Unlike Kings, this account insists the gods were destroyed, not merely carried off."
+}
+]
+},
+"1Ch.15": {
+"occasion": "The ark is brought to Jerusalem the proper way.",
+"structure": "Levites organized, singers appointed, the procession, Michal's contempt.",
+"world_behind": "Levites carried the ark by its poles with prescribed dress and music.",
+"deep_background": [
+{
+"concept": "The organized guild",
+"note": "Music is institutional, reflecting the post-exilic temple's structure projected backward."
+}
+]
+},
+"1Ch.16": {
+"occasion": "The ark is installed and a psalm of thanks is given.",
+"structure": "Offerings, the distribution of food, the psalm, the order of worship at Gibeon and Jerusalem.",
+"world_behind": "Daily bread and cakes given to the crowd marked a national celebration.",
+"deep_background": [
+{
+"concept": "Asaph as leader",
+"note": "A named musician anchors the psalm's authorship in the temple's worship tradition."
+}
+]
+},
+"1Ch.17": {
+"occasion": "God refuses a temple but promises David a dynasty.",
+"structure": "Nathan's initial consent, the night oracle, David's prayer of response.",
+"world_behind": "Building a house for a god was a royal claim, and divine refusal reframes the king's role.",
+"deep_background": [
+{
+"concept": "The house God builds",
+"note": "The play on house reverses expectations, giving David a dynasty instead of a building."
+}
+]
+},
+"1Ch.18": {
+"occasion": "David's campaigns extend Israel's borders.",
+"structure": "Philistia, Moab, Zobah, Aram, Edom subdued, officers appointed.",
+"world_behind": "Garrisons and tribute were how empires converted victories into revenue.",
+"deep_background": [
+{
+"concept": "Dedicated vessels",
+"note": "Gold and bronze taken are set apart for the temple, tying war to worship."
+}
+]
+},
+"1Ch.19": {
+"occasion": "The Ammonite war begins after an insult to David's envoys.",
+"structure": "The envoys humiliated, the Ammonite alliance with Aram, Joab's double battle line, the victory.",
+"world_behind": "Shaving envoys' beards and cutting their garments was a public shaming of a nation.",
+"deep_background": [
+{
+"concept": "Joab's two fronts",
+"note": "The famous resolve to be strong on either front shows tactical wisdom."
+}
+]
+},
+"1Ch.20": {
+"occasion": "Rabbah is captured and Philistine giants fall.",
+"structure": "The siege of Rabbah, the crown taken, the giant-killers named.",
+"world_behind": "A king's crown weighing a talent was symbolic in scale, not literal daily wear.",
+"deep_background": [
+{
+"concept": "The last giants",
+"note": "These giant-slaying traditions preserve memories of a pre-Israelite population."
+}
+]
+},
+"1Ch.21": {
+"occasion": "A census brings plague and the altar site is purchased.",
+"structure": "The census ordered, Joab's objection, the pestilence, the angel, Araunah's threshing floor.",
+"world_behind": "Plague imagery emerging from a destroyed city reflects real epidemic trauma in the ancient world.",
+"deep_background": [
+{
+"concept": "The site of the temple",
+"note": "The purchase ties the temple's location to mercy after judgement."
+}
+]
+},
+"1Ch.22": {
+"occasion": "David prepares materials and charges Solomon to build.",
+"structure": "Stone, timber and iron gathered, the charge with promises and orders to the leaders.",
+"world_behind": "Temple construction stockpiled years in advance, as surviving royal records attest.",
+"deep_background": [
+{
+"concept": "Plans and provision",
+"note": "The record presents preparation as a shared royal act."
+}
+]
+},
+"1Ch.23": {
+"occasion": "Levite divisions are reorganized for temple service.",
+"structure": "Their count, the classes by clan, the shift from carrying the ark to serving in song and ritual.",
+"world_behind": "Chronicles traces a permanent liturgical office for Levites.",
+"deep_background": [
+{
+"concept": "Music as service",
+"note": "The shift from burden-carrying to singing is presented as a privilege."
+}
+]
+},
+"1Ch.24": {
+"occasion": "Priests are divided by lot and named.",
+"structure": "Eleazar and Ithamar, the lots, the roster.",
+"world_behind": "Casting lots placed a community's schedule beyond personal rivalries.",
+"deep_background": [
+{
+"concept": "The twenty-four courses",
+"note": "This framework undergirds later references to priestly service in the first century."
+}
+]
+},
+"1Ch.25": {
+"occasion": "The musicians are organized by clan.",
+"structure": "Three leading families, the lots, the commission for thanksgiving and praise.",
+"world_behind": "Chapel music was professional and hereditary in temple life.",
+"deep_background": [
+{
+"concept": "The prophetic office",
+"note": "Musicians are counted among those who prophesy."
+}
+]
+},
+"1Ch.26": {
+"occasion": "Gatekeepers and treasurers are appointed.",
+"structure": "The divisions at the gates, security assignments, the treasuries and storehouses.",
+"world_behind": "Gates controlled access, commerce and defense, making the post politically sensitive.",
+"deep_background": [
+{
+"concept": "The watchman's role",
+"note": "Singers and guards shared the same spaces over decades of service."
+}
+]
+},
+"1Ch.27": {
+"occasion": "Military and civil officers are listed for all months.",
+"structure": "Twelve monthly divisions, tribal leaders, royal stewards, the king's counselors.",
+"world_behind": "A rotating professional army avoided standing garrisons while covering the year.",
+"deep_background": [
+{
+"concept": "The daily account",
+"note": "The numbers are administrative, not a magical census."
+}
+]
+},
+"1Ch.28": {
+"occasion": "David hands to Solomon the temple plans and a charge.",
+"structure": "The assembly gathered, the blueprint given, the call to courage and obedience.",
+"world_behind": "Divinely given temple plans echo the tabernacle tradition, where design is received rather than invented.",
+"deep_background": [
+{
+"concept": "The golden chariot throne",
+"note": "The record names the throne of mercy, linking temple and royal authority."
+}
+]
+},
+"1Ch.29": {
+"occasion": "Offerings are given freely and David prays before the assembly.",
+"structure": "The leaders' generosity, David's prayer, the consecration of Solomon, David's death.",
+"world_behind": "Public generosity sealed legitimacy in a community where honor ranked value.",
+"deep_background": [
+{
+"concept": "Everything comes from your hand",
+"note": "The prayer frames wealth as trust, not personal treasure."
+}
+]
+},
+"2Ch.1": {
+"occasion": "Solomon takes the throne and asks God for wisdom at Gibeon.",
+"structure": "The royal visit to the high place, the request for wisdom, the promise of wealth and honor, chariots and horses.",
+"world_behind": "High places were open sanctuaries predating the temple, and kings routinely inquired of God at them before centralization.",
+"deep_background": [
+{
+"concept": "Gibeon's bronze altar",
+"note": "The tabernacle furnishings were at Gibeon, which explains why Solomon worships there rather than in Jerusalem at this stage."
+}
+]
+},
+"2Ch.2": {
+"occasion": "Solomon negotiates with Hiram of Tyre for timber and craftsmen.",
+"structure": "The exchange of letters, the terms of trade, the labor force conscripted, the work begun.",
+"world_behind": "Phoenician cedar from Lebanon was the prestige timber of the ancient Near East, traded along a well-established maritime corridor.",
+"deep_background": [
+{
+"concept": "Skilled craftsmen as treaty gifts",
+"note": "Hiram sends a named master craftsman rather than only materials, since technical knowledge was the more valuable export."
+}
+]
+},
+"2Ch.3": {
+"occasion": "Construction begins on the temple mount.",
+"structure": "The site on Moriah, the dimensions, the porch, the inner sanctuary, the cherubim, the veil.",
+"world_behind": "Temple architecture in the Levant followed a long-room plan with an inner cell, so the design reads as royal and international, not novel.",
+"deep_background": [
+{
+"concept": "Mount Moriah",
+"note": "The chronicler ties the temple to Abraham's near-sacrifice, giving the site a deep ancestral claim."
+}
+]
+},
+"2Ch.4": {
+"occasion": "The temple furnishings are forged in bronze and gold.",
+"structure": "The bronze sea on twelve oxen, the pillars Jachin and Boaz, lampstands, tables, basins, doors.",
+"world_behind": "A molten sea of this size required advanced casting technology and served as a reservoir rather than a bath.",
+"deep_background": [
+{
+"concept": "Jachin and Boaz",
+"note": "The two free-standing pillars were named declarations, likely marking the entrance as established and strong."
+}
+]
+},
+"2Ch.5": {
+"occasion": "The ark is installed and God's glory fills the house.",
+"structure": "The assembly, the priests carrying the ark, the singers and trumpets, the cloud filling the temple.",
+"world_behind": "A dense cloud was the standard ancient Near Eastern sign of a deity taking residence in a shrine.",
+"deep_background": [
+{
+"concept": "The cherubim ark",
+"note": "The ark held only the tablets, a point the chronicler stresses to center the temple on covenant."
+}
+]
+},
+"2Ch.6": {
+"occasion": "Solomon prays at the dedication of the temple.",
+"structure": "The blessing of the people, the kneeling prayer, the petitions for forgiveness, the closing benediction.",
+"world_behind": "Kneeling and spreading hands toward the sanctuary were established bodily postures of petition in Israelite worship.",
+"deep_background": [
+{
+"concept": "The stranger's prayer",
+"note": "Solomon asks God to hear foreigners, a striking universality in a distinctly national building."
+}
+]
+},
+"2Ch.7": {
+"occasion": "Fire falls on the sacrifices and God answers Solomon.",
+"structure": "The glory falls, the people bow, the feast kept, God appearing by night with terms of covenant.",
+"world_behind": "Fire from heaven consuming an altar was the recognized sign of divine acceptance at a dedication.",
+"deep_background": [
+{
+"concept": "If my people humble themselves",
+"note": "The promise of healing the land is tied to humility and prayer rather than to national strength."
+}
+]
+},
+"2Ch.8": {
+"occasion": "Solomon builds cities and organizes the temple staff.",
+"structure": "Cities reconstructed, the corvée of foreigners, the palace for his wife, the priestly courses established.",
+"world_behind": "Corvée labor was standard royal practice, and Solomon's exemption of Israelites signals political privilege.",
+"deep_background": [
+{
+"concept": "Pharaoh's daughter's house",
+"note": "The note that she lived outside the Davidic city marks concern about purity even in royal marriage."
+}
+]
+},
+"2Ch.9": {
+"occasion": "The queen of Sheba visits and Solomon's wealth is described.",
+"structure": "The visit, the riddle testing, the gifts, the throne, the trade in horses and chariots, Solomon's death.",
+"world_behind": "Sheba controlled the southern Arabian incense trade, so a visit was commercial diplomacy as much as curiosity.",
+"deep_background": [
+{
+"concept": "The great ivory throne",
+"note": "The description projects an idealized royal court, setting up the later contrast with the divided kingdom."
+}
+]
+},
+"2Ch.10": {
+"occasion": "Rehoboam's harsh answer splits the kingdom.",
+"structure": "The northern petition, the counsel of elders and young men, the harsh reply, Israel's revolt, Jeroboam.",
+"world_behind": "A new king typically lightened burdens to secure loyalty, making Rehoboam's refusal a political blunder as much as a spiritual one.",
+"deep_background": [
+{
+"concept": "The counsel of young men",
+"note": "Peer asent around a young heir is a recurring court danger the narrative highlights."
+}
+]
+},
+"2Ch.11": {
+"occasion": "Rehoboam fortifies towns and the Levites emigrate south.",
+"structure": "The war halted by a prophet, the fortified cities, the migration of priests and Levites, the king's apostasy later.",
+"world_behind": "Fortified ring towns with gates and bars protected the approaches to Jerusalem's hill country.",
+"deep_background": [
+{
+"concept": "Jeroboam's appointing of unauthorized priests",
+"note": "The resulting loss of Levites hollowed out the north's religious institutions."
+}
+]
+},
+"2Ch.12": {
+"occasion": "Shishak of Egypt invades and Rehoboam humbles himself.",
+"structure": "The abandonment of God, the Egyptian campaign, the prophet's word, the partial reprieve, the Egyptian tribute.",
+"world_behind": "Shishak's campaign in Judah is attested on the Bubastite portal at Karnak, naming towns taken.",
+"deep_background": [
+{
+"concept": "The golden shields",
+"note": "Rehoboam replaces Solomon's shields with bronze, a literal downgrade of royal glory."
+}
+]
+},
+"2Ch.13": {
+"occasion": "Abijah defeats Jeroboam and delivers a speech on legitimacy.",
+"structure": "Abijah's speech on temple and priesthood, the ambush, the trumpet cry, the rout of the north.",
+"world_behind": "Claims to legitimate worship and royal succession were strengthened by public speeches before battle.",
+"deep_background": [
+{
+"concept": "The covenant of salt",
+"note": "An enduring covenant was spoken of in terms of salt because it preserved what it touched."
+}
+]
+},
+"2Ch.14": {
+"occasion": "Asa reforms worship and defeats Zerah the Ethiopian.",
+"structure": "The reform, the fortified towns, the battle in the valley, the prayer before the million-man army.",
+"world_behind": "Cushite armies in the area would be Egyptian or Nubian-influenced forces making raids into the southern Levant.",
+"deep_background": [
+{
+"concept": "The prayer before battle",
+"note": "A short prayer is credited as decisive, showing military strength framed as dependent."
+}
+]
+},
+"2Ch.15": {
+"occasion": "Asa leads a covenant renewal after a prophetic encouragement.",
+"structure": "Azariah's word, the courage taken, idolatry removed, the assembly's oath, the peace.",
+"world_behind": "Covenant renewal involved public oath-making, a recognized mechanism for binding a community politically and religiously.",
+"deep_background": [
+{
+"concept": "The oath with a great shout",
+"note": "Audible communal assent sealed reforms that could not be enforced by royal decree alone."
+}
+]
+},
+"2Ch.16": {
+"occasion": "Asa's final years are marked by unfaithful alliances.",
+"structure": "The treaty with Ben-hadad, the prophet Hanani's rebuke, Asa's imprisonment of him, the king's foot disease and death.",
+"world_behind": "Paying tribute to weaken a rival kingdom was a standard tactic, here condemned for its reliance on a foreign king.",
+"deep_background": [
+{
+"concept": "Seers and imprisonment",
+"note": "Asa's treatment of the prophet is presented as more serious than his disease."
+}
+]
+},
+"2Ch.17": {
+"occasion": "Jehoshaphat strengthens Judah and teaches the law.",
+"structure": "Military build-up, the teaching mission of officials and Levites, the fear on surrounding kingdoms.",
+"world_behind": "Royal officials traveling with Levites to teach was a reform unprecedented in the record.",
+"deep_background": [
+{
+"concept": "The book of the law in towns",
+"note": "Instruction is decentralized, taking the law out of the temple into ordinary communities."
+}
+]
+},
+"2Ch.18": {
+"occasion": "Jehoshaphat joins Ahab and Micaiah predicts disaster.",
+"structure": "The alliance by marriage, the false prophets, Micaiah's vision, the deceptive spirit, Ahab's death.",
+"world_behind": "Throne scenes among the divine council reflect the imagery of a royal court transposed to heaven.",
+"deep_background": [
+{
+"concept": "The lying spirit",
+"note": "The passage depicts deception as permitted for judgment, a hard but deliberate theological point."
+}
+]
+},
+"2Ch.19": {
+"occasion": "Jehoshaphat appoints judges and calls for justice.",
+"structure": "The prophet's rebuke on his return, the appointment of judges, the charge to fear God.",
+"world_behind": "Justice at the gate was the central civic institution, so appointing judges in fortified towns restructured public life.",
+"deep_background": [
+{
+"concept": "Judging as sacred duty",
+"note": "The charge frames legal decisions as acts belonging to God rather than the crown."
+}
+]
+},
+"2Ch.20": {
+"occasion": "Judah is rescued from invasion by an army of praise.",
+"structure": "The coalition threat, the national fast, the king's prayer, the prophet's assurance, the singers going before the troops.",
+"world_behind": "Regional coalitions from Edom and Moab reflect the power vacuum between Assyria and Egypt in this period.",
+"deep_background": [
+{
+"concept": "Praise as warfare",
+"note": "The narrative makes liturgical confidence the actual battle strategy."
+}
+]
+},
+"2Ch.21": {
+"occasion": "Jehoram's evil reign brings disaster and a written rebuke.",
+"structure": "Brothers killed, Edom revolts, Elijah's letter, the Philistine and Arab incursions, the disease of the bowels.",
+"world_behind": "Franticide was a recognized succession tactic, and a letter from a prophet was a formal instrument of judgment.",
+"deep_background": [
+{
+"concept": "No one regretted his death",
+"note": "The burial note denies him the covenant honor of the kings, making his failure total."
+}
+]
+},
+"2Ch.22": {
+"occasion": "Ahaziah's brief reign and Athaliah's seizure of power.",
+"structure": "The alliance with Joram, the killing of Jehu, the death of Ahaziah, Athaliah's slaughter of the royal line.",
+"world_behind": "Queen mothers in Judah could exercise real power, as Athaliah did for six years.",
+"deep_background": [
+{
+"concept": "The hidden heir",
+"note": "A single child kept alive by a sister sets up the restoration that follows."
+}
+]
+},
+"2Ch.23": {
+"occasion": "Joash is crowned and Athaliah is put to death.",
+"structure": "Jehoiada's covenant, the guard arrangements, the anointing, the Queen killed, the temple restored.",
+"world_behind": "Levites functioning as guards and the use of the temple precinct as a political arena reveal how intertwined institutions were.",
+"deep_background": [
+{
+"concept": "The testimony kept in the chest",
+"note": "Public deposition of a usurper was made legitimate by a covenant document, a recognized public act."
+}
+]
+},
+"2Ch.24": {
+"occasion": "Joash repairs the temple but ends in apostasy.",
+"structure": "The repair effort, the chest at the gate, the workmen paid, Jehoiada's death, Zechariah's stoning, Joash's murder.",
+"world_behind": "Temple repair accounts were inscribed publicly, and this passage organizes funding through a community chest rather than royal treasury.",
+"deep_background": [
+{
+"concept": "The son of the priest",
+"note": "The murder of Zechariah inside the precinct is remembered as a decisive evil in later tradition."
+}
+]
+},
+"2Ch.25": {
+"occasion": "Amaziah's mixed reign ends in idolatry and defeat.",
+"structure": "Edom defeated, the hired northern troops dismissed, the Edomite gods worshiped, the challenge to Jehoash, the defeat and death.",
+"world_behind": "Mercenary troops hired with tribute were common, and dismissing them after payment could provoke revenge raids.",
+"deep_background": [
+{
+"concept": "The thistle and the cedar",
+"note": "A parable of overreach, spoken before a war that should not have been fought."
+}
+]
+},
+"2Ch.26": {
+"occasion": "Uzziah's prosperity ends in a sacrilegious act and leprosy.",
+"structure": "Victories over Philistines and Arabs, fortifications, inventions for war, the incense offering, the priests' resistance, the isolation.",
+"world_behind": "The siege engines described are among the earliest mentions of machines for shooting defensive artillery towers.",
+"deep_background": [
+{
+"concept": "Leprosy as political exclusion",
+"note": "The king lives separate from his own house, showing ritual impurity as social death."
+}
+]
+},
+"2Ch.27": {
+"occasion": "Jotham's reign is described as steady and upright.",
+"structure": "The building of the upper gate, the fortifications, the victory over Ammon, the tribute from Ammon.",
+"world_behind": "The hill country's defensive walls were built up progressively by successive kings as Assyrian pressure grew.",
+"deep_background": [
+{
+"concept": "The upper gate of the temple",
+"note": "Forts and gates are the concrete evidence of a small state investing in survival."
+}
+]
+},
+"2Ch.28": {
+"occasion": "Ahaz's apostasy brings catastrophic defeat.",
+"structure": "Baal worship, the Aramean and Israelite victories, Oded's warning, Edomite and Philistine raids, the Assyrian appeal.",
+"world_behind": "Ahaz's appeal to Assyria reflects the reality of the empire as a rising power that swallowed smaller vassals.",
+"deep_background": [
+{
+"concept": "The altar from Damascus",
+"note": "Adopting an Assyrian-style altar signaled political submission as much as religious drift."
+}
+]
+},
+"2Ch.29": {
+"occasion": "Hezekiah reopens and cleanses the temple.",
+"structure": "The doors repaired, Levites consecrated, the temple cleansed, the sacrifices restored, the singing resumed.",
+"world_behind": "Reconsecrating a defiled sanctuary required removing and depositing unclean materials outside the city, following the purity rules.",
+"deep_background": [
+{
+"concept": "The resumption of song",
+"note": "Music restarts as the sign of restored worship, marking the reform's completion."
+}
+]
+},
+"2Ch.30": {
+"occasion": "Hezekiah invites all Israel to a Passover.",
+"structure": "The letters sent, the ridicule from the north, the assembly in Jerusalem, the late celebration, the healing of the unclean.",
+"world_behind": "A second-month Passover existed as a concession for those who could not celebrate at the proper time, which made the gathering legitimate.",
+"deep_background": [
+{
+"concept": "The healing of the unprepared",
+"note": "The narrative allows ceremonial imperfection to bow to sincerity."
+}
+]
+},
+"2Ch.31": {
+"occasion": "Hezekiah restores tithing and the priestly order.",
+"structure": "The high places destroyed, the tithe commanded, the storehouses organized, the priestly and Levitical duties assigned.",
+"world_behind": "Storehouse economics sustained a professional religious class, so reform required rebuilding supply systems.",
+"deep_background": [
+{
+"concept": "The overflowing heaps",
+"note": "Abundance becomes the visible evidence of a community's renewed commitment."
+}
+]
+},
+"2Ch.32": {
+"occasion": "Sennacherib invades and the city is delivered.",
+"structure": "The Assyrian threat, Hezekiah's defenses and water tunnel, the envoys' taunts, the prayer, the angel's strike, the king's later pride.",
+"world_behind": "Water access was the city's lifeblood, which is why the tunnel cutting through rock was a strategic necessity rather than an engineering flourish.",
+"deep_background": [
+{
+"concept": "The tampering with the waters",
+"note": "A practical measure presented as a sign of preparation rather than a lack of trust."
+}
+]
+},
+"2Ch.33": {
+"occasion": "Manasseh's evil and later repentance, then Amon.",
+"structure": "The idols installed, the Assyrian arrest and exile, the prayer heard, the restoration, Amon's brief evil reign.",
+"world_behind": "Assyrian vassals could face imprisonment in Babylon or Nineveh for disloyalty, which fits Manasseh's experience.",
+"deep_background": [
+{
+"concept": "The prayer of Manasseh",
+"note": "A legendary penitential prayer later grew around this account, showing how the story was received."
+}
+]
+},
+"2Ch.34": {
+"occasion": "Josiah's reforms and the discovery of the book of the law.",
+"structure": "The reform begun, the temple repaired, the scroll found and read, Huldah's word, the covenant made.",
+"world_behind": "Prophetesses consulted by kings are attested elsewhere in the ancient world as respected intermediaries.",
+"deep_background": [
+{
+"concept": "The tears of a king",
+"note": "A tender heart is credited as the reason disaster would be delayed."
+}
+]
+},
+"2Ch.35": {
+"occasion": "Josiah celebrates a great Passover and is killed at Megiddo.",
+"structure": "The Passover ordered, the Levites arranged, the temple proceedings, the battle at Megiddo, the lament.",
+"world_behind": "Megiddo commanded the pass through the Carmel ridge, which explains why a pharaoh would pass through and a king would fight there.",
+"deep_background": [
+{
+"concept": "The lament for Josiah",
+"note": "Songs of mourning became a lasting tradition, showing how a good king's death was felt."
+}
+]
+},
+"2Ch.36": {
+"occasion": "The fall of Jerusalem and the decree of Cyrus end the book.",
+"structure": "Jehoahaz, Jehoiakim, Zedekiah in turn, the Babylonian siege, the burned temple, the seventy years, Cyrus's decree.",
+"world_behind": "Babylonian deportation and temple plunder were recorded policy, and Cyrus's policy of returning exiles and restoring shrines is attested.",
+"deep_background": [
+{
+"concept": "The restoration decree",
+"note": "The book ends on an open door, tying judgement to a stated purpose of rebuilding."
+}
+]
+},
+"Ezr.1": {
+"occasion": "Cyrus decrees the return of the exiles and the vessels.",
+"structure": "The decree, the stir of the tribes, the returned vessels of gold and silver.",
+"world_behind": "Persian kings sponsored local temples to gain loyal subjects, and returning sacred objects was part of that policy.",
+"deep_background": [
+{
+"concept": "The tabernacle's vessels",
+"note": "Restoring the vessels serves as a visible connection to worship before the exile."
+}
+]
+},
+"Ezr.2": {
+"occasion": "The returnees are registered by family and town.",
+"structure": "The families listed, the families who could not prove descent excluded, the priests, the Levites, the total and the gifts.",
+"world_behind": "Genealogical proof was the mechanism for claiming land and temple office in the reconstructed community.",
+"deep_background": [
+{
+"concept": "The priests without proof",
+"note": "Exclusion here shows the community already enforcing standards for heritage."
+}
+]
+},
+"Ezr.3": {
+"occasion": "The altar is rebuilt and the temple foundation laid.",
+"structure": "The altar raised in fear, the Feast of Tabernacles kept, the foundation laid, the mixing of shouts and weeping.",
+"world_behind": "Altar first, building later, follows the pattern of a community restoring sacrifice before architecture.",
+"deep_background": [
+{
+"concept": "The weeping and the shouting",
+"note": "The old and young heard the same day with opposite emotions, a factual note about how restoration registers."
+}
+]
+},
+"Ezr.4": {
+"occasion": "Opposition halts the building.",
+"structure": "The offer of help refused, the intimidation, the letter to Artaxerxes, the work stopped.",
+"world_behind": "Local officials routinely taxed complaints to the imperial court, and the allegation of a rebellious city was the strongest available accusation against a reconstruction project.",
+"deep_background": [
+{
+"concept": "Walls as rebellion",
+"note": "A walled city was suspected of independence, which is why construction triggered political alarm."
+}
+]
+},
+"Ezr.5": {
+"occasion": "The prophets restart the work and an inquiry is made.",
+"structure": "Haggai and Zechariah stir the leaders, Tattenai's challenge, the report to Darius.",
+"world_behind": "A Persian governor could not stop work already sanctioned by decree, so the local officials had to refer upward.",
+"deep_background": [
+{
+"concept": "The eye of their God",
+"note": "The unhindered progress under scrutiny becomes the passage's quiet sign of favor."
+}
+]
+},
+"Ezr.6": {
+"occasion": "Darius confirms the decree and the temple is completed.",
+"structure": "The search in the archives, the written order, the funding from the province, the completion and dedication, the Passover.",
+"world_behind": "Royal archives were kept in Ecbatana, which explains where the earlier decree was found.",
+"deep_background": [
+{
+"concept": "The province paying for worship",
+"note": "Imperial financing of local temples was standard Persian policy and is presented as providence."
+}
+]
+},
+"Ezr.7": {
+"occasion": "Ezra arrives with a royal commission to teach the law.",
+"structure": "Ezra's lineage, the letter from Artaxerxes, the authority granted, the journey begun.",
+"world_behind": "Persian kings supported local legal customs, so a commission to teach Torah was both religious and administrative.",
+"deep_background": [
+{
+"concept": "The scribe's skill",
+"note": "Ezra is introduced as one who studies, practices and then teaches, an ordering the text stresses."
+}
+]
+},
+"Ezr.8": {
+"occasion": "Ezra leads a second caravan with treasure for the temple.",
+"structure": "The families listed, the search for Levites, the fast for protection, the consecrated treasure, the arrival.",
+"world_behind": "Travelling with precious metals demanded official escorts, and Ezra's refusal of a guard for credibility is a deliberate contrast.",
+"deep_background": [
+{
+"concept": "The fast by the river",
+"note": "The refusal of protection makes the prayer the actual security, a costly choice rather than a gesture."
+}
+]
+},
+"Ezr.9": {
+"occasion": "Ezra grieves over intermarriage with surrounding peoples.",
+"structure": "The report of mixed unions, Ezra's prayer of confession, the assembly gathering in the rain.",
+"world_behind": "Intermarriage with local populations was framed as a covenant issue because it drew families into foreign worship.",
+"deep_background": [
+{
+"concept": "The coping of the wall",
+"note": "Ezra's posture of public mourning is placed at a visible civic spot."
+}
+]
+},
+"Ezr.10": {
+"occasion": "The community covenants to separate from foreign wives.",
+"structure": "Shecaniah's proposal, the oath, the assembly in the rain, the investigation, the list of those affected.",
+"world_behind": "Ancient marriage law could allow dissolution of unions not sanctioned by the community, complicating the moral questions this account raises.",
+"deep_background": [
+{
+"concept": "The slow process",
+"note": "The case-by-case review shows the reform required months, not a decree."
+}
+]
+},
+"Neh.1": {
+"occasion": "Nehemiah hears of Jerusalem's broken walls and prays.",
+"structure": "The report from Hanani, the fasting and confession, the request for favor with the king.",
+"world_behind": "Cupbearers to Persian kings belonged to the most trusted inner household service, a position of danger and access.",
+"deep_background": [
+{
+"concept": "The prayer pattern",
+"note": "The prayer is built on covenant language, grounding a political request in a theological claim."
+}
+]
+},
+"Neh.2": {
+"occasion": "The king grants Nehemiah leave and he inspects the walls by night.",
+"structure": "The sad face noticed, the request made, the letters secured, the night ride, the challenge to the officials.",
+"world_behind": "Official letters for passage and for timber were instruments of royal patronage necessary for any kind of progress.",
+"deep_background": [
+{
+"concept": "The night inspection",
+"note": "Nehemiah's discretion before consulting the community shows practical political craft."
+}
+]
+},
+"Neh.3": {
+"occasion": "The wall is rebuilt by named groups working in sections.",
+"structure": "A long list of gates and sections paired with builders: priests, guilds, families, and cities.",
+"world_behind": "Gate names describe Jerusalem's topography, and identifying them has driven the archaeology of the city's Persian-era footprint.",
+"deep_background": [
+{
+"concept": "The nobles who did not work",
+"note": "One group's refusal to participate is recorded, an honest editorial note about elite resistance."
+}
+]
+},
+"Neh.4": {
+"occasion": "Opposition escalates and the builders work armed.",
+"structure": "The mocking of Sanballat and Tobiah, the prayer, the threats, the half-armed workforce, the trumpet signal.",
+"world_behind": "Building with tools in one hand and a weapon in the other reflects frontier conditions where raids were plausible.",
+"deep_background": [
+{
+"concept": "The distinctive hilltop design of work and defense",
+"note": "Coordination by trumpet signal shows organization, not chaos."
+}
+]
+},
+"Neh.5": {
+"occasion": "Economic crisis forces Nehemiah to cancel debts.",
+"structure": "The outcry of the poor, the accusation against the nobles, the assembly, the oath, the cancelled interest.",
+"world_behind": "Debt slavery and land foreclosure were the standard mechanisms of collapse in agrarian antiquity, and a governor had real power to release them.",
+"deep_background": [
+{
+"concept": "The governor's table",
+"note": "Nehemiah's refusal of the food allowance is presented as evidence rather than self-promotion."
+}
+]
+},
+"Neh.6": {
+"occasion": "Plots against Nehemiah fail and the wall is finished.",
+"structure": "The invitation to the plain of Ono, the false prophet's counsel, the closed door, the wall completed in fifty-two days.",
+"world_behind": "Intimidation and religious manipulation were tools of political rivalry in a small Persian province.",
+"deep_background": [
+{
+"concept": "The prophet for hire",
+"note": "The claim of a false prophecy is supported by a hired prophet, showing the blend of politics and religion."
+}
+]
+},
+"Neh.7": {
+"occasion": "A census of returnees is recorded and the city staffing arranged.",
+"structure": "Guards appointed, the register read, the list of returning families, the gifts.",
+"world_behind": "Gatekeeping and watch rotation were standard urban security arrangements for a small walled city.",
+"deep_background": [
+{
+"concept": "The reading of the register",
+"note": "Public recitation of descent served to settle land claims."
+}
+]
+},
+"Neh.8": {
+"occasion": "Ezra reads the law publicly and the people celebrate.",
+"structure": "The wooden platform, the reading from morning to noon, the interpretation given, the weeping, the joy, the Feast of Tabernacles begun.",
+"world_behind": "Public reading with interpretation was necessary in a community losing fluency in Hebrew, making translation the foundation of understanding.",
+"deep_background": [
+{
+"concept": "The joy of the Lord is strength",
+"note": "A line that has become devotional was first a directive against mourning on a day of understanding."
+}
+]
+},
+"Neh.9": {
+"occasion": "A national confession reviews Israel's history.",
+"structure": "The fast and sackcloth, the long prayer through creation, Abraham, Egypt, the wilderness, the judges, the exile.",
+"world_behind": "Historical recital as prayer was a recognized communal act that created an argument for mercy based on remembered faithfulness.",
+"deep_background": [
+{
+"concept": "The stubborn neck",
+"note": "The repetition of the people's stubbornness is balanced by the repetition of mercy."
+}
+]
+},
+"Neh.10": {
+"occasion": "The community signs a binding covenant.",
+"structure": "The sealed list of signatories, the promises about marriage, sabbath and tithes, the arrangements for temple support.",
+"world_behind": "A sealed document turned a verbal pledge into an enforceable obligation in Persian legal practice.",
+"deep_background": [
+{
+"concept": "The wood offering",
+"note": "Practical arrangements for altar fuel reveal how worship depended on logistics."
+}
+]
+},
+"Neh.11": {
+"occasion": "Resettlement patterns are established for the rebuilt city.",
+"structure": "The lot for Jerusalem, the volunteers praised, the lists of officials, priests and Levites.",
+"world_behind": "Empty cities need population policy, so casting lots and honoring volunteers were practical means of repopulating a vulnerable urban center.",
+"deep_background": [
+{
+"concept": "The holy city as practical burden",
+"note": "Holy language is applied to a plain housing problem, which is the point."
+}
+]
+},
+"Neh.12": {
+"occasion": "The wall is dedicated with a procession and music.",
+"structure": "The priests and Levites listed, the two thanksgiving choirs, the procession, the purification, the city's rejoicing.",
+"world_behind": "Processions traced a city's boundaries and claimed it, so a dedication walk was also a statement about possession and protection.",
+"deep_background": [
+{
+"concept": "The sound heard far away",
+"note": "The volume of celebration is offered as evidence of a revived community."
+}
+]
+},
+"Neh.13": {
+"occasion": "Nehemiah returns and corrects abuses in the temple and city.",
+"structure": "Temple storeroom restored, the Levites' portions, sabbath trade stopped, intermarriage confronted, the closing plea.",
+"world_behind": "Gate closures at dusk were a practical way to enforce sabbath in a town with a mixed population.",
+"deep_background": [
+{
+"concept": "The holy city's purity as economics",
+"note": "Sabbath trading was a livelihood question, and the reform treated market behavior as the heart of faithfulness."
+}
+]
+},
+"Est.1": {
+"occasion": "Vashti refuses the king's summons and is deposed.",
+"structure": "A prolonged royal feast, the order to display the queen, her refusal, the advisors' counsel, the decree.",
+"world_behind": "Persian royal banquets were political displays, and the queen's refusal touched on honor and courtroom law rather than private manners.",
+"deep_background": [
+{
+"concept": "The law of the Medes and Persians",
+"note": "An irrevocable royal decree sets up the narrative's machinery."
+}
+]
+},
+"Est.2": {
+"occasion": "Esther is chosen as queen and Mordecai uncovers a plot.",
+"structure": "The search for a new queen, Esther's favor, the coronation, Mordecai at the gate, the assassination plot recorded.",
+"world_behind": "The court's harem search was organized through beauty treatments and official oversight, not personal courtship.",
+"deep_background": [
+{
+"concept": "The written record",
+"note": "A detail stored in the royal archives later becomes the pivot of the story."
+}
+]
+},
+"Est.3": {
+"occasion": "Haman plots the destruction of the Jews.",
+"structure": "Mordecai refuses to bow, Haman's anger, the lot cast, the decree sealed and distributed.",
+"world_behind": "Prostration before a royal official was a Persian custom, and a decree backed by a king's signet could not be reversed.",
+"deep_background": [
+{
+"concept": "Pur, the lot",
+"note": "The name of the festival comes from the lot, tying the plot to a practice of deciding timing."
+}
+]
+},
+"Est.4": {
+"occasion": "Mordecai appeals to Esther and she agrees to act.",
+"structure": "The mourning, the exchange at the gate, the reminder of her heritage, the call for a fast, the resolve.",
+"world_behind": "Fasting without food or drink for three days was a serious communal petition, signaling how high the stakes were.",
+"deep_background": [
+{
+"concept": "If I perish",
+"note": "A declaration of mortal risk that turns the narrative toward its reversal."
+}
+]
+},
+"Est.5": {
+"occasion": "Esther prepares a banquet and Haman's pride grows.",
+"structure": "The king's favor, the postponed request, Haman's boasting, the gallows built.",
+"world_behind": "A private banquet invitation from a queen to a king was an intimate social move with political implications.",
+"deep_background": [
+{
+"concept": "The gallows",
+"note": "The instrument prepared for Mordecai becomes his adversary's end, the story's clearest inversion."
+}
+]
+},
+"Est.6": {
+"occasion": "The king honors Mordecai while Haman plans to kill him.",
+"structure": "A sleepless night, the archives read, Haman's arrival, the honor given, the humiliation foretold.",
+"world_behind": "Reading royal chronicles was a real practice for insomniac kings, and unexpected honor in public was a recognized royal gift.",
+"deep_background": [
+{
+"concept": "The horse and robe",
+"note": "Being paraded in royal vestments was the highest form of Persian recognition."
+}
+]
+},
+"Est.7": {
+"occasion": "Haman is exposed at the banquet and hanged.",
+"structure": "The second banquet, the plea for life, the accusation against Haman, the king's anger, the hanging.",
+"world_behind": "Persian kings could be provoked by the sight of a person's distress in a way that made court etiquette a matter of survival.",
+"deep_background": [
+{
+"concept": "The covering of Haman's face",
+"note": "Covering a condemned person's head was a Persian sign of the sentence."
+}
+]
+},
+"Est.8": {
+"occasion": "A counter-decree allows the Jews to defend themselves.",
+"structure": "The scroll written, the seal of the king, the joy in the provinces, the fear among the peoples.",
+"world_behind": "A new decree permitting self-defense was the only legal route, since a Persian royal decree could not be revoked.",
+"deep_background": [
+{
+"concept": "The day of turning",
+"note": "A festival date is embedded in a system of collective survival rather than private revenge."
+}
+]
+},
+"Est.9": {
+"occasion": "The Jews defeat their enemies and Purim is established.",
+"structure": "The two days of battle, the celebrations, the letters instituting Purim, the fasts and gifts.",
+"world_behind": "Gift-giving to the poor and feasting were standard festival practices, marking a community celebration with generosity.",
+"deep_background": [
+{
+"concept": "The days named for the lot",
+"note": "A commemorative name rooted in pagan language is absorbed into Israelite worship."
+}
+]
+},
+"Est.10": {
+"occasion": "Mordecai's grandeur closes the book.",
+"structure": "The king's tribute records, Mordecai's rank, his care for his people.",
+"world_behind": "Persian administrative archives recorded taxation and honors, lending the closing lines historical texture.",
+"deep_background": [
+{
+"concept": "The second to the king",
+"note": "The final honor falls on a Jew serving an empire, the book's quietly political ending."
+}
+]
 }
 }
