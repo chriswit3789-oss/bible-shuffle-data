@@ -1445,5 +1445,775 @@
 "note": "The scale was a floor, not a valuation of a person, and the priest could adjust for means so a pledge never became crippling."
 }
 ]
+},
+"Num.1": {
+"occasion": "Israel is counted at Sinai before leaving for the promised land.",
+"structure": "A tribe-by-tribe census of fighting men, then the Levites counted separately and exempted from the army.",
+"world_behind": "Ancient armies mustered by clan and household, not by individual enlistment, so the census doubled as the social and military register of the nation.",
+"deep_background": [
+{
+"concept": "Census as sacred act",
+"note": "Counting adult males carried a ransom price per head in Israel's law, because numbering a people implied ownership over lives that belonged to God."
+}
+]
+},
+"Num.2": {
+"occasion": "The camp is organized around the tabernacle in marching order.",
+"structure": "Each tribe is assigned a side and a standard, with the Levites at the center, producing a square camp that moves as one body.",
+"world_behind": "Nomadic and military camps were laid out by standard and banner so that every family knew its position for the march and for defense.",
+"deep_background": [
+{
+"concept": "The tabernacle at the center",
+"note": "Placing the tent of meeting in the middle made the point geographically: the nation's axis was worship, not the king or the army."
+}
+]
+},
+"Num.3": {
+"occasion": "The Levites are set apart to serve the priests.",
+"structure": "Aaron's sons named as priests, the Levites given to them, then a census of Levites replacing the firstborn of Israel.",
+"world_behind": "Sanctuary service required a dedicated caste because approaching holy space was regulated and dangerous, and firstborn sons had prior claims on that role.",
+"deep_background": [
+{
+"concept": "Firstborn redemption",
+"note": "The Levites stood in place of Israel's firstborn sons, a substitution that kept the Passover memory alive in the structure of worship."
+}
+]
+},
+"Num.4": {
+"occasion": "The working-age Levite clans receive their duties for transporting the tabernacle.",
+"structure": "Duties assigned by clan and age window, with the holiest items wrapped before the Kohathites may carry them.",
+"world_behind": "Moving a portable shrine across desert terrain required trained carriers, protective coverings, and strict division of labor.",
+"deep_background": [
+{
+"concept": "Covered holy objects",
+"note": "The ark and furnishings were veiled before transport so that even the carriers never looked on the holy things directly."
+}
+]
+},
+"Num.5": {
+"occasion": "Laws maintain purity and resolve disputes within the camp.",
+"structure": "Defilement removed from the camp, restitution for wrongs, then the ritual for a suspected unfaithful wife.",
+"world_behind": "In a society without police or forensic evidence, sanctuary rituals handled accusations that no court could settle.",
+"deep_background": [
+{
+"concept": "Ordeal by sanctuary",
+"note": "The bitter water ritual placed an unresolvable accusation before God rather than leaving it to rumor or vigilante judgment."
+}
+]
+},
+"Num.6": {
+"occasion": "The Nazirite vow and the priestly blessing are given.",
+"structure": "Vow regulations for men and women, the rules of abstention, the closing blessing spoken by priests.",
+"world_behind": "Vows of temporary consecration let ordinary Israelites take on priest-like discipline without belonging to the tribe of Levi.",
+"deep_background": [
+{
+"concept": "The three-fold blessing",
+"note": "The priestly blessing asks for protection, favor, and peace in three escalating lines, and is still recited in Jewish and Christian worship."
+}
+]
+},
+"Num.7": {
+"occasion": "The completed tabernacle is dedicated with offerings from each tribe.",
+"structure": "Twelve identical dedication offerings, one per tribe over twelve days, followed by Moses entering the tent.",
+"world_behind": "Dedication gifts in the ancient Near East established a patron's stake in a sacred site and funded its ongoing operation.",
+"deep_background": [
+{
+"concept": "Equal gifts from unequal tribes",
+"note": "Every tribe gave the same offering regardless of size, a deliberate leveling of status at the moment of national worship."
+}
+]
+},
+"Num.8": {
+"occasion": "The lampstand is lit and the Levites are consecrated.",
+"structure": "Instructions for the lamps, then the purification and presentation of the Levites as a wave offering.",
+"world_behind": "Oil lamps required constant trimming, and the seven-branched stand became the visual emblem of the sanctuary's light.",
+"deep_background": [
+{
+"concept": "Levites as a wave offering",
+"note": "Presenting the Levites like a grain offering framed their service as something given to God on the people's behalf."
+}
+]
+},
+"Num.9": {
+"occasion": "Passover is kept in the wilderness and guidance by cloud is described.",
+"structure": "A second-month Passover for the ritually unclean, the cloud directing each camp movement, trumpets for alarm and assembly.",
+"world_behind": "Pilgrimage feasts required calendar fixes for people unable to travel or purify in time, so a makeup date was built in.",
+"deep_background": [
+{
+"concept": "Cloud and fire",
+"note": "The cloud by day and fire by night signaled divine presence and direction, the wilderness equivalent of a guide."
+}
+]
+},
+"Num.10": {
+"occasion": "Israel leaves Sinai in marching order.",
+"structure": "Silver trumpets made, the camp breaks down, the ark leads, and Moses invites Hobab to guide them.",
+"world_behind": "Trumpet signals coordinated large camps where shouted orders could not carry, a practice documented across ancient armies.",
+"deep_background": [
+{
+"concept": "The ark leading",
+"note": "The ark going ahead of the march framed the journey as a holy procession rather than a migration."
+}
+]
+},
+"Num.11": {
+"occasion": "Complaints about food and Moses' burden of leadership.",
+"structure": "Fire at Taberah, complaint about manna, Moses' protest, seventy elders appointed, quail brought.",
+"world_behind": "Desert travelers remembered the varied diet of Egypt, and quail still migrate across Sinai in enormous seasonal flocks.",
+"deep_background": [
+{
+"concept": "Spirit shared among elders",
+"note": "The transfer of Spirit to seventy elders created a distributed leadership that later shaped Israel's councils and courts."
+}
+]
+},
+"Num.12": {
+"occasion": "Miriam and Aaron challenge Moses' authority.",
+"structure": "The complaint about Moses' foreign wife, God's defense of Moses' unique prophetic status, Miriam struck and healed.",
+"world_behind": "Prophetic authority in the ancient world was contested among family lines, and Moses' wife's foreign origin was a live grievance.",
+"deep_background": [
+{
+"concept": "Face to face prophecy",
+"note": "Moses is described as hearing God directly rather than through dreams, a distinction that ranked him above every later prophet."
+}
+]
+},
+"Num.13": {
+"occasion": "Twelve spies scout the promised land.",
+"structure": "Commission, forty-day tour, the fruitful report, the majority counsel of fear, Caleb's dissent.",
+"world_behind": "Fortified hill cities and iron-armed Anakim would have looked unbeatable to tribes without siege equipment.",
+"deep_background": [
+{
+"concept": "Grapes from Eshcol",
+"note": "The giant cluster carried on a pole between two men is the chapter's lasting image of the land's abundance."
+}
+]
+},
+"Num.14": {
+"occasion": "The people refuse to enter and are sentenced to forty years.",
+"structure": "Mourning and mutiny, Moses' intercession, the sentence of wilderness wandering, a presumptuous attack that fails.",
+"world_behind": "Ancient armies that lost divine favor were expected to fail, and unauthorized attack was as dangerous as refusal to attack.",
+"deep_background": [
+{
+"concept": "Forty years",
+"note": "The forty years correspond to the spies' forty days, a year for a day, so the sentence carried its own memory of the failure."
+}
+]
+},
+"Num.15": {
+"occasion": "Offerings for the land and rules for deliberate sin are given.",
+"structure": "Grain and drink offerings, atonement for unwitting sin, the sabbath-breaking case, tassels commanded.",
+"world_behind": "Tassels on garment corners were a widespread ancient Near Eastern marker of status and identity, here repurposed as a reminder.",
+"deep_background": [
+{
+"concept": "Tassels on the corners",
+"note": "The fringe was visual law, something a person touched and saw at the margins of the garment all day long."
+}
+]
+},
+"Num.16": {
+"occasion": "Korah and a coalition of leaders rebel against priestly authority.",
+"structure": "The confrontation at the incense pans, the ground opening, fire consuming the coalition, plague stopped by Aaron's intercession.",
+"world_behind": "Incense offerings were priestly prerogatives, so offering them was a direct claim on sacred office rather than a private act.",
+"deep_background": [
+{
+"concept": "Rebellion narrative pattern",
+"note": "This story became the standard biblical warning against contested priesthood, echoed in later Jewish and Christian polemics."
+}
+]
+},
+"Num.17": {
+"occasion": "Aaron's authority is confirmed by a sign.",
+"structure": "Staffs from twelve tribes are laid in the tent overnight, Aaron's buds, blossoms and almonds by morning.",
+"world_behind": "Tribal staffs carried carved identity, and an almond rod was also a craftsman's tool, but the sign here is its life out of season.",
+"deep_background": [
+{
+"concept": "Almonds and watchfulness",
+"note": "The Hebrew word for almond sounds like the word for watching, a resonance that later poetry used for God's vigilance."
+}
+]
+},
+"Num.18": {
+"occasion": "The duties and income of priests and Levites are defined.",
+"structure": "Priestly responsibilities and their portion, Levite tithes, the disclosure that Levites hold no land inheritance.",
+"world_behind": "Landless priestly clans depended on agricultural tithes, an arrangement that tied sanctuary support to community harvests.",
+"deep_background": [
+{
+"concept": "The tithe as inheritance substitute",
+"note": "Because Levites received no territory, the tithe functioned as their land yield, connecting worship life to ordinary farming."
+}
+]
+},
+"Num.19": {
+"occasion": "The water of cleansing is instituted for death impurity.",
+"structure": "The red heifer ritual, ashes mixed with water, treatment of those polluted by contact with a corpse.",
+"world_behind": "Death polluted the living in most ancient Near Eastern cultures, and purification required a communal ritual, not private cleansing.",
+"deep_background": [
+{
+"concept": "Paradox of the red heifer",
+"note": "The ritual makes the handling priest unclean yet the resulting water cleanses others, a puzzle ancient commentators debated repeatedly."
+}
+]
+},
+"Num.20": {
+"occasion": "Miriam and Aaron die and Moses strikes the rock.",
+"structure": "Miriam's death, water from the rock, Moses and Aaron rebuked for striking, Edom's refusal of passage, Aaron's death at Hor.",
+"world_behind": "Edomite opposition forced Israel to detour around settled territory, and access to water rights was a hard border dispute.",
+"deep_background": [
+{
+"concept": "Why striking mattered",
+"note": "Water came from grace, not force; striking the rock turned a symbol of divine provision into something taken by human violence."
+}
+]
+},
+"Num.21": {
+"occasion": "Serpent bites are healed and the eastern kings are defeated.",
+"structure": "Serpent plague and bronze serpent, the journey around Edom, Sihon and Og defeated, the border reached.",
+"world_behind": "Bronze serpents were common religious objects across the ancient Near East, which is why the image here needed a strict explanatory frame.",
+"deep_background": [
+{
+"concept": "Nehushtan's legacy",
+"note": "The bronze serpent was later destroyed as an idol, showing how an object of deliverance can become a target of devotion."
+}
+]
+},
+"Num.22": {
+"occasion": "Balak hires Balaam to curse Israel.",
+"structure": "The king's messengers, the donkey's speech, the angel in the road, Balaam's near-death encounter.",
+"world_behind": "Professional cursers were hired in Near Eastern warfare, since battle outcomes were thought to hinge on divine pronouncements.",
+"deep_background": [
+{
+"concept": "The talking donkey",
+"note": "The story's comedy works against Balaam: the seer whose profession is revelation cannot see the angel his animal can."
+}
+]
+},
+"Num.23": {
+"occasion": "Balaam blesses rather than curses Israel.",
+"structure": "Three altar attempts, each turning into a blessing, ending with the declaration that blessing cannot be reversed.",
+"world_behind": "Balaam's altars of seven bulls and rams were standard ritual proportions for seeking divine favor in a contested space.",
+"deep_background": [
+{
+"concept": "A people dwelling apart",
+"note": "Israel is described as a nation that lives alone, a self-understanding that shaped its later identity among empires."
+}
+]
+},
+"Num.24": {
+"occasion": "Balaam's final oracles include the star prophecy.",
+"structure": "The Spirit rests on Balaam, blessings on Israel's prosperity, then the star from Jacob and the scepter from Israel.",
+"world_behind": "Star and scepter language drew on royal poetry used across the region for kings and conquering leaders.",
+"deep_background": [
+{
+"concept": "The star from Jacob",
+"note": "This oracle later fed messianic expectation widely, and Jewish revolt writings applied it to leaders who rose against Rome."
+}
+]
+},
+"Num.25": {
+"occasion": "Israel is drawn into idolatry at Peor and Phinehas acts.",
+"structure": "Sexual and cultic sin at Peor, plague, Phinehas' spear, covenant of priesthood granted to his line.",
+"world_behind": "Fertility cults of Moab and Midian offered ritual practices that actively undercut Israel's exclusive covenant loyalty.",
+"deep_background": [
+{
+"concept": "Why the zeal was rewarded",
+"note": "Phinehas' act is presented as stopping the plague, which made his line the model of priestly zeal for generations."
+}
+]
+},
+"Num.26": {
+"occasion": "A second census is taken before entering the land.",
+"structure": "The new generation counted, comparison to the earlier census, the statement that none of the rebels survived.",
+"world_behind": "Land allotment was based on tribal size, so the census directly determined each tribe's inheritance share.",
+"deep_background": [
+{
+"concept": "Census as inheritance",
+"note": "Counting the people before distributing land tied population directly to the map, which later made genealogy a legal record."
+}
+]
+},
+"Num.27": {
+"occasion": "Zelophehad's daughters petition for inheritance and Joshua is commissioned.",
+"structure": "The daughters' case brought to Moses, judgment granted, then Moses lays hands on Joshua before Eleazar.",
+"world_behind": "Inheritance normally passed through sons, so a case with no male heir tested whether property rights could move through daughters.",
+"deep_background": [
+{
+"concept": "Case law in the wilderness",
+"note": "The daughters' ruling is one of the earliest recorded examples of a legal decision being handed down as precedent."
+}
+]
+},
+"Num.28": {
+"occasion": "The calendar of public offerings is set.",
+"structure": "Daily offerings, sabbath offerings, monthly offerings, then the yearly festival sequence beginning with Passover.",
+"world_behind": "Public sacrifices were funded nationally and performed at fixed times, creating a daily rhythm that structured time in worship.",
+"deep_background": [
+{
+"concept": "The perpetual offering",
+"note": "The twice-daily offering never stopped, a constant practice that later communities imitated in hours of prayer."
+}
+]
+},
+"Num.29": {
+"occasion": "Offering instructions for the autumn festivals.",
+"structure": "Trumpets, Atonement, then Tabernacles with its eight days and declining bull counts, followed by the eighth day assembly.",
+"world_behind": "Tabernacles celebrated the harvest and wilderness travel, which is why its temporary shelters mattered as much as its offerings.",
+"deep_background": [
+{
+"concept": "Declining bull count",
+"note": "Seventy bulls may map to the seventy nations of the world, which later tradition read as prayer for all peoples."
+}
+]
+},
+"Num.30": {
+"occasion": "Vows made by women and men are regulated.",
+"structure": "A man's vow stands, a daughter's or wife's vow may be overridden by the head of household within a day, widows bound by their own words.",
+"world_behind": "Vows were legally binding oaths that could commit property or family obligations, so household headship carried real economic weight.",
+"deep_background": [
+{
+"concept": "Silence as assent",
+"note": "The rule that a guardian must act on the day he hears a vow kept the law from leaving the outcome ambiguous."
+}
+]
+},
+"Num.31": {
+"occasion": "War is waged on Midian for the Baal Peor seduction.",
+"structure": "The campaign, the return and purification of fighters and plunder, the share for Levites and combatants.",
+"world_behind": "Ancient wartime plunder was split by established custom between those who fought and those who stayed with the goods.",
+"deep_background": [
+{
+"concept": "Midrash on Balaam's counsel",
+"note": "Later tradition blamed Balaam for advising the strategy that ruined Israel through seduction rather than cursing."
+}
+]
+},
+"Num.32": {
+"occasion": "Reuben and Gad request land east of the Jordan.",
+"structure": "The request, Moses' objection that it would break Israel's resolve, the conditional agreement, half of Manasseh added.",
+"world_behind": "Livestock wealth depended on grazing land, and the Transjordan plateau was better for flocks than the hill country west of the river.",
+"deep_background": [
+{
+"concept": "Terms of settlement",
+"note": "The eastern tribes still had to cross and fight before settling, keeping their commitment to the whole nation intact."
+}
+]
+},
+"Num.33": {
+"occasion": "The wilderness itinerary is recited before entering Canaan.",
+"structure": "A long list of camps from Egypt to Moab, followed by orders to drive out the inhabitants and divide the land.",
+"world_behind": "Travel logs mattered in the ancient world as memory and legal record, and this one preserves a route dotted with now-lost sites.",
+"deep_background": [
+{
+"concept": "Why remembering places matters",
+"note": "Reciting the camps embedded each generation into the story, an early form of liturgy built from geography."
+}
+]
+},
+"Num.34": {
+"occasion": "The boundaries of the promised land are defined.",
+"structure": "Southern, western, northern and eastern borders, then the men appointed to apportion the land.",
+"world_behind": "Boundary descriptions in ancient documents marked land grants, so this text functioned as a deed as much as a promise.",
+"deep_background": [
+{
+"concept": "Greater Israel boundaries",
+"note": "The described borders reach to the Euphrates in some readings, a phrase later used and contested in political claims."
+}
+]
+},
+"Num.35": {
+"occasion": "Towns are assigned to the Levites and cities of refuge established.",
+"structure": "Forty-eight Levite towns, six refuge cities, the rules distinguishing escape from deliberate murder.",
+"world_behind": "Blood feud was a social reality, so sanctuary cities protected the accidental killer from immediate family retaliation.",
+"deep_background": [
+{
+"concept": "Refuge without impunity",
+"note": "The refuge city protected a person only until trial and required them to stay until the high priest's death, blending mercy with consequence."
+}
+]
+},
+"Num.36": {
+"occasion": "The tribal inheritance question raised by Zelophehad's daughters is settled.",
+"structure": "A complaint that daughters marrying outside the tribe would move land, the ruling, and the daughters' compliance.",
+"world_behind": "Tribal land was understood as a permanent ancestral holding, so marriage across tribes threatened the map itself.",
+"deep_background": [
+{
+"concept": "Land and family identity",
+"note": "Keeping land within the tribe shows how closely property, marriage and belonging were welded together in Israel's economy."
+}
+]
+},
+"Deu.1": {
+"occasion": "Moses opens his final address by retelling the wilderness journey.",
+"structure": "A retrospective from Horeb to Kadesh, the appointment of judges, the spy mission, and the refusal to enter the land.",
+"world_behind": "Covenant renewal speeches were delivered orally to assembled tribes, so repetition of the story served as national memory rather than redundancy.",
+"deep_background": [
+{
+"concept": "Preaching as law",
+"note": "Deuteronomy presents law inside sermon, showing that Israel's statutes were meant to be heard and remembered, not only read."
+}
+]
+},
+"Deu.2": {
+"occasion": "The journey past Edom, Moab and Ammon is recounted.",
+"structure": "Directions not to fight related peoples, the long wander, then the defeat of Sihon and the taking of Heshbon.",
+"world_behind": "Territorial rights among Edom, Moab and Ammon were understood as divine grants, which is why Israel was told to leave them alone.",
+"deep_background": [
+{
+"concept": "Bought bread and water",
+"note": "Paying for food and water rather than seizing it framed Israel as a migrating people, not a raiding band."
+}
+]
+},
+"Deu.3": {
+"occasion": "The conquest of Og and the settlement of the eastern tribes.",
+"structure": "Og defeated at Edrei, his territory assigned, Moses' plea to enter the land refused, Joshua encouraged.",
+"world_behind": "The Rephaim and the iron bed of Og belonged to giant traditions that marked the Transjordan as legendary territory.",
+"deep_background": [
+{
+"concept": "Giant beds as monuments",
+"note": "Ancient rulers kept oversized artifacts as trophies of defeated enemies, which is how the bed of Og was remembered."
+}
+]
+},
+"Deu.4": {
+"occasion": "Israel is called to obedience and warned against idolatry.",
+"structure": "Exhortation to keep the statutes, the Horeb assembly recalled, prohibition of images, warning of exile, cities of refuge set apart.",
+"world_behind": "Nations around Israel used carved and cast images to represent gods, making the ban on images a sharp cultural break.",
+"deep_background": [
+{
+"concept": "Formless revelation",
+"note": "At Horeb Israel heard a voice with no visible form, which is the stated reason images of God are forbidden here."
+}
+]
+},
+"Deu.5": {
+"occasion": "The ten commandments are restated for the new generation.",
+"structure": "Summons and covenant framing, the ten words, the people's fear at the mountain, the request for a mediator.",
+"world_behind": "Covenant treaties of the ancient Near East opened with an identification of the sovereign party, which is how the commandments begin.",
+"deep_background": [
+{
+"concept": "Why the Sabbath command expands",
+"note": "Here the Sabbath is grounded in deliverance from Egypt rather than creation rest, connecting rest with freedom from slavery."
+}
+]
+},
+"Deu.6": {
+"occasion": "The Shema is given as the heart of Israel's devotion.",
+"structure": "The call to love the LORD alone, instructions to teach children, then the warning not to forget in prosperity.",
+"world_behind": "Israelite households used doorposts and gates as everyday surfaces for identity markers long before parchment mezuzot were common.",
+"deep_background": [
+{
+"concept": "The Shema",
+"note": "Hear, O Israel became the central confession recited twice daily, and Jesus named it the greatest commandment."
+}
+]
+},
+"Deu.7": {
+"occasion": "Israel is set apart as a holy people.",
+"structure": "Commands to remove the nations of Canaan, the reason given as election not merit, promises of blessing and warnings of defeat.",
+"world_behind": "Intermarriage with local peoples meant adopting household gods and fertility rites, which is why the ban is framed covenantally.",
+"deep_background": [
+{
+"concept": "Chosen for love, not size",
+"note": "The text states Israel was the smallest of peoples, cutting against any claim that election rested on strength."
+}
+]
+},
+"Deu.8": {
+"occasion": "Israel is told to remember the wilderness in prosperity.",
+"structure": "The lesson of manna and discipline, the description of the good land, the warning that wealth breeds self-congratulation.",
+"world_behind": "Canaan's limestone springs and terraced fields produced real wealth, and settled farmers quickly credited themselves for it.",
+"deep_background": [
+{
+"concept": "Manna as daily dependence",
+"note": "Food that spoiled overnight taught that provision was a daily gift, a lesson kept alive in the sabbath day's double portion."
+}
+]
+},
+"Deu.9": {
+"occasion": "Moses preempts any claim that Israel earned the land.",
+"structure": "The promise restated, the golden calf retold, the intercession, the warning about stubbornness.",
+"world_behind": "Conquest narratives in the region credited a nation's god with victory, so the claim that Israel was undeserving was unusual.",
+"deep_background": [
+{
+"concept": "Stiff-necked",
+"note": "The image comes from a farm animal that refuses the yoke, a blunt metaphor for a people who will not be steered."
+}
+]
+},
+"Deu.10": {
+"occasion": "The new tablets and the ark are recalled.",
+"structure": "Moses' second ascent, the tablets and ark, the Levites' role, then a call to circumcise the heart.",
+"world_behind": "Ark construction in the ancient world meant a container for a covenant document, which is exactly how these tablets function.",
+"deep_background": [
+{
+"concept": "Circumcision of the heart",
+"note": "Turning a physical sign into an inward one set up a prophetic theme the later prophets and Paul press hard."
+}
+]
+},
+"Deu.11": {
+"occasion": "Blessings and curses are set before the people.",
+"structure": "The call to love and obey, the comparison of Egypt's irrigation to Canaan's rain, the blessing on Gerizim and curse on Ebal.",
+"world_behind": "Canaan depended on rainfall while Egypt relied on the Nile's predictable flood, so trust in God was tied to real agricultural risk.",
+"deep_background": [
+{
+"concept": "Two mountains",
+"note": "Gerizim and Ebal face each other across a valley near Shechem, a natural amphitheatre suited to shouting blessings and curses."
+}
+]
+},
+"Deu.12": {
+"occasion": "Worship is centralized at one chosen place.",
+"structure": "Destroy local shrines, bring offerings to the chosen place, allow meat eaten anywhere, prohibition on eating blood.",
+"world_behind": "Local shrines made religion easy but also blended it with Canaanite practice, so centralization was a reform measure against syncretism.",
+"deep_background": [
+{
+"concept": "The chosen place",
+"note": "Not naming the place in advance kept the law flexible, and later Judah identified it with Jerusalem."
+}
+]
+},
+"Deu.13": {
+"occasion": "Israel is warned against prophets who lead to other gods.",
+"structure": "Tests for a false prophet, treatment of a seducing dreamer, rules for a wicked town, and the reason given.",
+"world_behind": "Prophets validated themselves by signs, which is why a sign that worked could still be judged by its direction away from the covenant.",
+"deep_background": [
+{
+"concept": "Testing by outcome and direction",
+"note": "The passage sets a standard used later: accuracy alone does not authorize a teacher whose message abandons the covenant."
+}
+]
+},
+"Deu.14": {
+"occasion": "Dietary rules and the tithe are restated.",
+"structure": "Clean and unclean animals, mourning practices prohibited, the annual tithe, and the third-year tithe for the poor.",
+"world_behind": "Dietary boundaries functioned as daily visible identity markers among nations who ate similar animals in similar lands.",
+"deep_background": [
+{
+"concept": "Why animals with parted hooves and chewing cud",
+"note": "The repeated criterion kept the rule teachable and turned meals into a form of ongoing instruction."
+}
+]
+},
+"Deu.15": {
+"occasion": "Debt release and release of servants are commanded.",
+"structure": "The seven-year release, generosity toward a departing servant, the mark on the ear for a willing servant.",
+"world_behind": "Debt slavery was the standard ancient remedy for insolvency, and here the law limited it with a fixed release date.",
+"deep_background": [
+{
+"concept": "Theology of release",
+"note": "The command ties the release to Israel's own slavery in Egypt, making economics a matter of remembered identity."
+}
+]
+},
+"Deu.16": {
+"occasion": "The three pilgrimage festivals and judicial appointments.",
+"structure": "Passover and Unleavened Bread, Weeks, Tabernacles, then instructions for judges and the prohibition of bribery.",
+"world_behind": "Pilgrimage required households to travel to a central site and stay, which shaped the economy of the sanctuary town.",
+"deep_background": [
+{
+"concept": "No empty-handed appearance",
+"note": "Each household brought a gift proportional to blessing, making worship a redistribution of wealth across the community."
+}
+]
+},
+"Deu.17": {
+"occasion": "Laws are given for hard cases and for kingship.",
+"structure": "Cases too difficult for local courts, the test for apostasy, then the king's restrictions on horses, wives and gold.",
+"world_behind": "Ancient kings built prestige through imported horses, dynastic marriages and accumulated wealth, each here explicitly forbidden.",
+"deep_background": [
+{
+"concept": "The king who copies the law",
+"note": "Israel's king is instructed to write out the law for himself, a startling inversion of the monumental inscriptions of surrounding kings."
+}
+]
+},
+"Deu.18": {
+"occasion": "The Levites' portion and the promise of a prophet are given.",
+"structure": "Priestly income, prohibition of divination, the promise of a prophet like Moses, the test of a true prophet.",
+"world_behind": "Canaanite and Mesopotamian practice abounded with divination specialists, omen readers and necromancers consulted before war and planting.",
+"deep_background": [
+{
+"concept": "A prophet like Moses",
+"note": "This promise became a major messianic expectation, and the question whether Jesus was that prophet appears in the Gospels."
+}
+]
+},
+"Deu.19": {
+"occasion": "Cities of refuge and rules of evidence are set.",
+"structure": "Three refuge cities and road access, the distinction between manslaughter and murder, the law of two witnesses.",
+"world_behind": "Blood vengeance required only a single accuser, so requiring two witnesses protected the person who killed by accident.",
+"deep_background": [
+{
+"concept": "Eye for an eye",
+"note": "The limited retribution formula was a ceiling on revenge, not a license for it, since custom otherwise multiplied retaliation."
+}
+]
+},
+"Deu.20": {
+"occasion": "Rules of warfare are given.",
+"structure": "Priestly encouragement before battle, exemptions for new houses, vineyards, marriages and the fearful, terms of siege and peace.",
+"world_behind": "Spring battles meant harvesting crops and leaving home, so exemptions were practical economics as much as compassion.",
+"deep_background": [
+{
+"concept": "The unanswered offer of peace",
+"note": "An offer of surrender before siege appears here, a practice attested in ancient Near Eastern siege narratives."
+}
+]
+},
+"Deu.21": {
+"occasion": "Family and city laws are given, including the unsolved murder case.",
+"structure": "The unavenged body and the heifer ritual, treatment of captive brides, inheritance rights of firstborns, the rebellious son.",
+"world_behind": "Setting up a new town means building a cistern, then a house, then a vineyard, which may explain the order of army exemptions.",
+"deep_background": [
+{
+"concept": "The broken-heifer ritual",
+"note": "Elders washed their hands over the animal in a public claim of innocence, which explains Pilate's gesture in the Gospels."
+}
+]
+},
+"Deu.22": {
+"occasion": "Covenant community rules for property, dress and sexual conduct.",
+"structure": "Lost animals and building code, mixed fabrics and fringes, marriage accusations, adultery, abduction.",
+"world_behind": "Parapet laws for roofs come from flat-roofed houses used as living space, where an unguarded edge was a real danger.",
+"deep_background": [
+{
+"concept": "Mixed fabrics",
+"note": "The blended garment prohibition sits with other boundary rules that kept categories distinct in a household's daily life."
+}
+]
+},
+"Deu.23": {
+"occasion": "Rules of assembly, camp purity and neighbor relations.",
+"structure": "Who may enter the assembly, sanitation in camp, treatment of runaway servants, lending and vows.",
+"world_behind": "Military camps in the region had strict sanitation rules because dysentery killed more soldiers than battles did.",
+"deep_background": [
+{
+"concept": "Neighbourly purity rules",
+"note": "Ammonite and Moabite exclusion traces to the hostility at the wilderness crossing, making hospitality a lasting test of loyalty."
+}
+]
+},
+"Deu.24": {
+"occasion": "Marriage, divorce, and economic justice rules.",
+"structure": "The certificate of divorce, the newly married man's year, pledges and millstones, kidnapping, leprosy, widows, gleaning.",
+"world_behind": "The written certificate protected a divorced woman from being treated as property still under claim by her former husband.",
+"deep_background": [
+{
+"concept": "Behind the divorce certificate",
+"note": "The clause assumes divorce happens and regulates it, which is how Jesus and later teachers debated its intent."
+}
+]
+},
+"Deu.25": {
+"occasion": "Rules on corporal punishment, oxen and inheritance of the dead.",
+"structure": "Limits on lashes, the unmuzzled ox, levirate marriage and the sandal ritual, honest weights.",
+"world_behind": "Threshing with cattle required a grain platform where animals circled the threshing floor, so muzzling cost real time.",
+"deep_background": [
+{
+"concept": "Judah and Tamar",
+"note": "The levirate law gives the legal background for a story in Genesis where a family refused a widow her right to raise a heir."
+}
+]
+},
+"Deu.26": {
+"occasion": "The firstfruits and tithe declarations are given.",
+"structure": "The declaration recited over harvest gifts, then the confession over the tithe for orphans, widows and foreigners.",
+"world_behind": "Harvest feasts in settled economies involved presenting produce at a sanctuary, tying worship to the agricultural calendar.",
+"deep_background": [
+{
+"concept": "Same creed, different contexts",
+"note": "The creed recited over firstfruits in the land is the same wilderness story, keeping settled people rooted in migration memory."
+}
+]
+},
+"Deu.27": {
+"occasion": "The ceremony on Gerizim and Ebal is prescribed.",
+"structure": "Altar and plastered stones, the twelve tribe division, twelve curses spoken by the Levites with the people answering amen.",
+"world_behind": "Plastered and painted stones were the standard public inscription medium of the ancient Near East, visible to passersby.",
+"deep_background": [
+{
+"concept": "Curses on specific sins",
+"note": "The twelve curses name hidden sins that no court could try, placing them under public oath instead of punishment."
+}
+]
+},
+"Deu.28": {
+"occasion": "The long list of blessings and curses defines covenant consequence.",
+"structure": "Blessings for obedience, then an extended cascade of curses, ending in a graphic depiction of siege and exile.",
+"world_behind": "Ancient treaty texts ended with detailed curse lists to bind the partners ritually, and this passage follows that treaty shape.",
+"deep_background": [
+{
+"concept": "The siege curse",
+"note": "The most shocking lines describe destitution inside a besieged city, a horror experienced at Samaria and Jerusalem."
+}
+]
+},
+"Deu.29": {
+"occasion": "The covenant is renewed in Moab.",
+"structure": "The address, a recap of divine faithfulness, the warning to anyone expecting impunity, the future exile anticipated.",
+"world_behind": "A covenant renewal outside the land, before crossing, framed Israel's residence as conditional on faithfulness.",
+"deep_background": [
+{
+"concept": "Hidden things and revealed things",
+"note": "The line about revealed things belonging to us gave later generations a framework for living faithfully without full understanding."
+}
+]
+},
+"Deu.30": {
+"occasion": "Repentance and restored life are promised beyond exile.",
+"structure": "The future confession and return, the promised regathering, then the choice set before the people: life or death.",
+"world_behind": "Exile was understood as abandonment by a god, so the promise of return after exile was a radical claim about a faithful deity.",
+"deep_background": [
+{
+"concept": "The word in your mouth",
+"note": "Faithfulness is described as accessible to everyone rather than held by elites, something Paul later quotes in Romans."
+}
+]
+},
+"Deu.31": {
+"occasion": "Moses commissions Joshua and hands on the law.",
+"structure": "Joshua commissioned publicly, the law written and given to priests, the song commanded, and the future failure foretold.",
+"world_behind": "Succession in the ancient world required public transfer of authority, which is why the assembly is the venue for this handover.",
+"deep_background": [
+{
+"concept": "The law beside the ark",
+"note": "The written copy placed beside the ark became a legal reference point that kings and leaders were expected to consult."
+}
+]
+},
+"Deu.32": {
+"occasion": "The song of Moses sets the covenant in poetry.",
+"structure": "A call to witnesses, the history of divine faithfulness and human failure, judgments, and a closing appeal.",
+"world_behind": "Songs preserved covenant content in oral cultures long before texts were widespread, and this one is treated as national memory.",
+"deep_background": [
+{
+"concept": "Teaching by song",
+"note": "Israel is told the song will not be forgotten by their descendants, a design that used rhythm as a memory device."
+}
+]
+},
+"Deu.33": {
+"occasion": "Moses blesses the tribes before his death.",
+"structure": "A poetic introduction of the LORD from Sinai, then a blessing for each tribe, and a closing declaration of divine protection.",
+"world_behind": "Blessings at the end of a life functioned as a bequest, and tribal blessings mapped each group's later fortunes.",
+"deep_background": [
+{
+"concept": "Tribes missing here",
+"note": "Simeon is not blessed here, and the omission matches its later absorption into Judah."
+}
+]
+},
+"Deu.34": {
+"occasion": "Moses dies on Nebo after viewing the land.",
+"structure": "He climbs Pisgah, sees the entire land, then dies alone and is buried unmarked, with Joshua succeeding him.",
+"world_behind": "An unmarked grave was a deliberate safeguard in a region where tombs became shrines and objects of veneration.",
+"deep_background": [
+{
+"concept": "The unmarked grave",
+"note": "Deuteronomy's claim that no one knows Moses' burial place prevented his tomb from becoming a pilgrimage site."
+}
+]
 }
 }
