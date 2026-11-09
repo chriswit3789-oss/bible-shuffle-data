@@ -7,6 +7,7 @@ Structured bible-language data for the My Bible Shuffle iOS app.
 - `verses/<Book>.json` — every verse of that book, tokenized into original-language words
 - `lexicon_hebrew.json` — Strong's Hebrew and Aramaic dictionary entries keyed by H-number
 - `lexicon_greek.json` — Strong's Greek dictionary entries keyed by G-number
+- `wheel.json` — the curated 777 wheel pool: reference, OSIS book, chapter, verse, verse_end, and the Book.Chapter.Verse key used to join against the verse files
 - `books.json` — book-level context: author, date, audience, place, genre, summary
 
 ## Verse file format

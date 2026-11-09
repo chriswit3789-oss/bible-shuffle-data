@@ -1,0 +1,6221 @@
+{
+"count": 777,
+"verses": [
+{
+"reference": "Revelation 21:1",
+"book": "Rev",
+"chapter": 21,
+"verse": 1,
+"verse_end": null,
+"key": "Rev.21.1"
+},
+{
+"reference": "Revelation 1:5",
+"book": "Rev",
+"chapter": 1,
+"verse": 5,
+"verse_end": null,
+"key": "Rev.1.5"
+},
+{
+"reference": "Revelation 3:18",
+"book": "Rev",
+"chapter": 3,
+"verse": 18,
+"verse_end": null,
+"key": "Rev.3.18"
+},
+{
+"reference": "Revelation 21:7",
+"book": "Rev",
+"chapter": 21,
+"verse": 7,
+"verse_end": null,
+"key": "Rev.21.7"
+},
+{
+"reference": "Revelation 21:4",
+"book": "Rev",
+"chapter": 21,
+"verse": 4,
+"verse_end": null,
+"key": "Rev.21.4"
+},
+{
+"reference": "Revelation 1:8",
+"book": "Rev",
+"chapter": 1,
+"verse": 8,
+"verse_end": null,
+"key": "Rev.1.8"
+},
+{
+"reference": "Revelation 5:14",
+"book": "Rev",
+"chapter": 5,
+"verse": 14,
+"verse_end": null,
+"key": "Rev.5.14"
+},
+{
+"reference": "Revelation 22:3",
+"book": "Rev",
+"chapter": 22,
+"verse": 3,
+"verse_end": null,
+"key": "Rev.22.3"
+},
+{
+"reference": "Revelation 1:6",
+"book": "Rev",
+"chapter": 1,
+"verse": 6,
+"verse_end": null,
+"key": "Rev.1.6"
+},
+{
+"reference": "Revelation 5:10",
+"book": "Rev",
+"chapter": 5,
+"verse": 10,
+"verse_end": null,
+"key": "Rev.5.10"
+},
+{
+"reference": "Revelation 3:22",
+"book": "Rev",
+"chapter": 3,
+"verse": 22,
+"verse_end": null,
+"key": "Rev.3.22"
+},
+{
+"reference": "Revelation 22:5",
+"book": "Rev",
+"chapter": 22,
+"verse": 5,
+"verse_end": null,
+"key": "Rev.22.5"
+},
+{
+"reference": "Revelation 3:15",
+"book": "Rev",
+"chapter": 3,
+"verse": 15,
+"verse_end": null,
+"key": "Rev.3.15"
+},
+{
+"reference": "Revelation 22:1",
+"book": "Rev",
+"chapter": 22,
+"verse": 1,
+"verse_end": null,
+"key": "Rev.22.1"
+},
+{
+"reference": "Revelation 5:11",
+"book": "Rev",
+"chapter": 5,
+"verse": 11,
+"verse_end": null,
+"key": "Rev.5.11"
+},
+{
+"reference": "Revelation 21:2",
+"book": "Rev",
+"chapter": 21,
+"verse": 2,
+"verse_end": null,
+"key": "Rev.21.2"
+},
+{
+"reference": "Hebrews 13:1",
+"book": "Heb",
+"chapter": 13,
+"verse": 1,
+"verse_end": null,
+"key": "Heb.13.1"
+},
+{
+"reference": "Hebrews 12:3",
+"book": "Heb",
+"chapter": 12,
+"verse": 3,
+"verse_end": null,
+"key": "Heb.12.3"
+},
+{
+"reference": "James 1:19",
+"book": "Jas",
+"chapter": 1,
+"verse": 19,
+"verse_end": null,
+"key": "Jas.1.19"
+},
+{
+"reference": "Hebrews 10:22",
+"book": "Heb",
+"chapter": 10,
+"verse": 22,
+"verse_end": null,
+"key": "Heb.10.22"
+},
+{
+"reference": "Hebrews 11:2",
+"book": "Heb",
+"chapter": 11,
+"verse": 2,
+"verse_end": null,
+"key": "Heb.11.2"
+},
+{
+"reference": "James 1:2",
+"book": "Jas",
+"chapter": 1,
+"verse": 2,
+"verse_end": null,
+"key": "Jas.1.2"
+},
+{
+"reference": "James 2:16",
+"book": "Jas",
+"chapter": 2,
+"verse": 16,
+"verse_end": null,
+"key": "Jas.2.16"
+},
+{
+"reference": "Hebrews 13:4",
+"book": "Heb",
+"chapter": 13,
+"verse": 4,
+"verse_end": null,
+"key": "Heb.13.4"
+},
+{
+"reference": "1 Peter 2:12",
+"book": "1Pe",
+"chapter": 2,
+"verse": 12,
+"verse_end": null,
+"key": "1Pe.2.12"
+},
+{
+"reference": "2 Peter 1:8",
+"book": "2Pe",
+"chapter": 1,
+"verse": 8,
+"verse_end": null,
+"key": "2Pe.1.8"
+},
+{
+"reference": "2 Peter 1:5",
+"book": "2Pe",
+"chapter": 1,
+"verse": 5,
+"verse_end": null,
+"key": "2Pe.1.5"
+},
+{
+"reference": "1 John 1:5",
+"book": "1Jn",
+"chapter": 1,
+"verse": 5,
+"verse_end": null,
+"key": "1Jn.1.5"
+},
+{
+"reference": "Hebrews 12:1",
+"book": "Heb",
+"chapter": 12,
+"verse": 1,
+"verse_end": null,
+"key": "Heb.12.1"
+},
+{
+"reference": "1 Peter 5:6",
+"book": "1Pe",
+"chapter": 5,
+"verse": 6,
+"verse_end": null,
+"key": "1Pe.5.6"
+},
+{
+"reference": "Hebrews 13:8",
+"book": "Heb",
+"chapter": 13,
+"verse": 8,
+"verse_end": null,
+"key": "Heb.13.8"
+},
+{
+"reference": "James 5:7",
+"book": "Jas",
+"chapter": 5,
+"verse": 7,
+"verse_end": null,
+"key": "Jas.5.7"
+},
+{
+"reference": "2 Peter 3:8",
+"book": "2Pe",
+"chapter": 3,
+"verse": 8,
+"verse_end": null,
+"key": "2Pe.3.8"
+},
+{
+"reference": "1 John 1:7",
+"book": "1Jn",
+"chapter": 1,
+"verse": 7,
+"verse_end": null,
+"key": "1Jn.1.7"
+},
+{
+"reference": "1 Peter 1:6",
+"book": "1Pe",
+"chapter": 1,
+"verse": 6,
+"verse_end": null,
+"key": "1Pe.1.6"
+},
+{
+"reference": "1 Peter 5:8",
+"book": "1Pe",
+"chapter": 5,
+"verse": 8,
+"verse_end": null,
+"key": "1Pe.5.8"
+},
+{
+"reference": "1 John 3:17",
+"book": "1Jn",
+"chapter": 3,
+"verse": 17,
+"verse_end": null,
+"key": "1Jn.3.17"
+},
+{
+"reference": "James 1:27",
+"book": "Jas",
+"chapter": 1,
+"verse": 27,
+"verse_end": null,
+"key": "Jas.1.27"
+},
+{
+"reference": "1 Peter 1:3",
+"book": "1Pe",
+"chapter": 1,
+"verse": 3,
+"verse_end": null,
+"key": "1Pe.1.3"
+},
+{
+"reference": "Philemon 1:18",
+"book": "Phm",
+"chapter": 1,
+"verse": 18,
+"verse_end": null,
+"key": "Phm.1.18"
+},
+{
+"reference": "Philemon 1:13",
+"book": "Phm",
+"chapter": 1,
+"verse": 13,
+"verse_end": null,
+"key": "Phm.1.13"
+},
+{
+"reference": "Philemon 1:9",
+"book": "Phm",
+"chapter": 1,
+"verse": 9,
+"verse_end": null,
+"key": "Phm.1.9"
+},
+{
+"reference": "Hebrews 10:25",
+"book": "Heb",
+"chapter": 10,
+"verse": 25,
+"verse_end": null,
+"key": "Heb.10.25"
+},
+{
+"reference": "2 Peter 1:3",
+"book": "2Pe",
+"chapter": 1,
+"verse": 3,
+"verse_end": null,
+"key": "2Pe.1.3"
+},
+{
+"reference": "2 Peter 1:16",
+"book": "2Pe",
+"chapter": 1,
+"verse": 16,
+"verse_end": null,
+"key": "2Pe.1.16"
+},
+{
+"reference": "1 John 4:19",
+"book": "1Jn",
+"chapter": 4,
+"verse": 19,
+"verse_end": null,
+"key": "1Jn.4.19"
+},
+{
+"reference": "2 John 1:9",
+"book": "2Jn",
+"chapter": 1,
+"verse": 9,
+"verse_end": null,
+"key": "2Jn.1.9"
+},
+{
+"reference": "Philemon 1:8",
+"book": "Phm",
+"chapter": 1,
+"verse": 8,
+"verse_end": null,
+"key": "Phm.1.8"
+},
+{
+"reference": "James 1:23",
+"book": "Jas",
+"chapter": 1,
+"verse": 23,
+"verse_end": null,
+"key": "Jas.1.23"
+},
+{
+"reference": "1 Peter 2:9",
+"book": "1Pe",
+"chapter": 2,
+"verse": 9,
+"verse_end": null,
+"key": "1Pe.2.9"
+},
+{
+"reference": "1 John 3:16",
+"book": "1Jn",
+"chapter": 3,
+"verse": 16,
+"verse_end": null,
+"key": "1Jn.3.16"
+},
+{
+"reference": "1 John 4:7",
+"book": "1Jn",
+"chapter": 4,
+"verse": 7,
+"verse_end": null,
+"key": "1Jn.4.7"
+},
+{
+"reference": "Hebrews 11:6",
+"book": "Heb",
+"chapter": 11,
+"verse": 6,
+"verse_end": null,
+"key": "Heb.11.6"
+},
+{
+"reference": "James 3:13",
+"book": "Jas",
+"chapter": 3,
+"verse": 13,
+"verse_end": null,
+"key": "Jas.3.13"
+},
+{
+"reference": "James 1:8",
+"book": "Jas",
+"chapter": 1,
+"verse": 8,
+"verse_end": null,
+"key": "Jas.1.8"
+},
+{
+"reference": "James 1:5",
+"book": "Jas",
+"chapter": 1,
+"verse": 5,
+"verse_end": null,
+"key": "Jas.1.5"
+},
+{
+"reference": "1 Peter 1:4",
+"book": "1Pe",
+"chapter": 1,
+"verse": 4,
+"verse_end": null,
+"key": "1Pe.1.4"
+},
+{
+"reference": "1 John 5:11",
+"book": "1Jn",
+"chapter": 5,
+"verse": 11,
+"verse_end": null,
+"key": "1Jn.5.11"
+},
+{
+"reference": "1 John 5:15",
+"book": "1Jn",
+"chapter": 5,
+"verse": 15,
+"verse_end": null,
+"key": "1Jn.5.15"
+},
+{
+"reference": "2 John 1:4",
+"book": "2Jn",
+"chapter": 1,
+"verse": 4,
+"verse_end": null,
+"key": "2Jn.1.4"
+},
+{
+"reference": "2 John 1:5",
+"book": "2Jn",
+"chapter": 1,
+"verse": 5,
+"verse_end": null,
+"key": "2Jn.1.5"
+},
+{
+"reference": "Hebrews 4:12",
+"book": "Heb",
+"chapter": 4,
+"verse": 12,
+"verse_end": null,
+"key": "Heb.4.12"
+},
+{
+"reference": "Hebrews 10:19",
+"book": "Heb",
+"chapter": 10,
+"verse": 19,
+"verse_end": null,
+"key": "Heb.10.19"
+},
+{
+"reference": "Hebrews 4:16",
+"book": "Heb",
+"chapter": 4,
+"verse": 16,
+"verse_end": null,
+"key": "Heb.4.16"
+},
+{
+"reference": "James 2:14",
+"book": "Jas",
+"chapter": 2,
+"verse": 14,
+"verse_end": null,
+"key": "Jas.2.14"
+},
+{
+"reference": "Hebrews 11:3",
+"book": "Heb",
+"chapter": 11,
+"verse": 3,
+"verse_end": null,
+"key": "Heb.11.3"
+},
+{
+"reference": "1 Peter 2:10",
+"book": "1Pe",
+"chapter": 2,
+"verse": 10,
+"verse_end": null,
+"key": "1Pe.2.10"
+},
+{
+"reference": "Hebrews 12:2",
+"book": "Heb",
+"chapter": 12,
+"verse": 2,
+"verse_end": null,
+"key": "Heb.12.2"
+},
+{
+"reference": "2 Peter 1:21",
+"book": "2Pe",
+"chapter": 1,
+"verse": 21,
+"verse_end": null,
+"key": "2Pe.1.21"
+},
+{
+"reference": "1 John 1:10",
+"book": "1Jn",
+"chapter": 1,
+"verse": 10,
+"verse_end": null,
+"key": "1Jn.1.10"
+},
+{
+"reference": "1 John 3:18",
+"book": "1Jn",
+"chapter": 3,
+"verse": 18,
+"verse_end": null,
+"key": "1Jn.3.18"
+},
+{
+"reference": "James 5:11",
+"book": "Jas",
+"chapter": 5,
+"verse": 11,
+"verse_end": null,
+"key": "Jas.5.11"
+},
+{
+"reference": "1 Peter 1:9",
+"book": "1Pe",
+"chapter": 1,
+"verse": 9,
+"verse_end": null,
+"key": "1Pe.1.9"
+},
+{
+"reference": "1 Peter 5:11",
+"book": "1Pe",
+"chapter": 5,
+"verse": 11,
+"verse_end": null,
+"key": "1Pe.5.11"
+},
+{
+"reference": "2 Peter 3:13",
+"book": "2Pe",
+"chapter": 3,
+"verse": 13,
+"verse_end": null,
+"key": "2Pe.3.13"
+},
+{
+"reference": "1 John 4:13",
+"book": "1Jn",
+"chapter": 4,
+"verse": 13,
+"verse_end": null,
+"key": "1Jn.4.13"
+},
+{
+"reference": "James 2:18",
+"book": "Jas",
+"chapter": 2,
+"verse": 18,
+"verse_end": null,
+"key": "Jas.2.18"
+},
+{
+"reference": "Hebrews 4:14",
+"book": "Heb",
+"chapter": 4,
+"verse": 14,
+"verse_end": null,
+"key": "Heb.4.14"
+},
+{
+"reference": "James 3:18",
+"book": "Jas",
+"chapter": 3,
+"verse": 18,
+"verse_end": null,
+"key": "Jas.3.18"
+},
+{
+"reference": "2 John 1:6",
+"book": "2Jn",
+"chapter": 1,
+"verse": 6,
+"verse_end": null,
+"key": "2Jn.1.6"
+},
+{
+"reference": "Jude 1:23",
+"book": "Jud",
+"chapter": 1,
+"verse": 23,
+"verse_end": null,
+"key": "Jud.1.23"
+},
+{
+"reference": "3 John 1:8",
+"book": "3Jn",
+"chapter": 1,
+"verse": 8,
+"verse_end": null,
+"key": "3Jn.1.8"
+},
+{
+"reference": "Revelation 3:14",
+"book": "Rev",
+"chapter": 3,
+"verse": 14,
+"verse_end": null,
+"key": "Rev.3.14"
+},
+{
+"reference": "3 John 1:12",
+"book": "3Jn",
+"chapter": 1,
+"verse": 12,
+"verse_end": null,
+"key": "3Jn.1.12"
+},
+{
+"reference": "Jude 1:21",
+"book": "Jud",
+"chapter": 1,
+"verse": 21,
+"verse_end": null,
+"key": "Jud.1.21"
+},
+{
+"reference": "3 John 1:2",
+"book": "3Jn",
+"chapter": 1,
+"verse": 2,
+"verse_end": null,
+"key": "3Jn.1.2"
+},
+{
+"reference": "Jude 1:25",
+"book": "Jud",
+"chapter": 1,
+"verse": 25,
+"verse_end": null,
+"key": "Jud.1.25"
+},
+{
+"reference": "Jude 1:22",
+"book": "Jud",
+"chapter": 1,
+"verse": 22,
+"verse_end": null,
+"key": "Jud.1.22"
+},
+{
+"reference": "Revelation 1:4",
+"book": "Rev",
+"chapter": 1,
+"verse": 4,
+"verse_end": null,
+"key": "Rev.1.4"
+},
+{
+"reference": "Revelation 5:9",
+"book": "Rev",
+"chapter": 5,
+"verse": 9,
+"verse_end": null,
+"key": "Rev.5.9"
+},
+{
+"reference": "3 John 1:11",
+"book": "3Jn",
+"chapter": 1,
+"verse": 11,
+"verse_end": null,
+"key": "3Jn.1.11"
+},
+{
+"reference": "Jude 1:20",
+"book": "Jud",
+"chapter": 1,
+"verse": 20,
+"verse_end": null,
+"key": "Jud.1.20"
+},
+{
+"reference": "Philippians 4:4",
+"book": "Php",
+"chapter": 4,
+"verse": 4,
+"verse_end": null,
+"key": "Php.4.4"
+},
+{
+"reference": "2 Thessalonians 2:15",
+"book": "2Th",
+"chapter": 2,
+"verse": 15,
+"verse_end": null,
+"key": "2Th.2.15"
+},
+{
+"reference": "1 Timothy 4:12",
+"book": "1Ti",
+"chapter": 4,
+"verse": 12,
+"verse_end": null,
+"key": "1Ti.4.12"
+},
+{
+"reference": "2 Timothy 1:6",
+"book": "2Ti",
+"chapter": 1,
+"verse": 6,
+"verse_end": null,
+"key": "2Ti.1.6"
+},
+{
+"reference": "Colossians 1:15",
+"book": "Col",
+"chapter": 1,
+"verse": 15,
+"verse_end": null,
+"key": "Col.1.15"
+},
+{
+"reference": "Colossians 1:17",
+"book": "Col",
+"chapter": 1,
+"verse": 17,
+"verse_end": null,
+"key": "Col.1.17"
+},
+{
+"reference": "Philippians 2:6",
+"book": "Php",
+"chapter": 2,
+"verse": 6,
+"verse_end": null,
+"key": "Php.2.6"
+},
+{
+"reference": "Philippians 2:2",
+"book": "Php",
+"chapter": 2,
+"verse": 2,
+"verse_end": null,
+"key": "Php.2.2"
+},
+{
+"reference": "Titus 3:3",
+"book": "Tit",
+"chapter": 3,
+"verse": 3,
+"verse_end": null,
+"key": "Tit.3.3"
+},
+{
+"reference": "1 Thessalonians 5:18",
+"book": "1Th",
+"chapter": 5,
+"verse": 18,
+"verse_end": null,
+"key": "1Th.5.18"
+},
+{
+"reference": "Ephesians 2:5",
+"book": "Eph",
+"chapter": 2,
+"verse": 5,
+"verse_end": null,
+"key": "Eph.2.5"
+},
+{
+"reference": "Philippians 2:1",
+"book": "Php",
+"chapter": 2,
+"verse": 1,
+"verse_end": null,
+"key": "Php.2.1"
+},
+{
+"reference": "2 Timothy 1:14",
+"book": "2Ti",
+"chapter": 1,
+"verse": 14,
+"verse_end": null,
+"key": "2Ti.1.14"
+},
+{
+"reference": "2 Timothy 3:15",
+"book": "2Ti",
+"chapter": 3,
+"verse": 15,
+"verse_end": null,
+"key": "2Ti.3.15"
+},
+{
+"reference": "Titus 2:14",
+"book": "Tit",
+"chapter": 2,
+"verse": 14,
+"verse_end": null,
+"key": "Tit.2.14"
+},
+{
+"reference": "Colossians 3:17",
+"book": "Col",
+"chapter": 3,
+"verse": 17,
+"verse_end": null,
+"key": "Col.3.17"
+},
+{
+"reference": "1 Thessalonians 5:12",
+"book": "1Th",
+"chapter": 5,
+"verse": 12,
+"verse_end": null,
+"key": "1Th.5.12"
+},
+{
+"reference": "2 Timothy 1:10",
+"book": "2Ti",
+"chapter": 1,
+"verse": 10,
+"verse_end": null,
+"key": "2Ti.1.10"
+},
+{
+"reference": "Ephesians 6:14",
+"book": "Eph",
+"chapter": 6,
+"verse": 14,
+"verse_end": null,
+"key": "Eph.6.14"
+},
+{
+"reference": "Philippians 4:10",
+"book": "Php",
+"chapter": 4,
+"verse": 10,
+"verse_end": null,
+"key": "Php.4.10"
+},
+{
+"reference": "Philippians 4:9",
+"book": "Php",
+"chapter": 4,
+"verse": 9,
+"verse_end": null,
+"key": "Php.4.9"
+},
+{
+"reference": "Colossians 1:20",
+"book": "Col",
+"chapter": 1,
+"verse": 20,
+"verse_end": null,
+"key": "Col.1.20"
+},
+{
+"reference": "Colossians 3:14",
+"book": "Col",
+"chapter": 3,
+"verse": 14,
+"verse_end": null,
+"key": "Col.3.14"
+},
+{
+"reference": "2 Thessalonians 2:13",
+"book": "2Th",
+"chapter": 2,
+"verse": 13,
+"verse_end": null,
+"key": "2Th.2.13"
+},
+{
+"reference": "1 Timothy 2:1",
+"book": "1Ti",
+"chapter": 2,
+"verse": 1,
+"verse_end": null,
+"key": "1Ti.2.1"
+},
+{
+"reference": "1 Thessalonians 4:18",
+"book": "1Th",
+"chapter": 4,
+"verse": 18,
+"verse_end": null,
+"key": "1Th.4.18"
+},
+{
+"reference": "Philippians 4:5",
+"book": "Php",
+"chapter": 4,
+"verse": 5,
+"verse_end": null,
+"key": "Php.4.5"
+},
+{
+"reference": "Philippians 4:11",
+"book": "Php",
+"chapter": 4,
+"verse": 11,
+"verse_end": null,
+"key": "Php.4.11"
+},
+{
+"reference": "Colossians 1:16",
+"book": "Col",
+"chapter": 1,
+"verse": 16,
+"verse_end": null,
+"key": "Col.1.16"
+},
+{
+"reference": "2 Thessalonians 3:5",
+"book": "2Th",
+"chapter": 3,
+"verse": 5,
+"verse_end": null,
+"key": "2Th.3.5"
+},
+{
+"reference": "Philippians 4:6",
+"book": "Php",
+"chapter": 4,
+"verse": 6,
+"verse_end": null,
+"key": "Php.4.6"
+},
+{
+"reference": "1 Thessalonians 4:15",
+"book": "1Th",
+"chapter": 4,
+"verse": 15,
+"verse_end": null,
+"key": "1Th.4.15"
+},
+{
+"reference": "2 Timothy 3:14",
+"book": "2Ti",
+"chapter": 3,
+"verse": 14,
+"verse_end": null,
+"key": "2Ti.3.14"
+},
+{
+"reference": "Colossians 3:4",
+"book": "Col",
+"chapter": 3,
+"verse": 4,
+"verse_end": null,
+"key": "Col.3.4"
+},
+{
+"reference": "1 Thessalonians 4:13",
+"book": "1Th",
+"chapter": 4,
+"verse": 13,
+"verse_end": null,
+"key": "1Th.4.13"
+},
+{
+"reference": "1 Timothy 2:3",
+"book": "1Ti",
+"chapter": 2,
+"verse": 3,
+"verse_end": null,
+"key": "1Ti.2.3"
+},
+{
+"reference": "Ephesians 4:3",
+"book": "Eph",
+"chapter": 4,
+"verse": 3,
+"verse_end": null,
+"key": "Eph.4.3"
+},
+{
+"reference": "Ephesians 2:2",
+"book": "Eph",
+"chapter": 2,
+"verse": 2,
+"verse_end": null,
+"key": "Eph.2.2"
+},
+{
+"reference": "1 Thessalonians 5:24",
+"book": "1Th",
+"chapter": 5,
+"verse": 24,
+"verse_end": null,
+"key": "1Th.5.24"
+},
+{
+"reference": "1 Timothy 6:12",
+"book": "1Ti",
+"chapter": 6,
+"verse": 12,
+"verse_end": null,
+"key": "1Ti.6.12"
+},
+{
+"reference": "Titus 2:12",
+"book": "Tit",
+"chapter": 2,
+"verse": 12,
+"verse_end": null,
+"key": "Tit.2.12"
+},
+{
+"reference": "Ephesians 1:4",
+"book": "Eph",
+"chapter": 1,
+"verse": 4,
+"verse_end": null,
+"key": "Eph.1.4"
+},
+{
+"reference": "Philippians 4:20",
+"book": "Php",
+"chapter": 4,
+"verse": 20,
+"verse_end": null,
+"key": "Php.4.20"
+},
+{
+"reference": "Colossians 3:2",
+"book": "Col",
+"chapter": 3,
+"verse": 2,
+"verse_end": null,
+"key": "Col.3.2"
+},
+{
+"reference": "1 Thessalonians 4:16",
+"book": "1Th",
+"chapter": 4,
+"verse": 16,
+"verse_end": null,
+"key": "1Th.4.16"
+},
+{
+"reference": "1 Timothy 4:6",
+"book": "1Ti",
+"chapter": 4,
+"verse": 6,
+"verse_end": null,
+"key": "1Ti.4.6"
+},
+{
+"reference": "Philippians 2:11",
+"book": "Php",
+"chapter": 2,
+"verse": 11,
+"verse_end": null,
+"key": "Php.2.11"
+},
+{
+"reference": "Colossians 3:1",
+"book": "Col",
+"chapter": 3,
+"verse": 1,
+"verse_end": null,
+"key": "Col.3.1"
+},
+{
+"reference": "1 Thessalonians 4:14",
+"book": "1Th",
+"chapter": 4,
+"verse": 14,
+"verse_end": null,
+"key": "1Th.4.14"
+},
+{
+"reference": "2 Thessalonians 2:17",
+"book": "2Th",
+"chapter": 2,
+"verse": 17,
+"verse_end": null,
+"key": "2Th.2.17"
+},
+{
+"reference": "1 Timothy 2:6",
+"book": "1Ti",
+"chapter": 2,
+"verse": 6,
+"verse_end": null,
+"key": "1Ti.2.6"
+},
+{
+"reference": "Philippians 4:15",
+"book": "Php",
+"chapter": 4,
+"verse": 15,
+"verse_end": null,
+"key": "Php.4.15"
+},
+{
+"reference": "Colossians 3:12",
+"book": "Col",
+"chapter": 3,
+"verse": 12,
+"verse_end": null,
+"key": "Col.3.12"
+},
+{
+"reference": "1 Thessalonians 5:13",
+"book": "1Th",
+"chapter": 5,
+"verse": 13,
+"verse_end": null,
+"key": "1Th.5.13"
+},
+{
+"reference": "2 Thessalonians 3:1",
+"book": "2Th",
+"chapter": 3,
+"verse": 1,
+"verse_end": null,
+"key": "2Th.3.1"
+},
+{
+"reference": "1 Timothy 6:6",
+"book": "1Ti",
+"chapter": 6,
+"verse": 6,
+"verse_end": null,
+"key": "1Ti.6.6"
+},
+{
+"reference": "Titus 2:11",
+"book": "Tit",
+"chapter": 2,
+"verse": 11,
+"verse_end": null,
+"key": "Tit.2.11"
+},
+{
+"reference": "2 Timothy 4:6",
+"book": "2Ti",
+"chapter": 4,
+"verse": 6,
+"verse_end": null,
+"key": "2Ti.4.6"
+},
+{
+"reference": "2 Timothy 3:17",
+"book": "2Ti",
+"chapter": 3,
+"verse": 17,
+"verse_end": null,
+"key": "2Ti.3.17"
+},
+{
+"reference": "2 Timothy 4:8",
+"book": "2Ti",
+"chapter": 4,
+"verse": 8,
+"verse_end": null,
+"key": "2Ti.4.8"
+},
+{
+"reference": "Titus 3:7",
+"book": "Tit",
+"chapter": 3,
+"verse": 7,
+"verse_end": null,
+"key": "Tit.3.7"
+},
+{
+"reference": "2 Corinthians 4:8",
+"book": "2Co",
+"chapter": 4,
+"verse": 8,
+"verse_end": null,
+"key": "2Co.4.8"
+},
+{
+"reference": "Ephesians 4:1",
+"book": "Eph",
+"chapter": 4,
+"verse": 1,
+"verse_end": null,
+"key": "Eph.4.1"
+},
+{
+"reference": "1 Corinthians 10:12",
+"book": "1Co",
+"chapter": 10,
+"verse": 12,
+"verse_end": null,
+"key": "1Co.10.12"
+},
+{
+"reference": "Galatians 2:20",
+"book": "Gal",
+"chapter": 2,
+"verse": 20,
+"verse_end": null,
+"key": "Gal.2.20"
+},
+{
+"reference": "Ephesians 2:10",
+"book": "Eph",
+"chapter": 2,
+"verse": 10,
+"verse_end": null,
+"key": "Eph.2.10"
+},
+{
+"reference": "Romans 8:3",
+"book": "Rom",
+"chapter": 8,
+"verse": 3,
+"verse_end": null,
+"key": "Rom.8.3"
+},
+{
+"reference": "1 Corinthians 1:21",
+"book": "1Co",
+"chapter": 1,
+"verse": 21,
+"verse_end": null,
+"key": "1Co.1.21"
+},
+{
+"reference": "1 Corinthians 15:52",
+"book": "1Co",
+"chapter": 15,
+"verse": 52,
+"verse_end": null,
+"key": "1Co.15.52"
+},
+{
+"reference": "1 Corinthians 1:20",
+"book": "1Co",
+"chapter": 1,
+"verse": 20,
+"verse_end": null,
+"key": "1Co.1.20"
+},
+{
+"reference": "2 Corinthians 5:17",
+"book": "2Co",
+"chapter": 5,
+"verse": 17,
+"verse_end": null,
+"key": "2Co.5.17"
+},
+{
+"reference": "Ephesians 6:10",
+"book": "Eph",
+"chapter": 6,
+"verse": 10,
+"verse_end": null,
+"key": "Eph.6.10"
+},
+{
+"reference": "1 Corinthians 1:18",
+"book": "1Co",
+"chapter": 1,
+"verse": 18,
+"verse_end": null,
+"key": "1Co.1.18"
+},
+{
+"reference": "1 Corinthians 13:7",
+"book": "1Co",
+"chapter": 13,
+"verse": 7,
+"verse_end": null,
+"key": "1Co.13.7"
+},
+{
+"reference": "1 Corinthians 13:2",
+"book": "1Co",
+"chapter": 13,
+"verse": 2,
+"verse_end": null,
+"key": "1Co.13.2"
+},
+{
+"reference": "1 Corinthians 15:53",
+"book": "1Co",
+"chapter": 15,
+"verse": 53,
+"verse_end": null,
+"key": "1Co.15.53"
+},
+{
+"reference": "Galatians 3:29",
+"book": "Gal",
+"chapter": 3,
+"verse": 29,
+"verse_end": null,
+"key": "Gal.3.29"
+},
+{
+"reference": "Galatians 5:19",
+"book": "Gal",
+"chapter": 5,
+"verse": 19,
+"verse_end": null,
+"key": "Gal.5.19"
+},
+{
+"reference": "1 Corinthians 15:58",
+"book": "1Co",
+"chapter": 15,
+"verse": 58,
+"verse_end": null,
+"key": "1Co.15.58"
+},
+{
+"reference": "2 Corinthians 5:19",
+"book": "2Co",
+"chapter": 5,
+"verse": 19,
+"verse_end": null,
+"key": "2Co.5.19"
+},
+{
+"reference": "Galatians 2:19",
+"book": "Gal",
+"chapter": 2,
+"verse": 19,
+"verse_end": null,
+"key": "Gal.2.19"
+},
+{
+"reference": "Romans 12:3",
+"book": "Rom",
+"chapter": 12,
+"verse": 3,
+"verse_end": null,
+"key": "Rom.12.3"
+},
+{
+"reference": "2 Corinthians 1:5",
+"book": "2Co",
+"chapter": 1,
+"verse": 5,
+"verse_end": null,
+"key": "2Co.1.5"
+},
+{
+"reference": "Galatians 2:21",
+"book": "Gal",
+"chapter": 2,
+"verse": 21,
+"verse_end": null,
+"key": "Gal.2.21"
+},
+{
+"reference": "Ephesians 1:14",
+"book": "Eph",
+"chapter": 1,
+"verse": 14,
+"verse_end": null,
+"key": "Eph.1.14"
+},
+{
+"reference": "Romans 12:10",
+"book": "Rom",
+"chapter": 12,
+"verse": 10,
+"verse_end": null,
+"key": "Rom.12.10"
+},
+{
+"reference": "1 Corinthians 10:13",
+"book": "1Co",
+"chapter": 10,
+"verse": 13,
+"verse_end": null,
+"key": "1Co.10.13"
+},
+{
+"reference": "2 Corinthians 5:18",
+"book": "2Co",
+"chapter": 5,
+"verse": 18,
+"verse_end": null,
+"key": "2Co.5.18"
+},
+{
+"reference": "1 Corinthians 13:13",
+"book": "1Co",
+"chapter": 13,
+"verse": 13,
+"verse_end": null,
+"key": "1Co.13.13"
+},
+{
+"reference": "Galatians 5:25",
+"book": "Gal",
+"chapter": 5,
+"verse": 25,
+"verse_end": null,
+"key": "Gal.5.25"
+},
+{
+"reference": "Romans 8:27",
+"book": "Rom",
+"chapter": 8,
+"verse": 27,
+"verse_end": null,
+"key": "Rom.8.27"
+},
+{
+"reference": "1 Corinthians 15:54",
+"book": "1Co",
+"chapter": 15,
+"verse": 54,
+"verse_end": null,
+"key": "1Co.15.54"
+},
+{
+"reference": "Galatians 5:13",
+"book": "Gal",
+"chapter": 5,
+"verse": 13,
+"verse_end": null,
+"key": "Gal.5.13"
+},
+{
+"reference": "Ephesians 2:1",
+"book": "Eph",
+"chapter": 2,
+"verse": 1,
+"verse_end": null,
+"key": "Eph.2.1"
+},
+{
+"reference": "Ephesians 6:18",
+"book": "Eph",
+"chapter": 6,
+"verse": 18,
+"verse_end": null,
+"key": "Eph.6.18"
+},
+{
+"reference": "2 Corinthians 1:7",
+"book": "2Co",
+"chapter": 1,
+"verse": 7,
+"verse_end": null,
+"key": "2Co.1.7"
+},
+{
+"reference": "Galatians 3:26",
+"book": "Gal",
+"chapter": 3,
+"verse": 26,
+"verse_end": null,
+"key": "Gal.3.26"
+},
+{
+"reference": "Galatians 3:27",
+"book": "Gal",
+"chapter": 3,
+"verse": 27,
+"verse_end": null,
+"key": "Gal.3.27"
+},
+{
+"reference": "Ephesians 4:6",
+"book": "Eph",
+"chapter": 4,
+"verse": 6,
+"verse_end": null,
+"key": "Eph.4.6"
+},
+{
+"reference": "Romans 5:3",
+"book": "Rom",
+"chapter": 5,
+"verse": 3,
+"verse_end": null,
+"key": "Rom.5.3"
+},
+{
+"reference": "1 Corinthians 1:25",
+"book": "1Co",
+"chapter": 1,
+"verse": 25,
+"verse_end": null,
+"key": "1Co.1.25"
+},
+{
+"reference": "2 Corinthians 1:3",
+"book": "2Co",
+"chapter": 1,
+"verse": 3,
+"verse_end": null,
+"key": "2Co.1.3"
+},
+{
+"reference": "1 Corinthians 13:3",
+"book": "1Co",
+"chapter": 13,
+"verse": 3,
+"verse_end": null,
+"key": "1Co.13.3"
+},
+{
+"reference": "Ephesians 1:3",
+"book": "Eph",
+"chapter": 1,
+"verse": 3,
+"verse_end": null,
+"key": "Eph.1.3"
+},
+{
+"reference": "Ephesians 1:8",
+"book": "Eph",
+"chapter": 1,
+"verse": 8,
+"verse_end": null,
+"key": "Eph.1.8"
+},
+{
+"reference": "1 Corinthians 15:51",
+"book": "1Co",
+"chapter": 15,
+"verse": 51,
+"verse_end": null,
+"key": "1Co.15.51"
+},
+{
+"reference": "2 Corinthians 4:7",
+"book": "2Co",
+"chapter": 4,
+"verse": 7,
+"verse_end": null,
+"key": "2Co.4.7"
+},
+{
+"reference": "2 Corinthians 12:8",
+"book": "2Co",
+"chapter": 12,
+"verse": 8,
+"verse_end": null,
+"key": "2Co.12.8"
+},
+{
+"reference": "2 Corinthians 1:4",
+"book": "2Co",
+"chapter": 1,
+"verse": 4,
+"verse_end": null,
+"key": "2Co.1.4"
+},
+{
+"reference": "1 Corinthians 10:11",
+"book": "1Co",
+"chapter": 10,
+"verse": 11,
+"verse_end": null,
+"key": "1Co.10.11"
+},
+{
+"reference": "1 Corinthians 1:19",
+"book": "1Co",
+"chapter": 1,
+"verse": 19,
+"verse_end": null,
+"key": "1Co.1.19"
+},
+{
+"reference": "2 Corinthians 12:7",
+"book": "2Co",
+"chapter": 12,
+"verse": 7,
+"verse_end": null,
+"key": "2Co.12.7"
+},
+{
+"reference": "2 Corinthians 5:21",
+"book": "2Co",
+"chapter": 5,
+"verse": 21,
+"verse_end": null,
+"key": "2Co.5.21"
+},
+{
+"reference": "Galatians 3:28",
+"book": "Gal",
+"chapter": 3,
+"verse": 28,
+"verse_end": null,
+"key": "Gal.3.28"
+},
+{
+"reference": "1 Corinthians 13:1",
+"book": "1Co",
+"chapter": 13,
+"verse": 1,
+"verse_end": null,
+"key": "1Co.13.1"
+},
+{
+"reference": "2 Corinthians 4:18",
+"book": "2Co",
+"chapter": 4,
+"verse": 18,
+"verse_end": null,
+"key": "2Co.4.18"
+},
+{
+"reference": "2 Corinthians 12:10",
+"book": "2Co",
+"chapter": 12,
+"verse": 10,
+"verse_end": null,
+"key": "2Co.12.10"
+},
+{
+"reference": "2 Corinthians 4:12",
+"book": "2Co",
+"chapter": 4,
+"verse": 12,
+"verse_end": null,
+"key": "2Co.4.12"
+},
+{
+"reference": "John 1:9",
+"book": "Jhn",
+"chapter": 1,
+"verse": 9,
+"verse_end": null,
+"key": "Jhn.1.9"
+},
+{
+"reference": "John 4:23",
+"book": "Jhn",
+"chapter": 4,
+"verse": 23,
+"verse_end": null,
+"key": "Jhn.4.23"
+},
+{
+"reference": "John 20:27",
+"book": "Jhn",
+"chapter": 20,
+"verse": 27,
+"verse_end": null,
+"key": "Jhn.20.27"
+},
+{
+"reference": "Romans 12:1",
+"book": "Rom",
+"chapter": 12,
+"verse": 1,
+"verse_end": null,
+"key": "Rom.12.1"
+},
+{
+"reference": "Romans 12:4",
+"book": "Rom",
+"chapter": 12,
+"verse": 4,
+"verse_end": null,
+"key": "Rom.12.4"
+},
+{
+"reference": "John 3:21",
+"book": "Jhn",
+"chapter": 3,
+"verse": 21,
+"verse_end": null,
+"key": "Jhn.3.21"
+},
+{
+"reference": "John 15:7",
+"book": "Jhn",
+"chapter": 15,
+"verse": 7,
+"verse_end": null,
+"key": "Jhn.15.7"
+},
+{
+"reference": "John 10:8",
+"book": "Jhn",
+"chapter": 10,
+"verse": 8,
+"verse_end": null,
+"key": "Jhn.10.8"
+},
+{
+"reference": "Acts 2:8",
+"book": "Act",
+"chapter": 2,
+"verse": 8,
+"verse_end": null,
+"key": "Act.2.8"
+},
+{
+"reference": "Acts 2:47",
+"book": "Act",
+"chapter": 2,
+"verse": 47,
+"verse_end": null,
+"key": "Act.2.47"
+},
+{
+"reference": "Acts 2:2",
+"book": "Act",
+"chapter": 2,
+"verse": 2,
+"verse_end": null,
+"key": "Act.2.2"
+},
+{
+"reference": "Acts 2:38",
+"book": "Act",
+"chapter": 2,
+"verse": 38,
+"verse_end": null,
+"key": "Act.2.38"
+},
+{
+"reference": "John 10:12",
+"book": "Jhn",
+"chapter": 10,
+"verse": 12,
+"verse_end": null,
+"key": "Jhn.10.12"
+},
+{
+"reference": "Romans 8:11",
+"book": "Rom",
+"chapter": 8,
+"verse": 11,
+"verse_end": null,
+"key": "Rom.8.11"
+},
+{
+"reference": "Romans 12:21",
+"book": "Rom",
+"chapter": 12,
+"verse": 21,
+"verse_end": null,
+"key": "Rom.12.21"
+},
+{
+"reference": "John 1:18",
+"book": "Jhn",
+"chapter": 1,
+"verse": 18,
+"verse_end": null,
+"key": "Jhn.1.18"
+},
+{
+"reference": "John 3:17",
+"book": "Jhn",
+"chapter": 3,
+"verse": 17,
+"verse_end": null,
+"key": "Jhn.3.17"
+},
+{
+"reference": "Romans 5:8",
+"book": "Rom",
+"chapter": 5,
+"verse": 8,
+"verse_end": null,
+"key": "Rom.5.8"
+},
+{
+"reference": "John 4:26",
+"book": "Jhn",
+"chapter": 4,
+"verse": 26,
+"verse_end": null,
+"key": "Jhn.4.26"
+},
+{
+"reference": "John 20:31",
+"book": "Jhn",
+"chapter": 20,
+"verse": 31,
+"verse_end": null,
+"key": "Jhn.20.31"
+},
+{
+"reference": "Acts 16:34",
+"book": "Act",
+"chapter": 16,
+"verse": 34,
+"verse_end": null,
+"key": "Act.16.34"
+},
+{
+"reference": "Romans 8:26",
+"book": "Rom",
+"chapter": 8,
+"verse": 26,
+"verse_end": null,
+"key": "Rom.8.26"
+},
+{
+"reference": "Romans 5:4",
+"book": "Rom",
+"chapter": 5,
+"verse": 4,
+"verse_end": null,
+"key": "Rom.5.4"
+},
+{
+"reference": "Acts 17:28",
+"book": "Act",
+"chapter": 17,
+"verse": 28,
+"verse_end": null,
+"key": "Act.17.28"
+},
+{
+"reference": "Acts 16:29",
+"book": "Act",
+"chapter": 16,
+"verse": 29,
+"verse_end": null,
+"key": "Act.16.29"
+},
+{
+"reference": "Romans 5:1",
+"book": "Rom",
+"chapter": 5,
+"verse": 1,
+"verse_end": null,
+"key": "Rom.5.1"
+},
+{
+"reference": "John 15:13",
+"book": "Jhn",
+"chapter": 15,
+"verse": 13,
+"verse_end": null,
+"key": "Jhn.15.13"
+},
+{
+"reference": "John 1:2",
+"book": "Jhn",
+"chapter": 1,
+"verse": 2,
+"verse_end": null,
+"key": "Jhn.1.2"
+},
+{
+"reference": "John 3:15",
+"book": "Jhn",
+"chapter": 3,
+"verse": 15,
+"verse_end": null,
+"key": "Jhn.3.15"
+},
+{
+"reference": "Romans 8:6",
+"book": "Rom",
+"chapter": 8,
+"verse": 6,
+"verse_end": null,
+"key": "Rom.8.6"
+},
+{
+"reference": "John 14:4",
+"book": "Jhn",
+"chapter": 14,
+"verse": 4,
+"verse_end": null,
+"key": "Jhn.14.4"
+},
+{
+"reference": "Acts 16:25",
+"book": "Act",
+"chapter": 16,
+"verse": 25,
+"verse_end": null,
+"key": "Act.16.25"
+},
+{
+"reference": "Acts 17:25",
+"book": "Act",
+"chapter": 17,
+"verse": 25,
+"verse_end": null,
+"key": "Act.17.25"
+},
+{
+"reference": "Acts 1:11",
+"book": "Act",
+"chapter": 1,
+"verse": 11,
+"verse_end": null,
+"key": "Act.1.11"
+},
+{
+"reference": "Acts 1:7",
+"book": "Act",
+"chapter": 1,
+"verse": 7,
+"verse_end": null,
+"key": "Act.1.7"
+},
+{
+"reference": "Romans 12:9",
+"book": "Rom",
+"chapter": 12,
+"verse": 9,
+"verse_end": null,
+"key": "Rom.12.9"
+},
+{
+"reference": "Acts 1:6",
+"book": "Act",
+"chapter": 1,
+"verse": 6,
+"verse_end": null,
+"key": "Act.1.6"
+},
+{
+"reference": "Acts 1:8",
+"book": "Act",
+"chapter": 1,
+"verse": 8,
+"verse_end": null,
+"key": "Act.1.8"
+},
+{
+"reference": "Acts 2:4",
+"book": "Act",
+"chapter": 2,
+"verse": 4,
+"verse_end": null,
+"key": "Act.2.4"
+},
+{
+"reference": "Acts 1:9",
+"book": "Act",
+"chapter": 1,
+"verse": 9,
+"verse_end": null,
+"key": "Act.1.9"
+},
+{
+"reference": "Romans 8:1",
+"book": "Rom",
+"chapter": 8,
+"verse": 1,
+"verse_end": null,
+"key": "Rom.8.1"
+},
+{
+"reference": "John 14:7",
+"book": "Jhn",
+"chapter": 14,
+"verse": 7,
+"verse_end": null,
+"key": "Jhn.14.7"
+},
+{
+"reference": "John 14:2",
+"book": "Jhn",
+"chapter": 14,
+"verse": 2,
+"verse_end": null,
+"key": "Jhn.14.2"
+},
+{
+"reference": "John 15:2",
+"book": "Jhn",
+"chapter": 15,
+"verse": 2,
+"verse_end": null,
+"key": "Jhn.15.2"
+},
+{
+"reference": "Acts 2:37",
+"book": "Act",
+"chapter": 2,
+"verse": 37,
+"verse_end": null,
+"key": "Act.2.37"
+},
+{
+"reference": "Acts 16:26",
+"book": "Act",
+"chapter": 16,
+"verse": 26,
+"verse_end": null,
+"key": "Act.16.26"
+},
+{
+"reference": "Acts 2:3",
+"book": "Act",
+"chapter": 2,
+"verse": 3,
+"verse_end": null,
+"key": "Act.2.3"
+},
+{
+"reference": "Romans 8:39",
+"book": "Rom",
+"chapter": 8,
+"verse": 39,
+"verse_end": null,
+"key": "Rom.8.39"
+},
+{
+"reference": "John 4:22",
+"book": "Jhn",
+"chapter": 4,
+"verse": 22,
+"verse_end": null,
+"key": "Jhn.4.22"
+},
+{
+"reference": "Acts 2:1",
+"book": "Act",
+"chapter": 2,
+"verse": 1,
+"verse_end": null,
+"key": "Act.2.1"
+},
+{
+"reference": "Romans 8:32",
+"book": "Rom",
+"chapter": 8,
+"verse": 32,
+"verse_end": null,
+"key": "Rom.8.32"
+},
+{
+"reference": "John 10:18",
+"book": "Jhn",
+"chapter": 10,
+"verse": 18,
+"verse_end": null,
+"key": "Jhn.10.18"
+},
+{
+"reference": "Acts 2:42",
+"book": "Act",
+"chapter": 2,
+"verse": 42,
+"verse_end": null,
+"key": "Act.2.42"
+},
+{
+"reference": "Acts 17:23",
+"book": "Act",
+"chapter": 17,
+"verse": 23,
+"verse_end": null,
+"key": "Act.17.23"
+},
+{
+"reference": "Romans 12:15",
+"book": "Rom",
+"chapter": 12,
+"verse": 15,
+"verse_end": null,
+"key": "Rom.12.15"
+},
+{
+"reference": "Acts 17:22",
+"book": "Act",
+"chapter": 17,
+"verse": 22,
+"verse_end": null,
+"key": "Act.17.22"
+},
+{
+"reference": "Romans 12:8",
+"book": "Rom",
+"chapter": 12,
+"verse": 8,
+"verse_end": null,
+"key": "Rom.12.8"
+},
+{
+"reference": "Romans 5:2",
+"book": "Rom",
+"chapter": 5,
+"verse": 2,
+"verse_end": null,
+"key": "Rom.5.2"
+},
+{
+"reference": "Romans 8:2",
+"book": "Rom",
+"chapter": 8,
+"verse": 2,
+"verse_end": null,
+"key": "Rom.8.2"
+},
+{
+"reference": "Luke 10:25",
+"book": "Luk",
+"chapter": 10,
+"verse": 25,
+"verse_end": null,
+"key": "Luk.10.25"
+},
+{
+"reference": "John 1:1",
+"book": "Jhn",
+"chapter": 1,
+"verse": 1,
+"verse_end": null,
+"key": "Jhn.1.1"
+},
+{
+"reference": "Luke 2:11",
+"book": "Luk",
+"chapter": 2,
+"verse": 11,
+"verse_end": null,
+"key": "Luk.2.11"
+},
+{
+"reference": "John 10:7",
+"book": "Jhn",
+"chapter": 10,
+"verse": 7,
+"verse_end": null,
+"key": "Jhn.10.7"
+},
+{
+"reference": "Luke 1:46",
+"book": "Luk",
+"chapter": 1,
+"verse": 46,
+"verse_end": null,
+"key": "Luk.1.46"
+},
+{
+"reference": "Luke 24:36",
+"book": "Luk",
+"chapter": 24,
+"verse": 36,
+"verse_end": null,
+"key": "Luk.24.36"
+},
+{
+"reference": "Luke 1:50",
+"book": "Luk",
+"chapter": 1,
+"verse": 50,
+"verse_end": null,
+"key": "Luk.1.50"
+},
+{
+"reference": "Luke 4:18",
+"book": "Luk",
+"chapter": 4,
+"verse": 18,
+"verse_end": null,
+"key": "Luk.4.18"
+},
+{
+"reference": "Luke 1:47",
+"book": "Luk",
+"chapter": 1,
+"verse": 47,
+"verse_end": null,
+"key": "Luk.1.47"
+},
+{
+"reference": "Luke 15:18",
+"book": "Luk",
+"chapter": 15,
+"verse": 18,
+"verse_end": null,
+"key": "Luk.15.18"
+},
+{
+"reference": "Luke 24:37",
+"book": "Luk",
+"chapter": 24,
+"verse": 37,
+"verse_end": null,
+"key": "Luk.24.37"
+},
+{
+"reference": "John 3:14",
+"book": "Jhn",
+"chapter": 3,
+"verse": 14,
+"verse_end": null,
+"key": "Jhn.3.14"
+},
+{
+"reference": "Luke 2:14",
+"book": "Luk",
+"chapter": 2,
+"verse": 14,
+"verse_end": null,
+"key": "Luk.2.14"
+},
+{
+"reference": "Luke 24:42",
+"book": "Luk",
+"chapter": 24,
+"verse": 42,
+"verse_end": null,
+"key": "Luk.24.42"
+},
+{
+"reference": "Luke 4:17",
+"book": "Luk",
+"chapter": 4,
+"verse": 17,
+"verse_end": null,
+"key": "Luk.4.17"
+},
+{
+"reference": "John 4:21",
+"book": "Jhn",
+"chapter": 4,
+"verse": 21,
+"verse_end": null,
+"key": "Jhn.4.21"
+},
+{
+"reference": "John 14:1",
+"book": "Jhn",
+"chapter": 14,
+"verse": 1,
+"verse_end": null,
+"key": "Jhn.14.1"
+},
+{
+"reference": "Mark 10:44",
+"book": "Mrk",
+"chapter": 10,
+"verse": 44,
+"verse_end": null,
+"key": "Mrk.10.44"
+},
+{
+"reference": "Luke 15:17",
+"book": "Luk",
+"chapter": 15,
+"verse": 17,
+"verse_end": null,
+"key": "Luk.15.17"
+},
+{
+"reference": "Luke 10:31",
+"book": "Luk",
+"chapter": 10,
+"verse": 31,
+"verse_end": null,
+"key": "Luk.10.31"
+},
+{
+"reference": "Luke 2:9",
+"book": "Luk",
+"chapter": 2,
+"verse": 9,
+"verse_end": null,
+"key": "Luk.2.9"
+},
+{
+"reference": "Luke 10:37",
+"book": "Luk",
+"chapter": 10,
+"verse": 37,
+"verse_end": null,
+"key": "Luk.10.37"
+},
+{
+"reference": "Luke 15:24",
+"book": "Luk",
+"chapter": 15,
+"verse": 24,
+"verse_end": null,
+"key": "Luk.15.24"
+},
+{
+"reference": "Luke 10:26",
+"book": "Luk",
+"chapter": 10,
+"verse": 26,
+"verse_end": null,
+"key": "Luk.10.26"
+},
+{
+"reference": "Luke 4:21",
+"book": "Luk",
+"chapter": 4,
+"verse": 21,
+"verse_end": null,
+"key": "Luk.4.21"
+},
+{
+"reference": "Luke 24:49",
+"book": "Luk",
+"chapter": 24,
+"verse": 49,
+"verse_end": null,
+"key": "Luk.24.49"
+},
+{
+"reference": "John 15:1",
+"book": "Jhn",
+"chapter": 15,
+"verse": 1,
+"verse_end": null,
+"key": "Jhn.15.1"
+},
+{
+"reference": "Luke 4:16",
+"book": "Luk",
+"chapter": 4,
+"verse": 16,
+"verse_end": null,
+"key": "Luk.4.16"
+},
+{
+"reference": "Luke 2:8",
+"book": "Luk",
+"chapter": 2,
+"verse": 8,
+"verse_end": null,
+"key": "Luk.2.8"
+},
+{
+"reference": "Luke 1:55",
+"book": "Luk",
+"chapter": 1,
+"verse": 55,
+"verse_end": null,
+"key": "Luk.1.55"
+},
+{
+"reference": "John 20:24",
+"book": "Jhn",
+"chapter": 20,
+"verse": 24,
+"verse_end": null,
+"key": "Jhn.20.24"
+},
+{
+"reference": "Luke 15:20",
+"book": "Luk",
+"chapter": 15,
+"verse": 20,
+"verse_end": null,
+"key": "Luk.15.20"
+},
+{
+"reference": "Mark 10:43",
+"book": "Mrk",
+"chapter": 10,
+"verse": 43,
+"verse_end": null,
+"key": "Mrk.10.43"
+},
+{
+"reference": "Mark 4:35",
+"book": "Mrk",
+"chapter": 4,
+"verse": 35,
+"verse_end": null,
+"key": "Mrk.4.35"
+},
+{
+"reference": "Mark 12:28",
+"book": "Mrk",
+"chapter": 12,
+"verse": 28,
+"verse_end": null,
+"key": "Mrk.12.28"
+},
+{
+"reference": "Mark 8:36",
+"book": "Mrk",
+"chapter": 8,
+"verse": 36,
+"verse_end": null,
+"key": "Mrk.8.36"
+},
+{
+"reference": "Mark 10:42",
+"book": "Mrk",
+"chapter": 10,
+"verse": 42,
+"verse_end": null,
+"key": "Mrk.10.42"
+},
+{
+"reference": "Mark 10:45",
+"book": "Mrk",
+"chapter": 10,
+"verse": 45,
+"verse_end": null,
+"key": "Mrk.10.45"
+},
+{
+"reference": "Mark 4:41",
+"book": "Mrk",
+"chapter": 4,
+"verse": 41,
+"verse_end": null,
+"key": "Mrk.4.41"
+},
+{
+"reference": "Mark 12:34",
+"book": "Mrk",
+"chapter": 12,
+"verse": 34,
+"verse_end": null,
+"key": "Mrk.12.34"
+},
+{
+"reference": "Mark 8:38",
+"book": "Mrk",
+"chapter": 8,
+"verse": 38,
+"verse_end": null,
+"key": "Mrk.8.38"
+},
+{
+"reference": "Mark 1:20",
+"book": "Mrk",
+"chapter": 1,
+"verse": 20,
+"verse_end": null,
+"key": "Mrk.1.20"
+},
+{
+"reference": "Mark 8:35",
+"book": "Mrk",
+"chapter": 8,
+"verse": 35,
+"verse_end": null,
+"key": "Mrk.8.35"
+},
+{
+"reference": "Mark 1:17",
+"book": "Mrk",
+"chapter": 1,
+"verse": 17,
+"verse_end": null,
+"key": "Mrk.1.17"
+},
+{
+"reference": "Mark 1:14",
+"book": "Mrk",
+"chapter": 1,
+"verse": 14,
+"verse_end": null,
+"key": "Mrk.1.14"
+},
+{
+"reference": "Mark 8:34",
+"book": "Mrk",
+"chapter": 8,
+"verse": 34,
+"verse_end": null,
+"key": "Mrk.8.34"
+},
+{
+"reference": "Matthew 22:35",
+"book": "Mat",
+"chapter": 22,
+"verse": 35,
+"verse_end": null,
+"key": "Mat.22.35"
+},
+{
+"reference": "Mark 1:15",
+"book": "Mrk",
+"chapter": 1,
+"verse": 15,
+"verse_end": null,
+"key": "Mrk.1.15"
+},
+{
+"reference": "Mark 4:38",
+"book": "Mrk",
+"chapter": 4,
+"verse": 38,
+"verse_end": null,
+"key": "Mrk.4.38"
+},
+{
+"reference": "Mark 4:36",
+"book": "Mrk",
+"chapter": 4,
+"verse": 36,
+"verse_end": null,
+"key": "Mrk.4.36"
+},
+{
+"reference": "Mark 12:31",
+"book": "Mrk",
+"chapter": 12,
+"verse": 31,
+"verse_end": null,
+"key": "Mrk.12.31"
+},
+{
+"reference": "Matthew 5:12",
+"book": "Mat",
+"chapter": 5,
+"verse": 12,
+"verse_end": null,
+"key": "Mat.5.12"
+},
+{
+"reference": "Matthew 5:2",
+"book": "Mat",
+"chapter": 5,
+"verse": 2,
+"verse_end": null,
+"key": "Mat.5.2"
+},
+{
+"reference": "Matthew 6:26",
+"book": "Mat",
+"chapter": 6,
+"verse": 26,
+"verse_end": null,
+"key": "Mat.6.26"
+},
+{
+"reference": "Malachi 4:1",
+"book": "Mal",
+"chapter": 4,
+"verse": 1,
+"verse_end": null,
+"key": "Mal.4.1"
+},
+{
+"reference": "Matthew 5:1",
+"book": "Mat",
+"chapter": 5,
+"verse": 1,
+"verse_end": null,
+"key": "Mat.5.1"
+},
+{
+"reference": "Matthew 22:34",
+"book": "Mat",
+"chapter": 22,
+"verse": 34,
+"verse_end": null,
+"key": "Mat.22.34"
+},
+{
+"reference": "Matthew 22:37",
+"book": "Mat",
+"chapter": 22,
+"verse": 37,
+"verse_end": null,
+"key": "Mat.22.37"
+},
+{
+"reference": "Matthew 11:30",
+"book": "Mat",
+"chapter": 11,
+"verse": 30,
+"verse_end": null,
+"key": "Mat.11.30"
+},
+{
+"reference": "Matthew 6:13",
+"book": "Mat",
+"chapter": 6,
+"verse": 13,
+"verse_end": null,
+"key": "Mat.6.13"
+},
+{
+"reference": "Matthew 6:34",
+"book": "Mat",
+"chapter": 6,
+"verse": 34,
+"verse_end": null,
+"key": "Mat.6.34"
+},
+{
+"reference": "Matthew 11:27",
+"book": "Mat",
+"chapter": 11,
+"verse": 27,
+"verse_end": null,
+"key": "Mat.11.27"
+},
+{
+"reference": "Zechariah 4:7",
+"book": "Zec",
+"chapter": 4,
+"verse": 7,
+"verse_end": null,
+"key": "Zec.4.7"
+},
+{
+"reference": "Matthew 6:11",
+"book": "Mat",
+"chapter": 6,
+"verse": 11,
+"verse_end": null,
+"key": "Mat.6.11"
+},
+{
+"reference": "Matthew 11:26",
+"book": "Mat",
+"chapter": 11,
+"verse": 26,
+"verse_end": null,
+"key": "Mat.11.26"
+},
+{
+"reference": "Zechariah 9:10",
+"book": "Zec",
+"chapter": 9,
+"verse": 10,
+"verse_end": null,
+"key": "Zec.9.10"
+},
+{
+"reference": "Malachi 3:1",
+"book": "Mal",
+"chapter": 3,
+"verse": 1,
+"verse_end": null,
+"key": "Mal.3.1"
+},
+{
+"reference": "Malachi 3:3",
+"book": "Mal",
+"chapter": 3,
+"verse": 3,
+"verse_end": null,
+"key": "Mal.3.3"
+},
+{
+"reference": "Malachi 4:6",
+"book": "Mal",
+"chapter": 4,
+"verse": 6,
+"verse_end": null,
+"key": "Mal.4.6"
+},
+{
+"reference": "Zechariah 4:8",
+"book": "Zec",
+"chapter": 4,
+"verse": 8,
+"verse_end": null,
+"key": "Zec.4.8"
+},
+{
+"reference": "Zechariah 4:9",
+"book": "Zec",
+"chapter": 4,
+"verse": 9,
+"verse_end": null,
+"key": "Zec.4.9"
+},
+{
+"reference": "Malachi 4:3",
+"book": "Mal",
+"chapter": 4,
+"verse": 3,
+"verse_end": null,
+"key": "Mal.4.3"
+},
+{
+"reference": "Matthew 6:9",
+"book": "Mat",
+"chapter": 6,
+"verse": 9,
+"verse_end": null,
+"key": "Mat.6.9"
+},
+{
+"reference": "Matthew 22:40",
+"book": "Mat",
+"chapter": 22,
+"verse": 40,
+"verse_end": null,
+"key": "Mat.22.40"
+},
+{
+"reference": "Matthew 5:6",
+"book": "Mat",
+"chapter": 5,
+"verse": 6,
+"verse_end": null,
+"key": "Mat.5.6"
+},
+{
+"reference": "Matthew 6:10",
+"book": "Mat",
+"chapter": 6,
+"verse": 10,
+"verse_end": null,
+"key": "Mat.6.10"
+},
+{
+"reference": "Malachi 3:6",
+"book": "Mal",
+"chapter": 3,
+"verse": 6,
+"verse_end": null,
+"key": "Mal.3.6"
+},
+{
+"reference": "Matthew 6:25",
+"book": "Mat",
+"chapter": 6,
+"verse": 25,
+"verse_end": null,
+"key": "Mat.6.25"
+},
+{
+"reference": "Matthew 28:18",
+"book": "Mat",
+"chapter": 28,
+"verse": 18,
+"verse_end": null,
+"key": "Mat.28.18"
+},
+{
+"reference": "Matthew 11:25",
+"book": "Mat",
+"chapter": 11,
+"verse": 25,
+"verse_end": null,
+"key": "Mat.11.25"
+},
+{
+"reference": "Matthew 28:16",
+"book": "Mat",
+"chapter": 28,
+"verse": 16,
+"verse_end": null,
+"key": "Mat.28.16"
+},
+{
+"reference": "Matthew 6:29",
+"book": "Mat",
+"chapter": 6,
+"verse": 29,
+"verse_end": null,
+"key": "Mat.6.29"
+},
+{
+"reference": "Zechariah 4:10",
+"book": "Zec",
+"chapter": 4,
+"verse": 10,
+"verse_end": null,
+"key": "Zec.4.10"
+},
+{
+"reference": "Matthew 28:20",
+"book": "Mat",
+"chapter": 28,
+"verse": 20,
+"verse_end": null,
+"key": "Mat.28.20"
+},
+{
+"reference": "Hosea 6:2",
+"book": "Hos",
+"chapter": 6,
+"verse": 2,
+"verse_end": null,
+"key": "Hos.6.2"
+},
+{
+"reference": "Joel 2:28",
+"book": "Jol",
+"chapter": 2,
+"verse": 28,
+"verse_end": null,
+"key": "Jol.2.28"
+},
+{
+"reference": "Jonah 3:10",
+"book": "Jon",
+"chapter": 3,
+"verse": 10,
+"verse_end": null,
+"key": "Jon.3.10"
+},
+{
+"reference": "Ezekiel 34:13",
+"book": "Ezk",
+"chapter": 34,
+"verse": 13,
+"verse_end": null,
+"key": "Ezk.34.13"
+},
+{
+"reference": "Hosea 6:6",
+"book": "Hos",
+"chapter": 6,
+"verse": 6,
+"verse_end": null,
+"key": "Hos.6.6"
+},
+{
+"reference": "Amos 9:13",
+"book": "Amo",
+"chapter": 9,
+"verse": 13,
+"verse_end": null,
+"key": "Amo.9.13"
+},
+{
+"reference": "Zephaniah 3:20",
+"book": "Zep",
+"chapter": 3,
+"verse": 20,
+"verse_end": null,
+"key": "Zep.3.20"
+},
+{
+"reference": "Haggai 1:8",
+"book": "Hag",
+"chapter": 1,
+"verse": 8,
+"verse_end": null,
+"key": "Hag.1.8"
+},
+{
+"reference": "Daniel 6:16",
+"book": "Dan",
+"chapter": 6,
+"verse": 16,
+"verse_end": null,
+"key": "Dan.6.16"
+},
+{
+"reference": "Daniel 7:14",
+"book": "Dan",
+"chapter": 7,
+"verse": 14,
+"verse_end": null,
+"key": "Dan.7.14"
+},
+{
+"reference": "Joel 2:17",
+"book": "Jol",
+"chapter": 2,
+"verse": 17,
+"verse_end": null,
+"key": "Jol.2.17"
+},
+{
+"reference": "Micah 7:18",
+"book": "Mic",
+"chapter": 7,
+"verse": 18,
+"verse_end": null,
+"key": "Mic.7.18"
+},
+{
+"reference": "Habakkuk 3:17",
+"book": "Hab",
+"chapter": 3,
+"verse": 17,
+"verse_end": null,
+"key": "Hab.3.17"
+},
+{
+"reference": "Zephaniah 3:15",
+"book": "Zep",
+"chapter": 3,
+"verse": 15,
+"verse_end": null,
+"key": "Zep.3.15"
+},
+{
+"reference": "Lamentations 3:26",
+"book": "Lam",
+"chapter": 3,
+"verse": 26,
+"verse_end": null,
+"key": "Lam.3.26"
+},
+{
+"reference": "Ezekiel 37:3",
+"book": "Ezk",
+"chapter": 37,
+"verse": 3,
+"verse_end": null,
+"key": "Ezk.37.3"
+},
+{
+"reference": "Daniel 3:18",
+"book": "Dan",
+"chapter": 3,
+"verse": 18,
+"verse_end": null,
+"key": "Dan.3.18"
+},
+{
+"reference": "Daniel 6:11",
+"book": "Dan",
+"chapter": 6,
+"verse": 11,
+"verse_end": null,
+"key": "Dan.6.11"
+},
+{
+"reference": "Joel 2:32",
+"book": "Jol",
+"chapter": 2,
+"verse": 32,
+"verse_end": null,
+"key": "Jol.2.32"
+},
+{
+"reference": "Amos 5:14",
+"book": "Amo",
+"chapter": 5,
+"verse": 14,
+"verse_end": null,
+"key": "Amo.5.14"
+},
+{
+"reference": "Hosea 6:3",
+"book": "Hos",
+"chapter": 6,
+"verse": 3,
+"verse_end": null,
+"key": "Hos.6.3"
+},
+{
+"reference": "Zechariah 4:6",
+"book": "Zec",
+"chapter": 4,
+"verse": 6,
+"verse_end": null,
+"key": "Zec.4.6"
+},
+{
+"reference": "Ezekiel 34:11",
+"book": "Ezk",
+"chapter": 34,
+"verse": 11,
+"verse_end": null,
+"key": "Ezk.34.11"
+},
+{
+"reference": "Hosea 6:1",
+"book": "Hos",
+"chapter": 6,
+"verse": 1,
+"verse_end": null,
+"key": "Hos.6.1"
+},
+{
+"reference": "Joel 2:30",
+"book": "Jol",
+"chapter": 2,
+"verse": 30,
+"verse_end": null,
+"key": "Jol.2.30"
+},
+{
+"reference": "Obadiah 1:10",
+"book": "Oba",
+"chapter": 1,
+"verse": 10,
+"verse_end": null,
+"key": "Oba.1.10"
+},
+{
+"reference": "Micah 6:6",
+"book": "Mic",
+"chapter": 6,
+"verse": 6,
+"verse_end": null,
+"key": "Mic.6.6"
+},
+{
+"reference": "Habakkuk 2:2",
+"book": "Hab",
+"chapter": 2,
+"verse": 2,
+"verse_end": null,
+"key": "Hab.2.2"
+},
+{
+"reference": "Haggai 2:9",
+"book": "Hag",
+"chapter": 2,
+"verse": 9,
+"verse_end": null,
+"key": "Hag.2.9"
+},
+{
+"reference": "Lamentations 5:20",
+"book": "Lam",
+"chapter": 5,
+"verse": 20,
+"verse_end": null,
+"key": "Lam.5.20"
+},
+{
+"reference": "Nahum 1:15",
+"book": "Nam",
+"chapter": 1,
+"verse": 15,
+"verse_end": null,
+"key": "Nam.1.15"
+},
+{
+"reference": "Ezekiel 36:24",
+"book": "Ezk",
+"chapter": 36,
+"verse": 24,
+"verse_end": null,
+"key": "Ezk.36.24"
+},
+{
+"reference": "Jonah 2:1",
+"book": "Jon",
+"chapter": 2,
+"verse": 1,
+"verse_end": null,
+"key": "Jon.2.1"
+},
+{
+"reference": "Ezekiel 37:1",
+"book": "Ezk",
+"chapter": 37,
+"verse": 1,
+"verse_end": null,
+"key": "Ezk.37.1"
+},
+{
+"reference": "Daniel 3:16",
+"book": "Dan",
+"chapter": 3,
+"verse": 16,
+"verse_end": null,
+"key": "Dan.3.16"
+},
+{
+"reference": "Obadiah 1:21",
+"book": "Oba",
+"chapter": 1,
+"verse": 21,
+"verse_end": null,
+"key": "Oba.1.21"
+},
+{
+"reference": "Jonah 3:1",
+"book": "Jon",
+"chapter": 3,
+"verse": 1,
+"verse_end": null,
+"key": "Jon.3.1"
+},
+{
+"reference": "Jonah 2:9",
+"book": "Jon",
+"chapter": 2,
+"verse": 9,
+"verse_end": null,
+"key": "Jon.2.9"
+},
+{
+"reference": "Habakkuk 3:18",
+"book": "Hab",
+"chapter": 3,
+"verse": 18,
+"verse_end": null,
+"key": "Hab.3.18"
+},
+{
+"reference": "Joel 2:14",
+"book": "Jol",
+"chapter": 2,
+"verse": 14,
+"verse_end": null,
+"key": "Jol.2.14"
+},
+{
+"reference": "Amos 9:15",
+"book": "Amo",
+"chapter": 9,
+"verse": 15,
+"verse_end": null,
+"key": "Amo.9.15"
+},
+{
+"reference": "Micah 5:2",
+"book": "Mic",
+"chapter": 5,
+"verse": 2,
+"verse_end": null,
+"key": "Mic.5.2"
+},
+{
+"reference": "Nahum 1:8",
+"book": "Nam",
+"chapter": 1,
+"verse": 8,
+"verse_end": null,
+"key": "Nam.1.8"
+},
+{
+"reference": "Zephaniah 3:14",
+"book": "Zep",
+"chapter": 3,
+"verse": 14,
+"verse_end": null,
+"key": "Zep.3.14"
+},
+{
+"reference": "Zephaniah 3:17",
+"book": "Zep",
+"chapter": 3,
+"verse": 17,
+"verse_end": null,
+"key": "Zep.3.17"
+},
+{
+"reference": "Haggai 1:5",
+"book": "Hag",
+"chapter": 1,
+"verse": 5,
+"verse_end": null,
+"key": "Hag.1.5"
+},
+{
+"reference": "Amos 5:19",
+"book": "Amo",
+"chapter": 5,
+"verse": 19,
+"verse_end": null,
+"key": "Amo.5.19"
+},
+{
+"reference": "Obadiah 1:15",
+"book": "Oba",
+"chapter": 1,
+"verse": 15,
+"verse_end": null,
+"key": "Oba.1.15"
+},
+{
+"reference": "Nahum 1:2",
+"book": "Nam",
+"chapter": 1,
+"verse": 2,
+"verse_end": null,
+"key": "Nam.1.2"
+},
+{
+"reference": "Haggai 2:4",
+"book": "Hag",
+"chapter": 2,
+"verse": 4,
+"verse_end": null,
+"key": "Hag.2.4"
+},
+{
+"reference": "Ezekiel 34:12",
+"book": "Ezk",
+"chapter": 34,
+"verse": 12,
+"verse_end": null,
+"key": "Ezk.34.12"
+},
+{
+"reference": "Daniel 3:17",
+"book": "Dan",
+"chapter": 3,
+"verse": 17,
+"verse_end": null,
+"key": "Dan.3.17"
+},
+{
+"reference": "Amos 5:24",
+"book": "Amo",
+"chapter": 5,
+"verse": 24,
+"verse_end": null,
+"key": "Amo.5.24"
+},
+{
+"reference": "Zechariah 9:9",
+"book": "Zec",
+"chapter": 9,
+"verse": 9,
+"verse_end": null,
+"key": "Zec.9.9"
+},
+{
+"reference": "Ezekiel 37:6",
+"book": "Ezk",
+"chapter": 37,
+"verse": 6,
+"verse_end": null,
+"key": "Ezk.37.6"
+},
+{
+"reference": "Daniel 6:10",
+"book": "Dan",
+"chapter": 6,
+"verse": 10,
+"verse_end": null,
+"key": "Dan.6.10"
+},
+{
+"reference": "Daniel 7:13",
+"book": "Dan",
+"chapter": 7,
+"verse": 13,
+"verse_end": null,
+"key": "Dan.7.13"
+},
+{
+"reference": "Hosea 14:1",
+"book": "Hos",
+"chapter": 14,
+"verse": 1,
+"verse_end": null,
+"key": "Hos.14.1"
+},
+{
+"reference": "Joel 2:12",
+"book": "Jol",
+"chapter": 2,
+"verse": 12,
+"verse_end": null,
+"key": "Jol.2.12"
+},
+{
+"reference": "Amos 9:11",
+"book": "Amo",
+"chapter": 9,
+"verse": 11,
+"verse_end": null,
+"key": "Amo.9.11"
+},
+{
+"reference": "Obadiah 1:17",
+"book": "Oba",
+"chapter": 1,
+"verse": 17,
+"verse_end": null,
+"key": "Oba.1.17"
+},
+{
+"reference": "Jonah 4:1",
+"book": "Jon",
+"chapter": 4,
+"verse": 1,
+"verse_end": null,
+"key": "Jon.4.1"
+},
+{
+"reference": "Jonah 2:5",
+"book": "Jon",
+"chapter": 2,
+"verse": 5,
+"verse_end": null,
+"key": "Jon.2.5"
+},
+{
+"reference": "Micah 7:20",
+"book": "Mic",
+"chapter": 7,
+"verse": 20,
+"verse_end": null,
+"key": "Mic.7.20"
+},
+{
+"reference": "Habakkuk 2:1",
+"book": "Hab",
+"chapter": 2,
+"verse": 1,
+"verse_end": null,
+"key": "Hab.2.1"
+},
+{
+"reference": "Habakkuk 2:4",
+"book": "Hab",
+"chapter": 2,
+"verse": 4,
+"verse_end": null,
+"key": "Hab.2.4"
+},
+{
+"reference": "Ezekiel 36:28",
+"book": "Ezk",
+"chapter": 36,
+"verse": 28,
+"verse_end": null,
+"key": "Ezk.36.28"
+},
+{
+"reference": "Hosea 14:9",
+"book": "Hos",
+"chapter": 14,
+"verse": 9,
+"verse_end": null,
+"key": "Hos.14.9"
+},
+{
+"reference": "Hosea 14:5",
+"book": "Hos",
+"chapter": 14,
+"verse": 5,
+"verse_end": null,
+"key": "Hos.14.5"
+},
+{
+"reference": "Habakkuk 3:19",
+"book": "Hab",
+"chapter": 3,
+"verse": 19,
+"verse_end": null,
+"key": "Hab.3.19"
+},
+{
+"reference": "Ezekiel 36:26",
+"book": "Ezk",
+"chapter": 36,
+"verse": 26,
+"verse_end": null,
+"key": "Ezk.36.26"
+},
+{
+"reference": "Daniel 6:12",
+"book": "Dan",
+"chapter": 6,
+"verse": 12,
+"verse_end": null,
+"key": "Dan.6.12"
+},
+{
+"reference": "Micah 5:5",
+"book": "Mic",
+"chapter": 5,
+"verse": 5,
+"verse_end": null,
+"key": "Mic.5.5"
+},
+{
+"reference": "Ezekiel 34:16",
+"book": "Ezk",
+"chapter": 34,
+"verse": 16,
+"verse_end": null,
+"key": "Ezk.34.16"
+},
+{
+"reference": "Daniel 6:13",
+"book": "Dan",
+"chapter": 6,
+"verse": 13,
+"verse_end": null,
+"key": "Dan.6.13"
+},
+{
+"reference": "Jonah 4:4",
+"book": "Jon",
+"chapter": 4,
+"verse": 4,
+"verse_end": null,
+"key": "Jon.4.4"
+},
+{
+"reference": "Micah 6:7",
+"book": "Mic",
+"chapter": 6,
+"verse": 7,
+"verse_end": null,
+"key": "Mic.6.7"
+},
+{
+"reference": "Nahum 1:12",
+"book": "Nam",
+"chapter": 1,
+"verse": 12,
+"verse_end": null,
+"key": "Nam.1.12"
+},
+{
+"reference": "Proverbs 4:21",
+"book": "Pro",
+"chapter": 4,
+"verse": 21,
+"verse_end": null,
+"key": "Pro.4.21"
+},
+{
+"reference": "Ecclesiastes 12:2",
+"book": "Ecc",
+"chapter": 12,
+"verse": 2,
+"verse_end": null,
+"key": "Ecc.12.2"
+},
+{
+"reference": "Song of Solomon 2:14",
+"book": "Sng",
+"chapter": 2,
+"verse": 14,
+"verse_end": null,
+"key": "Sng.2.14"
+},
+{
+"reference": "Song of Solomon 2:11",
+"book": "Sng",
+"chapter": 2,
+"verse": 11,
+"verse_end": null,
+"key": "Sng.2.11"
+},
+{
+"reference": "Isaiah 55:13",
+"book": "Isa",
+"chapter": 55,
+"verse": 13,
+"verse_end": null,
+"key": "Isa.55.13"
+},
+{
+"reference": "Isaiah 55:2",
+"book": "Isa",
+"chapter": 55,
+"verse": 2,
+"verse_end": null,
+"key": "Isa.55.2"
+},
+{
+"reference": "Psalm 23:5",
+"book": "Psa",
+"chapter": 23,
+"verse": 5,
+"verse_end": null,
+"key": "Psa.23.5"
+},
+{
+"reference": "Proverbs 31:10",
+"book": "Pro",
+"chapter": 31,
+"verse": 10,
+"verse_end": null,
+"key": "Pro.31.10"
+},
+{
+"reference": "Proverbs 3:2",
+"book": "Pro",
+"chapter": 3,
+"verse": 2,
+"verse_end": null,
+"key": "Pro.3.2"
+},
+{
+"reference": "Proverbs 31:20",
+"book": "Pro",
+"chapter": 31,
+"verse": 20,
+"verse_end": null,
+"key": "Pro.31.20"
+},
+{
+"reference": "Proverbs 3:4",
+"book": "Pro",
+"chapter": 3,
+"verse": 4,
+"verse_end": null,
+"key": "Pro.3.4"
+},
+{
+"reference": "Proverbs 4:22",
+"book": "Pro",
+"chapter": 4,
+"verse": 22,
+"verse_end": null,
+"key": "Pro.4.22"
+},
+{
+"reference": "Proverbs 16:6",
+"book": "Pro",
+"chapter": 16,
+"verse": 6,
+"verse_end": null,
+"key": "Pro.16.6"
+},
+{
+"reference": "Song of Solomon 2:12",
+"book": "Sng",
+"chapter": 2,
+"verse": 12,
+"verse_end": null,
+"key": "Sng.2.12"
+},
+{
+"reference": "Isaiah 9:7",
+"book": "Isa",
+"chapter": 9,
+"verse": 7,
+"verse_end": null,
+"key": "Isa.9.7"
+},
+{
+"reference": "Proverbs 4:20",
+"book": "Pro",
+"chapter": 4,
+"verse": 20,
+"verse_end": null,
+"key": "Pro.4.20"
+},
+{
+"reference": "Proverbs 16:1",
+"book": "Pro",
+"chapter": 16,
+"verse": 1,
+"verse_end": null,
+"key": "Pro.16.1"
+},
+{
+"reference": "Jeremiah 31:31",
+"book": "Jer",
+"chapter": 31,
+"verse": 31,
+"verse_end": null,
+"key": "Jer.31.31"
+},
+{
+"reference": "Jeremiah 1:7",
+"book": "Jer",
+"chapter": 1,
+"verse": 7,
+"verse_end": null,
+"key": "Jer.1.7"
+},
+{
+"reference": "Proverbs 3:12",
+"book": "Pro",
+"chapter": 3,
+"verse": 12,
+"verse_end": null,
+"key": "Pro.3.12"
+},
+{
+"reference": "Proverbs 4:27",
+"book": "Pro",
+"chapter": 4,
+"verse": 27,
+"verse_end": null,
+"key": "Pro.4.27"
+},
+{
+"reference": "Proverbs 31:31",
+"book": "Pro",
+"chapter": 31,
+"verse": 31,
+"verse_end": null,
+"key": "Pro.31.31"
+},
+{
+"reference": "Proverbs 16:4",
+"book": "Pro",
+"chapter": 16,
+"verse": 4,
+"verse_end": null,
+"key": "Pro.16.4"
+},
+{
+"reference": "Isaiah 9:2",
+"book": "Isa",
+"chapter": 9,
+"verse": 2,
+"verse_end": null,
+"key": "Isa.9.2"
+},
+{
+"reference": "Isaiah 9:5",
+"book": "Isa",
+"chapter": 9,
+"verse": 5,
+"verse_end": null,
+"key": "Isa.9.5"
+},
+{
+"reference": "Psalm 34:3",
+"book": "Psa",
+"chapter": 34,
+"verse": 3,
+"verse_end": null,
+"key": "Psa.34.3"
+},
+{
+"reference": "Proverbs 16:9",
+"book": "Pro",
+"chapter": 16,
+"verse": 9,
+"verse_end": null,
+"key": "Pro.16.9"
+},
+{
+"reference": "Isaiah 40:28",
+"book": "Isa",
+"chapter": 40,
+"verse": 28,
+"verse_end": null,
+"key": "Isa.40.28"
+},
+{
+"reference": "Jeremiah 1:4",
+"book": "Jer",
+"chapter": 1,
+"verse": 4,
+"verse_end": null,
+"key": "Jer.1.4"
+},
+{
+"reference": "Isaiah 40:30",
+"book": "Isa",
+"chapter": 40,
+"verse": 30,
+"verse_end": null,
+"key": "Isa.40.30"
+},
+{
+"reference": "Proverbs 4:25",
+"book": "Pro",
+"chapter": 4,
+"verse": 25,
+"verse_end": null,
+"key": "Pro.4.25"
+},
+{
+"reference": "Ecclesiastes 12:14",
+"book": "Ecc",
+"chapter": 12,
+"verse": 14,
+"verse_end": null,
+"key": "Ecc.12.14"
+},
+{
+"reference": "Jeremiah 1:10",
+"book": "Jer",
+"chapter": 1,
+"verse": 10,
+"verse_end": null,
+"key": "Jer.1.10"
+},
+{
+"reference": "Psalm 46:4",
+"book": "Psa",
+"chapter": 46,
+"verse": 4,
+"verse_end": null,
+"key": "Psa.46.4"
+},
+{
+"reference": "Proverbs 16:3",
+"book": "Pro",
+"chapter": 16,
+"verse": 3,
+"verse_end": null,
+"key": "Pro.16.3"
+},
+{
+"reference": "Proverbs 3:8",
+"book": "Pro",
+"chapter": 3,
+"verse": 8,
+"verse_end": null,
+"key": "Pro.3.8"
+},
+{
+"reference": "Ecclesiastes 12:4",
+"book": "Ecc",
+"chapter": 12,
+"verse": 4,
+"verse_end": null,
+"key": "Ecc.12.4"
+},
+{
+"reference": "Ecclesiastes 3:2",
+"book": "Ecc",
+"chapter": 3,
+"verse": 2,
+"verse_end": null,
+"key": "Ecc.3.2"
+},
+{
+"reference": "Isaiah 9:4",
+"book": "Isa",
+"chapter": 9,
+"verse": 4,
+"verse_end": null,
+"key": "Isa.9.4"
+},
+{
+"reference": "Psalm 145:2",
+"book": "Psa",
+"chapter": 145,
+"verse": 2,
+"verse_end": null,
+"key": "Psa.145.2"
+},
+{
+"reference": "Proverbs 4:23",
+"book": "Pro",
+"chapter": 4,
+"verse": 23,
+"verse_end": null,
+"key": "Pro.4.23"
+},
+{
+"reference": "Ecclesiastes 12:13",
+"book": "Ecc",
+"chapter": 12,
+"verse": 13,
+"verse_end": null,
+"key": "Ecc.12.13"
+},
+{
+"reference": "Ecclesiastes 12:7",
+"book": "Ecc",
+"chapter": 12,
+"verse": 7,
+"verse_end": null,
+"key": "Ecc.12.7"
+},
+{
+"reference": "Isaiah 53:6",
+"book": "Isa",
+"chapter": 53,
+"verse": 6,
+"verse_end": null,
+"key": "Isa.53.6"
+},
+{
+"reference": "Isaiah 9:3",
+"book": "Isa",
+"chapter": 9,
+"verse": 3,
+"verse_end": null,
+"key": "Isa.9.3"
+},
+{
+"reference": "Isaiah 6:3",
+"book": "Isa",
+"chapter": 6,
+"verse": 3,
+"verse_end": null,
+"key": "Isa.6.3"
+},
+{
+"reference": "Jeremiah 31:34",
+"book": "Jer",
+"chapter": 31,
+"verse": 34,
+"verse_end": null,
+"key": "Jer.31.34"
+},
+{
+"reference": "Psalm 8:3",
+"book": "Psa",
+"chapter": 8,
+"verse": 3,
+"verse_end": null,
+"key": "Psa.8.3"
+},
+{
+"reference": "Proverbs 16:2",
+"book": "Pro",
+"chapter": 16,
+"verse": 2,
+"verse_end": null,
+"key": "Pro.16.2"
+},
+{
+"reference": "Song of Solomon 8:7",
+"book": "Sng",
+"chapter": 8,
+"verse": 7,
+"verse_end": null,
+"key": "Sng.8.7"
+},
+{
+"reference": "Isaiah 53:12",
+"book": "Isa",
+"chapter": 53,
+"verse": 12,
+"verse_end": null,
+"key": "Isa.53.12"
+},
+{
+"reference": "Jeremiah 29:4",
+"book": "Jer",
+"chapter": 29,
+"verse": 4,
+"verse_end": null,
+"key": "Jer.29.4"
+},
+{
+"reference": "Proverbs 3:3",
+"book": "Pro",
+"chapter": 3,
+"verse": 3,
+"verse_end": null,
+"key": "Pro.3.3"
+},
+{
+"reference": "Ecclesiastes 3:7",
+"book": "Ecc",
+"chapter": 3,
+"verse": 7,
+"verse_end": null,
+"key": "Ecc.3.7"
+},
+{
+"reference": "Song of Solomon 8:6",
+"book": "Sng",
+"chapter": 8,
+"verse": 6,
+"verse_end": null,
+"key": "Sng.8.6"
+},
+{
+"reference": "Isaiah 6:1",
+"book": "Isa",
+"chapter": 6,
+"verse": 1,
+"verse_end": null,
+"key": "Isa.6.1"
+},
+{
+"reference": "Isaiah 40:29",
+"book": "Isa",
+"chapter": 40,
+"verse": 29,
+"verse_end": null,
+"key": "Isa.40.29"
+},
+{
+"reference": "Isaiah 6:2",
+"book": "Isa",
+"chapter": 6,
+"verse": 2,
+"verse_end": null,
+"key": "Isa.6.2"
+},
+{
+"reference": "Jeremiah 29:9",
+"book": "Jer",
+"chapter": 29,
+"verse": 9,
+"verse_end": null,
+"key": "Jer.29.9"
+},
+{
+"reference": "Proverbs 16:5",
+"book": "Pro",
+"chapter": 16,
+"verse": 5,
+"verse_end": null,
+"key": "Pro.16.5"
+},
+{
+"reference": "Proverbs 3:7",
+"book": "Pro",
+"chapter": 3,
+"verse": 7,
+"verse_end": null,
+"key": "Pro.3.7"
+},
+{
+"reference": "Song of Solomon 2:10",
+"book": "Sng",
+"chapter": 2,
+"verse": 10,
+"verse_end": null,
+"key": "Sng.2.10"
+},
+{
+"reference": "Isaiah 55:1",
+"book": "Isa",
+"chapter": 55,
+"verse": 1,
+"verse_end": null,
+"key": "Isa.55.1"
+},
+{
+"reference": "Jeremiah 29:14",
+"book": "Jer",
+"chapter": 29,
+"verse": 14,
+"verse_end": null,
+"key": "Jer.29.14"
+},
+{
+"reference": "Psalm 27:3",
+"book": "Psa",
+"chapter": 27,
+"verse": 3,
+"verse_end": null,
+"key": "Psa.27.3"
+},
+{
+"reference": "Proverbs 3:1",
+"book": "Pro",
+"chapter": 3,
+"verse": 1,
+"verse_end": null,
+"key": "Pro.3.1"
+},
+{
+"reference": "Proverbs 31:12",
+"book": "Pro",
+"chapter": 31,
+"verse": 12,
+"verse_end": null,
+"key": "Pro.31.12"
+},
+{
+"reference": "Isaiah 40:27",
+"book": "Isa",
+"chapter": 40,
+"verse": 27,
+"verse_end": null,
+"key": "Isa.40.27"
+},
+{
+"reference": "Isaiah 6:8",
+"book": "Isa",
+"chapter": 6,
+"verse": 8,
+"verse_end": null,
+"key": "Isa.6.8"
+},
+{
+"reference": "Isaiah 55:7",
+"book": "Isa",
+"chapter": 55,
+"verse": 7,
+"verse_end": null,
+"key": "Isa.55.7"
+},
+{
+"reference": "Proverbs 31:11",
+"book": "Pro",
+"chapter": 31,
+"verse": 11,
+"verse_end": null,
+"key": "Pro.31.11"
+},
+{
+"reference": "Proverbs 4:24",
+"book": "Pro",
+"chapter": 4,
+"verse": 24,
+"verse_end": null,
+"key": "Pro.4.24"
+},
+{
+"reference": "Ecclesiastes 3:1",
+"book": "Ecc",
+"chapter": 3,
+"verse": 1,
+"verse_end": null,
+"key": "Ecc.3.1"
+},
+{
+"reference": "Ecclesiastes 3:14",
+"book": "Ecc",
+"chapter": 3,
+"verse": 14,
+"verse_end": null,
+"key": "Ecc.3.14"
+},
+{
+"reference": "Isaiah 53:1",
+"book": "Isa",
+"chapter": 53,
+"verse": 1,
+"verse_end": null,
+"key": "Isa.53.1"
+},
+{
+"reference": "Isaiah 53:2",
+"book": "Isa",
+"chapter": 53,
+"verse": 2,
+"verse_end": null,
+"key": "Isa.53.2"
+},
+{
+"reference": "Proverbs 31:13",
+"book": "Pro",
+"chapter": 31,
+"verse": 13,
+"verse_end": null,
+"key": "Pro.31.13"
+},
+{
+"reference": "Ecclesiastes 12:1",
+"book": "Ecc",
+"chapter": 12,
+"verse": 1,
+"verse_end": null,
+"key": "Ecc.12.1"
+},
+{
+"reference": "Isaiah 6:4",
+"book": "Isa",
+"chapter": 6,
+"verse": 4,
+"verse_end": null,
+"key": "Isa.6.4"
+},
+{
+"reference": "Lamentations 3:19",
+"book": "Lam",
+"chapter": 3,
+"verse": 19,
+"verse_end": null,
+"key": "Lam.3.19"
+},
+{
+"reference": "Lamentations 3:33",
+"book": "Lam",
+"chapter": 3,
+"verse": 33,
+"verse_end": null,
+"key": "Lam.3.33"
+},
+{
+"reference": "Jeremiah 1:5",
+"book": "Jer",
+"chapter": 1,
+"verse": 5,
+"verse_end": null,
+"key": "Jer.1.5"
+},
+{
+"reference": "Jeremiah 31:33",
+"book": "Jer",
+"chapter": 31,
+"verse": 33,
+"verse_end": null,
+"key": "Jer.31.33"
+},
+{
+"reference": "Jeremiah 29:5",
+"book": "Jer",
+"chapter": 29,
+"verse": 5,
+"verse_end": null,
+"key": "Jer.29.5"
+},
+{
+"reference": "Jeremiah 31:32",
+"book": "Jer",
+"chapter": 31,
+"verse": 32,
+"verse_end": null,
+"key": "Jer.31.32"
+},
+{
+"reference": "Lamentations 5:19",
+"book": "Lam",
+"chapter": 5,
+"verse": 19,
+"verse_end": null,
+"key": "Lam.5.19"
+},
+{
+"reference": "Lamentations 5:22",
+"book": "Lam",
+"chapter": 5,
+"verse": 22,
+"verse_end": null,
+"key": "Lam.5.22"
+},
+{
+"reference": "Ezra 3:10",
+"book": "Ezr",
+"chapter": 3,
+"verse": 10,
+"verse_end": null,
+"key": "Ezr.3.10"
+},
+{
+"reference": "Esther 9:20",
+"book": "Est",
+"chapter": 9,
+"verse": 20,
+"verse_end": null,
+"key": "Est.9.20"
+},
+{
+"reference": "Job 1:20",
+"book": "Job",
+"chapter": 1,
+"verse": 20,
+"verse_end": null,
+"key": "Job.1.20"
+},
+{
+"reference": "Job 42:3",
+"book": "Job",
+"chapter": 42,
+"verse": 3,
+"verse_end": null,
+"key": "Job.42.3"
+},
+{
+"reference": "Psalm 119:97",
+"book": "Psa",
+"chapter": 119,
+"verse": 97,
+"verse_end": null,
+"key": "Psa.119.97"
+},
+{
+"reference": "Psalm 23:3",
+"book": "Psa",
+"chapter": 23,
+"verse": 3,
+"verse_end": null,
+"key": "Psa.23.3"
+},
+{
+"reference": "Psalm 46:6",
+"book": "Psa",
+"chapter": 46,
+"verse": 6,
+"verse_end": null,
+"key": "Psa.46.6"
+},
+{
+"reference": "Psalm 91:16",
+"book": "Psa",
+"chapter": 91,
+"verse": 16,
+"verse_end": null,
+"key": "Psa.91.16"
+},
+{
+"reference": "Psalm 139:18",
+"book": "Psa",
+"chapter": 139,
+"verse": 18,
+"verse_end": null,
+"key": "Psa.139.18"
+},
+{
+"reference": "Psalm 119:98",
+"book": "Psa",
+"chapter": 119,
+"verse": 98,
+"verse_end": null,
+"key": "Psa.119.98"
+},
+{
+"reference": "Ezra 3:13",
+"book": "Ezr",
+"chapter": 3,
+"verse": 13,
+"verse_end": null,
+"key": "Ezr.3.13"
+},
+{
+"reference": "Esther 4:12",
+"book": "Est",
+"chapter": 4,
+"verse": 12,
+"verse_end": null,
+"key": "Est.4.12"
+},
+{
+"reference": "Psalm 51:19",
+"book": "Psa",
+"chapter": 51,
+"verse": 19,
+"verse_end": null,
+"key": "Psa.51.19"
+},
+{
+"reference": "Esther 4:17",
+"book": "Est",
+"chapter": 4,
+"verse": 17,
+"verse_end": null,
+"key": "Est.4.17"
+},
+{
+"reference": "Psalm 103:1",
+"book": "Psa",
+"chapter": 103,
+"verse": 1,
+"verse_end": null,
+"key": "Psa.103.1"
+},
+{
+"reference": "Psalm 121:1",
+"book": "Psa",
+"chapter": 121,
+"verse": 1,
+"verse_end": null,
+"key": "Psa.121.1"
+},
+{
+"reference": "Psalm 139:1",
+"book": "Psa",
+"chapter": 139,
+"verse": 1,
+"verse_end": null,
+"key": "Psa.139.1"
+},
+{
+"reference": "Psalm 8:9",
+"book": "Psa",
+"chapter": 8,
+"verse": 9,
+"verse_end": null,
+"key": "Psa.8.9"
+},
+{
+"reference": "Psalm 90:9",
+"book": "Psa",
+"chapter": 90,
+"verse": 9,
+"verse_end": null,
+"key": "Psa.90.9"
+},
+{
+"reference": "Psalm 103:2",
+"book": "Psa",
+"chapter": 103,
+"verse": 2,
+"verse_end": null,
+"key": "Psa.103.2"
+},
+{
+"reference": "Ezra 7:6",
+"book": "Ezr",
+"chapter": 7,
+"verse": 6,
+"verse_end": null,
+"key": "Ezr.7.6"
+},
+{
+"reference": "Esther 4:14",
+"book": "Est",
+"chapter": 4,
+"verse": 14,
+"verse_end": null,
+"key": "Est.4.14"
+},
+{
+"reference": "Job 38:4",
+"book": "Job",
+"chapter": 38,
+"verse": 4,
+"verse_end": null,
+"key": "Job.38.4"
+},
+{
+"reference": "Psalm 27:1",
+"book": "Psa",
+"chapter": 27,
+"verse": 1,
+"verse_end": null,
+"key": "Psa.27.1"
+},
+{
+"reference": "Psalm 90:17",
+"book": "Psa",
+"chapter": 90,
+"verse": 17,
+"verse_end": null,
+"key": "Psa.90.17"
+},
+{
+"reference": "Psalm 51:10",
+"book": "Psa",
+"chapter": 51,
+"verse": 10,
+"verse_end": null,
+"key": "Psa.51.10"
+},
+{
+"reference": "Job 42:6",
+"book": "Job",
+"chapter": 42,
+"verse": 6,
+"verse_end": null,
+"key": "Job.42.6"
+},
+{
+"reference": "Psalm 119:104",
+"book": "Psa",
+"chapter": 119,
+"verse": 104,
+"verse_end": null,
+"key": "Psa.119.104"
+},
+{
+"reference": "Psalm 139:9",
+"book": "Psa",
+"chapter": 139,
+"verse": 9,
+"verse_end": null,
+"key": "Psa.139.9"
+},
+{
+"reference": "Psalm 23:4",
+"book": "Psa",
+"chapter": 23,
+"verse": 4,
+"verse_end": null,
+"key": "Psa.23.4"
+},
+{
+"reference": "2 Chronicles 7:12",
+"book": "2Ch",
+"chapter": 7,
+"verse": 12,
+"verse_end": null,
+"key": "2Ch.7.12"
+},
+{
+"reference": "Nehemiah 2:19",
+"book": "Neh",
+"chapter": 2,
+"verse": 19,
+"verse_end": null,
+"key": "Neh.2.19"
+},
+{
+"reference": "Esther 9:21",
+"book": "Est",
+"chapter": 9,
+"verse": 21,
+"verse_end": null,
+"key": "Est.9.21"
+},
+{
+"reference": "Psalm 90:1",
+"book": "Psa",
+"chapter": 90,
+"verse": 1,
+"verse_end": null,
+"key": "Psa.90.1"
+},
+{
+"reference": "Psalm 145:21",
+"book": "Psa",
+"chapter": 145,
+"verse": 21,
+"verse_end": null,
+"key": "Psa.145.21"
+},
+{
+"reference": "Nehemiah 2:20",
+"book": "Neh",
+"chapter": 2,
+"verse": 20,
+"verse_end": null,
+"key": "Neh.2.20"
+},
+{
+"reference": "Nehemiah 8:12",
+"book": "Neh",
+"chapter": 8,
+"verse": 12,
+"verse_end": null,
+"key": "Neh.8.12"
+},
+{
+"reference": "Nehemiah 8:10",
+"book": "Neh",
+"chapter": 8,
+"verse": 10,
+"verse_end": null,
+"key": "Neh.8.10"
+},
+{
+"reference": "Job 19:23",
+"book": "Job",
+"chapter": 19,
+"verse": 23,
+"verse_end": null,
+"key": "Job.19.23"
+},
+{
+"reference": "Psalm 91:1",
+"book": "Psa",
+"chapter": 91,
+"verse": 1,
+"verse_end": null,
+"key": "Psa.91.1"
+},
+{
+"reference": "Psalm 121:8",
+"book": "Psa",
+"chapter": 121,
+"verse": 8,
+"verse_end": null,
+"key": "Psa.121.8"
+},
+{
+"reference": "Psalm 23:2",
+"book": "Psa",
+"chapter": 23,
+"verse": 2,
+"verse_end": null,
+"key": "Psa.23.2"
+},
+{
+"reference": "Psalm 103:11",
+"book": "Psa",
+"chapter": 103,
+"verse": 11,
+"verse_end": null,
+"key": "Psa.103.11"
+},
+{
+"reference": "Psalm 46:3",
+"book": "Psa",
+"chapter": 46,
+"verse": 3,
+"verse_end": null,
+"key": "Psa.46.3"
+},
+{
+"reference": "Job 1:22",
+"book": "Job",
+"chapter": 1,
+"verse": 22,
+"verse_end": null,
+"key": "Job.1.22"
+},
+{
+"reference": "Job 19:27",
+"book": "Job",
+"chapter": 19,
+"verse": 27,
+"verse_end": null,
+"key": "Job.19.27"
+},
+{
+"reference": "Psalm 23:6",
+"book": "Psa",
+"chapter": 23,
+"verse": 6,
+"verse_end": null,
+"key": "Psa.23.6"
+},
+{
+"reference": "Psalm 51:1",
+"book": "Psa",
+"chapter": 51,
+"verse": 1,
+"verse_end": null,
+"key": "Psa.51.1"
+},
+{
+"reference": "Psalm 8:2",
+"book": "Psa",
+"chapter": 8,
+"verse": 2,
+"verse_end": null,
+"key": "Psa.8.2"
+},
+{
+"reference": "Psalm 27:2",
+"book": "Psa",
+"chapter": 27,
+"verse": 2,
+"verse_end": null,
+"key": "Psa.27.2"
+},
+{
+"reference": "Psalm 34:2",
+"book": "Psa",
+"chapter": 34,
+"verse": 2,
+"verse_end": null,
+"key": "Psa.34.2"
+},
+{
+"reference": "Ezra 7:10",
+"book": "Ezr",
+"chapter": 7,
+"verse": 10,
+"verse_end": null,
+"key": "Ezr.7.10"
+},
+{
+"reference": "Ezra 7:8",
+"book": "Ezr",
+"chapter": 7,
+"verse": 8,
+"verse_end": null,
+"key": "Ezr.7.8"
+},
+{
+"reference": "Nehemiah 8:8",
+"book": "Neh",
+"chapter": 8,
+"verse": 8,
+"verse_end": null,
+"key": "Neh.8.8"
+},
+{
+"reference": "Esther 9:22",
+"book": "Est",
+"chapter": 9,
+"verse": 22,
+"verse_end": null,
+"key": "Est.9.22"
+},
+{
+"reference": "Psalm 27:14",
+"book": "Psa",
+"chapter": 27,
+"verse": 14,
+"verse_end": null,
+"key": "Psa.27.14"
+},
+{
+"reference": "Psalm 145:11",
+"book": "Psa",
+"chapter": 145,
+"verse": 11,
+"verse_end": null,
+"key": "Psa.145.11"
+},
+{
+"reference": "Job 42:1",
+"book": "Job",
+"chapter": 42,
+"verse": 1,
+"verse_end": null,
+"key": "Job.42.1"
+},
+{
+"reference": "Job 19:24",
+"book": "Job",
+"chapter": 19,
+"verse": 24,
+"verse_end": null,
+"key": "Job.19.24"
+},
+{
+"reference": "Psalm 34:1",
+"book": "Psa",
+"chapter": 34,
+"verse": 1,
+"verse_end": null,
+"key": "Psa.34.1"
+},
+{
+"reference": "Psalm 8:5",
+"book": "Psa",
+"chapter": 8,
+"verse": 5,
+"verse_end": null,
+"key": "Psa.8.5"
+},
+{
+"reference": "Nehemiah 2:17",
+"book": "Neh",
+"chapter": 2,
+"verse": 17,
+"verse_end": null,
+"key": "Neh.2.17"
+},
+{
+"reference": "Job 38:1",
+"book": "Job",
+"chapter": 38,
+"verse": 1,
+"verse_end": null,
+"key": "Job.38.1"
+},
+{
+"reference": "Psalm 91:2",
+"book": "Psa",
+"chapter": 91,
+"verse": 2,
+"verse_end": null,
+"key": "Psa.91.2"
+},
+{
+"reference": "Psalm 121:2",
+"book": "Psa",
+"chapter": 121,
+"verse": 2,
+"verse_end": null,
+"key": "Psa.121.2"
+},
+{
+"reference": "Ezra 3:11",
+"book": "Ezr",
+"chapter": 3,
+"verse": 11,
+"verse_end": null,
+"key": "Ezr.3.11"
+},
+{
+"reference": "Psalm 8:1",
+"book": "Psa",
+"chapter": 8,
+"verse": 1,
+"verse_end": null,
+"key": "Psa.8.1"
+},
+{
+"reference": "Psalm 34:11",
+"book": "Psa",
+"chapter": 34,
+"verse": 11,
+"verse_end": null,
+"key": "Psa.34.11"
+},
+{
+"reference": "Psalm 90:2",
+"book": "Psa",
+"chapter": 90,
+"verse": 2,
+"verse_end": null,
+"key": "Psa.90.2"
+},
+{
+"reference": "Job 1:21",
+"book": "Job",
+"chapter": 1,
+"verse": 21,
+"verse_end": null,
+"key": "Job.1.21"
+},
+{
+"reference": "Psalm 46:11",
+"book": "Psa",
+"chapter": 46,
+"verse": 11,
+"verse_end": null,
+"key": "Psa.46.11"
+},
+{
+"reference": "Psalm 145:1",
+"book": "Psa",
+"chapter": 145,
+"verse": 1,
+"verse_end": null,
+"key": "Psa.145.1"
+},
+{
+"reference": "Psalm 121:4",
+"book": "Psa",
+"chapter": 121,
+"verse": 4,
+"verse_end": null,
+"key": "Psa.121.4"
+},
+{
+"reference": "Job 19:25",
+"book": "Job",
+"chapter": 19,
+"verse": 25,
+"verse_end": null,
+"key": "Job.19.25"
+},
+{
+"reference": "Psalm 103:22",
+"book": "Psa",
+"chapter": 103,
+"verse": 22,
+"verse_end": null,
+"key": "Psa.103.22"
+},
+{
+"reference": "Psalm 119:112",
+"book": "Psa",
+"chapter": 119,
+"verse": 112,
+"verse_end": null,
+"key": "Psa.119.112"
+},
+{
+"reference": "Psalm 51:2",
+"book": "Psa",
+"chapter": 51,
+"verse": 2,
+"verse_end": null,
+"key": "Psa.51.2"
+},
+{
+"reference": "Nehemiah 2:18",
+"book": "Neh",
+"chapter": 2,
+"verse": 18,
+"verse_end": null,
+"key": "Neh.2.18"
+},
+{
+"reference": "Esther 4:13",
+"book": "Est",
+"chapter": 4,
+"verse": 13,
+"verse_end": null,
+"key": "Est.4.13"
+},
+{
+"reference": "Job 38:7",
+"book": "Job",
+"chapter": 38,
+"verse": 7,
+"verse_end": null,
+"key": "Job.38.7"
+},
+{
+"reference": "Psalm 139:2",
+"book": "Psa",
+"chapter": 139,
+"verse": 2,
+"verse_end": null,
+"key": "Psa.139.2"
+},
+{
+"reference": "Psalm 34:22",
+"book": "Psa",
+"chapter": 34,
+"verse": 22,
+"verse_end": null,
+"key": "Psa.34.22"
+},
+{
+"reference": "Psalm 27:7",
+"book": "Psa",
+"chapter": 27,
+"verse": 7,
+"verse_end": null,
+"key": "Psa.27.7"
+},
+{
+"reference": "Psalm 46:2",
+"book": "Psa",
+"chapter": 46,
+"verse": 2,
+"verse_end": null,
+"key": "Psa.46.2"
+},
+{
+"reference": "Psalm 91:8",
+"book": "Psa",
+"chapter": 91,
+"verse": 8,
+"verse_end": null,
+"key": "Psa.91.8"
+},
+{
+"reference": "2 Chronicles 7:13",
+"book": "2Ch",
+"chapter": 7,
+"verse": 13,
+"verse_end": null,
+"key": "2Ch.7.13"
+},
+{
+"reference": "2 Chronicles 20:14",
+"book": "2Ch",
+"chapter": 20,
+"verse": 14,
+"verse_end": null,
+"key": "2Ch.20.14"
+},
+{
+"reference": "2 Chronicles 20:12",
+"book": "2Ch",
+"chapter": 20,
+"verse": 12,
+"verse_end": null,
+"key": "2Ch.20.12"
+},
+{
+"reference": "1 Chronicles 29:12",
+"book": "1Ch",
+"chapter": 29,
+"verse": 12,
+"verse_end": null,
+"key": "1Ch.29.12"
+},
+{
+"reference": "1 Chronicles 16:9",
+"book": "1Ch",
+"chapter": 16,
+"verse": 9,
+"verse_end": null,
+"key": "1Ch.16.9"
+},
+{
+"reference": "2 Chronicles 20:17",
+"book": "2Ch",
+"chapter": 20,
+"verse": 17,
+"verse_end": null,
+"key": "2Ch.20.17"
+},
+{
+"reference": "1 Chronicles 16:15",
+"book": "1Ch",
+"chapter": 16,
+"verse": 15,
+"verse_end": null,
+"key": "1Ch.16.15"
+},
+{
+"reference": "1 Chronicles 29:10",
+"book": "1Ch",
+"chapter": 29,
+"verse": 10,
+"verse_end": null,
+"key": "1Ch.29.10"
+},
+{
+"reference": "1 Chronicles 16:11",
+"book": "1Ch",
+"chapter": 16,
+"verse": 11,
+"verse_end": null,
+"key": "1Ch.16.11"
+},
+{
+"reference": "1 Chronicles 29:14",
+"book": "1Ch",
+"chapter": 29,
+"verse": 14,
+"verse_end": null,
+"key": "1Ch.29.14"
+},
+{
+"reference": "2 Chronicles 7:11",
+"book": "2Ch",
+"chapter": 7,
+"verse": 11,
+"verse_end": null,
+"key": "2Ch.7.11"
+},
+{
+"reference": "2 Chronicles 7:16",
+"book": "2Ch",
+"chapter": 7,
+"verse": 16,
+"verse_end": null,
+"key": "2Ch.7.16"
+},
+{
+"reference": "Leviticus 25:8",
+"book": "Lev",
+"chapter": 25,
+"verse": 8,
+"verse_end": null,
+"key": "Lev.25.8"
+},
+{
+"reference": "Deuteronomy 8:1",
+"book": "Deu",
+"chapter": 8,
+"verse": 1,
+"verse_end": null,
+"key": "Deu.8.1"
+},
+{
+"reference": "Deuteronomy 30:20",
+"book": "Deu",
+"chapter": 30,
+"verse": 20,
+"verse_end": null,
+"key": "Deu.30.20"
+},
+{
+"reference": "1 Samuel 2:5",
+"book": "1Sa",
+"chapter": 2,
+"verse": 5,
+"verse_end": null,
+"key": "1Sa.2.5"
+},
+{
+"reference": "2 Samuel 22:4",
+"book": "2Sa",
+"chapter": 22,
+"verse": 4,
+"verse_end": null,
+"key": "2Sa.22.4"
+},
+{
+"reference": "1 Kings 19:13",
+"book": "1Ki",
+"chapter": 19,
+"verse": 13,
+"verse_end": null,
+"key": "1Ki.19.13"
+},
+{
+"reference": "Numbers 6:22",
+"book": "Num",
+"chapter": 6,
+"verse": 22,
+"verse_end": null,
+"key": "Num.6.22"
+},
+{
+"reference": "Deuteronomy 6:4",
+"book": "Deu",
+"chapter": 6,
+"verse": 4,
+"verse_end": null,
+"key": "Deu.6.4"
+},
+{
+"reference": "Joshua 1:2",
+"book": "Jos",
+"chapter": 1,
+"verse": 2,
+"verse_end": null,
+"key": "Jos.1.2"
+},
+{
+"reference": "Ruth 4:17",
+"book": "Rut",
+"chapter": 4,
+"verse": 17,
+"verse_end": null,
+"key": "Rut.4.17"
+},
+{
+"reference": "1 Samuel 16:13",
+"book": "1Sa",
+"chapter": 16,
+"verse": 13,
+"verse_end": null,
+"key": "1Sa.16.13"
+},
+{
+"reference": "1 Kings 3:14",
+"book": "1Ki",
+"chapter": 3,
+"verse": 14,
+"verse_end": null,
+"key": "1Ki.3.14"
+},
+{
+"reference": "Joshua 1:4",
+"book": "Jos",
+"chapter": 1,
+"verse": 4,
+"verse_end": null,
+"key": "Jos.1.4"
+},
+{
+"reference": "1 Samuel 2:1",
+"book": "1Sa",
+"chapter": 2,
+"verse": 1,
+"verse_end": null,
+"key": "1Sa.2.1"
+},
+{
+"reference": "1 Samuel 2:10",
+"book": "1Sa",
+"chapter": 2,
+"verse": 10,
+"verse_end": null,
+"key": "1Sa.2.10"
+},
+{
+"reference": "1 Samuel 17:47",
+"book": "1Sa",
+"chapter": 17,
+"verse": 47,
+"verse_end": null,
+"key": "1Sa.17.47"
+},
+{
+"reference": "1 Kings 3:5",
+"book": "1Ki",
+"chapter": 3,
+"verse": 5,
+"verse_end": null,
+"key": "1Ki.3.5"
+},
+{
+"reference": "Numbers 23:19",
+"book": "Num",
+"chapter": 23,
+"verse": 19,
+"verse_end": null,
+"key": "Num.23.19"
+},
+{
+"reference": "Deuteronomy 6:9",
+"book": "Deu",
+"chapter": 6,
+"verse": 9,
+"verse_end": null,
+"key": "Deu.6.9"
+},
+{
+"reference": "Deuteronomy 8:10",
+"book": "Deu",
+"chapter": 8,
+"verse": 10,
+"verse_end": null,
+"key": "Deu.8.10"
+},
+{
+"reference": "Deuteronomy 8:5",
+"book": "Deu",
+"chapter": 8,
+"verse": 5,
+"verse_end": null,
+"key": "Deu.8.5"
+},
+{
+"reference": "Deuteronomy 31:7",
+"book": "Deu",
+"chapter": 31,
+"verse": 7,
+"verse_end": null,
+"key": "Deu.31.7"
+},
+{
+"reference": "Judges 6:24",
+"book": "Jdg",
+"chapter": 6,
+"verse": 24,
+"verse_end": null,
+"key": "Jdg.6.24"
+},
+{
+"reference": "Judges 7:7",
+"book": "Jdg",
+"chapter": 7,
+"verse": 7,
+"verse_end": null,
+"key": "Jdg.7.7"
+},
+{
+"reference": "Judges 7:3",
+"book": "Jdg",
+"chapter": 7,
+"verse": 3,
+"verse_end": null,
+"key": "Jdg.7.3"
+},
+{
+"reference": "1 Kings 19:11",
+"book": "1Ki",
+"chapter": 19,
+"verse": 11,
+"verse_end": null,
+"key": "1Ki.19.11"
+},
+{
+"reference": "2 Kings 5:15",
+"book": "2Ki",
+"chapter": 5,
+"verse": 15,
+"verse_end": null,
+"key": "2Ki.5.15"
+},
+{
+"reference": "Numbers 14:6",
+"book": "Num",
+"chapter": 14,
+"verse": 6,
+"verse_end": null,
+"key": "Num.14.6"
+},
+{
+"reference": "Numbers 14:7",
+"book": "Num",
+"chapter": 14,
+"verse": 7,
+"verse_end": null,
+"key": "Num.14.7"
+},
+{
+"reference": "Judges 7:4",
+"book": "Jdg",
+"chapter": 7,
+"verse": 4,
+"verse_end": null,
+"key": "Jdg.7.4"
+},
+{
+"reference": "Ruth 2:12",
+"book": "Rut",
+"chapter": 2,
+"verse": 12,
+"verse_end": null,
+"key": "Rut.2.12"
+},
+{
+"reference": "2 Kings 19:19",
+"book": "2Ki",
+"chapter": 19,
+"verse": 19,
+"verse_end": null,
+"key": "2Ki.19.19"
+},
+{
+"reference": "Leviticus 19:9",
+"book": "Lev",
+"chapter": 19,
+"verse": 9,
+"verse_end": null,
+"key": "Lev.19.9"
+},
+{
+"reference": "2 Samuel 7:9",
+"book": "2Sa",
+"chapter": 7,
+"verse": 9,
+"verse_end": null,
+"key": "2Sa.7.9"
+},
+{
+"reference": "1 Kings 8:28",
+"book": "1Ki",
+"chapter": 8,
+"verse": 28,
+"verse_end": null,
+"key": "1Ki.8.28"
+},
+{
+"reference": "Joshua 24:14",
+"book": "Jos",
+"chapter": 24,
+"verse": 14,
+"verse_end": null,
+"key": "Jos.24.14"
+},
+{
+"reference": "Ruth 4:13",
+"book": "Rut",
+"chapter": 4,
+"verse": 13,
+"verse_end": null,
+"key": "Rut.4.13"
+},
+{
+"reference": "Ruth 1:22",
+"book": "Rut",
+"chapter": 1,
+"verse": 22,
+"verse_end": null,
+"key": "Rut.1.22"
+},
+{
+"reference": "1 Chronicles 16:8",
+"book": "1Ch",
+"chapter": 16,
+"verse": 8,
+"verse_end": null,
+"key": "1Ch.16.8"
+},
+{
+"reference": "Leviticus 19:13",
+"book": "Lev",
+"chapter": 19,
+"verse": 13,
+"verse_end": null,
+"key": "Lev.19.13"
+},
+{
+"reference": "Numbers 14:9",
+"book": "Num",
+"chapter": 14,
+"verse": 9,
+"verse_end": null,
+"key": "Num.14.9"
+},
+{
+"reference": "Deuteronomy 8:2",
+"book": "Deu",
+"chapter": 8,
+"verse": 2,
+"verse_end": null,
+"key": "Deu.8.2"
+},
+{
+"reference": "Deuteronomy 30:12",
+"book": "Deu",
+"chapter": 30,
+"verse": 12,
+"verse_end": null,
+"key": "Deu.30.12"
+},
+{
+"reference": "Joshua 1:1",
+"book": "Jos",
+"chapter": 1,
+"verse": 1,
+"verse_end": null,
+"key": "Jos.1.1"
+},
+{
+"reference": "Judges 6:17",
+"book": "Jdg",
+"chapter": 6,
+"verse": 17,
+"verse_end": null,
+"key": "Jdg.6.17"
+},
+{
+"reference": "1 Samuel 17:45",
+"book": "1Sa",
+"chapter": 17,
+"verse": 45,
+"verse_end": null,
+"key": "1Sa.17.45"
+},
+{
+"reference": "2 Samuel 22:7",
+"book": "2Sa",
+"chapter": 22,
+"verse": 7,
+"verse_end": null,
+"key": "2Sa.22.7"
+},
+{
+"reference": "2 Kings 5:9",
+"book": "2Ki",
+"chapter": 5,
+"verse": 9,
+"verse_end": null,
+"key": "2Ki.5.9"
+},
+{
+"reference": "2 Kings 19:16",
+"book": "2Ki",
+"chapter": 19,
+"verse": 16,
+"verse_end": null,
+"key": "2Ki.19.16"
+},
+{
+"reference": "Leviticus 25:17",
+"book": "Lev",
+"chapter": 25,
+"verse": 17,
+"verse_end": null,
+"key": "Lev.25.17"
+},
+{
+"reference": "Joshua 24:19",
+"book": "Jos",
+"chapter": 24,
+"verse": 19,
+"verse_end": null,
+"key": "Jos.24.19"
+},
+{
+"reference": "Leviticus 25:12",
+"book": "Lev",
+"chapter": 25,
+"verse": 12,
+"verse_end": null,
+"key": "Lev.25.12"
+},
+{
+"reference": "Numbers 6:24",
+"book": "Num",
+"chapter": 6,
+"verse": 24,
+"verse_end": null,
+"key": "Num.6.24"
+},
+{
+"reference": "Deuteronomy 30:11",
+"book": "Deu",
+"chapter": 30,
+"verse": 11,
+"verse_end": null,
+"key": "Deu.30.11"
+},
+{
+"reference": "Deuteronomy 6:7",
+"book": "Deu",
+"chapter": 6,
+"verse": 7,
+"verse_end": null,
+"key": "Deu.6.7"
+},
+{
+"reference": "Judges 6:12",
+"book": "Jdg",
+"chapter": 6,
+"verse": 12,
+"verse_end": null,
+"key": "Jdg.6.12"
+},
+{
+"reference": "Ruth 2:8",
+"book": "Rut",
+"chapter": 2,
+"verse": 8,
+"verse_end": null,
+"key": "Rut.2.8"
+},
+{
+"reference": "1 Samuel 17:46",
+"book": "1Sa",
+"chapter": 17,
+"verse": 46,
+"verse_end": null,
+"key": "1Sa.17.46"
+},
+{
+"reference": "2 Samuel 7:8",
+"book": "2Sa",
+"chapter": 7,
+"verse": 8,
+"verse_end": null,
+"key": "2Sa.7.8"
+},
+{
+"reference": "2 Samuel 22:3",
+"book": "2Sa",
+"chapter": 22,
+"verse": 3,
+"verse_end": null,
+"key": "2Sa.22.3"
+},
+{
+"reference": "Judges 6:13",
+"book": "Jdg",
+"chapter": 6,
+"verse": 13,
+"verse_end": null,
+"key": "Jdg.6.13"
+},
+{
+"reference": "1 Samuel 2:2",
+"book": "1Sa",
+"chapter": 2,
+"verse": 2,
+"verse_end": null,
+"key": "1Sa.2.2"
+},
+{
+"reference": "1 Kings 8:27",
+"book": "1Ki",
+"chapter": 8,
+"verse": 27,
+"verse_end": null,
+"key": "1Ki.8.27"
+},
+{
+"reference": "2 Kings 19:14",
+"book": "2Ki",
+"chapter": 19,
+"verse": 14,
+"verse_end": null,
+"key": "2Ki.19.14"
+},
+{
+"reference": "2 Kings 5:10",
+"book": "2Ki",
+"chapter": 5,
+"verse": 10,
+"verse_end": null,
+"key": "2Ki.5.10"
+},
+{
+"reference": "Leviticus 19:18",
+"book": "Lev",
+"chapter": 19,
+"verse": 18,
+"verse_end": null,
+"key": "Lev.19.18"
+},
+{
+"reference": "Deuteronomy 31:6",
+"book": "Deu",
+"chapter": 31,
+"verse": 6,
+"verse_end": null,
+"key": "Deu.31.6"
+},
+{
+"reference": "Joshua 1:5",
+"book": "Jos",
+"chapter": 1,
+"verse": 5,
+"verse_end": null,
+"key": "Jos.1.5"
+},
+{
+"reference": "Joshua 1:3",
+"book": "Jos",
+"chapter": 1,
+"verse": 3,
+"verse_end": null,
+"key": "Jos.1.3"
+},
+{
+"reference": "1 Samuel 16:1",
+"book": "1Sa",
+"chapter": 16,
+"verse": 1,
+"verse_end": null,
+"key": "1Sa.16.1"
+},
+{
+"reference": "2 Samuel 7:16",
+"book": "2Sa",
+"chapter": 7,
+"verse": 16,
+"verse_end": null,
+"key": "2Sa.7.16"
+},
+{
+"reference": "1 Kings 19:9",
+"book": "1Ki",
+"chapter": 19,
+"verse": 9,
+"verse_end": null,
+"key": "1Ki.19.9"
+},
+{
+"reference": "2 Kings 5:12",
+"book": "2Ki",
+"chapter": 5,
+"verse": 12,
+"verse_end": null,
+"key": "2Ki.5.12"
+},
+{
+"reference": "Numbers 23:24",
+"book": "Num",
+"chapter": 23,
+"verse": 24,
+"verse_end": null,
+"key": "Num.23.24"
+},
+{
+"reference": "Deuteronomy 30:15",
+"book": "Deu",
+"chapter": 30,
+"verse": 15,
+"verse_end": null,
+"key": "Deu.30.15"
+},
+{
+"reference": "Joshua 24:24",
+"book": "Jos",
+"chapter": 24,
+"verse": 24,
+"verse_end": null,
+"key": "Jos.24.24"
+},
+{
+"reference": "Joshua 24:15",
+"book": "Jos",
+"chapter": 24,
+"verse": 15,
+"verse_end": null,
+"key": "Jos.24.15"
+},
+{
+"reference": "Judges 6:11",
+"book": "Jdg",
+"chapter": 6,
+"verse": 11,
+"verse_end": null,
+"key": "Jdg.6.11"
+},
+{
+"reference": "Ruth 1:19",
+"book": "Rut",
+"chapter": 1,
+"verse": 19,
+"verse_end": null,
+"key": "Rut.1.19"
+},
+{
+"reference": "1 Kings 3:9",
+"book": "1Ki",
+"chapter": 3,
+"verse": 9,
+"verse_end": null,
+"key": "1Ki.3.9"
+},
+{
+"reference": "Deuteronomy 6:6",
+"book": "Deu",
+"chapter": 6,
+"verse": 6,
+"verse_end": null,
+"key": "Deu.6.6"
+},
+{
+"reference": "1 Samuel 16:7",
+"book": "1Sa",
+"chapter": 16,
+"verse": 7,
+"verse_end": null,
+"key": "1Sa.16.7"
+},
+{
+"reference": "2 Samuel 22:1",
+"book": "2Sa",
+"chapter": 22,
+"verse": 1,
+"verse_end": null,
+"key": "2Sa.22.1"
+},
+{
+"reference": "Numbers 6:27",
+"book": "Num",
+"chapter": 6,
+"verse": 27,
+"verse_end": null,
+"key": "Num.6.27"
+},
+{
+"reference": "Numbers 23:21",
+"book": "Num",
+"chapter": 23,
+"verse": 21,
+"verse_end": null,
+"key": "Num.23.21"
+},
+{
+"reference": "Deuteronomy 31:8",
+"book": "Deu",
+"chapter": 31,
+"verse": 8,
+"verse_end": null,
+"key": "Deu.31.8"
+},
+{
+"reference": "2 Samuel 7:10",
+"book": "2Sa",
+"chapter": 7,
+"verse": 10,
+"verse_end": null,
+"key": "2Sa.7.10"
+},
+{
+"reference": "2 Kings 19:15",
+"book": "2Ki",
+"chapter": 19,
+"verse": 15,
+"verse_end": null,
+"key": "2Ki.19.15"
+},
+{
+"reference": "Leviticus 19:10",
+"book": "Lev",
+"chapter": 19,
+"verse": 10,
+"verse_end": null,
+"key": "Lev.19.10"
+},
+{
+"reference": "Deuteronomy 6:5",
+"book": "Deu",
+"chapter": 6,
+"verse": 5,
+"verse_end": null,
+"key": "Deu.6.5"
+},
+{
+"reference": "Judges 7:2",
+"book": "Jdg",
+"chapter": 7,
+"verse": 2,
+"verse_end": null,
+"key": "Jdg.7.2"
+},
+{
+"reference": "Ruth 1:16",
+"book": "Rut",
+"chapter": 1,
+"verse": 16,
+"verse_end": null,
+"key": "Rut.1.16"
+},
+{
+"reference": "2 Samuel 7:12",
+"book": "2Sa",
+"chapter": 7,
+"verse": 12,
+"verse_end": null,
+"key": "2Sa.7.12"
+},
+{
+"reference": "2 Samuel 22:2",
+"book": "2Sa",
+"chapter": 22,
+"verse": 2,
+"verse_end": null,
+"key": "2Sa.22.2"
+},
+{
+"reference": "1 Kings 8:30",
+"book": "1Ki",
+"chapter": 8,
+"verse": 30,
+"verse_end": null,
+"key": "1Ki.8.30"
+},
+{
+"reference": "2 Kings 5:11",
+"book": "2Ki",
+"chapter": 5,
+"verse": 11,
+"verse_end": null,
+"key": "2Ki.5.11"
+},
+{
+"reference": "Exodus 34:10",
+"book": "Exo",
+"chapter": 34,
+"verse": 10,
+"verse_end": null,
+"key": "Exo.34.10"
+},
+{
+"reference": "Genesis 12:1",
+"book": "Gen",
+"chapter": 12,
+"verse": 1,
+"verse_end": null,
+"key": "Gen.12.1"
+},
+{
+"reference": "Genesis 50:21",
+"book": "Gen",
+"chapter": 50,
+"verse": 21,
+"verse_end": null,
+"key": "Gen.50.21"
+},
+{
+"reference": "Genesis 1:4",
+"book": "Gen",
+"chapter": 1,
+"verse": 4,
+"verse_end": null,
+"key": "Gen.1.4"
+},
+{
+"reference": "Exodus 3:1",
+"book": "Exo",
+"chapter": 3,
+"verse": 1,
+"verse_end": null,
+"key": "Exo.3.1"
+},
+{
+"reference": "Exodus 34:5",
+"book": "Exo",
+"chapter": 34,
+"verse": 5,
+"verse_end": null,
+"key": "Exo.34.5"
+},
+{
+"reference": "Exodus 3:2",
+"book": "Exo",
+"chapter": 3,
+"verse": 2,
+"verse_end": null,
+"key": "Exo.3.2"
+},
+{
+"reference": "Exodus 14:11",
+"book": "Exo",
+"chapter": 14,
+"verse": 11,
+"verse_end": null,
+"key": "Exo.14.11"
+},
+{
+"reference": "Genesis 22:2",
+"book": "Gen",
+"chapter": 22,
+"verse": 2,
+"verse_end": null,
+"key": "Gen.22.2"
+},
+{
+"reference": "Genesis 50:17",
+"book": "Gen",
+"chapter": 50,
+"verse": 17,
+"verse_end": null,
+"key": "Gen.50.17"
+},
+{
+"reference": "Genesis 22:18",
+"book": "Gen",
+"chapter": 22,
+"verse": 18,
+"verse_end": null,
+"key": "Gen.22.18"
+},
+{
+"reference": "Exodus 14:22",
+"book": "Exo",
+"chapter": 14,
+"verse": 22,
+"verse_end": null,
+"key": "Exo.14.22"
+},
+{
+"reference": "Genesis 50:15",
+"book": "Gen",
+"chapter": 50,
+"verse": 15,
+"verse_end": null,
+"key": "Gen.50.15"
+},
+{
+"reference": "Genesis 12:9",
+"book": "Gen",
+"chapter": 12,
+"verse": 9,
+"verse_end": null,
+"key": "Gen.12.9"
+},
+{
+"reference": "Genesis 22:9",
+"book": "Gen",
+"chapter": 22,
+"verse": 9,
+"verse_end": null,
+"key": "Gen.22.9"
+},
+{
+"reference": "Genesis 12:2",
+"book": "Gen",
+"chapter": 12,
+"verse": 2,
+"verse_end": null,
+"key": "Gen.12.2"
+},
+{
+"reference": "Exodus 14:10",
+"book": "Exo",
+"chapter": 14,
+"verse": 10,
+"verse_end": null,
+"key": "Exo.14.10"
+},
+{
+"reference": "Exodus 20:1",
+"book": "Exo",
+"chapter": 20,
+"verse": 1,
+"verse_end": null,
+"key": "Exo.20.1"
+},
+{
+"reference": "Genesis 1:31",
+"book": "Gen",
+"chapter": 1,
+"verse": 31,
+"verse_end": null,
+"key": "Gen.1.31"
+},
+{
+"reference": "Genesis 22:1",
+"book": "Gen",
+"chapter": 22,
+"verse": 1,
+"verse_end": null,
+"key": "Gen.22.1"
+},
+{
+"reference": "Genesis 1:16",
+"book": "Gen",
+"chapter": 1,
+"verse": 16,
+"verse_end": null,
+"key": "Gen.1.16"
+},
+{
+"reference": "Genesis 1:2",
+"book": "Gen",
+"chapter": 1,
+"verse": 2,
+"verse_end": null,
+"key": "Gen.1.2"
+},
+{
+"reference": "Genesis 12:5",
+"book": "Gen",
+"chapter": 12,
+"verse": 5,
+"verse_end": null,
+"key": "Gen.12.5"
+},
+{
+"reference": "Genesis 50:16",
+"book": "Gen",
+"chapter": 50,
+"verse": 16,
+"verse_end": null,
+"key": "Gen.50.16"
+},
+{
+"reference": "Genesis 1:5",
+"book": "Gen",
+"chapter": 1,
+"verse": 5,
+"verse_end": null,
+"key": "Gen.1.5"
+},
+{
+"reference": "Genesis 12:4",
+"book": "Gen",
+"chapter": 12,
+"verse": 4,
+"verse_end": null,
+"key": "Gen.12.4"
+},
+{
+"reference": "Genesis 22:4",
+"book": "Gen",
+"chapter": 22,
+"verse": 4,
+"verse_end": null,
+"key": "Gen.22.4"
+},
+{
+"reference": "Exodus 20:17",
+"book": "Exo",
+"chapter": 20,
+"verse": 17,
+"verse_end": null,
+"key": "Exo.20.17"
+},
+{
+"reference": "Exodus 20:2",
+"book": "Exo",
+"chapter": 20,
+"verse": 2,
+"verse_end": null,
+"key": "Exo.20.2"
+},
+{
+"reference": "Exodus 20:3",
+"book": "Exo",
+"chapter": 20,
+"verse": 3,
+"verse_end": null,
+"key": "Exo.20.3"
+},
+{
+"reference": "Exodus 14:16",
+"book": "Exo",
+"chapter": 14,
+"verse": 16,
+"verse_end": null,
+"key": "Exo.14.16"
+},
+{
+"reference": "Exodus 34:7",
+"book": "Exo",
+"chapter": 34,
+"verse": 7,
+"verse_end": null,
+"key": "Exo.34.7"
+},
+{
+"reference": "Exodus 34:6",
+"book": "Exo",
+"chapter": 34,
+"verse": 6,
+"verse_end": null,
+"key": "Exo.34.6"
+},
+{
+"reference": "Exodus 14:12",
+"book": "Exo",
+"chapter": 14,
+"verse": 12,
+"verse_end": null,
+"key": "Exo.14.12"
+},
+{
+"reference": "Genesis 50:18",
+"book": "Gen",
+"chapter": 50,
+"verse": 18,
+"verse_end": null,
+"key": "Gen.50.18"
+},
+{
+"reference": "Genesis 22:3",
+"book": "Gen",
+"chapter": 22,
+"verse": 3,
+"verse_end": null,
+"key": "Gen.22.3"
+},
+{
+"reference": "Exodus 3:15",
+"book": "Exo",
+"chapter": 3,
+"verse": 15,
+"verse_end": null,
+"key": "Exo.3.15"
+},
+{
+"reference": "Exodus 3:3",
+"book": "Exo",
+"chapter": 3,
+"verse": 3,
+"verse_end": null,
+"key": "Exo.3.3"
+},
+{
+"reference": "Genesis 12:3",
+"book": "Gen",
+"chapter": 12,
+"verse": 3,
+"verse_end": null,
+"key": "Gen.12.3"
+},
+{
+"reference": "Exodus 3:8",
+"book": "Exo",
+"chapter": 3,
+"verse": 8,
+"verse_end": null,
+"key": "Exo.3.8"
+},
+{
+"reference": "Exodus 20:9",
+"book": "Exo",
+"chapter": 20,
+"verse": 9,
+"verse_end": null,
+"key": "Exo.20.9"
+},
+{
+"reference": "Genesis 1:3",
+"book": "Gen",
+"chapter": 1,
+"verse": 3,
+"verse_end": null,
+"key": "Gen.1.3"
+},
+{
+"reference": "Matthew 11:28",
+"book": "Mat",
+"chapter": 11,
+"verse": 28,
+"verse_end": null,
+"key": "Mat.11.28"
+},
+{
+"reference": "Psalm 23:1",
+"book": "Psa",
+"chapter": 23,
+"verse": 1,
+"verse_end": null,
+"key": "Psa.23.1"
+},
+{
+"reference": "Psalm 46:1",
+"book": "Psa",
+"chapter": 46,
+"verse": 1,
+"verse_end": null,
+"key": "Psa.46.1"
+},
+{
+"reference": "Hebrews 11:1",
+"book": "Heb",
+"chapter": 11,
+"verse": 1,
+"verse_end": null,
+"key": "Heb.11.1"
+},
+{
+"reference": "Philippians 4:13",
+"book": "Php",
+"chapter": 4,
+"verse": 13,
+"verse_end": null,
+"key": "Php.4.13"
+},
+{
+"reference": "Isaiah 40:31",
+"book": "Isa",
+"chapter": 40,
+"verse": 31,
+"verse_end": null,
+"key": "Isa.40.31"
+},
+{
+"reference": "Psalm 139:14",
+"book": "Psa",
+"chapter": 139,
+"verse": 14,
+"verse_end": null,
+"key": "Psa.139.14"
+},
+{
+"reference": "Romans 8:28",
+"book": "Rom",
+"chapter": 8,
+"verse": 28,
+"verse_end": null,
+"key": "Rom.8.28"
+},
+{
+"reference": "Psalm 119:105",
+"book": "Psa",
+"chapter": 119,
+"verse": 105,
+"verse_end": null,
+"key": "Psa.119.105"
+},
+{
+"reference": "Isaiah 53:5",
+"book": "Isa",
+"chapter": 53,
+"verse": 5,
+"verse_end": null,
+"key": "Isa.53.5"
+},
+{
+"reference": "Jeremiah 29:11",
+"book": "Jer",
+"chapter": 29,
+"verse": 11,
+"verse_end": null,
+"key": "Jer.29.11"
+},
+{
+"reference": "Joshua 1:9",
+"book": "Jos",
+"chapter": 1,
+"verse": 9,
+"verse_end": null,
+"key": "Jos.1.9"
+},
+{
+"reference": "Genesis 1:1",
+"book": "Gen",
+"chapter": 1,
+"verse": 1,
+"verse_end": null,
+"key": "Gen.1.1"
+},
+{
+"reference": "Proverbs 3:5-6",
+"book": "Pro",
+"chapter": 3,
+"verse": 5,
+"verse_end": 6,
+"key": "Pro.3.5"
+},
+{
+"reference": "1 Corinthians 13:4",
+"book": "1Co",
+"chapter": 13,
+"verse": 4,
+"verse_end": null,
+"key": "1Co.13.4"
+},
+{
+"reference": "Matthew 6:33",
+"book": "Mat",
+"chapter": 6,
+"verse": 33,
+"verse_end": null,
+"key": "Mat.6.33"
+},
+{
+"reference": "Psalm 19:14",
+"book": "Psa",
+"chapter": 19,
+"verse": 14,
+"verse_end": null,
+"key": "Psa.19.14"
+},
+{
+"reference": "John 3:16",
+"book": "Jhn",
+"chapter": 3,
+"verse": 16,
+"verse_end": null,
+"key": "Jhn.3.16"
+},
+{
+"reference": "Lamentations 3:22-23",
+"book": "Lam",
+"chapter": 3,
+"verse": 22,
+"verse_end": 23,
+"key": "Lam.3.22"
+},
+{
+"reference": "Romans 12:2",
+"book": "Rom",
+"chapter": 12,
+"verse": 2,
+"verse_end": null,
+"key": "Rom.12.2"
+},
+{
+"reference": "Ephesians 2:8",
+"book": "Eph",
+"chapter": 2,
+"verse": 8,
+"verse_end": null,
+"key": "Eph.2.8"
+},
+{
+"reference": "2 Timothy 1:7",
+"book": "2Ti",
+"chapter": 1,
+"verse": 7,
+"verse_end": null,
+"key": "2Ti.1.7"
+},
+{
+"reference": "Micah 6:8",
+"book": "Mic",
+"chapter": 6,
+"verse": 8,
+"verse_end": null,
+"key": "Mic.6.8"
+},
+{
+"reference": "1 John 4:8",
+"book": "1Jn",
+"chapter": 4,
+"verse": 8,
+"verse_end": null,
+"key": "1Jn.4.8"
+}
+]
+}
