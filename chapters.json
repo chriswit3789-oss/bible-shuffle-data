@@ -12225,5 +12225,401 @@
 "note": "The closing rule rests on new creation rather than circumcision, ending the dispute."
 }
 ]
+},
+"Eph.1": {
+"occasion": "Opening blessing and prayer for the Ephesian believers.",
+"structure": "Chosen before the ages, redemption through blood, the mystery of unity, and a prayer for enlightened hearts.",
+"world_behind": "Ephesus held the temple of Artemis, one of the largest sanctuaries in the world, so spiritual powers were familiar scenery.",
+"deep_background": [
+{
+"concept": "Adoption",
+"note": "Roman adoption moved a child into a new family line with full inheritance rights, which frames the language of sonship."
+}
+]
+},
+"Eph.2": {
+"occasion": "Dead in sin, raised by grace, made one new people.",
+"structure": "Past condition described, salvation by grace through faith, and the dividing wall broken down.",
+"world_behind": "A low wall in the Jerusalem temple kept Gentiles out on pain of death, so the wall image carried real weight.",
+"deep_background": [
+{
+"concept": "Household of God",
+"note": "Domestic assemblies met in homes, so a building image for the church was natural to these readers."
+}
+]
+},
+"Eph.3": {
+"occasion": "The mystery revealed and Paul's prayer for love.",
+"structure": "Paul's stewardship of the mystery, the unsearchable riches of Christ, and a prayer for rooted love.",
+"world_behind": "Prisoners relied on visitors and gifts, which is why Paul asks prayer for boldness rather than release.",
+"deep_background": [
+{
+"concept": "Mystery",
+"note": "A mystery in Greek usage meant a plan hidden until its appointed disclosure, not something unknowable."
+}
+]
+},
+"Eph.4": {
+"occasion": "Unity in the body and the new life.",
+"structure": "One body and one Spirit, gifts given for building up, and the putting off of the old self.",
+"world_behind": "Gifts were distributed by a victorious king, and the imagery draws on that procession.",
+"deep_background": [
+{
+"concept": "Seal",
+"note": "Sealing marked ownership and security, so the Spirit as seal means a guaranteed belonging."
+}
+]
+},
+"Eph.5": {
+"occasion": "Walk in love and order the household.",
+"structure": "Imitating God, light instead of darkness, careful conduct, and marriage as the church's pattern.",
+"world_behind": "Roman marriage contracts were financial agreements, and the household was the basic unit of the economy.",
+"deep_background": [
+{
+"concept": "Mystery of marriage",
+"note": "The passage re-reads a domestic code as a picture of covenant faithfulness."
+}
+]
+},
+"Eph.6": {
+"occasion": "Household duties and the armor of God.",
+"structure": "Children and fathers, slaves and masters, then the full armor and prayer for boldness.",
+"world_behind": "Soldiers stood guard chained to prisoners, so Roman armor was a familiar sight from Paul's own experience.",
+"deep_background": [
+{
+"concept": "Armor",
+"note": "A soldier's belt, breastplate, sandals and shield come from Isaiah's picture of God arming himself."
+}
+]
+},
+"Php.1": {
+"occasion": "Thanksgiving and confidence that the gospel advances through chains.",
+"structure": "Partnership in the gospel, prayer for growing love, and the famous dilemma between living and departing.",
+"world_behind": "Philippi was a Roman colony whose citizens prized their status, which sharpens the citizenship language.",
+"deep_background": [
+{
+"concept": "Praetorian guard",
+"note": "Paul's chains reached the imperial guard itself, turning custody into a preaching platform."
+}
+]
+},
+"Php.2": {
+"occasion": "The mind of Christ and two faithful coworkers.",
+"structure": "Humility and the self-emptying of Christ, shining as lights, then Timothy and Epaphroditus commended.",
+"world_behind": "Honor and status drove public life, so urging lowliness ran against the culture's grain.",
+"deep_background": [
+{
+"concept": "Name above every name",
+"note": "The hymn echoes Isaiah's servant, whom God exalts after humiliation."
+}
+]
+},
+"Php.3": {
+"occasion": "All things counted loss for Christ.",
+"structure": "Paul's credentials set aside, the goal of knowing Christ, and a warning against the circumcision party.",
+"world_behind": "Dogs was a sharp insult when thrown at people, and Paul turns it on his opponents.",
+"deep_background": [
+{
+"concept": "Citizenship",
+"note": "Philippi's colonia made Roman citizenship concrete, so heaven's citizenship is a rival loyalty."
+}
+]
+},
+"Php.4": {
+"occasion": "Standing firm, rejoicing, and contentment.",
+"structure": "Appeal to Euodia and Syntyche, do not be anxious, think on what is worthy, and thanks for the gift.",
+"world_behind": "Letters travelled with trusted couriers who carried news and funds, which is how the gift arrived.",
+"deep_background": [
+{
+"concept": "Contentment",
+"note": "The word is self-sufficiency in Greek ethics, here redefined as sufficiency found in Christ."
+}
+]
+},
+"Col.1": {
+"occasion": "The preeminence of Christ and Paul's labor for the church.",
+"structure": "Thanksgiving, the hymn of Christ's supremacy, reconciliation, and Paul's suffering for the gospel.",
+"world_behind": "Colossae sat in the Lycus valley near Laodicea, a small textile town on a trade route.",
+"deep_background": [
+{
+"concept": "Image of the invisible",
+"note": "In a world of visible idols, calling Christ the image answers the question of where God may be seen."
+}
+]
+},
+"Col.2": {
+"occasion": "Fullness in Christ against hollow philosophy.",
+"structure": "Warning about deceptive teaching, the fullness of deity in Christ, freedom from regulations, and the record cancelled.",
+"world_behind": "Mystery cults and ascetic practices were common in Asia Minor, and the warning targets that mixture.",
+"deep_background": [
+{
+"concept": "Cancelled record",
+"note": "A written debt nailed up and cancelled publicly matches the image of a legal charge erased."
+}
+]
+},
+"Col.3": {
+"occasion": "Life hidden with Christ; the new self.",
+"structure": "Seek things above, put to death old practices, put on love, and the household code.",
+"world_behind": "Clothing was a public statement of status, so the image of stripping and dressing carried social weight.",
+"deep_background": [
+{
+"concept": "Hidden",
+"note": "Hiddenness with Christ answers a church that looked unimpressive to its neighbours."
+}
+]
+},
+"Col.4": {
+"occasion": "Prayer, wise speech, and greetings.",
+"structure": "Continue steadfast in prayer, walk wisely toward outsiders, greetings from coworkers, and final instructions.",
+"world_behind": "Colossae's church met in a home, and Nympha's house is named, showing how gatherings were hosted.",
+"deep_background": [
+{
+"concept": "Letter exchange",
+"note": "The instruction to swap letters shows how early teaching circulated between neighbouring towns."
+}
+]
+},
+"1Th.1": {
+"occasion": "Thanksgiving for a young church's faith.",
+"structure": "Work of faith, labour of love, steadfast hope, and the report of how they turned from idols.",
+"world_behind": "Thessalonica was a free city with a busy port and a Jewish synagogue, so the mission began there.",
+"deep_background": [
+{
+"concept": "Turned from idols",
+"note": "Civic life ran on public cults, so abandoning idols carried social and economic cost."
+}
+]
+},
+"1Th.2": {
+"occasion": "Paul's conduct among them defended.",
+"structure": "Gentle as a nurse, hard-working, blameless, and the word received as God's word.",
+"world_behind": "Tentmakers and artisans worked long days, which explains Paul's insistence he took no support.",
+"deep_background": [
+{
+"concept": "Nurse",
+"note": "The image is of a nursing mother, deliberately undignified language for a teacher."
+}
+]
+},
+"1Th.3": {
+"occasion": "Timothy's report and prayer for growth.",
+"structure": "Concern in Athens, Timothy sent, the good news received, and a prayer to increase love.",
+"world_behind": "Travel between Athens and Thessalonica took weeks, which explains the anxiety in the silence.",
+"deep_background": [
+{
+"concept": "Affliction",
+"note": "The church expected pressure from its own neighbours, so suffering was not a sign of failure."
+}
+]
+},
+"1Th.4": {
+"occasion": "Holiness, brotherly love, and the coming of the Lord.",
+"structure": "Sexual purity, quiet work, love among believers, and the dead in Christ raised first.",
+"world_behind": "A Roman city's moral expectations were loose in some areas and strict in honour codes others, so instruction was needed.",
+"deep_background": [
+{
+"concept": "Trumpet",
+"note": "A trumpet gathered an assembly, so the image is of a summons, not merely a sound."
+}
+]
+},
+"1Th.5": {
+"occasion": "The day of the Lord and final exhortations.",
+"structure": "A thief in the night, children of light, watchfulness, and a rapid series of closing commands.",
+"world_behind": "Night watchmen and city gates shaped how people thought about surprise and security.",
+"deep_background": [
+{
+"concept": "Peace and safety",
+"note": "The slogan of safety was standard civic propaganda for Roman order, which makes the contrast pointed."
+}
+]
+},
+"2Th.1": {
+"occasion": "Comfort under persecution and the coming judgment.",
+"structure": "Thanksgiving for endurance, the righteous judgment at Christ's revealing, and prayer for worthiness.",
+"world_behind": "Local magistrates could act against new religious groups, and believers faced civic pressure.",
+"deep_background": [
+{
+"concept": "Rest",
+"note": "Rest from affliction is pictured as relief granted at the revealing, not in the present."
+}
+]
+},
+"2Th.2": {
+"occasion": "The lawless one and standing firm.",
+"structure": "Warning against a false claim of the day's arrival, the man of lawlessness revealed, and holding the tradition.",
+"world_behind": "A forged letter is implied, showing how easily teaching could be faked in a letter-based network.",
+"deep_background": [
+{
+"concept": "Restrainer",
+"note": "The one who restrains is deliberately unnamed, which has kept interpreters cautious for centuries."
+}
+]
+},
+"2Th.3": {
+"occasion": "Warning against idleness and final words.",
+"structure": "Prayer requested, idle members admonished, Paul's own example of labour, and a closing blessing.",
+"world_behind": "Patronage allowed some to live off others, and the church had to distinguish need from opportunism.",
+"deep_background": [
+{
+"concept": "Own hands",
+"note": "Manual labour was despised by elites, so Paul's insistence reverses the social expectation."
+}
+]
+},
+"1Ti.1": {
+"occasion": "Sound doctrine and Paul's own testimony.",
+"structure": "Warning against myths and genealogies, the law's proper use, Paul as chief of sinners, and the charge to Timothy.",
+"world_behind": "Ephesus was full of itinerant teachers, and letters of commendation were how travelling preachers proved credibility.",
+"deep_background": [
+{
+"concept": "Genealogies",
+"note": "Speculative family lists were a feature of some Jewish teaching of the period, which is why they are named."
+}
+]
+},
+"1Ti.2": {
+"occasion": "Prayer for all people and proper order in worship.",
+"structure": "Prayer for rulers, God's desire for all to be saved, one mediator, and instructions on dress and learning.",
+"world_behind": "Public prayer for the emperor was a civic duty, and the church's version claimed the same public ground.",
+"deep_background": [
+{
+"concept": "Mediator",
+"note": "A mediator stood between parties; the claim is that one person now fills that role for all."
+}
+]
+},
+"1Ti.3": {
+"occasion": "Qualifications for overseers and deacons.",
+"structure": "Character requirements for overseers, then deacons, then the reason for writing and the confession hymn.",
+"world_behind": "Civic offices were vetted by public reputation, so household management was a familiar qualification.",
+"deep_background": [
+{
+"concept": "One wife",
+"note": "The phrase most likely targets a man who remarried after divorce or death, a live issue in that society."
+}
+]
+},
+"1Ti.4": {
+"occasion": "Predicted apostasy and the training of godliness.",
+"structure": "Warnings about ascetic teaching, the goodness of creation, and Timothy's example of godliness.",
+"world_behind": "Greek philosophy often treated the body with suspicion, so forbidding marriage and foods fit that current.",
+"deep_background": [
+{
+"concept": "Godliness",
+"note": "The word combines reverence with practice, describing devotion expressed in conduct."
+}
+]
+},
+"1Ti.5": {
+"occasion": "Care for widows and elders in the congregation.",
+"structure": "Widows to be enrolled, family responsibility, honour for elders, and impartiality in accusations.",
+"world_behind": "A widow without family had no income, so the church's list functioned as a form of social security.",
+"deep_background": [
+{
+"concept": "Enrolment",
+"note": "Enrolment implies an official register, showing organized benevolence rather than informal charity."
+}
+]
+},
+"1Ti.6": {
+"occasion": "Godliness with contentment and the good confession.",
+"structure": "Slaves' conduct, the dangers of wealth, contentment, the fight of faith, and a final charge.",
+"world_behind": "Wealth in the ancient world was mostly land and patronage, and display was a mark of status.",
+"deep_background": [
+{
+"concept": "Good confession",
+"note": "Confessing before many witnesses suggests a public trial or a formal declaration, possibly baptism."
+}
+]
+},
+"2Ti.1": {
+"occasion": "Guard the deposit and share in suffering.",
+"structure": "Thanksgiving for Timothy's heritage, the gift stirred up, suffering accepted, and the deposit entrusted.",
+"world_behind": "Prisoners in Rome depended on friends bringing food and clothing, which explains the requests for company.",
+"deep_background": [
+{
+"concept": "Deposit",
+"note": "The word describes something left in trust, so the gospel is treated as property held for another."
+}
+]
+},
+"2Ti.2": {
+"occasion": "The faithful soldier and the approved worker.",
+"structure": "Endure hardship, handle the word rightly, avoid quarrels, and pursue clean conduct among the young.",
+"world_behind": "Soldiers, athletes and farmers were stock images in Greek moral writing, and Paul uses all three.",
+"deep_background": [
+{
+"concept": "Hymenaeus",
+"note": "Naming false teachers was normal practice, since public teaching carried public accountability."
+}
+]
+},
+"2Ti.3": {
+"occasion": "Hard times and the sufficiency of scripture.",
+"structure": "Description of a difficult age, Paul's own example, and scripture as inspired and useful.",
+"world_behind": "Persecution was not unusual, and Timothy's upbringing was in the Jewish scriptures from childhood.",
+"deep_background": [
+{
+"concept": "God-breathed",
+"note": "The rare word makes the claim about the writings' origin rather than their style."
+}
+]
+},
+"2Ti.4": {
+"occasion": "Preach the word and Paul's final account.",
+"structure": "Urgency in preaching, the coming dissatisfaction with sound teaching, Paul's departure, and personal requests.",
+"world_behind": "A drink offering was poured beside a sacrifice, which fits the picture of life already being spent.",
+"deep_background": [
+{
+"concept": "Crown",
+"note": "Athletic crowns were wreaths at competitions, a familiar civic spectacle in the Greek east."
+}
+]
+},
+"Tit.1": {
+"occasion": "Elders on Crete and the correction of false teaching.",
+"structure": "Appointment of elders, their qualifications, the circumcision party silenced, and the Cretan reputation.",
+"world_behind": "Crete had a proverbially bad reputation in Greek literature, which Paul quotes against its own prophets.",
+"deep_background": [
+{
+"concept": "Steward",
+"note": "An estate manager answered to the owner, which frames the leader's authority as delegated rather than owned."
+}
+]
+},
+"Tit.2": {
+"occasion": "Sound doctrine for every age and station.",
+"structure": "Teaching for older men, older women, younger people, slaves, and the grace that trains conduct.",
+"world_behind": "Household instruction was a recognized literary form, and its aim was a well-ordered home.",
+"deep_background": [
+{
+"concept": "Adorn",
+"note": "The metaphor is of making teaching attractive, treating doctrine as something publicly displayed."
+}
+]
+},
+"Tit.3": {
+"occasion": "Good works, gentleness, and closing instructions.",
+"structure": "Submission to rulers, mercy not earned, avoid quarrels, deal with a divisive person, and final plans.",
+"world_behind": "Crete sat on busy sea lanes, and travellers depended on hospitality, so lodging arrangements mattered.",
+"deep_background": [
+{
+"concept": "Washing",
+"note": "The renewal language draws on bathing imagery, ordinary before it was figurative."
+}
+]
+},
+"Phm.1": {
+"occasion": "A personal appeal for the runaway slave Onesimus.",
+"structure": "Thanksgiving for Philemon, the appeal on Onesimus' behalf, a pledge to repay, and a confident expectation.",
+"world_behind": "Runaway slaves could be branded or worse, so Paul sends the letter with the slave himself.",
+"deep_background": [
+{
+"concept": "Brother",
+"note": "Calling a slave a brother cut against the legal order, since a slave was property in Roman law."
+}
+]
 }
 }
