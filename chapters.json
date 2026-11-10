@@ -10861,5 +10861,500 @@
 "note": "Manuscript evidence varies here, which is why some Bibles mark the final verses as a later addition."
 }
 ]
+},
+"Luk.1": {
+"occasion": "Luke's prologue and the births of John and Jesus foretold.",
+"structure": "Dedication to Theophilus, Zechariah's temple vision, Mary's visit, the Magnificat, and John's birth.",
+"world_behind": "Temple incense service fell by lot, and a priest served one annual rotation, so Zechariah's turn was rare.",
+"deep_background": [
+{
+"concept": "Magnificat",
+"note": "Mary's song quotes Hannah's prayer, casting the birth in the pattern of Israel's deliverance."
+}
+]
+},
+"Luk.2": {
+"occasion": "The birth of Jesus, the shepherds, and the boy in the temple.",
+"structure": "Census and manger, angelic announcement, presentation, Simeon and Anna, then Jesus at twelve.",
+"world_behind": "A Roman census required travel to a family's ancestral town, which explains the Bethlehem journey.",
+"deep_background": [
+{
+"concept": "Manger",
+"note": "A feeding trough signalled a birth in the crowded animal space of a village home, not an inn rejection."
+}
+]
+},
+"Luk.3": {
+"occasion": "John's preaching, Jesus' baptism, and the genealogy.",
+"structure": "Preaching of repentance, baptism, the descent of the Spirit, and a genealogy reaching Adam.",
+"world_behind": "Baptism in the Jordan was public, and crowds came from Judaea and beyond the river.",
+"deep_background": [
+{
+"concept": "Genealogy",
+"note": "Luke traces the line through Adam rather than Abraham, framing the mission for all nations."
+}
+]
+},
+"Luk.4": {
+"occasion": "Temptation and the Nazareth rejection.",
+"structure": "Wilderness testing, Isaiah read at Nazareth, rejection by the town, then Capernaum healings.",
+"world_behind": "Nazareth was a small hill village, and a visiting teacher read standing and sat to explain.",
+"deep_background": [
+{
+"concept": "Jubilee",
+"note": "The release and good news of Isaiah 61 carry the social shape of the Jubilee year."
+}
+]
+},
+"Luk.5": {
+"occasion": "Calls to discipleship and healings in Capernaum.",
+"structure": "Peter's catch, the leper, the paralytic through the roof, and Levi's feast.",
+"world_behind": "Fishing on Galilee used nets and boats at night, and the catch was sold fresh the same day.",
+"deep_background": [
+{
+"concept": "Roof opening",
+"note": "Houses had flat mud roofs reached by outside stairs, so digging through one was possible."
+}
+]
+},
+"Luk.6": {
+"occasion": "Sabbath conflicts, the twelve chosen, and the sermon on the plain.",
+"structure": "Grain and hand healings, the naming of the twelve, then blessings and woes.",
+"world_behind": "Pharisee sabbath rules aimed at protecting the day, so food plucking posed a live legal question.",
+"deep_background": [
+{
+"concept": "Sermon on the plain",
+"note": "Luke sets the teaching on level ground after a night of prayer, unlike Matthew's mountain."
+}
+]
+},
+"Luk.7": {
+"occasion": "Faith outside Israel and mercy to the dead and the sinful.",
+"structure": "Centurion's servant, widow's son raised at Nain, John's question, and the sinful woman anointed Jesus' feet.",
+"world_behind": "A centurion commanded roughly a hundred soldiers and often funded a local synagogue.",
+"deep_background": [
+{
+"concept": "Nain",
+"note": "Nain sat near Nazareth, and a funeral procession met Jesus at the town gate."
+}
+]
+},
+"Luk.8": {
+"occasion": "Parables of the kingdom and power over storm, demons, and death.",
+"structure": "Sower explained, storm stilled, Gerasene deliverance, Jairus' daughter, and the bleeding woman.",
+"world_behind": "Gennesaret boats were small and open, so a sudden squall could swamp them quickly.",
+"deep_background": [
+{
+"concept": "Legion",
+"note": "A legion named a Roman unit of thousands, a deliberate image of occupying power in one man."
+}
+]
+},
+"Luk.9": {
+"occasion": "The twelve sent, the five thousand fed, and the transfiguration.",
+"structure": "Mission charge, Herod's confusion, the feeding, Peter's confession, glory on the mountain, and the boy healed.",
+"world_behind": "Herod Antipas ruled Galilee and had executed John, so reports of Jesus reached him directly.",
+"deep_background": [
+{
+"concept": "Exodus talk",
+"note": "Moses and Elijah speak of a departure, tying the journey to Jerusalem to the exodus pattern."
+}
+]
+},
+"Luk.10": {
+"occasion": "The seventy-two sent out, and the good Samaritan.",
+"structure": "Mission of the seventy-two, their return, the lawyer's question, the Samaritan parable, and Mary and Martha.",
+"world_behind": "The Jericho road dropped steeply through rocky ground, notorious for robbery.",
+"deep_background": [
+{
+"concept": "Samaritan",
+"note": "Samaritans shared the Torah but worshipped on Gerizim, so the choice of hero was pointed."
+}
+]
+},
+"Luk.11": {
+"occasion": "Teaching on prayer and the sign of Jonah.",
+"structure": "Lord's Prayer, friend at midnight, persistent asking, Beelzebub accusation, and woes to the Pharisees.",
+"world_behind": "Hospitality required feeding a night guest, so the reluctant friend's refusal broke social obligation.",
+"deep_background": [
+{
+"concept": "Jonah sign",
+"note": "Jonah preached to a foreign city, so the sign anticipates judgment reversed for outsiders."
+}
+]
+},
+"Luk.12": {
+"occasion": "Warnings about hypocrisy, greed, and anxiety.",
+"structure": "Leaven of the Pharisees, fear God, the rich fool, care for the sparrows, and readiness for the master.",
+"world_behind": "Barns were stone or mud storerooms, and a bumper harvest meant building bigger ones.",
+"deep_background": [
+{
+"concept": "Rich fool",
+"note": "The parable's farmer speaks only to himself, which is the point of the portrait."
+}
+]
+},
+"Luk.13": {
+"occasion": "Calls to repentance and the narrow door.",
+"structure": "Galilean deaths, the barren fig tree, the bent woman healed, mustard seed and leaven, and the lament over Jerusalem.",
+"world_behind": "A tower at Siloam collapsed, and Pilate had killed worshippers, both fresh news to the crowd.",
+"deep_background": [
+{
+"concept": "Eighteen years",
+"note": "Long illness had no healing in Israel's practice, so the sabbath healing was disputed not denied."
+}
+]
+},
+"Luk.14": {
+"occasion": "Table teaching on humility and the cost of discipleship.",
+"structure": "Dropsy healed, seats at the feast, the great banquet, and counting the cost.",
+"world_behind": "Banquets seated guests by rank, and host and guest were bound by reciprocal obligation.",
+"deep_background": [
+{
+"concept": "Tower",
+"note": "Building a tower meant hiring labor and buying stone, so the planning image was concrete."
+}
+]
+},
+"Luk.15": {
+"occasion": "Three parables of the lost answered to grumbling.",
+"structure": "Lost sheep, lost coin, and the prodigal son with the elder brother.",
+"world_behind": "A shepherd left a flock in open country, and a village woman's ten coins were likely a headdress.",
+"deep_background": [
+{
+"concept": "Robe and ring",
+"note": "Restoring robe, ring and sandals reinstated the son as a family member, not a servant."
+}
+]
+},
+"Luk.16": {
+"occasion": "Teaching on wealth and the rich man and Lazarus.",
+"structure": "The shrewd manager, faithful use of money, and the reversal of rich man and beggar.",
+"world_behind": "Managers handled another's estate and could reduce debts by cutting their own commission.",
+"deep_background": [
+{
+"concept": "Bosom of Abraham",
+"note": "Reclining beside Abraham at the feast pictured the place of honour in the world to come."
+}
+]
+},
+"Luk.17": {
+"occasion": "Faith, duty, gratitude, and the coming of the kingdom.",
+"structure": "Stumbling and forgiveness, the mustard seed, the servant's duty, ten lepers, and the kingdom's arrival.",
+"world_behind": "Lepers kept distance and had to show themselves to priests for readmission to the community.",
+"deep_background": [
+{
+"concept": "Nine silent",
+"note": "Only the foreigner returned, and the silence of the others is the shock of the story."
+}
+]
+},
+"Luk.18": {
+"occasion": "Persistent prayer and the cost of following.",
+"structure": "The widow and the judge, Pharisee and tax collector, children welcomed, the rich ruler, and blind Bartimaeus.",
+"world_behind": "Jericho sat on the trade road, so a blind beggar there met constant traffic and alms.",
+"deep_background": [
+{
+"concept": "Justified",
+"note": "The tax collector goes home declared righteous, the reversal on which the parable turns."
+}
+]
+},
+"Luk.19": {
+"occasion": "Zacchaeus, the minas, and the entry into Jerusalem.",
+"structure": "Zacchaeus converted, the ten minas, the colt and the crowd, and the lament over the city.",
+"world_behind": "A chief tax collector contracted for revenue and grew rich on the margin above the bid.",
+"deep_background": [
+{
+"concept": "Sycamore",
+"note": "The fig-mulberry tree had low spreading branches, easy to climb and see over a crowd."
+}
+]
+},
+"Luk.20": {
+"occasion": "Controversies in the temple courts during the final week.",
+"structure": "Authority questioned, the tenants, tribute to Caesar, the resurrection riddle, and David's son.",
+"world_behind": "The temple courts were the public teaching space, and the authorities held the licensing there.",
+"deep_background": [
+{
+"concept": "Denarius",
+"note": "The coin bore Caesar's image, so the question trapped Jesus between revolt and collaboration."
+}
+]
+},
+"Luk.21": {
+"occasion": "The widow's gift and the Olivet discourse.",
+"structure": "Two copper coins, the temple's ruin foretold, persecution, Jerusalem encircled, and the call to watch.",
+"world_behind": "Temple treasury boxes received gifts publicly, so the widow's offering was visible to onlookers.",
+"deep_background": [
+{
+"concept": "Lepta",
+"note": "Two lepta were the smallest copper coins, worth a fraction of a day's wage."
+}
+]
+},
+"Luk.22": {
+"occasion": "The last supper, arrest, and trials.",
+"structure": "Judas' bargain, the supper and the cup, Gethsemane, arrest, trials, and Peter's denial.",
+"world_behind": "Passover required unleavened bread and a lamb, eaten in the city after nightfall.",
+"deep_background": [
+{
+"concept": "Greatness",
+"note": "At the table the dispute over rank inverts the household hierarchy the disciples expected."
+}
+]
+},
+"Luk.23": {
+"occasion": "Trial before Pilate, crucifixion, and burial.",
+"structure": "Accusations and Herod, Barabbas, the way to the cross, the two criminals, the death, and the tomb.",
+"world_behind": "Pilate sent a Galilean defendant to Herod Antipas as a courtesy during the feast.",
+"deep_background": [
+{
+"concept": "Paradise",
+"note": "The promise to the criminal uses a garden word, answering the request to be remembered."
+}
+]
+},
+"Luk.24": {
+"occasion": "Resurrection, Emmaus, and the ascension.",
+"structure": "Women at the tomb, the walk to Emmaus, the appearance to the eleven, and the departure near Bethany.",
+"world_behind": "Emmaus lay about seven miles from Jerusalem, a walk of roughly two hours.",
+"deep_background": [
+{
+"concept": "Breaking bread",
+"note": "Recognition comes at the table, which became the pattern the early church repeated."
+}
+]
+},
+"Jhn.1": {
+"occasion": "The Word made flesh and the first disciples called.",
+"structure": "Prologue hymn, the Baptist's testimony, the Lamb of God, and the calling of Andrew, Peter, Philip and Nathanael.",
+"world_behind": "Bethany beyond the Jordan was a baptism site where crowds gathered to hear John.",
+"deep_background": [
+{
+"concept": "Logos",
+"note": "The opening echoes both Genesis creation speech and Greek thought about ordering reason."
+}
+]
+},
+"Jhn.2": {
+"occasion": "The first sign at Cana and the temple cleansing.",
+"structure": "Water into wine at a wedding, then the Passover visit and the clearing of the courts.",
+"world_behind": "Stone jars for purification held water for ritual washing, dozens of gallons at a time.",
+"deep_background": [
+{
+"concept": "Temple trade",
+"note": "Pilgrims needed unblemished animals and temple coinage, which traders supplied at a markup."
+}
+]
+},
+"Jhn.3": {
+"occasion": "Nicodemus by night and the Baptist's final testimony.",
+"structure": "New birth from above, the wind and the Spirit, the love of God, and John's decline.",
+"world_behind": "A Pharisee and member of the ruling council came at night, when private teaching was normal.",
+"deep_background": [
+{
+"concept": "Born again",
+"note": "The Greek phrase means both again and from above, which is why Nicodemus misunderstands."
+}
+]
+},
+"Jhn.4": {
+"occasion": "The Samaritan woman and the official's son.",
+"structure": "The well at Sychar, living water, the woman's testimony, and the healing at a distance.",
+"world_behind": "Jacob's well was deep, and drawing water was women's daily work at the cooler hours.",
+"deep_background": [
+{
+"concept": "Gerizim",
+"note": "Samaritans worshipped on Mount Gerizim, and the dispute over the right place is the pivot."
+}
+]
+},
+"Jhn.5": {
+"occasion": "Healing at Bethesda and the sabbath dispute.",
+"structure": "The pool healing, the charge of sabbath breaking, and the discourse on the Father's testimony.",
+"world_behind": "The pools by the Sheep Gate drew the sick, hoping for moving water and healing.",
+"deep_background": [
+{
+"concept": "Equal with God",
+"note": "Calling God his Father made the claim of shared work and shared authority, which drew the charge."
+}
+]
+},
+"Jhn.6": {
+"occasion": "Feeding the five thousand and the bread of life.",
+"structure": "The sign on the hillside, walking on the water, and the discourse in the Capernaum synagogue.",
+"world_behind": "Barley loaves were the cheap bread of the poor, and a boy carried the crowd's lunch.",
+"deep_background": [
+{
+"concept": "Manna",
+"note": "The crowd cites the wilderness bread, so Jesus answers with himself as the true bread."
+}
+]
+},
+"Jhn.7": {
+"occasion": "The Feast of Tabernacles and the divided crowds.",
+"structure": "The brothers' challenge, secret arrival, teaching in the temple, the water ceremony, and the officers sent to arrest him.",
+"world_behind": "Tabernacles drew pilgrims to Jerusalem and included a daily water-pouring rite at the altar.",
+"deep_background": [
+{
+"concept": "Rivers of water",
+"note": "The cry on the last day answers the water libation the crowd had just watched."
+}
+]
+},
+"Jhn.8": {
+"occasion": "The woman caught and the light of the world.",
+"structure": "The trap in the temple court, the withdrawal of the accusers, the light discourse, and the claim before Abraham.",
+"world_behind": "Stoning was a public sentence, and the temple courts were where teachers settled legal questions.",
+"deep_background": [
+{
+"concept": "I am",
+"note": "The phrase echoes the divine name in Exodus, which is why the hearers take up stones."
+}
+]
+},
+"Jhn.9": {
+"occasion": "The man born blind receives sight and is expelled.",
+"structure": "The healing with clay, the neighbours' confusion, the interrogation, the expulsion, and the worship.",
+"world_behind": "Spittle and clay were common folk remedies, and blindness was assumed to be punishment for sin.",
+"deep_background": [
+{
+"concept": "Siloam",
+"note": "The pool's name means sent, which the narrator ties to the one who sent Jesus."
+}
+]
+},
+"Jhn.10": {
+"occasion": "The good shepherd discourse at the Feast of Dedication.",
+"structure": "Sheep and shepherd, the hired hand, the other sheep, the charge of blasphemy, and the withdrawal across the Jordan.",
+"world_behind": "Dedication commemorated the temple's rededication, and the portico of Solomon sheltered the crowd.",
+"deep_background": [
+{
+"concept": "Hireling",
+"note": "A hired hand had no stake in the flock, unlike a shepherd who owned the sheep."
+}
+]
+},
+"Jhn.11": {
+"occasion": "The raising of Lazarus and the decision to kill Jesus.",
+"structure": "The sisters' message, the delay, Martha's confession, the tomb, the command, and the council's verdict.",
+"world_behind": "Burial followed death within a day, and a cave tomb was sealed with a stone.",
+"deep_background": [
+{
+"concept": "Caiaphas",
+"note": "The high priest's counsel that one die for the nation is framed as unwitting prophecy."
+}
+]
+},
+"Jhn.12": {
+"occasion": "Anointing, the entry, and the hour of glorification.",
+"structure": "Bethany anointing, the colt and the crowd, the Greeks' request, the grain of wheat, and the voice from heaven.",
+"world_behind": "Pilgrims waved palm branches at Tabernacles and welcomed arriving dignitaries with them.",
+"deep_background": [
+{
+"concept": "Lifted up",
+"note": "The phrase means both crucifixion and exaltation, holding the cross and glory together."
+}
+]
+},
+"Jhn.13": {
+"occasion": "The last supper, foot washing, and Judas' departure.",
+"structure": "The washing, Peter's protest, the betrayal foretold, Judas leaving, and the new commandment.",
+"world_behind": "Guests' feet were washed by the lowest servant, since sandals and dusty roads made it necessary.",
+"deep_background": [
+{
+"concept": "Reclining",
+"note": "Guests lay on couches, so the beloved disciple could lean back against Jesus' chest."
+}
+]
+},
+"Jhn.14": {
+"occasion": "The farewell discourse begins with comfort and promise.",
+"structure": "Many rooms, the way and the truth, Philip's request, the promise of the Advocate, and the gift of peace.",
+"world_behind": "A household's inner rooms were the family's secure space, an image of belonging.",
+"deep_background": [
+{
+"concept": "Advocate",
+"note": "The word describes a legal helper called alongside, a defence in court."
+}
+]
+},
+"Jhn.15": {
+"occasion": "The vine and branches, and the world's hatred.",
+"structure": "Vinedresser and pruning, abiding in love, chosen friendship, and the world's opposition.",
+"world_behind": "Vineyards were pruned hard each season, and unfruitful wood was burned.",
+"deep_background": [
+{
+"concept": "Friends",
+"note": "Calling servants friends shifts the relationship from command to shared counsel."
+}
+]
+},
+"Jhn.16": {
+"occasion": "Sorrow turned to joy and the Spirit's work.",
+"structure": "Persecution foretold, the Advocate's conviction, the little while, the woman in labour, and peace in tribulation.",
+"world_behind": "Synagogue expulsion was a formal social penalty, not merely a disagreement.",
+"deep_background": [
+{
+"concept": "Little while",
+"note": "The phrase confuses the disciples because it can mean both a short time and a small amount."
+}
+]
+},
+"Jhn.17": {
+"occasion": "The high priestly prayer of Jesus.",
+"structure": "Glorification, the disciples kept, unity among believers, and the world's belief through them.",
+"world_behind": "Prayer with eyes lifted and hands open was a common posture for blessing and petition.",
+"deep_background": [
+{
+"concept": "Consecrate",
+"note": "The word belongs to temple setting-apart, tying the disciples' mission to sacrifice."
+}
+]
+},
+"Jhn.18": {
+"occasion": "The arrest and the trials before Annas and Pilate.",
+"structure": "The garden arrest, Peter's denial, the hearing before Annas, and the interrogation by Pilate.",
+"world_behind": "The Kidron valley lay between the city and the Mount of Olives, a short walk after supper.",
+"deep_background": [
+{
+"concept": "Lithostrotos",
+"note": "The paved judgement place outside the fortress allowed a crowd to gather, which Pilate used."
+}
+]
+},
+"Jhn.19": {
+"occasion": "Scourging, crucifixion, death, and burial.",
+"structure": "Pilate's verdict, the cross and the title, the mother commended, the spear, and the tomb in the garden.",
+"world_behind": "Crucifixion outside the wall kept the city clean, and a titulus named the charge.",
+"deep_background": [
+{
+"concept": "Blood and water",
+"note": "The flow from the side is presented as eyewitness detail, insisting the death was real."
+}
+]
+},
+"Jhn.20": {
+"occasion": "The empty tomb, Mary Magdalene, and Thomas.",
+"structure": "The stone moved, the linen cloths, Mary's encounter, the locked room, and Thomas' confession.",
+"world_behind": "Garden tombs were cut into rock and closed with a disc-shaped stone that rolled in a groove.",
+"deep_background": [
+{
+"concept": "Linen cloths",
+"note": "The cloths still in place implied the body had passed out of them, not been unwrapped."
+}
+]
+},
+"Jhn.21": {
+"occasion": "Breakfast on the shore and Peter restored.",
+"structure": "The catch at dawn, the charcoal fire, Peter's three denials answered three times, and the word about the beloved disciple.",
+"world_behind": "Night fishing on Galilee ended at dawn, and a charcoal fire on the shore was how crews cooked and sold fish.",
+"deep_background": [
+{
+"concept": "Charcoal fire",
+"note": "The same kind of fire appears at Peter's denial, tying the two scenes together."
+}
+]
 }
 }
