@@ -11840,5 +11840,390 @@
 "note": "She is called a servant of the church and a patron of many, showing women hosted and funded the mission."
 }
 ]
+},
+"1Co.1": {
+"occasion": "Paul addresses a divided church in a wealthy port city.",
+"structure": "Thanksgiving, the report of quarrels, and the argument that the cross overturns human wisdom.",
+"world_behind": "Corinth was a Roman colony rebuilt on trade, with a church drawn from slaves, freedmen and patrons alike.",
+"deep_background": [
+{
+"concept": "Patronage",
+"note": "Wealthy householders hosted the assemblies, and their status naturally shaped who was heard."
+}
+]
+},
+"1Co.2": {
+"occasion": "The wisdom of God revealed by the Spirit.",
+"structure": "Paul's plain preaching, the hidden wisdom, and the Spirit who searches the deep things of God.",
+"world_behind": "Public speakers competed for reputation, so Paul's refusal of polished rhetoric was itself a claim.",
+"deep_background": [
+{
+"concept": "Rulers of this age",
+"note": "The phrase covers both human authorities and the powers behind them, as the crucifixion showed."
+}
+]
+},
+"1Co.3": {
+"occasion": "Factions around Paul and Apollos rebuked.",
+"structure": "Milk not solid food, the field and the building, and the foundation that is Christ.",
+"world_behind": "Building projects required a tested foundation and fire-resistant materials, images drawn from ordinary construction.",
+"deep_background": [
+{
+"concept": "Temple of God",
+"note": "The community itself is called the temple, which raises the stakes of dividing it."
+}
+]
+},
+"1Co.4": {
+"occasion": "Apostles as servants and fools for Christ.",
+"structure": "Stewards of mysteries, the spectacle of suffering, and a fatherly appeal to imitate Paul.",
+"world_behind": "Judgement by visiting patrons was normal, and status display at meals was expected of notables.",
+"deep_background": [
+{
+"concept": "Spectacle",
+"note": "Condemned prisoners were paraded last in the arena, the image Paul applies to the apostles."
+}
+]
+},
+"1Co.5": {
+"occasion": "A case of sexual immorality left unaddressed.",
+"structure": "The report, the call to remove the offender, and the Passover leaven argument.",
+"world_behind": "Roman Corinth tolerated sexual variety, and household honour bound the whole family to the offender.",
+"deep_background": [
+{
+"concept": "Leaven",
+"note": "Passover required removing old leaven, so the community's purity is framed by festival practice."
+}
+]
+},
+"1Co.6": {
+"occasion": "Lawsuits between believers and sexual purity.",
+"structure": "Grievances before pagan courts, the coming judgement of the saints, and the body as a temple.",
+"world_behind": "The bema at Corinth handled civil suits, so taking a brother there was a public spectacle.",
+"deep_background": [
+{
+"concept": "Paid sexual partner",
+"note": "Temple and tavern prostitutes were ordinary in port cities, which explains the plain warnings."
+}
+]
+},
+"1Co.7": {
+"occasion": "Questions about marriage, singleness and contentment.",
+"structure": "Conjugal duty, the unmarried, mixed marriages, and staying in one's calling.",
+"world_behind": "Betrothals were arranged early, and a household's honour depended on the chastity of its women.",
+"deep_background": [
+{
+"concept": "Present distress",
+"note": "Paul's urgency reflects a conviction that the time was short, not a rejection of marriage itself."
+}
+]
+},
+"1Co.8": {
+"occasion": "Food offered to idols and the limits of knowledge.",
+"structure": "Knowledge puffs up, the one God, and the duty not to wound a weak conscience.",
+"world_behind": "Meat markets sold leftovers from temple sacrifices, and most public meals carried some ritual association.",
+"deep_background": [
+{
+"concept": "Idols are nothing",
+"note": "Paul agrees idols have no real existence while still insisting that the weak are protected."
+}
+]
+},
+"1Co.9": {
+"occasion": "Paul defends his rights while refusing them.",
+"structure": "The right to support, the example of the athlete, and becoming all things to all people.",
+"world_behind": "Travelling teachers normally lived off patrons, which made Paul's self-support unusual and open to criticism.",
+"deep_background": [
+{
+"concept": "Becoming all things",
+"note": "The aim is not compromise but removing avoidable obstacles to hearing the gospel."
+}
+]
+},
+"1Co.10": {
+"occasion": "Warnings from Israel's wilderness history.",
+"structure": "The rock and the sacraments, the fall of the ancestors, the table of the Lord and the table of demons.",
+"world_behind": "Temple dining rooms hosted the banquets of trade guilds, so eating meat there meant sharing a meal and a cult.",
+"deep_background": [
+{
+"concept": "Guild dinner",
+"note": "Refusing a guild banquet carried real social and commercial cost, which is why the question mattered."
+}
+]
+},
+"1Co.11": {
+"occasion": "Head coverings and divisions at the Lord's supper.",
+"structure": "Prayer and headship, then the supper where one goes hungry and another is drunk.",
+"world_behind": "House churches met around a meal, and the wealthy ate early while servants arrived late without food.",
+"deep_background": [
+{
+"concept": "Veil",
+"note": "A married woman's covering was a status marker in public, so the issue was honour and propriety."
+}
+]
+},
+"1Co.12": {
+"occasion": "Spiritual gifts and the one body.",
+"structure": "Variety of gifts, the body's many members, and the greater gifts to pursue.",
+"world_behind": "Corinth was a city of clubs and societies, each with its own spirit and patron, and the church risked becoming one more.",
+"deep_background": [
+{
+"concept": "Lesser members",
+"note": "Honour is assigned to the parts without it, which reverses the normal logic of status."
+}
+]
+},
+"1Co.13": {
+"occasion": "The love chapter, set between gifts and order in worship.",
+"structure": "Without love nothing counts, the character of love described, and the partial giving way to the complete.",
+"world_behind": "Orators prized eloquence, and the passage reworks that rhetoric to subvert it.",
+"deep_background": [
+{
+"concept": "Love never ends",
+"note": "Prophecy and tongues cease because they belong to the incomplete age, not to love itself."
+}
+]
+},
+"1Co.14": {
+"occasion": "Prophecy, tongues and orderly worship.",
+"structure": "Edification over display, the effect on outsiders, and order because God is not a God of confusion.",
+"world_behind": "Public assemblies in houses were small enough that a visitor could judge the whole group at once.",
+"deep_background": [
+{
+"concept": "Interpretation",
+"note": "Tongues required interpretation to benefit the gathering, which is the chapter's controlling rule."
+}
+]
+},
+"1Co.15": {
+"occasion": "The resurrection of Christ and of the dead.",
+"structure": "Witnesses to the risen Christ, the firstfruits argument, the resurrected body, and the final victory.",
+"world_behind": "Greek thought prized the immaterial soul, so a bodily resurrection sounded absurd to Corinthian ears.",
+"deep_background": [
+{
+"concept": "Firstfruits",
+"note": "The first sheaf guaranteed the rest of the harvest, which is the logic of Christ's resurrection."
+}
+]
+},
+"1Co.16": {
+"occasion": "The collection, travel plans and final greetings.",
+"structure": "Weekly setting aside for the poor, Paul's itinerary, Timothy commended, and closing exhortations.",
+"world_behind": "The Jerusalem church faced famine, and collections were carried by trusted delegates across the network.",
+"deep_background": [
+{
+"concept": "First day",
+"note": "Setting funds aside on the first day reflects the assembly's weekly rhythm."
+}
+]
+},
+"2Co.1": {
+"occasion": "Paul explains a change of travel plans and comforts an afflicted church.",
+"structure": "Greeting, comfort in affliction, the recent crisis in Asia, and the altered itinerary.",
+"world_behind": "Travel plans were provisional because sea and road journeys depended on weather and escorts.",
+"deep_background": [
+{
+"concept": "Yes and amen",
+"note": "Paul ties God's reliability to the promises, since his own change of plan had been questioned."
+}
+]
+},
+"2Co.2": {
+"occasion": "Forgiveness for the offender and Paul's restless search for Titus.",
+"structure": "Restore the disciplined man, Satan's designs, the triumphal procession, and the aroma of knowledge.",
+"world_behind": "A Roman triumph paraded captives and burned incense, imagery of both victory and death.",
+"deep_background": [
+{
+"concept": "Aroma",
+"note": "Incense in a procession meant different things to victor and captive, as the gospel does."
+}
+]
+},
+"2Co.3": {
+"occasion": "The ministry of a new covenant.",
+"structure": "Letters of recommendation, the letter that kills and the Spirit that gives life, and unveiled faces.",
+"world_behind": "Travelling teachers carried letters of commendation, and the church itself served as Paul's.",
+"deep_background": [
+{
+"concept": "Veil of Moses",
+"note": "The veil on Moses' face is read as the fading of an older glory rather than its failure."
+}
+]
+},
+"2Co.4": {
+"occasion": "Treasure in clay jars.",
+"structure": "The god of this age blinding minds, the light of Christ, and affliction that does not destroy.",
+"world_behind": "Clay lamps were cheap household goods, so the image of light in a fragile vessel was everyday.",
+"deep_background": [
+{
+"concept": "Clay jars",
+"note": "Storing something valuable in cheap pottery stressed the contrast between the messenger and the message."
+}
+]
+},
+"2Co.5": {
+"occasion": "Longing for the heavenly dwelling and the ministry of reconciliation.",
+"structure": "Groaning in tents, the judgement seat, a new creation, and ambassadors for Christ.",
+"world_behind": "Tentmakers and travellers knew tents as temporary shelters, the root of the dwelling image.",
+"deep_background": [
+{
+"concept": "Ambassador",
+"note": "An ambassador spoke with the authority of the sender, which is why the appeal carries weight."
+}
+]
+},
+"2Co.6": {
+"occasion": "Paul's endurance and a call to separation.",
+"structure": "Hardship catalogued, affection appealed for, and the warning about unequal partnerships.",
+"world_behind": "Patronage and marriage tied households to temple cults, so partnership language had social force.",
+"deep_background": [
+{
+"concept": "Temple agreement",
+"note": "The promise to dwell among them grounds the appeal in the sanctuary rather than mere separation."
+}
+]
+},
+"2Co.7": {
+"occasion": "Comfort at Titus' arrival and news of the church's grief.",
+"structure": "Clearing the air, the report from Macedonia, godly grief that leads to repentance, and Paul's relief.",
+"world_behind": "Paul waited in Macedonia, where travel and news moved slowly between ports.",
+"deep_background": [
+{
+"concept": "Two griefs",
+"note": "Godly grief turns a person toward change, while worldly grief only turns inward."
+}
+]
+},
+"2Co.8": {
+"occasion": "The collection for the poor in Jerusalem.",
+"structure": "The Macedonians' example, the appeal to finish what was started, and the delegation sent with the gift.",
+"world_behind": "Famine relief moved through trusted couriers, since carrying funds was risky and accountability mattered.",
+"deep_background": [
+{
+"concept": "Equality",
+"note": "The aim is a level sharing of resources, not permanent dependency."
+}
+]
+},
+"2Co.9": {
+"occasion": "Cheerful giving and its results.",
+"structure": "Readiness promised, sparingly and bountifully sown, and the God who supplies seed.",
+"world_behind": "Gifts were normally carried by a delegation so no one could accuse the collector of skimming.",
+"deep_background": [
+{
+"concept": "Cheerful giver",
+"note": "The tone of giving matters, which guards the collection against becoming an extraction."
+}
+]
+},
+"2Co.10": {
+"occasion": "Paul answers critics who question his authority.",
+"structure": "Meekness in person and boldness in letters, the standard of comparison, and boasting within limits.",
+"world_behind": "Competing teachers arrived with letters and rhetoric, and status was measured by patronage and eloquence.",
+"deep_background": [
+{
+"concept": "Measure of rule",
+"note": "Paul limits boasting to the sphere given him, refusing comparisons built on other people's work."
+}
+]
+},
+"2Co.11": {
+"occasion": "Paul's defense against false apostles.",
+"structure": "A plea to bear with him, the catalogue of labours and dangers, and the escape through a window.",
+"world_behind": "Damascus was a walled city with houses built into the wall, which explains the basket and the window.",
+"deep_background": [
+{
+"concept": "Boasting in weakness",
+"note": "The reversal is deliberate: shameful things become the credentials."
+}
+]
+},
+"2Co.12": {
+"occasion": "Visions, a thorn, and parental care.",
+"structure": "Being caught up to the third heaven, the thorn for humility, weakness as strength, and the fear of another painful visit.",
+"world_behind": "Heaven was pictured in layers by some teachers, which explains the phrase third heaven.",
+"deep_background": [
+{
+"concept": "Thorn",
+"note": "The affliction is never named, so readers have applied it to illness, opposition and temptation alike."
+}
+]
+},
+"2Co.13": {
+"occasion": "A final warning and blessing.",
+"structure": "The promised visit, the call to examine yourselves, and the closing trinitarian blessing.",
+"world_behind": "Two or three witnesses were required for a charge under both Jewish and Roman practice.",
+"deep_background": [
+{
+"concept": "Weakness",
+"note": "Christ was crucified in weakness and lives by power, which is the pattern Paul claims for himself."
+}
+]
+},
+"Gal.1": {
+"occasion": "Paul defends the gospel he preached in Galatia.",
+"structure": "Greeting, astonishment at a different gospel, the revelation received, and the early years retold.",
+"world_behind": "Galatia's highlands were home to Celtic settlers, and travelling teachers could reframe a mission within months.",
+"deep_background": [
+{
+"concept": "Anathema",
+"note": "The curse formula treats the issue as a rival message, not a private opinion."
+}
+]
+},
+"Gal.2": {
+"occasion": "The Jerusalem meeting and the clash at Antioch.",
+"structure": "Titus not compelled, the agreement with the pillars, and Peter's withdrawal from table fellowship.",
+"world_behind": "Shared meals were the visible test of Gentile inclusion, and pressure from Jerusalem envoys was real.",
+"deep_background": [
+{
+"concept": "Justified by faith",
+"note": "The phrase becomes the letter's hinge, set against works of the law as identity markers."
+}
+]
+},
+"Gal.3": {
+"occasion": "Faith, the law, and Abraham's blessing.",
+"structure": "The Galatians' experience, Abraham's belief credited, the law as a temporary guardian, and heirs by promise.",
+"world_behind": "A boy's guardian held legal authority until adulthood, the image behind the tutor language.",
+"deep_background": [
+{
+"concept": "One seed",
+"note": "The argument rests on the singular noun in the promise, read as pointing to Christ."
+}
+]
+},
+"Gal.4": {
+"occasion": "Sons and heirs, and the Hagar allegory.",
+"structure": "No longer slaves but children, returning to weak elements, and two women as two covenants.",
+"world_behind": "Roman adoption gave an heir a new family status, the legal frame behind sonship language.",
+"deep_background": [
+{
+"concept": "Allegory",
+"note": "The two mountains, Sinai and Jerusalem above, map slavery and freedom."
+}
+]
+},
+"Gal.5": {
+"occasion": "Freedom and the fruit of the Spirit.",
+"structure": "Christ has set us free, the flesh and the Spirit at war, and the works of the flesh against the fruit.",
+"world_behind": "Circumcision was a household and civic marker in the eastern empire, so the pressure was social too.",
+"deep_background": [
+{
+"concept": "Fruit",
+"note": "Fruit grows rather than being produced by effort, which shapes how the list is meant to be read."
+}
+]
+},
+"Gal.6": {
+"occasion": "Bearing burdens and a final summary.",
+"structure": "Restoring the fallen gently, sowing to the Spirit, and boasting only in the cross.",
+"world_behind": "Letters were normally finished in the author's own large handwriting, which Paul here points out.",
+"deep_background": [
+{
+"concept": "New creation",
+"note": "The closing rule rests on new creation rather than circumcision, ending the dispute."
+}
+]
 }
 }
