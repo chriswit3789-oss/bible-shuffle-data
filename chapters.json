@@ -4954,5 +4954,918 @@
 "note": "The final honor falls on a Jew serving an empire, the book's quietly political ending."
 }
 ]
+},
+"Job.1": {
+"occasion": "Job's wealth, family, and piety are introduced, then stripped away in a single day.",
+"structure": "Scene in heaven, two reports of loss, Job's grief and confession.",
+"world_behind": "Wealth in the ancient Near East was counted in livestock and servants, and a man's standing rested on both.",
+"deep_background": [
+{
+"concept": "The heavenly council",
+"note": "The opening scene assumes a divine assembly where accusation is permitted, a setting also found in 1 Kings 22 and Zechariah 3."
+}
+]
+},
+"Job.2": {
+"occasion": "Satan strikes Job's body and three friends arrive to sit with him.",
+"structure": "Second wager, boils, wife's taunt, silent seven-day vigil.",
+"world_behind": "Ashes and a potsherd were ordinary means of scratching skin disease; sitting on the ash heap marked social exclusion.",
+"deep_background": [
+{
+"concept": "Seven days of silence",
+"note": "The friends keep the customary mourning period before speaking, which makes their later speeches a breach of that restraint."
+}
+]
+},
+"Job.3": {
+"occasion": "Job breaks the silence by cursing the day he was born.",
+"structure": "Lament opening, curses on the night of conception, longing for the grave.",
+"world_behind": "Laments over birth were known in Mesopotamian poetry; the grave is pictured as a place of rest for kings and prisoners alike.",
+"deep_background": [
+{
+"concept": "Why light is a gift",
+"note": "Cursing the day of light reverses the creation blessing, which is why the poem strikes at Genesis 1 rather than at Job's enemies."
+}
+]
+},
+"Job.4": {
+"occasion": "Eliphaz opens the first cycle with the claim that the innocent do not perish.",
+"structure": "Appeal to Job's past counsel, vision report, retribution argument.",
+"world_behind": "Night visions were a recognized channel of revelation; Eliphaz presents his insight as authority equal to scripture.",
+"deep_background": [
+{
+"concept": "Retribution theology",
+"note": "The friends assume suffering maps exactly onto guilt, a view the book's own prologue has already shown to be false in this case."
+}
+]
+},
+"Job.5": {
+"occasion": "Eliphaz urges Job to appeal to God, who disciplines but also heals.",
+"structure": "Fool's ruin, vision of discipline, promise of restoration.",
+"world_behind": "Rescue from famine and war was the standard language of covenant blessing, so Eliphaz offers covenant promises as a bargain.",
+"deep_background": [
+{
+"concept": "Discipline as love",
+"note": "Later wisdom (Proverbs 3:11-12) does treat hardship as correction, which is why Eliphaz sounds partly right and still misapplies it."
+}
+]
+},
+"Job.6": {
+"occasion": "Job answers that his anguish outweighs the sand and his friends are unreliable.",
+"structure": "Weighing grief, request for death, complaint about friends, appeal to God.",
+"world_behind": "Sand of the sea was a proverb for numberless quantity; weighing was a commercial image familiar from balances and stone weights.",
+"deep_background": [
+{
+"concept": "The broken cistern",
+"note": "Job calls his friends winter brooks that dry up when needed, an image drawn from desert wadis that flash and vanish."
+}
+]
+},
+"Job.7": {
+"occasion": "Job describes human life as hard service and complains directly to God.",
+"structure": "Life as conscript labor, nights of pain, question to God, plea to be left alone.",
+"world_behind": "Hired labor and military service were the two defining experiences of obligation in Israel's economy, both used here as images of drudgery.",
+"deep_background": [
+{
+"concept": "Watchers of the night",
+"note": "Night watchmen counted the hours by stars, so Job's counting of months measures suffering with the precision of a worker's shift."
+}
+]
+},
+"Job.8": {
+"occasion": "Bildad appeals to the tradition of the fathers and the fate of the godless.",
+"structure": "Question of justice, appeal to antiquity, plant imagery, promise of restoration.",
+"world_behind": "Appealing to former generations was a legal and educational convention in Israel; oral tradition carried more weight than personal experience.",
+"deep_background": [
+{
+"concept": "Papyrus and reed",
+"note": "The plant images assume the marsh plants of the Nile and Jordan, which wither the moment their water is cut off."
+}
+]
+},
+"Job.9": {
+"occasion": "Job asks how any mortal can be just before God and despairs of arguing with him.",
+"structure": "Power of God in creation, impossibility of litigation, longing for an arbiter.",
+"world_behind": "Legal dispute in Israel required an impartial third party, which is why Job's wish for a daysman carries courtroom weight.",
+"deep_background": [
+{
+"concept": "God's unsearchable deeds",
+"note": "The hymn in verses 5-10 lists cosmic upheaval, echoing creation and exodus language normally used for Israel's deliverance."
+}
+]
+},
+"Job.10": {
+"occasion": "Job turns from the courtroom to address God as the one who made him.",
+"structure": "Complaint about creation, question of why he was born, plea for relief.",
+"world_behind": "The potter and clay image draws on the household craft of shaping vessels, used elsewhere for God's freedom over nations.",
+"deep_background": [
+{
+"concept": "Clothed with skin and flesh",
+"note": "The language of being knit and clothed reflects ancient understanding of gestation as divine weaving."
+}
+]
+},
+"Job.11": {
+"occasion": "Zophar accuses Job of empty talk and claims God punishes less than deserved.",
+"structure": "Rebuke, appeal to God's wisdom, call to repentance, promise of security.",
+"world_behind": "Measuring and searching out were technical terms used of surveying land and testing metal, here applied to God's understanding.",
+"deep_background": [
+{
+"concept": "The height of heaven",
+"note": "Zophar's rhetorical measurements assume a layered cosmos with a solid dome, a common ancient Near Eastern picture."
+}
+]
+},
+"Job.12": {
+"occasion": "Job answers that wisdom belongs to God alone and the comfortable despise the unfortunate.",
+"structure": "Mockery of the friends, appeal to creation and the ear's discernment, hymn to God's power.",
+"world_behind": "Testing speech by the palate was a common wisdom image for discrimination, similar to tasting words.",
+"deep_background": [
+{
+"concept": "God reverses counselors",
+"note": "Stripping kings and loosening the belt of rulers describes the humiliation rituals of defeated officials."
+}
+]
+},
+"Job.13": {
+"occasion": "Job insists he will argue his case before God even at the cost of his life.",
+"structure": "Rebuke of friends as forgers of lies, resolve to speak, plea for two concessions.",
+"world_behind": "Physicians in the ancient world were associated with bandaging and oils; calling the friends worthless physicians is biting social satire.",
+"deep_background": [
+{
+"concept": "Though he slay me",
+"note": "The verse is a hinge in the book, holding trust and accusation in the same breath rather than resolving them."
+}
+]
+},
+"Job.14": {
+"occasion": "Job meditates on human mortality and asks whether there is hope beyond death.",
+"structure": "Brevity of life, the fallen tree, the sealed transgression, longing for renewal.",
+"world_behind": "Cutting a tree and watching a stump sprout was ordinary observation in a land of coppiced olive and oak, giving the image its force.",
+"deep_background": [
+{
+"concept": "Sheol and the waters",
+"note": "The grave is described as a hidden place with gates, guarded by God, not as a place of active life."
+}
+]
+},
+"Job.15": {
+"occasion": "Eliphaz opens the second cycle by accusing Job of undermining religion.",
+"structure": "Rebuke for windy words, appeal to the aged, portrait of the wicked man's torment.",
+"world_behind": "The aged and gray-haired are named as sources of authority, reflecting a culture where elders held legal and social weight.",
+"deep_background": [
+{
+"concept": "Wickedness as self-punishment",
+"note": "Eliphaz describes the wicked as giving birth to trouble, shifting retribution from God's verdict to an internal process."
+}
+]
+},
+"Job.16": {
+"occasion": "Job describes his suffering as divine assault and appeals to a witness in heaven.",
+"structure": "Complaint of being broken, portrait of attack, appeal to an advocate on high.",
+"world_behind": "Sackcloth and dust on the forehead were public marks of mourning; Job's face is said to be red with weeping in the same register.",
+"deep_background": [
+{
+"concept": "My witness in heaven",
+"note": "The appeal to a heavenly advocate anticipates, without fully describing, a mediator beyond the friends."
+}
+]
+},
+"Job.17": {
+"occasion": "Job says his spirit is broken and his hope seems cut off.",
+"structure": "Despair of friends, nearness of the grave, question of where hope lies.",
+"world_behind": "Making a pledge with a handshake and becoming surety involved real property risk, an image Job uses for his own exposure.",
+"deep_background": [
+{
+"concept": "Dust and sleep",
+"note": "The rest Job expects is in the dust, the same word used of the dead throughout the Hebrew Bible."
+}
+]
+},
+"Job.18": {
+"occasion": "Bildad paints the fate of the wicked as sudden terror and total ruin.",
+"structure": "Rebuke, description of the snare, listing of disasters, extinction of memory.",
+"world_behind": "The snare, net, and trap come from hunting practice; driving a man into a net pictured inevitable capture.",
+"deep_background": [
+{
+"concept": "Lamp of the wicked",
+"note": "Extinguished lamps signify dynastic extinction, since a household's lamp was the sign of its ongoing line."
+}
+]
+},
+"Job.19": {
+"occasion": "Job answers that God has wronged him, then declares that his redeemer lives.",
+"structure": "Complaint of abandonment by kin, appeal for pity, the great confession, warning to the friends.",
+"world_behind": "Writing words in a book or cutting them in rock were the two available means of making a record permanent; both are invoked.",
+"deep_background": [
+{
+"concept": "Redeemer in the dust",
+"note": "The kinsman-redeemer's duty was to vindicate a relative; Job applies that legal role to God himself."
+}
+]
+},
+"Job.20": {
+"occasion": "Zophar argues that the triumph of the wicked is brief.",
+"structure": "Restlessness of the wicked, swallowed wealth, the poisoned food, the banquet that ends.",
+"world_behind": "Honey and butter were luxury foods in a herding economy, which is why the description of sweetness turning to poison lands.",
+"deep_background": [
+{
+"concept": "Wealth as borrowed",
+"note": "The claim that the wicked swallows riches and vomits them uses the image of a debtor forced to return what he took."
+}
+]
+},
+"Job.21": {
+"occasion": "Job answers by naming real cases where the wicked prosper and die in peace.",
+"structure": "Request to be heard, list of prosperous wicked, rebuttal of the friends' formula, closing sarcasm.",
+"world_behind": "Dying with full strength and breasts full of milk is a proverb of sudden death without wasting illness, the passing Israel most feared.",
+"deep_background": [
+{
+"concept": "Rods of the wicked",
+"note": "The rod was an emblem of authority; asking how often it is used challenges the claim that justice arrives promptly."
+}
+]
+},
+"Job.22": {
+"occasion": "Eliphaz urges Job to return to the Almighty and promises prosperity if he does.",
+"structure": "Accusation of specific sins, appeal to God's sufficiency, call to repentance, promise of gold.",
+"world_behind": "Taking pledges for debts was a recognized practice, and taking a widow's garment was explicitly forbidden in the law.",
+"deep_background": [
+{
+"concept": "Gold as dust",
+"note": "The promise that gold will be as dust reverses the ancient affinity for precious metal as the one true treasure."
+}
+]
+},
+"Job.23": {
+"occasion": "Job longs to find God and lay his case before him in court.",
+"structure": "Complaint of absence, wish for an accessible tribunal, trust that the outcome would be vindication.",
+"world_behind": "Legal disputes were heard at gates and shrines, so Job imagines a formal hearing where the defendant could state his case in order.",
+"deep_background": [
+{
+"concept": "He knows the way I take",
+"note": "The verse moves from courtroom to path, the language of tested travel rather than weighed metal."
+}
+]
+},
+"Job.24": {
+"occasion": "Job asks why God does not appoint times of judgment for the wicked.",
+"structure": "Removal of landmarks, oppression catalogued, question of God's silence.",
+"world_behind": "Moving a boundary stone was theft of property and a capital offense in Israelite law, so the opening accusation is severe.",
+"deep_background": [
+{
+"concept": "Landmarks and widows",
+"note": "The catalogue of abuses tracks exactly the classes the law protects: the poor, the widow, the orphan, the hired worker."
+}
+]
+},
+"Job.25": {
+"occasion": "Bildad speaks briefly, questioning how any human can be righteous.",
+"structure": "Call to recognize God's dominion, question of human purity, image of the worm.",
+"world_behind": "Moon and star significance comes from their use in regulating calendar, festivals, and travel by night.",
+"deep_background": [
+{
+"concept": "The shortest speech",
+"note": "Bildad's closing brevity marks the collapse of the friends' argument, and Job then answers all three rather than replying to him alone."
+}
+]
+},
+"Job.26": {
+"occasion": "Job replies with sarcasm and a hymn to God's cosmic power.",
+"structure": "Mockery of the friends' help, description of the underworld, picture of the heavens.",
+"world_behind": "The phrase about hanging the earth on nothing belongs to a cosmos with a solid vault, and marks the writer's imagination rather than a physical model.",
+"deep_background": [
+{
+"concept": "The faint whisper",
+"note": "Only a whisper of God's ways is heard; the full thunder is reserved, which undercuts every confident system."
+}
+]
+},
+"Job.27": {
+"occasion": "Job maintains his integrity and describes the portion of the wicked.",
+"structure": "Oath of honesty, refusal to concede, description of the tyrant's fate.",
+"world_behind": "Swearing by a hand and lifting a hand in oath were legal gestures that bound a witness to the truth.",
+"deep_background": [
+{
+"concept": "Clothed in righteousness",
+"note": "The garment image is judicial, since the judge's robe and a stripped defendant's shame both appear in this passage."
+}
+]
+},
+"Job.28": {
+"occasion": "The wisdom poem asks where wisdom can be found and answers that God alone knows.",
+"structure": "Silver and gold mining, the hidden way of wisdom, the precious stone, the fear of the Lord.",
+"world_behind": "Mining for silver involved shafts and lamps, and iron in the region predates widespread use, which gives the poem its technical detail.",
+"deep_background": [
+{
+"concept": "Wisdom is not priced",
+"note": "No gold, onyx, or sapphire buys it, a direct reversal of the marketplace where every other commodity is weighed."
+}
+]
+},
+"Job.29": {
+"occasion": "Job recalls the honor and security of his former life.",
+"structure": "Remembrance of blessing, standing in the gate, acts of mercy, expectation of long life.",
+"world_behind": "Judges and elders sat in the city gate where cases were heard, so Job describing the listening ear and approving tongue is a courtroom scene.",
+"deep_background": [
+{
+"concept": "Roots by the water",
+"note": "Water channels and dew were the signs of agricultural blessing, and the rock pouring streams was an image from Israel's wilderness tradition."
+}
+]
+},
+"Job.30": {
+"occasion": "Job describes his present disgrace at the hands of outcasts and then of God.",
+"structure": "Contempt of the young, physical suffering, lament of God's silence.",
+"world_behind": "Spitting in the face was a legal and social act of rejection, and standing up in a throng meant public accusation.",
+"deep_background": [
+{
+"concept": "Children of the foolish",
+"note": "Job names those who mock him as the people his own household once dismissed, showing the collapse of the social order that protected him."
+}
+]
+},
+"Job.31": {
+"occasion": "Job closes his defense with an oath of innocence on specific sins.",
+"structure": "Conditional curses, catalogue of offenses, summons to God to answer.",
+"world_behind": "Oaths of this kind invoke the punishment itself as the guarantee, a legal form seen in ancient Near Eastern and Israelite law.",
+"deep_background": [
+{
+"concept": "The secret sin",
+"note": "Hidden faults are named explicitly, showing that Job does not limit his innocence to public conduct."
+}
+]
+},
+"Job.32": {
+"occasion": "Elihu, younger and angry, enters and rebukes the friends and Job alike.",
+"structure": "Arrival of Elihu, anger at the friends' failure, argument from youth and spirit.",
+"world_behind": "Deferring to age was customary, which is why Elihu feels compelled to justify speaking at all.",
+"deep_background": [
+{
+"concept": "The spirit in man",
+"note": "Elihu claims insight from the breath of the Almighty rather than from years, an argument from inspiration against tradition."
+}
+]
+},
+"Job.33": {
+"occasion": "Elihu argues that God speaks through dreams, pain, and an angelic mediator.",
+"structure": "Request for Job's attention, claim of impartial creation, teaching on divine instruction, promise of grace.",
+"world_behind": "The 'mediator' Elihu names is one of a thousand, an image of a court officer who pleads a case and ransoms a life.",
+"deep_background": [
+{
+"concept": "Dreams as revelation",
+"note": "Dreams appear as a legitimate warning channel in Israel, though elsewhere prophets disparage them, so the debate was live."
+}
+]
+},
+"Job.34": {
+"occasion": "Elihu argues that God cannot pervert justice and hears no human litigation.",
+"structure": "Address to the wise, axiom of divine justice, description of divine silence.",
+"world_behind": "Winepresses and vineyards mark the economic setting of the metaphor about doing the fruit of the quarrel.",
+"deep_background": [
+{
+"concept": "God's independence",
+"note": "If God needed anything from man, prayer could bribe him; Elihu's logic here is more careful than the friends'."
+}
+]
+},
+"Job.35": {
+"occasion": "Elihu argues that human righteousness and sin profit God nothing.",
+"structure": "Question of profit, God's independence, teaching on prayer that is not heard.",
+"world_behind": "Watching stones were placed where travelers could see them, used here as an image of a person who distracts from the road.",
+"deep_background": [
+{
+"concept": "Waiting on God",
+"note": "The idea that God answers in due season rather than on demand becomes the pivot the book turns on."
+}
+]
+},
+"Job.36": {
+"occasion": "Elihu praises God's justice and describes the discipline that restores.",
+"structure": "Call to patience, teaching on suffering as instruction, promise of restoration.",
+"world_behind": "Rulers sitting on thrones and prisoners in chains were both realities of Near Eastern power, used to picture God speaking to both.",
+"deep_background": [
+{
+"concept": "Night as opportunity",
+"note": "Choosing rather than acting in the night is an image from wilderness travel, where darkness forces reflection."
+}
+]
+},
+"Job.37": {
+"occasion": "Elihu closes by describing the storm as the voice of God.",
+"structure": "Thunder and snow, the shutting of the hand of man, light on the clouds, call to hear.",
+"world_behind": "Closing the hand of every man means halting agricultural work, which the rainy season forced in a dry-farming economy.",
+"deep_background": [
+{
+"concept": "Light as gold",
+"note": "The golden light of the north prepares the reader for a direct appearance of God, replacing Elihu's description with God's own speech."
+}
+]
+},
+"Job.38": {
+"occasion": "The LORD answers Job from the whirlwind with unanswerable questions about creation.",
+"structure": "Challenge to the disputant, the measuring of the earth, the sea and its limits, the mornings and the depths.",
+"world_behind": "Measuring line and foundation belong to building, and the builder's shouted approval in verse 7 is drawn from real construction scenes.",
+"deep_background": [
+{
+"concept": "Where were you?",
+"note": "Rather than answering Job's charge, God reframes it by asking about competence in creation, which is the book's actual answer."
+}
+]
+},
+"Job.39": {
+"occasion": "God continues with questions about the animals he providentially cares for.",
+"structure": "Wild goats, the wild donkey, the ostrich, the horse, the hawk.",
+"world_behind": "The ostrich's apparent cruelty and the horse's courage against the sword refer to creatures known from desert margins and chariot warfare.",
+"deep_background": [
+{
+"concept": "Creatures outside man's use",
+"note": "The selection is deliberately non-agricultural, showing a creation with purposes that do not serve human economy."
+}
+]
+},
+"Job.40": {
+"occasion": "Job submits, and God asks whether he can match divine power.",
+"structure": "Job's first answer, God's second challenge, the description of Behemoth.",
+"world_behind": "Ancient legend and hunting practice both inform the giant beasts, so the reader hears of real animals reported with legendary scale.",
+"deep_background": [
+{
+"concept": "Behemoth",
+"note": "The creature is described as the first of God's works, deliberately outside the categories of the friends' tidy moral order."
+}
+]
+},
+"Job.41": {
+"occasion": "God describes Leviathan as untamable, answering Job's strength with power.",
+"structure": "Challenge to hook the beast, description of its armour and breath, conclusion that no one can stand before God.",
+"world_behind": "Hunting leviathan imagery appears in Ugaritic poetry about the sea, capturing a shared ancient tradition of the great sea monster.",
+"deep_background": [
+{
+"concept": "The untamable creature",
+"note": "Leviathan functions as a boundary marker, showing that creation includes powers man can never manage or negotiate."
+}
+]
+},
+"Job.42": {
+"occasion": "Job repents in dust and God restores him, rebuking the three friends.",
+"structure": "Job's answer, God's verdict on the friends, Job's intercession, restoration and genealogy.",
+"world_behind": "Intercession and sacrifice at a family altar were a household responsibility, and restored fortune was measured in flocks and children.",
+"deep_background": [
+{
+"concept": "Now my eye sees you",
+"note": "The climax is sight rather than explanation, and the phrase 'I had heard of you' contrasts tradition with revelation."
+}
+]
+},
+"Psa.1": {
+"occasion": "The opening psalm sets the two ways before the reader.",
+"structure": "Contrast of the righteous tree and the driven chaff, closing verdict.",
+"world_behind": "Threshing floors on hilltops let wind carry chaff away, which is why the wicked are compared to what the wind drives off.",
+"deep_background": [
+{
+"concept": "Tree by streams",
+"note": "Irrigation channels fed orchards in dry land, so a planted tree pictured reliable life sustained by something unseen."
+}
+]
+},
+"Psa.2": {
+"occasion": "A royal psalm on the nations raging against the LORD's anointed.",
+"structure": "Nations in tumult, divine laughter, decree of sonship, call to kiss the son.",
+"world_behind": "Coronation in Jerusalem installed the king on Zion, and 'today I have begotten you' belongs to that enthronement ceremony.",
+"deep_background": [
+{
+"concept": "Kiss the son",
+"note": "Kissing the feet or hand was an act of homage in the ancient Near East, so the closing call is political submission."
+}
+]
+},
+"Psa.3": {
+"occasion": "A morning prayer of trust when enemies surround and God seems silent.",
+"structure": "Complaint of foes, declaration of God as shield, peaceful sleep, request for deliverance.",
+"world_behind": "Sleeping and waking safely was not assumed in a world of night attack, so the sleep mentioned is a real claim about protection.",
+"deep_background": [
+{
+"concept": "Selah",
+"note": "The word appears after strategic lines and probably marks a musical or liturgical pause, though its exact meaning is debated."
+}
+]
+},
+"Psa.4": {
+"occasion": "An evening prayer asking God to hear and grant relief.",
+"structure": "Appeal for answer, rebuke of the powerful, instruction to trust, evening rest.",
+"world_behind": "Lying on beds and being silent describes nighttime reflection in a one-room house where the day's disputes were rehearsed.",
+"deep_background": [
+{
+"concept": "Light of the face",
+"note": "The shining face is priestly language from the blessing in Numbers 6, applied here to ordinary favor."
+}
+]
+},
+"Psa.5": {
+"occasion": "A morning prayer asking God to lead the worshipper in righteousness.",
+"structure": "Morning petition, God's hatred of wickedness, request for guidance, confidence of protection.",
+"world_behind": "Praying toward the temple meant orienting toward a physical house on Zion, since God's presence was located there.",
+"deep_background": [
+{
+"concept": "Flattering throat",
+"note": "The open grave and slippery throat images draw on the danger of speech in a culture where reputation was survival."
+}
+]
+},
+"Psa.6": {
+"occasion": "A penitential prayer for mercy in illness and grief.",
+"structure": "Plea for mercy, physical distress, question how long, request for deliverance.",
+"world_behind": "Beds and couches were used for both sleep and lament, and tears on a bed are a real image of nightlong grief.",
+"deep_background": [
+{
+"concept": "Praise from Sheol",
+"note": "The dead are described as unable to praise God, which is why healing matters for worship and not only for comfort."
+}
+]
+},
+"Psa.7": {
+"occasion": "An appeal for justice against accusers who hunt the psalmist.",
+"structure": "Plea for refuge, oath of innocence, request for divine judgment, thanksgiving.",
+"world_behind": "The poem's imagery of digging a pit and falling into it comes from trapping and siege work, both familiar dangers.",
+"deep_background": [
+{
+"concept": "God as judge",
+"note": "The psalm appeals to a court that meets at dawn, an image of divine justice resolving cases the human courts failed."
+}
+]
+},
+"Psa.8": {
+"occasion": "A hymn on human dignity under the majesty of God.",
+"structure": "Praise from children, the moon and stars, the son of man crowned, closing praise.",
+"world_behind": "The phrase about what is man draws on the everyday sight of a night sky unpolluted by light, in which the scale of the heavens is unavoidable.",
+"deep_background": [
+{
+"concept": "Little lower than angels",
+"note": "The Hebrew likely reads 'a little lower than God', reflecting royal ideology in which humanity bears the divine image as a ruler."
+}
+]
+},
+"Psa.9": {
+"occasion": "Thanksgiving for justice done to the oppressed.",
+"structure": "Praise for God's judgments, rebuke of the nations, plea for the afflicted, closing hope.",
+"world_behind": "The city gate and the throne are the two seats of justice in Israel, and the psalm places God at both.",
+"deep_background": [
+{
+"concept": "The forgotten poor",
+"note": "Hope for the poor not being forgotten forever is the psalm's social claim, not merely a spiritual consolation."
+}
+]
+},
+"Psa.10": {
+"occasion": "A lament asking why God stands far off while the wicked prosper.",
+"structure": "Question of absence, portrait of the arrogant, the oppressed described, plea for intervention.",
+"world_behind": "Cursing, lying, and ambush describe real social violence in a society with weak policing and strong patronage.",
+"deep_background": [
+{
+"concept": "God does not forget",
+"note": "The psalm turns on the claim that God sees what the wicked assume he does not, an argument from character rather than circumstance."
+}
+]
+},
+"Psa.11": {
+"occasion": "A declaration of trust when the foundations themselves collapse.",
+"structure": "Call to flee, portrait of the archer, declaration of God's justice, vision of his face.",
+"world_behind": "Fleeing to the mountains was the standard refuge in times of siege, since walled cities and high ground offered safety.",
+"deep_background": [
+{
+"concept": "Foundations destroyed",
+"note": "The phrase about foundations being destroyed points to the collapse of public order, not physical architecture."
+}
+]
+},
+"Psa.12": {
+"occasion": "A prayer for help when the faithful have disappeared from among people.",
+"structure": "Cry for help, portrait of flattering lips, promise of God's pure words, closing assurance.",
+"world_behind": "Silver refined seven times refers to metalworking practice, where repeated firing purified the metal and proved its quality.",
+"deep_background": [
+{
+"concept": "Pure words",
+"note": "God's speech is set against human flattery, and the refining image makes the contrast about tested reliability, not mere truthfulness."
+}
+]
+},
+"Psa.13": {
+"occasion": "A fourfold 'how long' lament that ends in trust.",
+"structure": "Repeated questions, plea for light, request against the enemy, vow of praise.",
+"world_behind": "Sleeping the sleep of death and eyes growing dim were familiar signs of mortal illness, used here as the psalm's measure of danger.",
+"deep_background": [
+{
+"concept": "I will sing",
+"note": "The psalm moves from question to vow without an answer, which is the shape most laments take in the Psalter."
+}
+]
+},
+"Psa.14": {
+"occasion": "A wisdom psalm on the fool who denies God and the corruption of humanity.",
+"structure": "Portrait of the fool, divine inspection, the evildoers' fear, longing for Zion's salvation.",
+"world_behind": "The fool in Hebrew wisdom is not intellectually slow but morally defiant, a distinction the psalm depends on.",
+"deep_background": [
+{
+"concept": "No one does good",
+"note": "The universal claim is quoted in the New Testament, which reads the psalm as a diagnosis of humanity rather than a statistical count."
+}
+]
+},
+"Psa.15": {
+"occasion": "A question and answer about who may dwell in God's holy place.",
+"structure": "Entrance question, ten-part answer, promise of stability.",
+"world_behind": "Pilgrims arriving at the temple would be asked this at the gate, making the psalm a liturgy of entry rather than a general ethical essay.",
+"deep_background": [
+{
+"concept": "Swears to his own hurt",
+"note": "The clause describes an oath kept even at personal cost, a legal standard in a culture where a vow bound the speaker absolutely."
+}
+]
+},
+"Psa.16": {
+"occasion": "A confession of God as the only true portion and refuge.",
+"structure": "Plea for preservation, rejection of other gods, the boundary lines, the path of life.",
+"world_behind": "Boundary lines falling in pleasant places refers to land allotment, the basis of security in an agrarian society.",
+"deep_background": [
+{
+"concept": "You will not abandon",
+"note": "The line about not seeing corruption is applied to resurrection in the New Testament, while in its own setting it voices unusual confidence."
+}
+]
+},
+"Psa.17": {
+"occasion": "A prayer for vindication against false accusers.",
+"structure": "Appeal for a fair hearing, portrait of the pursuers, request for protection, hope of waking to God's likeness.",
+"world_behind": "The psalm compares enemies to a lion crouching and to eyes watching, images from hunting where the ambush is decided before it begins.",
+"deep_background": [
+{
+"concept": "Apple of the eye",
+"note": "The image refers to the pupil, the part of the eye a person instinctively guards, and it appears again in covenant poetry."
+}
+]
+},
+"Psa.18": {
+"occasion": "A royal thanksgiving for deliverance from enemies and death.",
+"structure": "Declaration of love for God, distress described, theophany, rescue, reward of righteousness, victory over enemies.",
+"world_behind": "The theophany uses smoke, fire, darkness, and a cherub mounted on the wind, drawing on storm imagery familiar in the region.",
+"deep_background": [
+{
+"concept": "The LORD my rock",
+"note": "Rock, fortress, and horn are all military and topographic images, so the psalm's trust is framed in terms of defensible ground."
+}
+]
+},
+"Psa.19": {
+"occasion": "A psalm joining creation's witness to the perfection of God's law.",
+"structure": "Heavens declaring, the sun's course, six titles for the law, prayer for acceptable words.",
+"world_behind": "A bridegroom leaving his chamber and a runner's course are the two images for the sun, both from ordinary celebration and sport.",
+"deep_background": [
+{
+"concept": "Sweet as honey",
+"note": "Honey from the comb was the sweetest available substance, and the comparison makes the law's value a matter of taste, not duty."
+}
+]
+},
+"Psa.20": {
+"occasion": "A prayer for the king's victory before battle.",
+"structure": "Blessing invoked, confidence in chariots refused, final acclamation.",
+"world_behind": "Chariots were the decisive military technology of the age, so naming them as untrustworthy is a pointed political claim.",
+"deep_background": [
+{
+"concept": "Sacrifices before war",
+"note": "Offerings before battle were standard practice, which is why the psalm speaks of burnt offerings and the name of God's defense."
+}
+]
+},
+"Psa.21": {
+"occasion": "Thanksgiving for the king's triumph and confidence in future victory.",
+"structure": "Praise for strength given, blessings described, the king's enemies addressed, closing praise.",
+"world_behind": "The king receiving a crown of pure gold and length of days are royal ritual images from coronation and renewal ceremonies.",
+"deep_background": [
+{
+"concept": "The king's trust",
+"note": "The psalm locates the king's stability in God's steadfast love rather than in his army, which is its political edge."
+}
+]
+},
+"Psa.22": {
+"occasion": "A lament of abandonment that turns into public praise.",
+"structure": "Cry of dereliction, description of suffering, plea for rescue, vow of praise in the congregation.",
+"world_behind": "The descriptions of pierced hands and feet, parted garments, and casting lots point to the treatment of a condemned man before a crowd.",
+"deep_background": [
+{
+"concept": "The great assembly",
+"note": "The shift to praising God among the congregation reflects Israel's public worship, where a vow was paid before witnesses."
+}
+]
+},
+"Psa.23": {
+"occasion": "A confession of God as shepherd and host.",
+"structure": "Shepherd provision, guidance through the valley, table and anointing, dwelling in God's house.",
+"world_behind": "Shepherding meant leading flocks to water and pasture and defending them at night, a task that shaped Israel's image of leadership.",
+"deep_background": [
+{
+"concept": "Rod and staff",
+"note": "The rod was a club against predators and the staff a crook for guiding, so comfort here is practical protection rather than sentiment."
+}
+]
+},
+"Psa.24": {
+"occasion": "A processional psalm celebrating the LORD's entry into Zion.",
+"structure": "Claim of the earth for God, question of who may ascend, answer of clean hands, the King of glory entering.",
+"world_behind": "Processions carried the ark toward the sanctuary, and the gate dialogue reflects an actual exchange at the city doors.",
+"deep_background": [
+{
+"concept": "Lifting up your heads",
+"note": "Addressing the gates as if they were persons is a poetic device that turns architecture into a participant in worship."
+}
+]
+},
+"Psa.25": {
+"occasion": "An acrostic prayer for guidance, forgiveness, and protection.",
+"structure": "Lifting the soul, request for paths, plea for pardon, confidence of covenant mercy.",
+"world_behind": "The alphabet structure aided memorization in a largely oral culture, so the psalm was built to be learned by heart.",
+"deep_background": [
+{
+"concept": "The secret of the LORD",
+"note": "Intimacy with God is described as a council shared with those who fear him, an image from the royal court."
+}
+]
+},
+"Psa.26": {
+"occasion": "A prayer of integrity from one who loves God's house.",
+"structure": "Appeal for vindication, profession of loyalty, distance from the wicked, love of the sanctuary.",
+"world_behind": "Washing hands in innocence refers to the basin ritual at the altar, where priests washed before service.",
+"deep_background": [
+{
+"concept": "Standing on level ground",
+"note": "The flat ground of the temple court is the place of assembly, and the phrase means full participation in worship."
+}
+]
+},
+"Psa.27": {
+"occasion": "A psalm of confidence that ends in a plea for help.",
+"structure": "God as light and salvation, the one thing desired, prayer for guidance, call to wait.",
+"world_behind": "Seeking God's face and offering sacrifices with shouting were part of pilgrimage worship at the sanctuary.",
+"deep_background": [
+{
+"concept": "The land of the living",
+"note": "The phrase refers to this life rather than the grave, and it grounds the psalm's plea for rescue in the present world."
+}
+]
+},
+"Psa.28": {
+"occasion": "A plea for mercy against the wicked, ending in thanksgiving.",
+"structure": "Cry from the rock, request not to be dragged off with evildoers, confidence of being heard, blessing of God's people.",
+"world_behind": "The 'pit' and 'rock' images are drawn from cisterns and crags, both real refuges and real traps in the hill country.",
+"deep_background": [
+{
+"concept": "My strength and shield",
+"note": "The king as the LORD's anointed is described as a shield for the people, so his deliverance is corporate rather than private."
+}
+]
+},
+"Psa.29": {
+"occasion": "A hymn of the voice of the LORD over the storm.",
+"structure": "Call to the heavenly beings, seven thunders, the LORD enthroned over the flood, blessing of strength.",
+"world_behind": "Cedars of Lebanon and the wilderness of Kadesh were northern and southern landmarks, so the storm sweeps the whole land and beyond.",
+"deep_background": [
+{
+"concept": "The flood",
+"note": "Enthroned over the flood recalls the primeval waters, placing the storm within creation order rather than outside it."
+}
+]
+},
+"Psa.30": {
+"occasion": "Thanksgiving after healing and deliverance from the grave.",
+"structure": "Extolling God, past cry described, the turnaround from mourning to dancing, closing vow.",
+"world_behind": "Turning mourning into dancing assumes the known ritual sequence of sackcloth, fasting, and celebration after deliverance.",
+"deep_background": [
+{
+"concept": "Joy comes with the morning",
+"note": "The line is built on the practice of nightlong weeping vigils that ended at daybreak, and it became one of the most quoted lines in the Psalter."
+}
+]
+},
+"Psa.31": {
+"occasion": "A prayer of trust in distress, from the psalter's most quoted laments.",
+"structure": "Refuge requested, distress described, plea for deliverance, praise before the congregation.",
+"world_behind": "'Into your hands' is the language of entrusting a pledge or a spirit, a legal as well as a devotional act.",
+"deep_background": [
+{
+"concept": "A forgotten vessel",
+"note": "Being like a broken pot means being discarded, an image taken from the household where cracked vessels were thrown out."
+}
+]
+},
+"Psa.32": {
+"occasion": "A wisdom psalm on the blessing of forgiveness after confession.",
+"structure": "Blessing of the forgiven, silence and its cost, confession and pardon, instruction to the teachable.",
+"world_behind": "Groaning all day and the drying of strength describe the physical toll of unconfessed guilt, understood as divine pressure.",
+"deep_background": [
+{
+"concept": "Horse and mule",
+"note": "The closing warning against being like a beast controlled by bit and bridle contrasts willing obedience with brute restraint."
+}
+]
+},
+"Psa.33": {
+"occasion": "A hymn of praise for creation, providence, and the LORD's counsel.",
+"structure": "Call to praise, God's word and creation, the plans of nations, the eye of the LORD, closing trust.",
+"world_behind": "The psalm's claim that a king is not saved by a great army is a direct challenge to the military confidence of the era.",
+"deep_background": [
+{
+"concept": "Fashioned by his word",
+"note": "Creation by speech is set against the idea of creation by combat, making the psalm's theology distinctly ordered and peaceful."
+}
+]
+},
+"Psa.34": {
+"occasion": "An acrostic thanksgiving that teaches the fear of the LORD.",
+"structure": "Praise before the afflicted, testimony of deliverance, instruction to children, the good life described.",
+"world_behind": "The psalm's promise that the young lions lack but those who seek the LORD do not is a claim about covenant provision in a subsistence economy.",
+"deep_background": [
+{
+"concept": "Taste and see",
+"note": "The invitation uses the language of eating, since a communal thanksgiving meal accompanied such a vow."
+}
+]
+},
+"Psa.35": {
+"occasion": "A lament asking God to contend against unjust accusers.",
+"structure": "Call to fight, description of malicious witnesses, request for vindication, vow of praise.",
+"world_behind": "Legal trial and military contest are blended, because the psalmist's enemies were attacking him in both court and community.",
+"deep_background": [
+{
+"concept": "Sackcloth for a friend",
+"note": "Mourning dress for an enemy's illness was an act of covenant loyalty, which makes the betrayal described sharper."
+}
+]
+},
+"Psa.36": {
+"occasion": "A psalm contrasting hardened wickedness with the fountain of God's goodness.",
+"structure": "Portrait of the wicked, praise of steadfast love, request for protection, closing about the workers of iniquity.",
+"world_behind": "The image of drinking from the river of delights and sheltering under wings draws on the temple's courts and altar of refuge.",
+"deep_background": [
+{
+"concept": "Fountain of life",
+"note": "Water imagery in a dry land made life visible, and the psalm uses it for the source of both light and life."
+}
+]
+},
+"Psa.37": {
+"occasion": "An acrostic wisdom psalm on fretting over the prosperous wicked.",
+"structure": "Fret not a sequence of instructions, the meek inheriting the land, the fate of the wicked, the righteous secured.",
+"world_behind": "The promise that the righteous will dwell in the land is covenant language about inherited territory, not merely prosperity.",
+"deep_background": [
+{
+"concept": "Meek inherit the land",
+"note": "The phrase is quoted in the Sermon on the Mount, where it is applied to the kingdom rather than to property."
+}
+]
+},
+"Psa.38": {
+"occasion": "A penitential lament from a person sick and abandoned.",
+"structure": "Rebuke for sin, physical affliction described, abandonment by friends, confession and plea for help.",
+"world_behind": "The psalm's imagery of loathsome wounds echoes the skin diseases that triggered social exclusion and ritual uncleanness.",
+"deep_background": [
+{
+"concept": "Friends and neighbors",
+"note": "The withdrawal of friends at a distance is a social fact of illness in a community where impurity spread by contact."
+}
+]
+},
+"Psa.39": {
+"occasion": "A meditation on the brevity of life and the silence of restraint.",
+"structure": "Guard on the mouth, silence described, the question of hope, plea for respite.",
+"world_behind": "Being a sojourner and a guest is legal language for someone without hereditary title to the land, applied here to every human.",
+"deep_background": [
+{
+"concept": "Life measured in handbreadths",
+"note": "The hand is the smallest unit of measurement, so the psalm chooses the shortest available unit for a life span."
+}
+]
+},
+"Psa.40": {
+"occasion": "Thanksgiving for deliverance joined to a plea for help.",
+"structure": "Patient waiting, deliverance from the pit, new song, obedience instead of sacrifice, present distress.",
+"world_behind": "The pit of miry clay is a cistern, the standard well-used image for a deadly trap in a land dependent on stored water.",
+"deep_background": [
+{
+"concept": "An open ear",
+"note": "Possibly 'ears dug out', the phrase describes the slave's willing ear as a permanent mark of obedience in Israel's law."
+}
+]
+},
+"Psa.41": {
+"occasion": "A wisdom psalm on mercy shown to the weak.",
+"structure": "Blessing on the merciful, plea for mercy in the speaker's own illness, betrayal by a close friend, closing blessing.",
+"world_behind": "Lying sick on a bed and being cursed by enemies was a public affair, since illness and reputation were bound together.",
+"deep_background": [
+{
+"concept": "He who shared my bread",
+"note": "Sharing bread at the table created real obligation, which is why the betrayal described is a covenant offense."
+}
+]
 }
 }
