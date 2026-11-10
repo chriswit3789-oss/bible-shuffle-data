@@ -7627,5 +7627,731 @@
 "note": "The poem ends by comparing love to the one force no one resists, and calling its flame unquenchable."
 }
 ]
+},
+"Isa.1": {
+"occasion": "Isaiah's opening indictment of Judah's rebellion and hollow worship.",
+"structure": "A lawsuit speech: the LORD accuses, the people's sacrifices are rejected, a call to wash and obey, then Zion refined by judgment.",
+"world_behind": "Assyria is rising and Judah is secure but corrupt; prophets brought covenant lawsuits against the nation in the form of a legal dispute.",
+"deep_background": [
+{
+"concept": "Sodom language",
+"note": "Calling Judah's rulers 'Sodom' invokes Genesis 19 to say the nation's moral state matches a city already judged."
+}
+]
+},
+"Isa.2": {
+"occasion": "The mountain of the LORD and the day of pride humbled.",
+"structure": "Zion exalted and nations streaming up, then a reversal into the day of the LORD against human pride, ending with a call to stop trusting in man.",
+"world_behind": "Jerusalem sat on a hill with the temple as its crown, so 'mountain of the LORD' meant the city itself as the place of God's presence.",
+"deep_background": [
+{
+"concept": "Swords into plowshares",
+"note": "Iron plow tips and pruning hooks were ordinary farm tools, so the image means an economy converted from war to food."
+}
+]
+},
+"Isa.3": {
+"occasion": "Anarchy in Judah and judgment on its leaders and wealthy women.",
+"structure": "Leadership removed, incompetence promoted, the LORD enters judgment, then a oracle against the finery of Jerusalem's daughters.",
+"world_behind": "Elders and princes governed at the city gate; losing them meant losing courts, defense, and food distribution at once.",
+"deep_background": [
+{
+"concept": "Gate leadership",
+"note": "Justice and commerce happened in the city gate, so the removal of elders collapses the whole civic order."
+}
+]
+},
+"Isa.4": {
+"occasion": "The branch of the LORD and purged Zion after judgment.",
+"structure": "A brief transitional oracle: the survivors are cleansed by a spirit of judgment, then the branch of the LORD becomes beauty for the remnant under a canopy of cloud and fire.",
+"world_behind": "The cloud and fire recall the wilderness tabernacle, presented here as returning to shelter a restored city.",
+"deep_background": [
+{
+"concept": "Branch imagery",
+"note": "Hebrew tsemach means a sprout from a cut stump, the same image later used for the Davidic heir."
+}
+]
+},
+"Isa.29": {
+"occasion": "Ariel besieged, then delivered, and a warning about lip-service.",
+"structure": "Jerusalem humbled but defended, then judgment on those whose hearts are far away, ending with the deaf hearing and the potter's clay.",
+"world_behind": "Ariel means lion of God, a name for Zion suggesting strength; the besieging armies camp against it.",
+"deep_background": [
+{
+"concept": "Potter and clay",
+"note": "Potters worked clay on a wheel in every village, so the image of maker and made was concrete, not abstract."
+}
+]
+},
+"Isa.30": {
+"occasion": "Egypt relied on and found worthless; grace in the late groove, but grace comes.",
+"structure": "Woe to those carrying treasure to Egypt, the collapse of that hope, a fireside oracle of grace (actually a few words in a corner), and God's voice behind them.",
+"world_behind": "Judah paid tribute for Egyptian cavalry, the most practical military hope against Assyria.",
+"deep_background": [
+{
+"concept": "Sign already written",
+"note": "A pledge recorded in a document and sealed was proof a matter was settled, the image of a fixed fate."
+}
+]
+},
+"Isa.31": {
+"occasion": "Woe to those trusting in chariots, but the LORD defends Zion.",
+"structure": "Woe to those going down to Egypt, the LORD descends like a lion, and Jerusalem is protected like a bird.",
+"world_behind": "Egypt supplied horses and chariots in bulk, the cutting-edge military technology of the day.",
+"deep_background": [
+{
+"concept": "Chariots from Egypt",
+"note": "Horses cost more than cattle, so chariots signified national wealth and alliance, not just speed."
+}
+]
+},
+"Isa.32": {
+"occasion": "A righteous king and the Spirit poured out.",
+"structure": "A king reigns as a shelter, then a desolate city lament, then the Spirit outpoured, turning desert to field and masons worked fields.",
+"world_behind": "Grain and vineyards grew in the hill country; a city bereft its fields lay abandoned.",
+"deep_background": [
+{
+"concept": "Field and vineyard",
+"note": "Grain fields and vineyards were the two pillars of hill country farming, so restoring them restores ordinary life."
+}
+]
+},
+"Isa.33": {
+"occasion": "Woe to the destroyer and the King in beauty.",
+"structure": "The destroyer promised the same, a night of terror, the nations scattered, and the righteous Zion described as a place of rivers and none of the king's splendor.",
+"world_behind": "Jerusalem depended on water held in cisterns and a spring, so a city with rivers meant a poem of safety, not geology.",
+"deep_background": [
+{
+"concept": "Stakes never pulled",
+"note": "Tent pegs held up the whole shelter, so stakes that are never pulled means security nobody can dismantle."
+}
+]
+},
+"Isa.34": {
+"occasion": "Judgment on Edom, the book of the LORD.",
+"structure": "Nations assembled for slaughter, Edom a smoking desert, then a public reading call to the book so nothing in it fails.",
+"world_behind": "Edom held the sandstone highlands south of the Dead Sea, its fall a full bordered picture of judgment.",
+"deep_background": [
+{
+"concept": "Pelican and hedgehog",
+"note": "Unclean scavengers inhabit the destroyed land, so the sign of judgment is a human absence, not a human city."
+}
+]
+},
+"Isa.35": {
+"occasion": "The desert blossoms and the ransomed return.",
+"structure": "The wilderness blooms, weak hands are strengthened, blind eyes open, and a highway of holiness brings the redeemed home singing.",
+"world_behind": "The road from Babylon to Judah cut harsh steppe, a place travelers feared.",
+"deep_background": [
+{
+"concept": "Highway",
+"note": "Kings built highways for armies and merchants, so a road in the wilderness images royal care for returning exiles."
+}
+]
+},
+"Isa.36": {
+"occasion": "Sennacherib's envoy demands Jerusalem surrender.",
+"structure": "A field commander at the aqueduct mocks Hezekiah and the LORD, and the king's officials answer in mourning.",
+"world_behind": "The siege was announced at the point where a city loses its water; Sennacherib had destroyed the cisterns.",
+"deep_background": [
+{
+"concept": "Field of the fuller",
+"note": "The laundry field outside the wall carried water, so that is where the enemy's demand is delivered."
+}
+]
+},
+"Isa.37": {
+"occasion": "Hezekiah prays, and Assyria collapses.",
+"structure": "Hezekiah spreads the letter in the temple, Isaiah gives the oracle, and the angel strikes 185,000, with Sennacherib killed at home.",
+"world_behind": "An Assyrian king's bodyguards often included sons predictably ambitious; the murder by his sons fits the record pattern.",
+"deep_background": [
+{
+"concept": "Cherubim throne",
+"note": "The prayer reaches the one enthroned between the cherubim, so the ark image is the appeal to real rule."
+}
+]
+},
+"Isa.38": {
+"occasion": "Hezekiah's illness, healing, and psalm.",
+"structure": "The prophet announces death, Hezekiah prays and weeps, the sign of the sundial marks fifteen added years, and the king writes a psalm.",
+"world_behind": "The illness is a skin outbreak treated with a fig poultice, an ordinary household remedy of the period.",
+"deep_background": [
+{
+"concept": "The stepped dial",
+"note": "The shadow on Ahaz's stairway gave the king a measurable sign he could check himself, not a private feeling."
+}
+]
+},
+"Isa.39": {
+"occasion": "Babylonian envoys and the prediction of exile.",
+"structure": "Envoys from Babylon see the royal treasure, Isaiah asks what they saw, and exile in Babylon is announced.",
+"world_behind": "Babylon was still a subject state under Assyria, so this envoy was a political probe dressed as a courtesy visit.",
+"deep_background": [
+{
+"concept": "Storehouse tour",
+"note": "Showing the storehouse flaunts wealth and, more importantly, tells the future enemy exactly what the city has."
+}
+]
+},
+"Isa.40": {
+"occasion": "Comfort for a people, and an incomparable God.",
+"structure": "A voice in the wilderness prepares a road, the word of God stands forever, then the LORD as shepherd beyond counsel, ending with eagles.",
+"world_behind": "Kings had highways prepared ahead of them; a road in the desert was a royal project, in the wilderness?",
+"deep_background": [
+{
+"concept": "Eagle wings",
+"note": "Vultures and eagles ride thermals without labor, an image used in kingship inscriptions too."
+}
+]
+},
+"Isa.41": {
+"occasion": "Israel summoned and idols found worthless.",
+"structure": "Coastlands summoned to court, the servant taken by the hand, then a satire where the idol is bolted down and cannot move.",
+"world_behind": "An idol backed with nails was a standard statue-making technique, so the picture is technical, not comic.",
+"deep_background": [
+{
+"concept": "Nailed gods",
+"note": "Idols were fixed in a shrine so they would not tip, which the prophet reads as a confession of powerlessness."
+}
+]
+},
+"Isa.42": {
+"occasion": "The Servant song and a new song.",
+"structure": "The Servant brings justice quietly to the nations, the LORD sings a new song, then Israel is named blind and deaf servant.",
+"world_behind": "Nations are summoned as witnesses in a courtroom scene, and the Servant is presented as the evidence of God's justice.",
+"deep_background": [
+{
+"concept": "Smoldering wick",
+"note": "A linen wick gone black but not broken, the picture of faint hope the Servant refuses to snuff out."
+}
+]
+},
+"Isa.43": {
+"occasion": "Redemption announced, rivers in the desert.",
+"structure": "Do not fear, for I have redeemed you, the exodus pattern repeated, then the blind witness called to testify.",
+"world_behind": "Ransoms and prices were legal terms of the slave and temple markets.",
+"deep_background": [
+{
+"concept": "Rivers in desert",
+"note": "Water from rock is the wilderness memory, so the promise reads as a second exodus."
+}
+]
+},
+"Isa.44": {
+"occasion": "The Spirit of life poured on the seed, and idols exposed.",
+"structure": "A promise of children and the Spirit, then a long satire of the craftsman who makes a god from the same wood he burns.",
+"world_behind": "The craftsman selects timber, burns half of it for cooking, and carves the remainder into a god.",
+"deep_background": [
+{
+"concept": "Cyrus named in advance",
+"note": "Cyrus is named roughly a century and a half before his rise, and the text treats that as proof of foreknowledge."
+}
+]
+},
+"Isa.45": {
+"occasion": "Cyrus anointed and the LORD as only God.",
+"structure": "The LORD gives Cyrus victory and doors, then turns to say he alone is God to all the nations.",
+"world_behind": "Anointing was normally for kings chosen by the temple, so the same language applied to a foreign king is deliberately startling.",
+"deep_background": [
+{
+"concept": "Gates and gold",
+"note": "Cyrus took wealth from Croesus and opened shrine gates, matching the text's picture of gates opened."
+}
+]
+},
+"Isa.46": {
+"occasion": "God carries his own people, but idols need carrying.",
+"structure": "Bel and Nebo bow, carried away; the same rock, then the contrast between bearing and being borne.",
+"world_behind": "The New Year festival in Babylon paraded Marduk, so the prophet mocks the street theater.",
+"deep_background": [
+{
+"concept": "Bel and Nebo",
+"note": "Bel is Marduk of Babylon and Nebo his son, the two chief gods of the empire, named to be toppled especially far."
+}
+]
+},
+"Isa.47": {
+"occasion": "Babylon's pride dethroned.",
+"structure": "A dirge to the virgin city, her occult work exposed, scholarship and stargazing shown to be useless, and her end without remedy.",
+"world_behind": "Babylon was famed for astronomy and astrologers, and merchants turned it into a market city serving those needs.",
+"deep_background": [
+{
+"concept": "Daughter of Babylon",
+"note": "A daughter means the city personified, treated as a woman whose pride and then dishonor mark her fall."
+}
+]
+},
+"Isa.48": {
+"occasion": "Stubborn Israel refined and told to leave.",
+"structure": "A charge of hidden obstinacy, the furnace of adversity, then the sudden command to leave Babylon with joy.",
+"world_behind": "Furnaces refined gold and silver; the metaphor is that the nation was kept but the next piece came out clean.",
+"deep_background": [
+{
+"concept": "Furnace of affliction",
+"note": "Egypt's iron claw is the earlier furnace, so the exile reads as a second forging, a second refinement."
+}
+]
+},
+"Isa.49": {
+"occasion": "The Servant a light to the nations.",
+"structure": "The Servant speaks of his calling from the womb, despairs then is honoured, and is given as a covenant to the peoples while Zion is told her children outnumber her ruin.",
+"world_behind": "A servant's name inscribed on the palms of the hands echoes the practice of engraving a owner's mark or a memorial on a signet.",
+"deep_background": [
+{
+"concept": "Engraved on palms",
+"note": "Slaves and seals carried the master's mark, so being written on the hands means permanent, personal claim."
+}
+]
+},
+"Isa.50": {
+"occasion": "The Servant's obedience and trust in the dark.",
+"structure": "A divorce image denied, the Servant given a taught tongue and an open ear, his back struck, then a challenge to walk in darkness and trust the name.",
+"world_behind": "Disciples sat at a teacher's feet and were woken morning by morning, the picture of a learner rather than an orator.",
+"deep_background": [
+{
+"concept": "Plucked beard",
+"note": "Pulling the beard was a deliberate public insult in the ancient Near East, not incidental rough handling."
+}
+]
+},
+"Isa.51": {
+"occasion": "Look to the rock and the coming salvation.",
+"structure": "Israel called to remember Abraham and Sarah, the law goes out as light, the cup of wrath is taken from Jerusalem and handed to her tormentors.",
+"world_behind": "Quarrying a nation from one couple is the image of a rock cut for building stone.",
+"deep_background": [
+{
+"concept": "Cup of wrath",
+"note": "A cup passed around at a banquet, used here for the portion of judgment a city must drink."
+}
+]
+},
+"Isa.52": {
+"occasion": "Awake Zion and the messenger's feet.",
+"structure": "Jerusalem called to rise, the watchmen sing, and the Servant is introduced as exalted and disfigured.",
+"world_behind": "News from a battlefield reached a city only by runner, so beautiful feet means a courier arriving alive.",
+"deep_background": [
+{
+"concept": "Watchmen singing",
+"note": "Wall guards were the first to see a returning messenger, so their singing marks verified good news."
+}
+]
+},
+"Isa.53": {
+"occasion": "The suffering Servant.",
+"structure": "Who has believed our report, the Servant despised and pierced, the confession that we went astray, then his death, burial, and satisfaction.",
+"world_behind": "Healing and sickness are used for both physical and national recovery, and the Servant's grave is assigned with the rich after a criminal's death.",
+"deep_background": [
+{
+"concept": "Struck by God",
+"note": "The onlookers assume suffering proves divine punishment, the assumption the passage then overturns."
+}
+]
+},
+"Isa.54": {
+"occasion": "The barren woman sings and the covenant of peace stands.",
+"structure": "The childless wife told to enlarge her tent, shame forgotten, the covenant of peace like Noah's oath, and no weapon prospering.",
+"world_behind": "Tents were enlarged by adding panels and poles, a real household task for a growing family.",
+"deep_background": [
+{
+"concept": "Waters of Noah",
+"note": "The promise appeals to an oath already kept once, making this covenant as binding as that one."
+}
+]
+},
+"Isa.55": {
+"occasion": "An invitation to the thirsty.",
+"structure": "Come buy without money, the sure mercies promised to David, seek the LORD while near, and the word that accomplishes its purpose.",
+"world_behind": "Water sellers and market cries in a dry city give the opening lines their everyday force.",
+"deep_background": [
+{
+"concept": "Rain on soil",
+"note": "The word is compared to rain that does its work invisibly, drawn from dry farming rather than irrigation."
+}
+]
+},
+"Isa.56": {
+"occasion": "Sabbath welcome for foreigners and blind watchmen rebuked.",
+"structure": "Keep justice, foreigners and eunuchs included in the house of prayer, then a sharp rebuke of Israel's watchmen as silent dogs.",
+"world_behind": "Eunuchs and foreigners were barred from full assembly membership under the law, so this oracle widens the door deliberately.",
+"deep_background": [
+{
+"concept": "House of prayer",
+"note": "Later quoted by Jesus when cleansing the temple courts, which had become a market for pilgrims."
+}
+]
+},
+"Isa.57": {
+"occasion": "Idolatry rebuked and the lowly comforted.",
+"structure": "The righteous die unnoticed, idolatry described in detail, then the high and holy one who dwells with the contrite and heals.",
+"world_behind": "Child sacrifice in the valley of Hinnom is in view, a practice the prophets treat as the extreme of apostasy.",
+"deep_background": [
+{
+"concept": "High places",
+"note": "Worship on hilltops under green trees was the standard Canaanite pattern the prophets condemned."
+}
+]
+},
+"Isa.58": {
+"occasion": "True fasting versus religious performance.",
+"structure": "A challenge to the loud fast, the fast God chooses described as loosing chains and feeding the hungry, then the promise of light and the sabbath.",
+"world_behind": "Public fasting involved bowing the head and wearing sackcloth in court squares so others would see it.",
+"deep_background": [
+{
+"concept": "Yoke and thong",
+"note": "Yokes bound oxen and debtors alike, so breaking the yoke covers both farm labor and debt slavery."
+}
+]
+},
+"Isa.59": {
+"occasion": "Sins separate and the Redeemer comes to Zion.",
+"structure": "The arm of the LORD not shortened but sin has made a wall, sins confessed in detail, no intercessor found, so God arms himself and the Redeemer comes.",
+"world_behind": "Armor listed piece by piece reflects real equipment: breastplate, helmet, and garments of vengeance.",
+"deep_background": [
+{
+"concept": "No intercessor",
+"note": "The gap between people and God is unfilled until God acts himself, the hinge of the passage."
+}
+]
+},
+"Isa.60": {
+"occasion": "Arise and shine, for nations stream to Zion.",
+"structure": "Light has come, sons and daughters return, wealth arrives by sea and camel, gates stand open always, and the city is made glorious.",
+"world_behind": "Gates shutting at night was basic city security, so gates never shut is a deliberate impossibility for peace.",
+"deep_background": [
+{
+"concept": "Camel caravans",
+"note": "Incense and gold moved by camel from Arabia, the trade that made such wealth plausible imagery."
+}
+]
+},
+"Isa.61": {
+"occasion": "The Spirit-anointed announcement of good news.",
+"structure": "The speaker is anointed to preach good news to the poor, proclaim liberty, comfort mourners, then the community rejoices in its restoration.",
+"world_behind": "Jubilee released slaves and returned land, and the language here borrows directly from that release.",
+"deep_background": [
+{
+"concept": "Garments of praise",
+"note": "A change of clothing marked a change of status, so praise replaces a spirit of heaviness like a new coat."
+}
+]
+},
+"Isa.62": {
+"occasion": "Watchmen on the walls and a new name.",
+"structure": "Zion will not keep silent, her new name given, watchmen appointed, and the people called the holy people, the redeemed.",
+"world_behind": "Watchmen were posted to spot approaching messengers, and were paid to stay awake for the city's sake.",
+"deep_background": [
+{
+"concept": "Forsaken and deserted",
+"note": "Names in Hebrew describe character, so a changed city name announces changed circumstances."
+}
+]
+},
+"Isa.63": {
+"occasion": "The warrior from Edom and the memory of mercy.",
+"structure": "A figure in bloodstained garments returns from Bozrah, then Israel recalls God's kindness, and the prophet appeals for the compassion of a father.",
+"world_behind": "Treading grapes in a winepress left red stains, the image behind the bloodied garments.",
+"deep_background": [
+{
+"concept": "Bozrah",
+"note": "The capital of Edom southeast of the Dead Sea, named here as the place of judgment."
+}
+]
+},
+"Isa.64": {
+"occasion": "A prayer for God to tear the heavens open.",
+"structure": "A plea for theophany, the prophet confesses that even good deeds are like filthy rags, then appeals to God as father and potter.",
+"world_behind": "Mountains melting at God's presence recalls Sinai, so the request is for a second Sinai, not a gentler one.",
+"deep_background": [
+{
+"concept": "Filthy rags",
+"note": "Possibly a menstrual cloth, the strongest available image of uncleanness, which makes the confession total."
+}
+]
+},
+"Isa.65": {
+"occasion": "Judgment on rebels and the promise of new creation.",
+"structure": "God answers that he was found by those who did not seek him, judgment on apostates, then new heavens, new earth, and long life in the age to come.",
+"world_behind": "Eating swine flesh and sitting in tombs were ritual acts of apostasy against covenant food laws.",
+"deep_background": [
+{
+"concept": "Lion eating straw",
+"note": "Predator and prey diet change signals a creation restored to peace, reversing the curse."
+}
+]
+},
+"Isa.66": {
+"occasion": "The true temple and the final gathering.",
+"structure": "Heaven is God's throne so no house can contain him, judgment and comfort set out, and the book closes with all nations coming to worship.",
+"world_behind": "Temple building texts across the region claimed a deity lived in the house built for it, which this oracle denies.",
+"deep_background": [
+{
+"concept": "New heavens and earth",
+"note": "The pairing of new sky and new land frames the whole renewal, picked up later in the New Testament."
+}
+]
+},
+"Isa.9": {
+"occasion": "A child born and Ephraim's pride judged.",
+"structure": "Light to Galilee, the birth oracle with four throne names, then Jacob's arrogance indicted under four strokes of judgment.",
+"world_behind": "Throne names were coronation titles claimed by kings; applying four to one child claims the whole royal office.",
+"deep_background": [
+{
+"concept": "Galilee of the nations",
+"note": "A border region hit first by Assyrian invasion, so light dawning there signals reversal from the place of earliest loss."
+}
+]
+},
+"Isa.10": {
+"occasion": "Assyria used as God's rod, then judged for its arrogance.",
+"structure": "Woe to unjust lawmakers, Assyria described as an axe in God's hand, its boasting indicted, then a remnant promise and the felling of the forest.",
+"world_behind": "Assyria's army swallowed small states by siege and deportation, which the prophet reframes as a tool God wields and then breaks.",
+"deep_background": [
+{
+"concept": "Axe and saw",
+"note": "Tools do not boast against the hand that swings them, a rebuke of empire that credits itself for God's work."
+}
+]
+},
+"Isa.11": {
+"occasion": "The root of Jesse and the peaceable kingdom.",
+"structure": "A shoot from Jesse's stump, the sevenfold Spirit, righteous rule, Eden-like peace among animals, then the nations gathered and the highway opened.",
+"world_behind": "Jesse was David's father, so the stump image means the Davidic dynasty is cut down but not destroyed.",
+"deep_background": [
+{
+"concept": "Root and stump",
+"note": "Royal inscriptions boasted of cutting off a rival's dynasty; this oracle claims that cut stump sprouts again."
+}
+]
+},
+"Isa.12": {
+"occasion": "Songs of praise for salvation.",
+"structure": "Two short hymns: anger turned to comfort, then thanksgiving with the command to draw water from the wells of salvation.",
+"world_behind": "Water was drawn daily from wells and cisterns, making it a natural image for a supply that never runs out.",
+"deep_background": [
+{
+"concept": "Wells of salvation",
+"note": "Cistern water meant survival in a dry land, so the metaphor promises relief for the most routine daily need."
+}
+]
+},
+"Isa.13": {
+"occasion": "The day of the LORD against Babylon.",
+"structure": "An oracle summoning an army, cosmic signs, the city overthrown like Sodom, and the land left to wild animals.",
+"world_behind": "Babylon at this date was not yet the empire it became, so the oracle reads as the archetype of every proud city.",
+"deep_background": [
+{
+"concept": "Day of the LORD",
+"note": "A common prophetic term for the day God intervenes, which prophets say begins with judgment on Israel before the nations."
+}
+]
+},
+"Isa.14": {
+"occasion": "A taunt song over Babylon's king and a Philistine oracle.",
+"structure": "Israel restored, the tyrant mocked as fallen from heaven, Sheol stirred to meet him, then Assyria's collapse and Philistia's warning.",
+"world_behind": "Kings were described in hymns as climbing to divinity; the taunt reverses that royal boast step by step.",
+"deep_background": [
+{
+"concept": "Morning star",
+"note": "Hebrew helel, rendered lucifer in Latin, named the bright planet that pales at sunrise, fitting a king whose brightness fails."
+}
+]
+},
+"Isa.15": {
+"occasion": "A lament over Moab in one night.",
+"structure": "Place names fall in rapid sequence, refugees flee to Zoar, water is gathered, and the prophet wails with the mourners.",
+"world_behind": "Moab lay east of the Dead Sea; its towns named here are the border fortresses that guarded the plateau routes.",
+"deep_background": [
+{
+"concept": "Sackcloth and shaved heads",
+"note": "Standard mourning rites, so the prophet describes a whole country performing public grief."
+}
+]
+},
+"Isa.16": {
+"occasion": "Moab begs for refuge and its pride is humbled.",
+"structure": "A plea for shelter from a coming king, then God's throne established in steadfast love, followed by Moab's arrogant refusal and a three-year countdown.",
+"world_behind": "eastJordan's Moabites sent tribute lambs to Jerusalem, so the appeal is to a relationship already in place.",
+"deep_background": [
+{
+"concept": "Tribute lambs",
+"note": "Moab's wealth was sheep, so sending lambs from Sela marked submission to the Judean throne."
+}
+]
+},
+"Isa.17": {
+"occasion": "Damascus falls and Ephraim's glory fades.",
+"structure": "A single oracle joining Aram and northern Israel: cities emptied, harvest gleanings left, then a turn to the Maker, then sudden terror.",
+"world_behind": "In Damascus-Aram and Ephraim, the two northern allies pressured Judah to join an anti-Assyrian coalition, which sets the setting for Isaiah 7.",
+"deep_background": [
+{
+"concept": "Gleaning",
+"note": "Gleanings were the few olives left after harvest, the standard image of a remnant with everything stripped away."
+}
+]
+},
+"Isa.18": {
+"occasion": "Ethiopia's envoys and God's coming harvest.",
+"structure": "A brief oracle to a land of rivers: watch for a signal, then the LORD pruning the branches and leaving them to the birds, then gifts brought to Zion.",
+"world_behind": "Cush, in Nubia and modern Sudan, was a rising power that meddled in regional politics through envoys.",
+"deep_background": [
+{
+"concept": "Riverside reeds",
+"note": "Papyrus boats and reeds along the Nile made river travel the ordinary route between Africa and the Levant."
+}
+]
+},
+"Isa.19": {
+"occasion": "Egypt judged, then healed.",
+"structure": "The LORD rides a swift cloud, the Nile fails, counselors are confounded, then a healing turn: an altar, a highway and blessing.",
+"world_behind": "Egypt's economy rested entirely on the Nile flood, so striking the river attacks the nation's life source at the root.",
+"deep_background": [
+{
+"concept": "Highway of the LORD",
+"note": "Egypt, Assyria and Israel together in one blessing was politically unthinkable and reads as the oracle's sharpest line."
+}
+]
+},
+"Isa.20": {
+"occasion": "A sign-act: Isaiah walks naked and barefoot for three years.",
+"structure": "A brief prose report: the LORD commands the sign, then the explanation that Egypt and Cush will be led away stripped, and Judah's allies will prove worthless.",
+"world_behind": "Prophets sometimes performed public sign-acts that embodied a coming event in advance.",
+"deep_background": [
+{
+"concept": "Captive nakedness",
+"note": "Deported prisoners were stripped as humiliation, so the prophet's own exposure enacts the exile he predicts."
+}
+]
+},
+"Isa.21": {
+"occasion": "The fall of Babylon, Dumah's question, and Arabia's fugitives.",
+"structure": "Three short oracles: a watchman reports the city fallen, Edom asks how long the night lasts, then a desert oracle about caravans cut off.",
+"world_behind": "Watchmen stood on city walls through the night, so the imagery comes directly from guard duty.",
+"deep_background": [
+{
+"concept": "Night and morning",
+"note": "Edom's question uses the night as a unit of suffering, with morning as the hoped return of relief."
+}
+]
+},
+"Isa.22": {
+"occasion": "The valley of vision and Shebna replaced by Eliakim.",
+"structure": "Jerusalem's festival emptied by catastrophe, then two officials contrasted: the steward deposed, the servant given keys.",
+"world_behind": "The royal steward carried the keys of the palace and decided access to the king's house.",
+"deep_background": [
+{
+"concept": "Key of David",
+"note": "Household keys hung on the steward's shoulder as a sign of authority, which later supplies New Testament imagery for Christ."
+}
+]
+},
+"Isa.23": {
+"occasion": "The fall and restoration of Tyre.",
+"structure": "A lament from the Sea, merchants dissolved, then after seventy years the city sings again and its profit belongs to the LORD.",
+"world_behind": "Tyre was the Mediterranean's commercial hub, its ships trading with Egypt, Cyprus and Spain.",
+"deep_background": [
+{
+"concept": "Seventy years",
+"note": "A round number meaning a full but limited period of judgment, common in prophetic literature for exile."
+}
+]
+},
+"Isa.24": {
+"occasion": "A worldwide judgment that empties the earth.",
+"structure": "The LORD strips the land, the wine fails, the city is broken, the remnant sings from the ends of the earth, and the LORD of hosts reigns on Zion.",
+"world_behind": "Ancient cosmology pictured the earth on pillars with the sky as a curtain, so shaking the foundations means total collapse.",
+"deep_background": [
+{
+"concept": "Floodgates",
+"note": "The windows above open as in Genesis, tying the destruction back to Noah's flood."
+}
+]
+},
+"Isa.25": {
+"occasion": "Praise for victory and a feast on the mountain.",
+"structure": "Thanksgiving for cities overturned, then the universal banquet where death is swallowed and tears are wiped away.",
+"world_behind": "Victory banquets were standard royal celebration after a siege was lifted.",
+"deep_background": [
+{
+"concept": "Well-aged wine",
+"note": "Aged wine and rich marrow were the banquet food of the wealthy, so the promise is luxury, not bare survival."
+}
+]
+},
+"Isa.26": {
+"occasion": "A song of trust and the hope of resurrection.",
+"structure": "The strong city promised, the mind fixed on peace, waiting in the night, and closing with the dead rising to share the dew.",
+"world_behind": "Cisterns and high walls defined a defensible city, so 'strong city' invokes the practical hope of safety.",
+"deep_background": [
+{
+"concept": "Dew of dawn",
+"note": "Dew and resurrection are linked because dew revives parched ground overnight, an image of God's silent renewal."
+}
+]
+},
+"Isa.27": {
+"occasion": "Leviathan slain and the vineyard kept.",
+"structure": "The serpent dragon defeated and the vineyard kept, then Jacob cleansed and Israel gathered by trumpet blast.",
+"world_behind": "Returning exiles would come back from scattered lands on foot, so a distinct trumpet signal is a real rallying practice.",
+"deep_background": [
+{
+"concept": "Leviathan",
+"note": "A sea monster in Canaanite and Hebrew poetry, here simply an image of chaos power defeated by God."
+}
+]
+},
+"Isa.28": {
+"occasion": "Ephraim's drunkards judged and a cornerstone laid in Zion.",
+"structure": "Woe to the drunk crowns of the north, priests stagger, scoffers warned, a tested corner stone, then an illustration of a farmer's changing work.",
+"world_behind": "Heavy drinking was part of northern prosperity parties, and Isaiah's audience treated his warnings as baby talk.",
+"deep_background": [
+{
+"concept": "Cornerstone",
+"note": "A foundation stone checked by plumb line set the alignment of a whole building, so the metaphor is about a fixed standard."
+}
+]
+},
+"Isa.5": {
+"occasion": "The song of the vineyard and six woes.",
+"structure": "A vineyard song that turns into a verdict, then woes against land grabbers, drunkards, mockers of God, and those who call evil good, closing with Assyria summoned.",
+"world_behind": "Vineyards were planted on terraced hillsides with a watchtower and a winepress cut into rock, exactly the details listed here.",
+"deep_background": [
+{
+"concept": "Wild grapes",
+"note": "Hebrew beushim are literally stinking or worthless fruit, so the complaint is not bad quality but the wrong kind entirely."
+}
+]
+},
+"Isa.6": {
+"occasion": "Isaiah's vision and call in the temple.",
+"structure": "The throne vision with six-winged seraphim, Isaiah's uncleanness confessed and purged by a coal, then the commission with its hardening word.",
+"world_behind": "The temple's doorposts and the smoke place the vision in the actual building, at the moment of a king's death.",
+"deep_background": [
+{
+"concept": "Burning coal",
+"note": "Coals from the altar were used for incense, so the cleansing comes from the place of sacrifice, not a ritual bath."
+}
+]
+},
+"Isa.7": {
+"occasion": "The sign given to Ahaz during the Syro-Ephraimite crisis.",
+"structure": "Two kings fail to take Jerusalem, Ahaz refuses a sign, so one is given anyway: a young woman bears a son named God-with-us, and Assyria is promised.",
+"world_behind": "Ahaz was likely at the aqueduct checking the city's water supply during a siege threat.",
+"deep_background": [
+{
+"concept": "Curds and honey",
+"note": "Food of a depopulated countryside, meaning the child will grow up in scarcity rather than abundance."
+}
+]
+},
+"Isa.8": {
+"occasion": "The sign-name scroll and the stone of stumbling.",
+"structure": "A name written and witnessed, Assyria described as a flood, then the command to seal the testimony and fear only the LORD.",
+"world_behind": "Naming a child with a sentence was a public prophetic act, with witnesses signed to the record.",
+"deep_background": [
+{
+"concept": "Sealed testimony",
+"note": "Binding a document and sealing it made it legally fixed until the stated time, the practice behind the instruction."
+}
+]
 }
 }
