@@ -12819,5 +12819,181 @@
 "note": "Olive oil was ordinary medicine as well as ritual, so the practice joins care of body and prayer."
 }
 ]
+},
+"1Pe.1": {
+"occasion": "Living hope under trial.",
+"structure": "New birth to a living hope, joy in testing, and holiness because of the costly redemption.",
+"world_behind": "Peter writes to scattered believers across Asia Minor provinces, likely after a wave of local hostility.",
+"deep_background": [
+{
+"concept": "Exiles",
+"note": "The word describes resident foreigners without full civic rights, which matched their social position."
+}
+]
+},
+"1Pe.2": {
+"occasion": "Living stones and suffering patiently.",
+"structure": "Christ the cornerstone, a chosen people, submission to authorities, and Christ's example in suffering.",
+"world_behind": "Household slaves were the most vulnerable members, and public order mattered to a suspect minority.",
+"deep_background": [
+{
+"concept": "Living stones",
+"note": "The temple's stones were the image of God's dwelling, so applying it to people is deliberate."
+}
+]
+},
+"1Pe.3": {
+"occasion": "Conduct in marriage and suffering for right.",
+"structure": "Wives and husbands, unity in the church, readiness to answer, and Christ's preaching to the spirits.",
+"world_behind": "Marriage across religious lines was common, and a wife's conversion could unsettle a household.",
+"deep_background": [
+{
+"concept": "Baptism",
+"note": "The flood comparison makes baptism about a good conscience before God, not the water itself."
+}
+]
+},
+"1Pe.4": {
+"occasion": "Suffering as a Christian and stewarding gifts.",
+"structure": "Armed with Christ's mindset, gifts used for others, and joy in sharing Christ's sufferings.",
+"world_behind": "Public accusation of Christians as antisocial was a real risk in provincial towns.",
+"deep_background": [
+{
+"concept": "Fiery trial",
+"note": "The image is of metal being refined, so the suffering is refining rather than destroying."
+}
+]
+},
+"1Pe.5": {
+"occasion": "Shepherding and standing firm.",
+"structure": "Elders as willing shepherds, humility, casting anxiety, and resistance to the adversary.",
+"world_behind": "Sheep and shepherds were everyday sights, and elders of a town held real social authority.",
+"deep_background": [
+{
+"concept": "Lion",
+"note": "A prowling lion is a psalm image for a threat that hunts in darkness."
+}
+]
+},
+"2Pe.1": {
+"occasion": "Divine power and the prophetic word.",
+"structure": "Growth in godliness, the eyewitness testimony, and scripture as a lamp in a dark place.",
+"world_behind": "Letters written under another's name were known practice, and the writer appeals to eyewitness memory.",
+"deep_background": [
+{
+"concept": "Transfiguration",
+"note": "The author points to the mountain as the ground for his claim, not to a private vision."
+}
+]
+},
+"2Pe.2": {
+"occasion": "False teachers and their certain judgment.",
+"structure": "Their methods described, examples of judgment, and the proverb of the dog returning.",
+"world_behind": "Itinerant teachers needed hospitality, which is why welcome and payment feature in the attack.",
+"deep_background": [
+{
+"concept": "Balaam",
+"note": "Balaam is the model of a prophet paid to steer a curse, a stock warning in Jewish literature."
+}
+]
+},
+"2Pe.3": {
+"occasion": "The day of the Lord and patience.",
+"structure": "Scoffers and the delay, the flood comparison, the day as a thief, and Paul's letters as scripture.",
+"world_behind": "Epicurean philosophy denied divine intervention in the world, which fits the scoffing described.",
+"deep_background": [
+{
+"concept": "Thief",
+"note": "The simile carries no timetable, which is exactly the point being made."
+}
+]
+},
+"1Jn.1": {
+"occasion": "The word of life and walking in the light.",
+"structure": "Eyewitness testimony, fellowship with the Father, confession of sin, and cleansing.",
+"world_behind": "Gnostically inclined teachers denied that the Christ had truly come in flesh, which the opening confronts.",
+"deep_background": [
+{
+"concept": "Fellowship",
+"note": "The word describes shared participation, not casual friendship, in the Greek usage of the period."
+}
+]
+},
+"1Jn.2": {
+"occasion": "The advocate, the new command, and warnings about the world.",
+"structure": "Christ as advocate, the command to love, the antichrists, and abiding in the truth.",
+"world_behind": "A church split had just happened, and the letter addresses those who left.",
+"deep_background": [
+{
+"concept": "Antichrist",
+"note": "The term describes a posture of denial about the Father and the Son, not only a future figure."
+}
+]
+},
+"1Jn.3": {
+"occasion": "Children of God and love in action.",
+"structure": "The Father's love, hope of purity, sin and lawlessness, and love proved by deeds.",
+"world_behind": "Family identity determined inheritance and status, which gives weight to the language of children.",
+"deep_background": [
+{
+"concept": "Cain",
+"note": "Cain is the counter-example of hatred, since his offering and his murder are both about belonging."
+}
+]
+},
+"1Jn.4": {
+"occasion": "Testing the spirits and the God who is love.",
+"structure": "Test the confession, love as God's nature, perfect love casting out fear, and the command to love.",
+"world_behind": "Prophetic speech was normal in the assemblies, so testing claims was a practical necessity.",
+"deep_background": [
+{
+"concept": "Confession",
+"note": "The test is whether a teacher affirms Christ come in the flesh, an issue raised by docetic teaching."
+}
+]
+},
+"1Jn.5": {
+"occasion": "Faith that overcomes and confidence in prayer.",
+"structure": "The victory of faith, the three witnesses, and prayer according to God's will.",
+"world_behind": "Legal testimony required two or three witnesses, which is the structure invoked here.",
+"deep_background": [
+{
+"concept": "Idols",
+"note": "The closing warning is abrupt and specific, aimed at the pull of civic religion."
+}
+]
+},
+"2Jn.1": {
+"occasion": "A short letter to an elect lady and her children.",
+"structure": "Greeting, love and truth, warning against welcoming false teachers, and final greetings.",
+"world_behind": "Travelling teachers lodged in homes, so hospitality was a way of endorsing their message.",
+"deep_background": [
+{
+"concept": "Elect lady",
+"note": "The phrase may name a person or a congregation, either way the address is personal."
+}
+]
+},
+"3Jn.1": {
+"occasion": "A short letter about hospitality and Diotrephes.",
+"structure": "Commendation of Gaius, the complaint about Diotrephes, and praise for Demetrius.",
+"world_behind": "Church leaders who refused travellers disrupted the network that carried letters and teaching.",
+"deep_background": [
+{
+"concept": "Truth",
+"note": "The letter links truth closely with how a person treats those who arrive teaching it."
+}
+]
+},
+"Jud.1": {
+"occasion": "Contending for the faith against corrupt teachers.",
+"structure": "The occasion for writing, examples of judgment, the description of the intruders, and the closing doxology.",
+"world_behind": "Jewish tradition preserved stories like the dispute over Moses' body, which the letter cites.",
+"deep_background": [
+{
+"concept": "Kept",
+"note": "The doxology speaks of being kept from stumbling, matching the letter's concern about drifting."
+}
+]
 }
 }
