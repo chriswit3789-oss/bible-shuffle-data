@@ -78,5 +78,97 @@
 "Doxology": {
 "genre": "Doxology",
 "how_to_read": "Read as a burst of praise closing an argument; the content summarises what the writer wants remembered."
+},
+"Narrative and genealogy": {
+"genre": "Narrative with genealogy",
+"how_to_read": "Read the story for the plot and the lists for the claim: a genealogy says who belongs, who inherits, and which line the writer wants you to follow."
+},
+"Narrative and law": {
+"genre": "Narrative with law",
+"how_to_read": "Follow the story until the law arrives, then ask what the story just showed that made the instruction necessary."
+},
+"Prophecy and visions": {
+"genre": "Prophecy with visions",
+"how_to_read": "Hold the vision as a picture before decoding it: ask what it shows about God's rule and what it says to the people first hearing it."
+},
+"Law and ritual instruction": {
+"genre": "Law and ritual",
+"how_to_read": "Read ritual as embodied teaching: each act answers a question about holiness, access, guilt, or belonging."
+},
+"Sermon and law": {
+"genre": "Sermon with law",
+"how_to_read": "Hear the sermon's argument and treat the laws inside it as its application, not as a separate code."
+},
+"Narrative and records": {
+"genre": "Narrative with records",
+"how_to_read": "Read the records as evidence the narrator is citing: names, dates and inventories are how the account proves its claim."
+},
+"Memoir and narrative": {
+"genre": "Memoir",
+"how_to_read": "Read first person sections as testimony: the writer is defending a course of action and showing its cost."
+},
+"Wisdom poetry and prose": {
+"genre": "Wisdom, poetry and prose",
+"how_to_read": "Take the poetry as observation and the prose as conclusion; the book argues toward a verdict it states near the end."
+},
+"Poetry and prayer": {
+"genre": "Poetry and prayer",
+"how_to_read": "Read as address: notice who is speaking, what they ask for, and how the poem moves from complaint to trust."
+},
+"Wisdom poetry": {
+"genre": "Wisdom poetry",
+"how_to_read": "Read the poem as a claim about how life actually works, stated in images rather than rules."
+},
+"Wisdom reflection": {
+"genre": "Wisdom reflection",
+"how_to_read": "Read the argument as a sustained essay, following the writer's testing of each answer rather than lifting verses alone."
+},
+"Prophecy and poetry": {
+"genre": "Prophecy and poetry",
+"how_to_read": "Let the images carry the judgement and the argument: the poetry is not decoration, it is the message."
+},
+"Prophecy and narrative": {
+"genre": "Prophecy with narrative",
+"how_to_read": "Distinguish the report of events from the oracle spoken about them, and read the story as the setting for the word."
+},
+"Poetry and lament": {
+"genre": "Poetry and lament",
+"how_to_read": "Read the lament in order: address, complaint, request, and the turn to trust, which is often only one verse."
+},
+"Narrative and apocalyptic visions": {
+"genre": "Narrative with apocalyptic visions",
+"how_to_read": "Read the visions as symbolic pictures of real powers, and the narrative as the frame telling you when and to whom they were given."
+},
+"Prophecy and dialogue": {
+"genre": "Prophecy as dialogue",
+"how_to_read": "Follow the back and forth: the book records an argument, and the prophet's answers are part of the message."
+},
+"Prophecy and dispute": {
+"genre": "Prophecy as dispute",
+"how_to_read": "Read each charge and answer as a courtroom exchange, with the nation as the defendant."
+},
+"Gospel and history": {
+"genre": "Gospel and history",
+"how_to_read": "Read as an account written to be believed: notice the ordering of events and the summary statements that tell you why they are told."
+},
+"Narrative history": {
+"genre": "Narrative history",
+"how_to_read": "Read the sequence as argument: the writer selects and arranges events to make a case about cause and consequence."
+},
+"Personal letter": {
+"genre": "Personal letter",
+"how_to_read": "Read as correspondence to a real situation: identify the problem being addressed and the request being made."
+},
+"Sermon and letter": {
+"genre": "Sermon in letter form",
+"how_to_read": "Read the letter aloud for its rhetoric: the writer is preaching to a congregation he cannot see."
+},
+"Letter and wisdom": {
+"genre": "Letter with wisdom instruction",
+"how_to_read": "Separate the pastoral instruction from the wisdom sayings, and notice how the sayings are used to settle the case."
+},
+"Apocalyptic vision and letters": {
+"genre": "Apocalyptic vision with letters",
+"how_to_read": "Read the letters for the immediate situation and the visions for the larger conflict they interpret."
 }
 }
