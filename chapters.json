@@ -8353,5 +8353,577 @@
 "note": "Binding a document and sealing it made it legally fixed until the stated time, the practice behind the instruction."
 }
 ]
+},
+"Jer.1": {
+"occasion": "Jeremiah is called as a prophet in Josiah's thirteenth year.",
+"structure": "Call and objection, two visions, the almond branch and the boiling pot from the north.",
+"world_behind": "A prophet's call often came with a sign he could see; the almond wakes first in spring, and the pot tips from the north, where invasion came.",
+"deep_background": [
+{
+"concept": "Almond watcher",
+"note": "The Hebrew for almond sounds like the word for watching, so a winter branch becomes a pun on God keeping his word."
+}
+]
+},
+"Jer.2": {
+"occasion": "The LORD indicts Israel for abandoning him.",
+"structure": "Recalled devotion at first, then the charge, then the two evils: forsaken fountain and broken cisterns.",
+"world_behind": "Cisterns were plastered rock chambers for rain; a cracked one held nothing, while a spring was living water.",
+"deep_background": [
+{
+"concept": "Cistern water",
+"note": "Houses depended on stored rainwater, so the image of a leaking cistern was an everyday household failure."
+}
+]
+},
+"Jer.3": {
+"occasion": "Judah is invited back despite divorce language.",
+"structure": "Accusation of harlotry, the call to return, then a promise of restored shepherds and a reunited land.",
+"world_behind": "Divorce was permitted and public; a dismissed wife could not simply return, so the invitation to come back is deliberately shocking.",
+"deep_background": [
+{
+"concept": "Certificate of divorce",
+"note": "A written dismissal protected the woman's status, which is why its use here makes the return offer remarkable."
+}
+]
+},
+"Jer.4": {
+"occasion": "War warning sounds from the north.",
+"structure": "Call to return, alarm of trumpet, the lion from the thicket, then the lament over the desolation.",
+"world_behind": "Trumpet blasts and fleeing to walled towns were the standard response to a raiding army coming down the coastal road.",
+"deep_background": [
+{
+"concept": "Circumcise the heart",
+"note": "Physical circumcision marked the body; the demand here is for the loyalty that mark was meant to signify."
+}
+]
+},
+"Jer.5": {
+"occasion": "Jeremiah searches Jerusalem's streets for one honest person.",
+"structure": "Search through the poor and the great, refusal to repent, then the coming judgment and the call to glean the remnant.",
+"world_behind": "Judges sat at the gate where disputes were settled, so a city with no justice at the gate had no functioning civic life.",
+"deep_background": [
+{
+"concept": "Scales and gates",
+"note": "Trade and law both ran through the gate, making the gate the place where honesty was tested publicly."
+}
+]
+},
+"Jer.6": {
+"occasion": "Siege is declared against Jerusalem.",
+"structure": "Flight urged, siege described, then the call to walk the ancient paths and the rejection of the watchmen.",
+"world_behind": "A besieged city was cut off from fields and wells; siege ramps and camps outside the wall are described here in detail.",
+"deep_background": [
+{
+"concept": "Ancient paths",
+"note": "Roads were remembered landmarks; walking the old road meant returning to the settled ways of the ancestors."
+}
+]
+},
+"Jer.7": {
+"occasion": "Jeremiah preaches at the temple gate.",
+"structure": "The temple sermon: do not trust lying words, the den of robbers, then the rejection of shrine worship and the valley of slaughter.",
+"world_behind": "Worshipers trusted the building itself as a guarantee of safety, a conviction tied to the temple's founding promise.",
+"deep_background": [
+{
+"concept": "Den of robbers",
+"note": "A robbers' cave was where stolen goods were stored safely, a picture of worship used as cover for injustice."
+}
+]
+},
+"Jer.8": {
+"occasion": "Harvest is past and the people are not saved.",
+"structure": "Exposure of scribes and priests, the false assurance of peace, then the harvest lament and the gathering of the remnant.",
+"world_behind": "Balm from Gilead was a famous resin used for wounds, so the question of why healing has not come is pointed.",
+"deep_background": [
+{
+"concept": "Balm of Gilead",
+"note": "Gilead's resin was traded widely as medicine, making it the proverbial remedy for a wound that would not close."
+}
+]
+},
+"Jer.9": {
+"occasion": "Jeremiah weeps over the coming ruin.",
+"structure": "Lament over deceit, the call to weep, wisdom redefined as knowing the LORD, then the judgment on the uncircumcised.",
+"world_behind": "Professional mourners were hired to lead public grief, which is the practice behind the command to call the wailing women.",
+"deep_background": [
+{
+"concept": "Hired mourners",
+"note": "Funerals used trained wailers to draw out communal grief, so summoning them signals a death on a national scale."
+}
+]
+},
+"Jer.10": {
+"occasion": "Idols are compared with the living God.",
+"structure": "Warning against the nations' customs, the carved idol as a scarecrow, then the prayer of the humbled prophet.",
+"world_behind": "Temple idols were dressed, carried and guarded, so a figure that cannot walk or speak is the intended contrast.",
+"deep_background": [
+{
+"concept": "Scarecrow",
+"note": "A post dressed to frighten birds has no power in itself, which is exactly the comparison drawn here."
+}
+]
+},
+"Jer.11": {
+"occasion": "The broken covenant is announced.",
+"structure": "Covenant renewal call, the plot against Jeremiah in his own town, then the plea for justice.",
+"world_behind": "Covenant treaties were recited aloud and bound the whole community, so breaking them was a public, not private, offense.",
+"deep_background": [
+{
+"concept": "Anathoth plot",
+"note": "Jeremiah's own village turned on him, showing the cost of a message the neighbours rejected."
+}
+]
+},
+"Jer.12": {
+"occasion": "Jeremiah questions why the wicked prosper.",
+"structure": "The prophet's complaint, God's answer about a harder race ahead, then the lament over the ruined heritage.",
+"world_behind": "Farmers ran races with horses only in training for war, so the answer borrows from chariot preparation.",
+"deep_background": [
+{
+"concept": "Racing horses",
+"note": "Foot soldiers were useless against chariots, so training on foot against horses meant the coming test would be worse."
+}
+]
+},
+"Jer.13": {
+"occasion": "Two sign-acts of judgment are performed.",
+"structure": "The linen loincloth ruined by the Euphrates, then the wineskins filled and smashed, then the warning against pride.",
+"world_behind": "A linen loincloth was costly undergarment cloth worn close to the body, so ruining it meant ruining what was most intimate.",
+"deep_background": [
+{
+"concept": "Euphrates journey",
+"note": "Babylon lay toward the Euphrates, so burying the cloth there tied the sign to the power that would take the people."
+}
+]
+},
+"Jer.14": {
+"occasion": "Drought brings a national lament.",
+"structure": "Drought described, confession of sin, the plea not to be abandoned, then the rejection of the false prophets.",
+"world_behind": "Rain fed the cisterns and the grain in one season; a sustained drought emptied both food and water at once.",
+"deep_background": [
+{
+"concept": "False prophet promises",
+"note": "Prophets who promised peace without a word from God traded comfort for truth, a danger named directly here."
+}
+]
+},
+"Jer.15": {
+"occasion": "The prophet is worn down by his message.",
+"structure": "Refusal to relent, the prophet's complaint about his birth, then God's promise to make him a fortified wall.",
+"world_behind": "A bronze wall was a defensive barrier in battle; being made a fortified bronze wall was a promise of survival, not comfort.",
+"deep_background": [
+{
+"concept": "Fire in the bones",
+"note": "The word is described as fire shut up in the bones, the classic picture of a message that cannot be suppressed."
+}
+]
+},
+"Jer.16": {
+"occasion": "Jeremiah is forbidden family life as a sign.",
+"structure": "No marriage or mourning, the reason given, then the promise of return from exile and the conversion of the nations.",
+"world_behind": "Funeral meals and mourning visits were social duties; refusing them enacted the scale of coming death.",
+"deep_background": [
+{
+"concept": "Sign of no family",
+"note": "Children were the future of a household, so living without them was a living demonstration of a broken future."
+}
+]
+},
+"Jer.17": {
+"occasion": "Trust in flesh against trust in God is weighed.",
+"structure": "The inscribed sin, the shrub in the desert versus the tree by water, then the sabbath warning at the gate.",
+"world_behind": "An iron stylus cut into stone or metal; the image is of sin written permanently rather than erased.",
+"deep_background": [
+{
+"concept": "Iron stylus",
+"note": "A pen of iron with a diamond point engraved lasting records, the picture of a record that does not wear off."
+}
+]
+},
+"Jer.18": {
+"occasion": "The potter's house becomes a sign.",
+"structure": "Watching the potter rework clay, the lesson on the nation's freedom to turn, then the plot and the prophet's cry.",
+"world_behind": "A potter's wheel in the Levant was a stone turntable turned by foot, with the potter reshaping a spoiled vessel by hand.",
+"deep_background": [
+{
+"concept": "Reworked clay",
+"note": "Clay that failed on the wheel was kneaded back into a lump, a picture of a nation reshaped rather than discarded."
+}
+]
+},
+"Jer.19": {
+"occasion": "A clay flask is smashed outside the city.",
+"structure": "Purchase of the flask, the speech at Topheth, the breaking of the jar, then the return to the temple court.",
+"world_behind": "Topheth was the valley where refuse and child sacrifice were burned, so shattering pottery there carried a double meaning.",
+"deep_background": [
+{
+"concept": "Broken flask",
+"note": "Fired pottery cannot be repaired once shattered, unlike clay on the wheel, which is why the sign is final."
+}
+]
+},
+"Jer.20": {
+"occasion": "The prophet is beaten and put in the stocks.",
+"structure": "Pashhur arrests him, the name change announced, then the famous complaint about being seduced by the word.",
+"world_behind": "The stocks at the temple gate held a person in a fixed, humiliating posture where worshipers passed by.",
+"deep_background": [
+{
+"concept": "Fire shut in",
+"note": "He tries to hold the word back and cannot, the clearest biblical picture of a compulsion to speak."
+}
+]
+},
+"Jer.21": {
+"occasion": "Zedekiah asks for a word during the siege.",
+"structure": "The delegation sent, the answer that the city will fall, then the choice set between life and death.",
+"world_behind": "Surrender to Babylon meant going out of the city, which is why the offer is framed as going out rather than staying.",
+"deep_background": [
+{
+"concept": "Way of life",
+"note": "The options given are surrender and live or resist and die, the same choice later repeated in the final siege."
+}
+]
+},
+"Jer.22": {
+"occasion": "Judgment is pronounced on three kings.",
+"structure": "Charge to the royal house, then Shallum, Jehoiakim and Coniah in turn, closing with the land's lament.",
+"world_behind": "Kings built cedar palaces with forced labour, which is the charge brought against Jehoiakim specifically.",
+"deep_background": [
+{
+"concept": "Cedar building",
+"note": "Cedar was imported luxury timber; panelling a house in it announced wealth taken from the people."
+}
+]
+},
+"Jer.23": {
+"occasion": "False shepherds are condemned and a righteous Branch promised.",
+"structure": "Woe to the shepherds, the gathering of the flock, the Branch of David, then the oracle against the prophets who speak dreams.",
+"world_behind": "Shepherds lived with the flock and answered for strays, which is why rulers were called shepherds of the people.",
+"deep_background": [
+{
+"concept": "Burdens of the LORD",
+"note": "People mocked the prophet's message as a burden, so the phrase itself was quarrelled over and forbidden."
+}
+]
+},
+"Jer.24": {
+"occasion": "Two baskets of figs are set before the temple.",
+"structure": "The vision, the good figs explained as the exiles, the bad figs as those who stayed, then the promise to the exiled.",
+"world_behind": "Figs ripened in late summer and were pressed into cakes; early good figs were a prized delicacy and bad ones inedible.",
+"deep_background": [
+{
+"concept": "First-ripe figs",
+"note": "The earliest figs were the sweetest, so the exiles being called first-ripe reverses the expected verdict."
+}
+]
+},
+"Jer.25": {
+"occasion": "Seventy years of exile are declared.",
+"structure": "Recital of unheeded warning, the seventy years, then the cup of wrath passed to every nation in turn.",
+"world_behind": "A cup of wine passed around bound guests to a treaty feast, so the cup here is an obligation no one can refuse.",
+"deep_background": [
+{
+"concept": "Seventy years",
+"note": "The number matches the Babylonian supremacy remembered later by Daniel, and gave a horizon to the exile."
+}
+]
+},
+"Jer.26": {
+"occasion": "Jeremiah is tried for his temple sermon.",
+"structure": "The sermon repeated, the priests and prophets demand death, the elders cite precedent, then Ahikam protects him.",
+"world_behind": "A charge of prophesying against the temple was a capital offense, and the elders argued from a previous case with Micah.",
+"deep_background": [
+{
+"concept": "Precedent defence",
+"note": "The elders saved him by citing how Micah's warning was heeded, an early appeal to legal precedent."
+}
+]
+},
+"Jer.27": {
+"occasion": "A yoke is worn as a sign to the envoys.",
+"structure": "The yoke made and worn, the message to the surrounding kings, then the warning against listening to diviners.",
+"world_behind": "A wooden yoke joined two animals at the neck; wearing one publicly announced submission without saying a word.",
+"deep_background": [
+{
+"concept": "Yoke of Babylon",
+"note": "Accepting the yoke was framed as survival, not loyalty, which made the advice politically unbearable."
+}
+]
+},
+"Jer.28": {
+"occasion": "Hananiah contradicts the prophet publicly.",
+"structure": "Hananiah breaks the wooden yoke, Jeremiah waits, then the word comes that iron replaces it and Hananiah dies.",
+"world_behind": "Prophets sometimes acted out their message with objects, so breaking a yoke was a claim to have overturned the word.",
+"deep_background": [
+{
+"concept": "Wood to iron",
+"note": "Iron cannot be broken by hand, so the restated sign removes any hope of the judgment being snapped."
+}
+]
+},
+"Jer.29": {
+"occasion": "A letter is sent to the exiles in Babylon.",
+"structure": "Build and plant, seek the city's welfare, the seventy years, then the promise to be found when sought, plus the warning to the false prophets.",
+"world_behind": "Deportees were settled in communities with land, which is why the letter tells them to plant gardens and marry.",
+"deep_background": [
+{
+"concept": "Seek its peace",
+"note": "Welfare of the foreign city is commanded, a stance unusual among exiles who expected quick return."
+}
+]
+},
+"Jer.30": {
+"occasion": "The book of consolation opens.",
+"structure": "The time of Jacob's trouble, the breaking of the yoke, the healing of the wound, then the restoration of the city.",
+"world_behind": "A healing wound is described with the image of an untreated injury, which in a siege became infected and fatal.",
+"deep_background": [
+{
+"concept": "Jacob's trouble",
+"note": "A phrase later used for a final trial, here naming the destruction of the northern tribes as birth pain."
+}
+]
+},
+"Jer.31": {
+"occasion": "The new covenant is promised.",
+"structure": "Rachel weeping, the return of the tribes, Ephraim's repentance, then the new covenant written on the heart.",
+"world_behind": "Rachel's tomb stood near Ramah on the road north, where captives were assembled before deportation.",
+"deep_background": [
+{
+"concept": "Written on hearts",
+"note": "Covenant law was kept on stone tablets; writing it inside a person changes where obedience comes from."
+}
+]
+},
+"Jer.32": {
+"occasion": "A field is bought while the city is under siege.",
+"structure": "The purchase at Anathoth with the deed sealed, the prayer of praise and doubt, then the answer that fields will be bought again.",
+"world_behind": "Deeds were sealed and stored in clay jars for long safekeeping, a practice attested in the Judean desert finds.",
+"deep_background": [
+{
+"concept": "Sealed deed",
+"note": "Buying land under siege was economically irrational, which is precisely why it functioned as an act of hope."
+}
+]
+},
+"Jer.33": {
+"occasion": "Restoration is promised while Jeremiah is confined.",
+"structure": "The word comes in the court of the guard, the land restored, the Branch and the levitical promise, then the covenant with day and night.",
+"world_behind": "The court of the guard was a holding compound inside the palace where the prophet could still receive visitors.",
+"deep_background": [
+{
+"concept": "Fixed order of night",
+"note": "The regular return of day and night is used as a guarantee, an appeal to what everyone could observe."
+}
+]
+},
+"Jer.34": {
+"occasion": "A covenant to free slaves is broken.",
+"structure": "The siege warning to Zedekiah, the covenant of release made, then its reversal and the proclamation of liberty to the sword.",
+"world_behind": "Hebrew slaves were to be released in the seventh year, a rule tied to the exodus memory of being freed from Egypt.",
+"deep_background": [
+{
+"concept": "Release in siege",
+"note": "Freeing slaves during a siege reduced mouths to feed, so the reversal afterwards showed the motive was convenience."
+}
+]
+},
+"Jer.35": {
+"occasion": "The Rechabites are tested and commended.",
+"structure": "Wine offered in the temple chamber, their refusal, the charge to Judah, then the promise that the Rechabites will endure.",
+"world_behind": "The Rechabites lived as tent-dwelling herders by ancestral vow, rejecting settled farming and wine.",
+"deep_background": [
+{
+"concept": "Ancestral vow",
+"note": "Their obedience to a human ancestor shames a nation ignoring a divine command, the point of the comparison."
+}
+]
+},
+"Jer.36": {
+"occasion": "The scroll is written, read and burned.",
+"structure": "Baruch writes at dictation, the fast-day reading, the king cuts and burns it, then the scroll is rewritten with additions.",
+"world_behind": "Scrolls were papyrus sheets joined and rolled; cutting a column with a scribe's knife destroyed it piece by piece.",
+"deep_background": [
+{
+"concept": "Burned scroll",
+"note": "Fire does not cancel a word already spoken, so the rewriting with more added shows judgment cannot be edited out."
+}
+]
+},
+"Jer.37": {
+"occasion": "The prophet is arrested as a deserter.",
+"structure": "Zedekiah's inquiry, the answer of surrender, the arrest at the gate, then the secret meeting and the request for bread.",
+"world_behind": "The Benjamin gate was the northern exit toward the prophet's home town, so his leaving looked like flight.",
+"deep_background": [
+{
+"concept": "Accused deserter",
+"note": "Leaving a besieged city was treated as defection, the standard charge against those who advised surrender."
+}
+]
+},
+"Jer.38": {
+"occasion": "Jeremiah is lowered into a cistern and rescued.",
+"structure": "The officials demand his death, he sinks in the mud, Ebed-melech intervenes with rags, then he is drawn up and meets the king.",
+"world_behind": "Cisterns were bottle-shaped pits cut into rock; with the water gone they became muddy traps with no foothold.",
+"deep_background": [
+{
+"concept": "Rags under the ropes",
+"note": "Old cloths under the armpits protected the skin, an act of practical mercy recorded in detail."
+}
+]
+},
+"Jer.39": {
+"occasion": "Jerusalem falls to Babylon.",
+"structure": "The breach of the wall, the flight and capture of Zedekiah, the burning of the city, then the release of Jeremiah and Ebed-melech.",
+"world_behind": "Siege walls fell by ramp and breach; the date given matches the second month of Zedekiah's eleventh year.",
+"deep_background": [
+{
+"concept": "Court of the guard",
+"note": "The prophet was kept in the palace compound, so his survival depended on his jailer as much as the victor."
+}
+]
+},
+"Jer.40": {
+"occasion": "Gedaliah governs the survivors at Mizpah.",
+"structure": "Jeremiah freed and given a home, Gedaliah appointed over the poor of the land, then the warning about Ishmael ignored.",
+"world_behind": "The poorest were left to work vineyards and fields, the standard Babylonian practice of leaving cultivators behind.",
+"deep_background": [
+{
+"concept": "Mizpah",
+"note": "Mizpah had been a gathering place for centuries, which is why it was chosen as an administrative centre."
+}
+]
+},
+"Jer.41": {
+"occasion": "Ishmael murders Gedaliah and flees.",
+"structure": "The assassination at the meal, the massacre of pilgrims, the flight toward Ammon, then the people turn toward Egypt.",
+"world_behind": "Pilgrims came with grain offerings and incense for the ruined temple, walking the road that passed Mizpah.",
+"deep_background": [
+{
+"concept": "Ammonite backing",
+"note": "Ammon was a rival east of the Jordan, so Ishmael's escape there shows the plot served a foreign interest."
+}
+]
+},
+"Jer.42": {
+"occasion": "The remnant asks for direction and promises obedience.",
+"structure": "The request made to the prophet, ten days of waiting, then the answer that they must stay in the land and not fear Babylon.",
+"world_behind": "Egypt offered a refuge with a long border and a strong army, which is why the survivors wanted to go there.",
+"deep_background": [
+{
+"concept": "Ten days",
+"note": "A delayed answer tests sincerity, since the people had already decided where they wanted to go."
+}
+]
+},
+"Jer.43": {
+"occasion": "The leaders reject the answer and drag the remnant to Egypt.",
+"structure": "The charge of lying, the journey to Tahpanhes, then the sign of the stones hidden at Pharaoh's house.",
+"world_behind": "Tahpanhes was a Nile delta frontier town with a royal residence, the entry point for travellers from Judah.",
+"deep_background": [
+{
+"concept": "Hidden stones",
+"note": "Burying stones under a paving and later setting a throne on them enacted Babylon's reach into Egypt itself."
+}
+]
+},
+"Jer.44": {
+"occasion": "The prophet confronts the exiles in Egypt.",
+"structure": "Recital of judgment on Judah, the people's defiance citing the queen of heaven, then the sign that few will return.",
+"world_behind": "The queen of heaven was honored with baked cakes and drink offerings, a household cult the women credited with prosperity.",
+"deep_background": [
+{
+"concept": "Cakes for the queen",
+"note": "Bread stamped with her image was baked at home, so this was family religion rather than temple worship."
+}
+]
+},
+"Jer.45": {
+"occasion": "A personal promise is given to Baruch.",
+"structure": "Baruch's complaint of weariness, then the answer that his life will be preserved wherever he goes.",
+"world_behind": "Scribes worked closely with prophets, and a written scroll made the scribe a marked man alongside his master.",
+"deep_background": [
+{
+"concept": "Life as spoil",
+"note": "The promise gives his life as plunder, meaning he keeps it the way a survivor keeps what he carried out."
+}
+]
+},
+"Jer.46": {
+"occasion": "The first oracle against the nations targets Egypt.",
+"structure": "Defeat at Carchemish described, the army's flight, then the word that Egypt will be punished but Jacob spared.",
+"world_behind": "Carchemish on the Euphrates was the crossing where Babylon broke Egypt's hold on the region in 605 BC.",
+"deep_background": [
+{
+"concept": "Hireling soldiers",
+"note": "Egypt fielded allied troops who ran first, a detail that explains the collapse described in the poem."
+}
+]
+},
+"Jer.47": {
+"occasion": "An oracle against the Philistines.",
+"structure": "Waters rising from the north, the panic of the coastal cities, then the baldness of Gaza and Ashkelon.",
+"world_behind": "The Philistine plain sat on the coastal road, so any army from the north reached them before the hill country.",
+"deep_background": [
+{
+"concept": "Shaved heads",
+"note": "Cutting the hair was a mourning rite, so the command to shave signals grief for a destroyed people."
+}
+]
+},
+"Jer.48": {
+"occasion": "An oracle against Moab is delivered.",
+"structure": "Cities taken, the god Chemosh carried off, the vineyards silenced, then the lament and the promise of restoration.",
+"world_behind": "Moab's plateau grew grapes and made wine, so the image of vats trodden and then silenced fits its economy.",
+"deep_background": [
+{
+"concept": "Chemosh exiled",
+"note": "A national god captured with his people was the ultimate humiliation in ancient war propaganda."
+}
+]
+},
+"Jer.49": {
+"occasion": "Oracles address Ammon, Edom, Damascus, Kedar and Elam.",
+"structure": "Five short oracles in sequence, each naming a city or people, closing with the promise of latter-day restoration for some.",
+"world_behind": "Edom carved rock capital and caravan routes, while Kedar herded sheep in the desert, so each oracle matches its target's livelihood.",
+"deep_background": [
+{
+"concept": "Edom's pride",
+"note": "Living in rock clefts made Edom feel unassailable, which is why the oracle mocks that confidence."
+}
+]
+},
+"Jer.50": {
+"occasion": "Babylon's fall is declared.",
+"structure": "The nation from the north announced, Israel's return, then the detailed siege of Babylon and the redemption of Jacob.",
+"world_behind": "Babylon's canals and river gates were its defence and its weakness, a fact the later fall narrated elsewhere exploits.",
+"deep_background": [
+{
+"concept": "Holy cities",
+"note": "Babylon was devoted to Marduk, so its defeat meant its gods had failed, the same claim made against Judah's temple."
+}
+]
+},
+"Jer.51": {
+"occasion": "Babylon's judgment is spelled out at length.",
+"structure": "The destroying wind, the archers, the guilt for the temple's ruin, then the scroll sunk in the Euphrates as a sign.",
+"world_behind": "A scroll weighted and dropped into a river was a binding act, asking the heavens to witness a declared outcome.",
+"deep_background": [
+{
+"concept": "Sinking scroll",
+"note": "The book thrown into the Euphrates dramatises Babylon sinking, never to rise, as the text says."
+}
+]
+},
+"Jer.52": {
+"occasion": "The fall of Jerusalem is recounted as an appendix.",
+"structure": "Zedekiah's reign, the siege and breach, the burning of temple and city, then the release of Jehoiachin in Babylon.",
+"world_behind": "The temple furnishings and the bronze pillars were carried off as trophies, a detail repeated to show the scale of loss.",
+"deep_background": [
+{
+"concept": "Jehoiachin's table",
+"note": "The book ends with a prisoner seated at the king's table, a small sign of hope after total destruction."
+}
+]
 }
 }
