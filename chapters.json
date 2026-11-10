@@ -5867,5 +5867,1204 @@
 "note": "Sharing bread at the table created real obligation, which is why the betrayal described is a covenant offense."
 }
 ]
+},
+"Psa.51": {
+"occasion": "David's prayer after Nathan confronted him over Bathsheba.",
+"structure": "Plea for mercy, confession of sin, request for a clean heart, vow of praise.",
+"world_behind": "Sin is framed as offence against God first, in a world where sacrifice was the normal remedy; the psalm insists a broken spirit outranks ritual.",
+"deep_background": [
+{
+"concept": "Hyssop purification",
+"note": "Hyssop was the brush used to sprinkle cleansing water and blood, tying the plea to leper and altar cleansing rites."
+}
+]
+},
+"Psa.52": {
+"occasion": "A wisdom psalm against a boastful man of violence.",
+"structure": "Indictment of the tyrant's tongue, his coming ruin, the righteous looking on, the psalmist like a green olive.",
+"world_behind": "Reputation and the tongue carried real social power in a village economy; slander could destroy a household's standing.",
+"deep_background": [
+{
+"concept": "Green olive tree",
+"note": "Olives live for centuries and regrow from the stump, a standard image of enduring vitality in the house of God."
+}
+]
+},
+"Psa.53": {
+"occasion": "A wisdom lament over universal corruption, a variant of Psalm 14.",
+"structure": "The fool's denial, God's inspection of humanity, dread of the righteous, longing for Zion's salvation.",
+"world_behind": "Denial of God here is not philosophical atheism but practical disregard, treating life as unaccountable.",
+"deep_background": [
+{
+"concept": "No one who does good",
+"note": "The claim is corporate rather than individual, describing a society that has abandoned covenant loyalty."
+}
+]
+},
+"Psa.54": {
+"occasion": "Prayer when betrayed to Saul by the Ziphites.",
+"structure": "Appeal for deliverance, description of hostile strangers, confidence of God's help, freewill offering.",
+"world_behind": "The Ziphites lived in the Judean wilderness and gained by currying favour with the king, so betrayal had an economic edge.",
+"deep_background": [
+{
+"concept": "Freewill offering",
+"note": "A voluntary sacrifice beyond what the law required, given as thanksgiving rather than obligation."
+}
+]
+},
+"Psa.55": {
+"occasion": "A lament from the city under threat, betrayed by a close companion.",
+"structure": "Anguish and longing for wings, the city's violence, the traitor named, a call for judgment, closing trust.",
+"world_behind": "The psalm describes an ancient walled city where night patrols and factional violence made streets unsafe.",
+"deep_background": [
+{
+"concept": "Cast your burden",
+"note": "The idiom means to hand a load to someone else; the LORD is pictured as the one who sustains the pack."
+}
+]
+},
+"Psa.56": {
+"occasion": "Prayer when seized by Philistines at Gath.",
+"structure": "Plea for mercy, enemies described, trust refrain repeated, praise and thanksgiving.",
+"world_behind": "A captured man at Gath had no legal standing, so the psalm's trust is the plea of someone with no patron.",
+"deep_background": [
+{
+"concept": "Tears in a bottle",
+"note": "Ancient mourners collected tears in small flasks, and the image says God keeps a record of every grief."
+}
+]
+},
+"Psa.57": {
+"occasion": "Prayer in a cave while hunted, traditionally David fleeing Saul.",
+"structure": "Refuge under wings, enemies as lions, exaltation refrain, awakening to praise at dawn.",
+"world_behind": "Caves in the Judean hills served as shelters and hideouts for outlaws and fugitives.",
+"deep_background": [
+{
+"concept": "Awake my glory",
+"note": "The psalm addresses its own inner being, calling the whole self to praise before daybreak."
+}
+]
+},
+"Psa.58": {
+"occasion": "A protest against unjust judges and rulers.",
+"structure": "Rebuke of silent judges, portrait of the wicked as venomous, imprecation for their defeat, confidence the righteous are rewarded.",
+"world_behind": "Judges sat at city gates and were expected to protect the poor; taking bribes was a persistent prophetic complaint.",
+"deep_background": [
+{
+"concept": "Gods who judge",
+"note": "Rulers are addressed as divine appointees, drawing on the idea that human judges act in God's place."
+}
+]
+},
+"Psa.59": {
+"occasion": "Prayer when Saul sent men to watch the house.",
+"structure": "Deliverance plea, the attackers likened to dogs, judgment on the nations, strength refrain, morning praise.",
+"world_behind": "A stakeout of a private house needed only a few men, and city homes had windows overlooking narrow streets.",
+"deep_background": [
+{
+"concept": "Dogs in the night",
+"note": "Scavenging dogs roamed ancient streets at night, a common image of threat and contempt."
+}
+]
+},
+"Psa.60": {
+"occasion": "A national lament after a military defeat, remembered against Edom.",
+"structure": "God's anger described, the land shaken, a call to restore, an oracle of triumph, help against the foe.",
+"world_behind": "Edom and Israel fought repeatedly over the trade routes south of the Dead Sea.",
+"deep_background": [
+{
+"concept": "Shechem and Succoth",
+"note": "Two sites either side of the Jordan, used to claim God's rule over the whole land."
+}
+]
+},
+"Psa.61": {
+"occasion": "Prayer from distance or exile for the king's stability.",
+"structure": "Cry from the ends of the earth, the rock higher than I, a vow to dwell in God's tent, prayer for the king.",
+"world_behind": "Kingship was bound to the temple and capital, so a prayer for the king's long reign was a prayer for national security.",
+"deep_background": [
+{
+"concept": "Wings as shelter",
+"note": "The image comes from the cherubim whose wings overshadowed the ark, the place of asylum."
+}
+]
+},
+"Psa.62": {
+"occasion": "A quiet psalm of trust in the face of threat.",
+"structure": "Rest in God alone, enemies like a leaning wall, repeated refrain of trust, a warning against trusting wealth.",
+"world_behind": "Wealth was measured in weighed silver and produce; the psalm targets the confidence money creates.",
+"deep_background": [
+{
+"concept": "Two weights",
+"note": "Weighing silver with dishonest scales printed on the palm was an image of social injustice."
+}
+]
+},
+"Psa.63": {
+"occasion": "Prayer from the wilderness of Judah, thirsting for God.",
+"structure": "Thirst, vision of God in the sanctuary, praise at night, enemies doomed, the king rejoices.",
+"world_behind": "The Judean desert east of Jerusalem is rainless for months; water and shade were literally life.",
+"deep_background": [
+{
+"concept": "Rich food",
+"note": "Fat and marrow meant the best portion of a sacrifice, the feast that followed worship."
+}
+]
+},
+"Psa.64": {
+"occasion": "A lament against hidden conspiracy and slander.",
+"structure": "Plea for protection, the plotters described with weapons as words, sudden divine judgment, the upright glad.",
+"world_behind": "Politics at court ran on whispers and alliances; a formed conspiracy could end a career or a life.",
+"deep_background": [
+{
+"concept": "Tongues as swords",
+"note": "Speech is pictured as a weapon in ancient wisdom as regularly as the bow or arrow."
+}
+]
+},
+"Psa.65": {
+"occasion": "A harvest thanksgiving, God praised for forgiveness and provision.",
+"structure": "Praise in Zion, the God who hears prayer, the God of the harvest, the waters and fields shouting for joy.",
+"world_behind": "Israel depended on autumn and spring rains; the harvest festivals thanked God for water as much as for grain.",
+"deep_background": [
+{
+"concept": "Chariot ruts dripping",
+"note": "Rain is described falling on ploughed furrows, an image of abundance soaking the earth."
+}
+]
+},
+"Psa.66": {
+"occasion": "A communal thanksgiving after deliverance, with vows paid in the temple.",
+"structure": "Call to praise, God's testing described, the psalmist's testimony, vows paid, a call for all who fear God to listen.",
+"world_behind": "Vows made in danger were fulfilled publicly at the sanctuary, often with a shared meal.",
+"deep_background": [
+{
+"concept": "Through fire and water",
+"note": "Standard covenant imagery for severe trial, later echoing in Isaiah and in the church's language of testing."
+}
+]
+},
+"Psa.67": {
+"occasion": "A prayer for blessing that the nations may know God.",
+"structure": "Prayer for the shining face, the purpose of blessing the nations, the earth's yield, a closing refrain.",
+"world_behind": "The Aaronic blessing was spoken over the people at the sanctuary, so the psalm adapts a priestly formula for mission.",
+"deep_background": [
+{
+"concept": "Shine your face",
+"note": "The face shining means granting favour, the opposite of hiding the face, which means withholding it."
+}
+]
+},
+"Psa.68": {
+"occasion": "A processional psalm of God's march from Sinai to Zion.",
+"structure": "God rises, the wilderness procession, Sinai and the divine army, Zion as God's dwelling, a worldwide kingdom, praise.",
+"world_behind": "Processions with the ark moved through the hills from former sanctuaries to the capital, dramatising conquest.",
+"deep_background": [
+{
+"concept": "Bashan chariots",
+"note": "Bashan in the north was horse-and-chariot country, so its mention pictures the strongest military power yielding."
+}
+]
+},
+"Psa.69": {
+"occasion": "A lament of an innocent sufferer, widely quoted in the Gospels.",
+"structure": "The deep waters, hostility for zeal, shame and rejection, imprecation, a plea for salvation, praise that pleases God.",
+"world_behind": "The psalm's sufferer is mocked in public, the place where honour and shame were decided.",
+"deep_background": [
+{
+"concept": "Zeal for your house",
+"note": "The line is applied to Jesus cleansing the temple, linking worship disorder with contempt for the sufferer."
+}
+]
+},
+"Psa.70": {
+"occasion": "An urgent prayer for deliverance, nearly identical to Psalm 40's close.",
+"structure": "Petition for rescue, imprecation on enemies, a closing shout that God is great and mindful of the poor.",
+"world_behind": "Ancient courts offered no help to the poor, so appeals for justice had to be addressed to God directly.",
+"deep_background": [
+{
+"concept": "Aha, aha",
+"note": "The taunt sound mimics public mockery, the same word used of enemies gloating in other laments."
+}
+]
+},
+"Psa.71": {
+"occasion": "The prayer of an aged believer facing decline and enemies.",
+"structure": "Refuge plea, God as hope from youth, plea not to be cast off in old age, confidence in God's righteousness, vow of praise.",
+"world_behind": "Elders held honour in Israelite society, but a frail old man without protectors was vulnerable to those who coveted his land.",
+"deep_background": [
+{
+"concept": "From the womb",
+"note": "The psalm claims lifelong belonging to God, the language of a servant born into a household."
+}
+]
+},
+"Psa.72": {
+"occasion": "A royal psalm for a king's reign and the close of Book II.",
+"structure": "Prayer for justice, the king as rain on mown grass, universal dominion, deliverance for the needy, a doxology.",
+"world_behind": "Ancient kings were judged by whether the poor received justice at the gate, so royal prayers were public policy in liturgical form.",
+"deep_background": [
+{
+"concept": "Gold of Sheba",
+"note": "Sheba's incense and gold trade made it the emblem of the farthest wealth the king should attract."
+}
+]
+},
+"Psa.73": {
+"occasion": "A wisdom psalm wrestling with the prosperity of the wicked.",
+"structure": "Confession of near-stumbling, portrait of the prosperous wicked, the turn in the sanctuary, the end of the wicked, nearness to God.",
+"world_behind": "The sanctuary visit recalls a temple encounter where the eyes of faith were corrected, not a philosophical argument.",
+"deep_background": [
+{
+"concept": "Slippery places",
+"note": "The image comes from mountain tracks in Judea, where a settled stone could send a traveller down a slope."
+}
+]
+},
+"Psa.74": {
+"occasion": "A communal lament over a destroyed sanctuary, likely after 586 BC.",
+"structure": "Why has God rejected, the enemy in the sanctuary, recount of God's creation power, a plea for the covenant.",
+"world_behind": "The Babylonian sack of Jerusalem burned the temple and removed its vessels, ending the sacrificial system.",
+"deep_background": [
+{
+"concept": "We see no signs",
+"note": "Refers to the loss of the temple's prophetic and cultic signals, not simply to the sun and stars."
+}
+]
+},
+"Psa.75": {
+"occasion": "A thanksgiving psalm affirming God's timing in judgment.",
+"structure": "Praise that God's name is near, a divine oracle on timing, the cup of judgment, horns lifted and cut off.",
+"world_behind": "A raised horn is an animal's display of strength, so lifting a horn became the idiom for asserting power.",
+"deep_background": [
+{
+"concept": "The cup",
+"note": "Mixed wine in God's hand is a fixed biblical image for a portion of wrath poured out for the world to drink."
+}
+]
+},
+"Psa.76": {
+"occasion": "A Zion psalm celebrating God's victory over the enemy.",
+"structure": "God known in Judah, the breaking of weapons, the God who judges, the earth's silence, vows and gifts.",
+"world_behind": "Jerusalem's survival against Assyria in 701 BC shaped the confidence that God defends the city in person.",
+"deep_background": [
+{
+"concept": "Both horse and chariot lie still",
+"note": "Chariots were the tanks of the ancient world, so their stillness means total military collapse."
+}
+]
+},
+"Psa.77": {
+"occasion": "A night lament that turns to memory of God's mighty acts.",
+"structure": "Cry in trouble, sleepless reflection, questions of God's faithfulness, remembering the deeds at the sea.",
+"world_behind": "Night was a time of real danger and bad news could not travel until morning, so sleeplessness was a natural setting for lament.",
+"deep_background": [
+{
+"concept": "Right hand of the Most High",
+"note": "The right hand was the hand of strength and oath, the image of God acting decisively."
+}
+]
+},
+"Psa.78": {
+"occasion": "A historical psalm rehearsing Israel's rebellion and God's patience.",
+"structure": "Call to hear a lesson, Ephraim's failure, wilderness rebellion and provision, the plagues, the rejection of Shiloh, the choice of Judah and David.",
+"world_behind": "Teaching was transmitted orally in households, so the psalm enacts what it commands: telling the next generation.",
+"deep_background": [
+{
+"concept": "Shiloh",
+"note": "The earlier sanctuary where the ark was lost to the Philistines, used here as a warning that no place is safe without obedience."
+}
+]
+},
+"Psa.79": {
+"occasion": "A lament over a defiled city and a plea for God's name's sake.",
+"structure": "Nations invade the inheritance, the psalmist's plea, forgiveness sought, sevenfold repayment, a final vow.",
+"world_behind": "To defile a sanctuary was to conquer its god; the psalm argues that God's honour is at stake, not just Israel's pride.",
+"deep_background": [
+{
+"concept": "Blood like water",
+"note": "Siege warfare left the dead unburied, a horror that meant the bodies could not rest and the land was polluted."
+}
+]
+},
+"Psa.80": {
+"occasion": "A prayer for restoration after national harm, with the vine image.",
+"structure": "Shepherd plea, refrain to restore, the vine brought from Egypt and now broken down, plea for the man at God's right hand.",
+"world_behind": "Vineyards were cleared by burning and broke under boar and armies, so a ruined vineyard was a vivid picture of invasion.",
+"deep_background": [
+{
+"concept": "A boar from the forest",
+"note": "Wild boar roamed Judean woodland and devastated crops, a natural picture of a pagan aggressor."
+}
+]
+},
+"Psa.81": {
+"occasion": "A festival psalm with a divine oracle calling Israel to listen.",
+"structure": "Call to sing at the feast, the oracle recalling the exodus, the conditional promise, the lament that Israel would not listen.",
+"world_behind": "Feasts required music and sacrifice, and the trumpet on the new moon marked the calendar's holy days.",
+"deep_background": [
+{
+"concept": "A law for the God of Jacob",
+"note": "The psalm ties festal observance to covenant obligation rather than mere ritual celebration."
+}
+]
+},
+"Psa.82": {
+"occasion": "A vision of God judging the judges.",
+"structure": "God takes his place in the council, indicts partial judges, revocation of their divine status, a call for God to judge the earth.",
+"world_behind": "Justice was administered at city gates by elders and officials, often swayed by bribes and by the status of the parties.",
+"deep_background": [
+{
+"concept": "You are gods",
+"note": "The line is cited in John's Gospel to show that God's word was given to those who represent him."
+}
+]
+},
+"Psa.83": {
+"occasion": "A national lament over a coalition against Israel.",
+"structure": "List of conspirators, comparison to past defeats, prayer for them to know God alone.",
+"world_behind": "An alliance of Edom, Moab, Amalek, Philistia and Tyre would threaten the eastern frontiers of Israel.",
+"deep_background": [
+{
+"concept": "To seek the name",
+"note": "Acknowledging the name meant recognising a nation's god; the prayer asks for defeat so the hostile nations recognise the LORD."
+}
+]
+},
+"Psa.84": {
+"occasion": "The song of a pilgrim longing for the courts of God.",
+"structure": "How lovely is your dwelling, longing of the soul, the pilgrimage through the valley of weeping, one day in the courts, the pilgrim's blessing.",
+"world_behind": "Pilgrims travelled on foot to Jerusalem for the annual feasts, passing dry ravines that could flood in winter rains.",
+"deep_background": [
+{
+"concept": "Valley of Baca",
+"note": "A dry desert crossing the psalm turns into springs, an image of the road itself becoming a place of refreshing."
+}
+]
+},
+"Psa.85": {
+"occasion": "A prayer for revival after forgiven judgment.",
+"structure": "Recollection of past grace, plea for restoration, the oracle of peace, love and faithfulness meeting.",
+"world_behind": "National revival at that period meant renewed harvests, safety on the roads and the return of festival worship.",
+"deep_background": [
+{
+"concept": "Righteousness and peace kiss",
+"note": "Personified virtues meeting is a poetic way of describing a restored relationship between God's justice and his mercy."
+}
+]
+},
+"Psa.86": {
+"occasion": "A personal prayer for teaching and protection, the only Davidic psalm in Book III.",
+"structure": "Plea for hearing, God's goodness, the nations coming to worship, a single heart, the pit of Sheol, a plea for help.",
+"world_behind": "Sheol meant the grave, a place of silence where the dead could not praise God, so death ended the psalmist's worship.",
+"deep_background": [
+{
+"concept": "A sign of your favour",
+"note": "Ancient patrons displayed favour publicly, so the psalm asks for a visible vindication before his enemies."
+}
+]
+},
+"Psa.87": {
+"occasion": "A psalm celebrating Zion as the mother city of all nations.",
+"structure": "God's foundation on the holy mountains, the nations registered in Zion, springs within her.",
+"world_behind": "Birth records of citizens were kept by cities, so being registered in Zion was a claim to full belonging.",
+"deep_background": [
+{
+"concept": "Rahab and Babylon",
+"note": "Rahab is a nickname for Egypt; pairing it with Babylon names Israel's two great oppressors as future citizens of Zion."
+}
+]
+},
+"Psa.88": {
+"occasion": "The darkest lament in the psalter, from a sufferer near death.",
+"structure": "Cry by day and night, the pit and the grave, God's wrath described, affliction from youth, the final plea in darkness.",
+"world_behind": "Illness and dying were understood as conditions of ritual uncleanness, so the sick often lived at society's edge.",
+"deep_background": [
+{
+"concept": "Darkness is my closest friend",
+"note": "The psalm ends without a resolution verse, which is why the church has used it for Good Friday."
+}
+]
+},
+"Psa.89": {
+"occasion": "A royal lament in which the Davidic covenant appears broken.",
+"structure": "Praise of God's steadfast love, the covenant with David, the promise, the lament that God has cast off his anointed, a closing plea.",
+"world_behind": "The covenant with David was the theological foundation of the monarchy, so a military defeat raised a crisis about God's word.",
+"deep_background": [
+{
+"concept": "The moon as witness",
+"note": "Fixed calendar signs were called on as legal witnesses, and the moon in particular marked monthly festal time."
+}
+]
+},
+"Psa.90": {
+"occasion": "A prayer of Moses on human frailty and God's eternity.",
+"structure": "God's dwelling before the mountains, the thousand years, the flood of time, a plea to return, teach us to number our days, establish the work of our hands.",
+"world_behind": "Life expectancy in the ancient world was low, and the psalm's seventy years fit the realities of disease and war.",
+"deep_background": [
+{
+"concept": "Number our days",
+"note": "Counting days is an accounting metaphor, seeking a heart that calculates worth rather than merely counting."
+}
+]
+},
+"Psa.91": {
+"occasion": "A psalm of protection for one who shelters in God.",
+"structure": "Dwelling in the shelter, dangers enumerated, angels marshalled, the divine promise of protection and long life.",
+"world_behind": "Travellers feared plague, night attack, arrows and wild beasts, all of which the psalm lists as a timetable of danger.",
+"deep_background": [
+{
+"concept": "The shadow of the Almighty",
+"note": "Shade meant protection in a hot land, and the divine name El Shaddai evokes the mountain's shelter."
+}
+]
+},
+"Psa.92": {
+"occasion": "A sabbath psalm of thanksgiving.",
+"structure": "Good to give thanks, the wicked as grass that withers, the righteous as palms and cedars, old age still fruitful.",
+"world_behind": "Palms and cedars were planted in temple courts, where the psalm's worshippers would have stood among them.",
+"deep_background": [
+{
+"concept": "Planted in the house of the LORD",
+"note": "Temple courts were planted gardens, so flourishing for the righteous was literally pictured by the courtyard trees."
+}
+]
+},
+"Psa.93": {
+"occasion": "A short hymn declaring the LORD's reign.",
+"structure": "The LORD robes himself in majesty, the floods lift their voices, God is mightier, God's decrees stand.",
+"world_behind": "The sea and flood waters were the primeval symbol of chaos, so the psalm's claim is that God rules the untameable.",
+"deep_background": [
+{
+"concept": "Robed in majesty",
+"note": "Royal accession was marked by robing, so the psalm uses coronation imagery for creation itself."
+}
+]
+},
+"Psa.94": {
+"occasion": "A communal lament asking God to punish the proud.",
+"structure": "Appeal for vengeance, indictment of oppression of widows and strangers, the psalmist's consolation, God as refuge.",
+"world_behind": "Widows, foreigners and orphans had no land or male protector, the three groups the law repeatedly commands Israel to defend.",
+"deep_background": [
+{
+"concept": "The throne of ruin",
+"note": "The phrase suggests a court that uses law to legalise harm, a judicial system turned against the poor."
+}
+]
+},
+"Psa.95": {
+"occasion": "A processional call to worship with a warning.",
+"structure": "Sing and shout to the rock of salvation, God as maker and shepherd, the warning at Meribah.",
+"world_behind": "Meribah was the wilderness site where Israel tested God for water, a memory carried in the pilgrimage route.",
+"deep_background": [
+{
+"concept": "Harden not your heart",
+"note": "The wilderness generation's failure becomes a liturgical warning each year at the harvest feast."
+}
+]
+},
+"Psa.96": {
+"occasion": "A new song of God's universal kingship.",
+"structure": "Sing a new song, declare his glory among the nations, the LORD above all gods, let creation rejoice, judgment is coming.",
+"world_behind": "Nations measured power by gods, so proclaiming a god's glory among the nations was a political claim as much as a religious one.",
+"deep_background": [
+{
+"concept": "The world is firmly established",
+"note": "Pitched against creation myths in which the world is unstable and re-fought each year, the psalm says the created order holds."
+}
+]
+},
+"Psa.97": {
+"occasion": "A hymn of divine reign and judgment.",
+"structure": "The LORD reigns, clouds and fire, the mountains melt, idols put to shame, light is sown for the righteous.",
+"world_behind": "Thunderous storm imagery was the standard language for a god's arrival, drawn from ancient Near Eastern battle hymns.",
+"deep_background": [
+{
+"concept": "Light is sown",
+"note": "Seed imagery says hope is planted in darkness and grows later, not that it disappears."
+}
+]
+},
+"Psa.98": {
+"occasion": "A new song celebrating God's salvation and coming judgment.",
+"structure": "Sing a new song, his right arm revealed, the nations see salvation, creation breaks into song, judgment announced.",
+"world_behind": "Victory announcements were made in the temple and spread by singers, which is the psalm's own function.",
+"deep_background": [
+{
+"concept": "Rivers clap their hands",
+"note": "Personifying rivers echoes ancient poetry where creation celebrates divine victory, as in Egyptian and Mesopotamian hymns."
+}
+]
+},
+"Psa.99": {
+"occasion": "A Zion hymn of God's holiness.",
+"structure": "The LORD reigns, exalted above the cherubim, the king loves justice, Moses and Aaron called on him, worship at his footstool.",
+"world_behind": "The ark's cherubim throne and the pillar of cloud were the visible signs of God's presence in the temple.",
+"deep_background": [
+{
+"concept": "The footstool",
+"note": "Calling the earthly throne a footstool kept the ark subordinate to God's heavenly rule, guarding against idolatry."
+}
+]
+},
+"Psa.100": {
+"occasion": "A short processional hymn of praise at the temple gates.",
+"structure": "Shout for joy, serve with gladness, know he made us, enter his gates with thanksgiving, his love endures.",
+"world_behind": "Gates and courts had thresholds with symbolic protection, and worshippers entered with sacrifice in hand.",
+"deep_background": [
+{
+"concept": "Sheep of his pasture",
+"note": "The pastoral image joins two metaphors, God as shepherd and God as owner of the land."
+}
+]
+},
+"Psa.101": {
+"occasion": "A ruler's psalm on household integrity.",
+"structure": "Purpose to sing of love and justice, aim at a blameless way, opposition to the wicked, servants of the faithful.",
+"world_behind": "A king's court staffed his household, so choosing who stayed in the home was a real political and integrity act.",
+"deep_background": [
+{
+"concept": "Early will I destroy",
+"note": "Judgment is portrayed as daily household management, not a final court session."
+}
+]
+},
+"Psa.102": {
+"occasion": "The prayer of an afflicted person, casting hope on Zion's future.",
+"structure": "Lament in frailty, the days of Zion remembered and rebuilt, the nations will fear, prayer of the destitute recorded, heavens will perish.",
+"world_behind": "Writing a prayer down and preserving it served as a legal record of an appeal, the practice the psalm claims God follows.",
+"deep_background": [
+{
+"concept": "He regards the prayer of the destitute",
+"note": "Fasting and cape-shafted sackcloth made a person socially invisible in ancient cities."
+}
+]
+},
+"Psa.103": {
+"occasion": "A psalm of blessing and thanksgiving.",
+"structure": "Bless the LORD, forget not his benefits, forgiveness and renewal, God's compassion as a father, human frailty, renewed call to praise.",
+"world_behind": "The word for benefits covers both gifts and a servant's due; the psalm list reads as a household accounts statement.",
+"deep_background": [
+{
+"concept": "Flies away like an eagle",
+"note": "The Hebrew word can mean the bird of prey or a lantern, either image meaning that life is quickly gone."
+}
+]
+},
+"Psa.104": {
+"occasion": "A creation psalm on providence.",
+"structure": "The LORD clothed in light, creation ordered, water and plants, creatures all fed, the sea and Leviathan, praise and repentance.",
+"world_behind": "Creation language draws on imagery shared with Egyptian and Canaanite hymns, adapted to one Creator with no rival.",
+"deep_background": [
+{
+"concept": "Leviathan playing",
+"note": "Leviathan usually stands for chaos, so making it a playful creature says chaos itself obeys God's delight."
+}
+]
+},
+"Psa.105": {
+"occasion": "A covenant history psalm.",
+"structure": "Give thanks, God's oath to Abraham, Joseph in Egypt, Moses and the plagues, the exodus and settlement.",
+"world_behind": "Covenant memory in Israel included concrete promises of land, not merely ideas, so the poem recounts geography.",
+"deep_background": [
+{
+"concept": "He rebuked kings for their sake",
+"note": "Recalls the safety of the patriarchs under foreign rulers, a claim of God's protection without an army."
+}
+]
+},
+"Psa.106": {
+"occasion": "A communal confession of Israel's repeated rebellion.",
+"structure": "Praise and petition, the exodus rebellion, the golden calf, the wilderness generation, the settlement's compromise, a closing save and gather.",
+"world_behind": "This psalm sits at the boundary of the exile, when Israel's failure was read through the lens of covenant curses.",
+"deep_background": [
+{
+"concept": "Phinehas stood in the breach",
+"note": "The circumcised and defended covenant is praised as the model for a threatened people."
+}
+]
+},
+"Psa.107": {
+"occasion": "A thanksgiving psalm with four pictures of redemption.",
+"structure": "Call for the redeemed to speak, wanderers in desert, prisoners in chains, the sick, the storm at sea, and a closing call to the wise.",
+"world_behind": "Four classic images of ancient catastrophe, travel through dry land, imprisonment, illness and sea peril.",
+"deep_background": [
+{
+"concept": "They mounted to the heavens",
+"note": "Sea storms were feared as living chaos, and travellers offered sacrifice on landing out of genuine terror."
+}
+]
+},
+"Psa.108": {
+"occasion": "A psalm of confidence blending praise with war prayer.",
+"structure": "Awake my heart, praise among the nations, God will triumph, an oracle of conquest, help against the enemy.",
+"world_behind": "The psalm reuses material from earlier collections, showing how the temple's singers edited and recombined old poems.",
+"deep_background": [
+{
+"concept": "Shechem and Succoth",
+"note": "Also in Psalm 60, the pair represents east and west of the Jordan, i.e. total claim to the land."
+}
+]
+},
+"Psa.109": {
+"occasion": "A fierce lament against false accusers.",
+"structure": "Plea for intervention, curses on the accuser, the psalmist's frailty described, a closing appeal for God's name's sake.",
+"world_behind": "In an honour-shame culture, public accusation could ruin a family for a season and a name through generations.",
+"deep_background": [
+{
+"concept": "The curse language",
+"note": "The psalm hands the enemy over to God's judgment and refuses personal vengeance, the interpretive key the church used."
+}
+]
+},
+"Psa.110": {
+"occasion": "A royal psalm of the king and priest to come.",
+"structure": "Oracle of sitting at God's right hand, the staff of rule, the priest forever in Melchizedek's order, the judgment of nations, the king's victory.",
+"world_behind": "Melchizedek made sacrifice uninherited; the psalm claims a lasting priestly line outside the Levitical structure.",
+"deep_background": [
+{
+"concept": "The right hand",
+"note": "To sit at a king's right hand was to share the throne and the rule, the basis for later messianic claims."
+}
+]
+},
+"Psa.111": {
+"occasion": "A praise psalm in acrostic form.",
+"structure": "Praise in the assembly, God's works and covenant, the fear of the LORD as the beginning of wisdom.",
+"world_behind": "The acrostic pattern was a teaching device, and the psalm's regular rhythm demanded memorisation.",
+"deep_background": [
+{
+"concept": "The beginning of wisdom",
+"note": "Wisdom here begins with awe at God's covenant faithfulness, not with intellectual information."
+}
+]
+},
+"Psa.112": {
+"occasion": "A wisdom psalm on the blessed household.",
+"structure": "Blessed is the one who fears the LORD, prosperity for children, generosity to the poor, security without fear.",
+"world_behind": "Despite the conventional language of the prosperous household, the psalm explicitly ties blessing to lending generously.",
+"deep_background": [
+{
+"concept": "Lends freely",
+"note": "Interest-bearing loans were forbidden within the community, so the righteous lend without extracting interest."
+}
+]
+},
+"Psa.113": {
+"occasion": "A festival hymn of God's condescension.",
+"structure": "Praise his name, God above the heavens, he stoops to look, he raises the poor, he settles the barren in a home.",
+"world_behind": "The psalm stands opposite Psalm 112, celebrating not prosperity but God's choice of the lowly.",
+"deep_background": [
+{
+"concept": "The barren woman's house",
+"note": "Childlessness carried social death in Israel, so this promise works as a form of implied resurrection."
+}
+]
+},
+"Psa.114": {
+"occasion": "A short hymn of the exodus.",
+"structure": "Judah became God's sanctuary, the sea fled, the mountains skipped, the earth trembles at God's presence, water from the rock.",
+"world_behind": "The sea and the mountains are the two great barriers to travel; both yield, so no obstacle remains.",
+"deep_background": [
+{
+"concept": "The mountains skipped",
+"note": "Hills were thought of as ancient and immovable, so their dancing is an image of creation recognising its master."
+}
+]
+},
+"Psa.115": {
+"occasion": "A psalm of trust answering the mockery of idolaters.",
+"structure": "Not to us but to your name, the heathen gods, Israel is to trust, the LORD blesses those who fear him, the dead do not praise.",
+"world_behind": "Idol polemic is common in exilic and post-exilic texts where Israel lived among imperial cults.",
+"deep_background": [
+{
+"concept": "They have mouths",
+"note": "The satire follows a fixed formula on religious images, contrasting lifeless metal with the living God."
+}
+]
+},
+"Psa.116": {
+"occasion": "A personal thanksgiving for rescue from death.",
+"structure": "Love the LORD for hearing me, the snares of death, God's grace, rest of my soul, walking before the LORD in the land of the living.",
+"world_behind": "The grave was the boundary that cancelled temple participation, so being spared meant being able to worship again.",
+"deep_background": [
+{
+"concept": "Precious in the sight of the LORD",
+"note": "The price of a life was measured in silver; the psalm says God values the saint's death at far more."
+}
+]
+},
+"Psa.117": {
+"occasion": "A two-verse call for all nations to praise the LORD.",
+"structure": "Praise him, all nations; his love is strong, the faithfulness of the LORD endures forever.",
+"world_behind": "The shortest chapter is deliberately universal, using the same phrase later quoted in Romans 15.",
+"deep_background": [
+{
+"concept": "All peoples",
+"note": "In a period of restrictive national faith, the psalm is openly international, part of the tradition of mission inherent in the covenant."
+}
+]
+},
+"Psa.118": {
+"occasion": "A festival thanksgiving, the last of the Hallel psalms.",
+"structure": "Give thanks, his love endures, the distress narrative, the LORD is my strength, the stone the builders rejected, a festal procession and blessing.",
+"world_behind": "The two choirs, one inside and one outside the gate, alternated lines as the procession arrived.",
+"deep_background": [
+{
+"concept": "The rejected stone",
+"note": "Builders slotted rough-cut stones by match, so a rejected block became a corner capital, an image applied to the rejected king."
+}
+]
+},
+"Psa.119": {
+"occasion": "The great acrostic psalm on God's word.",
+"structure": "Twenty-two stanzas, one per Hebrew letter, circling the law, the way, testimony, precept, command and promise.",
+"world_behind": "Acrostic structure is a testimony of completeness, the whole alphabet of devotion, likely used for teaching.",
+"deep_background": [
+{
+"concept": "Lamp to my feet",
+"note": "Travel was done at night with a small clay lamp, so the image is practical, describing safe steps rather than general illumination."
+}
+]
+},
+"Psa.120": {
+"occasion": "The first song of ascents, from a traveller in a distant land.",
+"structure": "Distress over lying lips, a warrior's arrows, a lament at dwelling in Meshech, a wish for peace.",
+"world_behind": "The songs of ascents were sung by pilgrims on the road up to Jerusalem for the three annual feasts.",
+"deep_background": [
+{
+"concept": "Meshech and Kedar",
+"note": "Naming these distant peoples puts the singer among foreigners, the condition of diaspora."
+}
+]
+},
+"Psa.121": {
+"occasion": "A pilgrim song of confidence on the road.",
+"structure": "Lift my eyes to the hills, help from the LORD, he does not slumber, he keeps you night and day, he guards your going out and coming in.",
+"world_behind": "Jerusalem sits among hills and travellers passed through valleys where robbers and heat waited, so the psalm's watchfulness is physical.",
+"deep_background": [
+{
+"concept": "Shade at your right hand",
+"note": "Desert sun could kill, so shade meant life; the LORD as shade is a practical picture of unbroken protection."
+}
+]
+},
+"Psa.122": {
+"occasion": "A pilgrim's joy at arriving in Jerusalem.",
+"structure": "Gladness at going to the house of the LORD, the city compact together, the thrones of judgment, prayer for peace.",
+"world_behind": "The tribes came up for festivals, and the city's gates and walls were the visible proof of security and justice.",
+"deep_background": [
+{
+"concept": "The seats of the house of David",
+"note": "Gate chambers served as courts, so the psalm links worship with the places where cases were decided."
+}
+]
+},
+"Psa.123": {
+"occasion": "A short communal plea for mercy under contempt.",
+"structure": "Eyes lifted to the LORD, waiting for mercy, the contempt of the proud and the scoffing of the wealthy.",
+"world_behind": "Ancient legal and social standing depended on patrons, so a community mocked by the wealthy had few ways to recover honour.",
+"deep_background": [
+{
+"concept": "The hand of the master",
+"note": "Servants watched a master's hand for orders, so waiting on God is described with the everyday posture of service."
+}
+]
+},
+"Psa.124": {
+"occasion": "A national thanksgiving for narrow escape.",
+"structure": "Had not the LORD been with us, the flood would have swallowed us, the snare is broken, our help is in his name.",
+"world_behind": "The psalter images national peril as a flood and a bird trap, two everyday dangers in the ancient world.",
+"deep_background": [
+{
+"concept": "Broken snare",
+"note": "Fowlers caught small birds with nets and snares; the image gives thanks for an escape nobody engineered."
+}
+]
+},
+"Psa.125": {
+"occasion": "A psalm of trust in God's protection of Zion.",
+"structure": "As the mountains surround Jerusalem, the LORD surrounds his people, the sceptre of wickedness will not rest there, peace on Israel.",
+"world_behind": "Jerusalem's geography, ringed by steeper ridges, was itself a defensive picture the psalmist could point to.",
+"deep_background": [
+{
+"concept": "The staff of the wicked",
+"note": "The word for staff here is the rod of an overlord, meaning imperial rule that lays claim to the community's land."
+}
+]
+},
+"Psa.126": {
+"occasion": "Thanksgiving after the return from exile.",
+"structure": "The LORD restored Zion, mouths filled with laughter, the nations recognised the deed, prayer to restore again, tears become songs of harvest.",
+"world_behind": "Returning exiles resettled ruined towns, and the first harvest seasons were the real proof of restoration.",
+"deep_background": [
+{
+"concept": "Streams in the Negev",
+"note": "The Negev's dry washes fill suddenly in winter rain; the image is of joy arriving without slow buildup."
+}
+]
+},
+"Psa.127": {
+"occasion": "A wisdom psalm on dependence and family.",
+"structure": "Unless the LORD builds the house, waking in vain, the beloved sleeps, children as a heritage and arrows.",
+"world_behind": "House construction was a community labour done stone by stone, so the psalm's image of vain labour was concrete.",
+"deep_background": [
+{
+"concept": "Arrows in the hand",
+"note": "Households relied on sons for defence in a society without standing police or armies."
+}
+]
+},
+"Psa.128": {
+"occasion": "A wisdom psalm on the blessed household.",
+"structure": "Blessed are all who fear the LORD, you will eat from your hands' work, your wife as a fruitful vine, children like olive shoots, peace on Israel.",
+"world_behind": "Vine and olive were the two staple crops, each needing years of investment, so their fruit meant security.",
+"deep_background": [
+{
+"concept": "Around your table",
+"note": "A shared meal at one's own table was the picture of a settled household, contrasted with a wandering or exiled life."
+}
+]
+},
+"Psa.129": {
+"occasion": "A communal psalm recalling affliction since youth.",
+"structure": "Much have they afflicted me, the ploughmen on my back, the LORD is righteous and has cut the cords, a curse on those who hate Zion.",
+"world_behind": "A Hebrew slave could be beaten to a drawn mark with a rod, of which the plough furrow is a deliberate image.",
+"deep_background": [
+{
+"concept": "Grass on the roof",
+"note": "Flat roofs collected dust where grass sprouted and died early, an image of hope without substance."
+}
+]
+},
+"Psa.130": {
+"occasion": "A penitential song of ascent from the depths.",
+"structure": "Out of the depths I cry, forgiveness with you that you may be feared, the soul waits more than watchmen, redemption promised.",
+"world_behind": "Watchmen spent the night on city walls waiting for dawn, the standard image for endured hope.",
+"deep_background": [
+{
+"concept": "Out of the depths",
+"note": "The depths evoke both sea chaos and the grave, the two places a person cannot reach out from."
+}
+]
+},
+"Psa.131": {
+"occasion": "A short psalm of quiet trust.",
+"structure": "My heart is not lifted up, my eyes are not proud, I have calmed and quieted my soul, like a weaned child, hope in the LORD forever.",
+"world_behind": "The image of a weaned child depends on the long nursing period of the ancient household, where the child then joins family discipline.",
+"deep_background": [
+{
+"concept": "A weaned child",
+"note": "The child is no longer demanding milk, so the picture is contentment that has finished with grasping."
+}
+]
+},
+"Psa.132": {
+"occasion": "A royal psalm recalling David's oath and the ark's move to Zion.",
+"structure": "Remember David's hardships, the oath to find a place for the LORD, the journey of the ark, the divine answer with blessing on priests and people.",
+"world_behind": "David's capture of Jerusalem gave him a neutral capital that he inserted the ark into, turning it into a national sanctuary.",
+"deep_background": [
+{
+"concept": "A place for the LORD",
+"note": "The temple was called a resting place rather than a dwelling, emphasizing God's choice rather than human need."
+}
+]
+},
+"Psa.133": {
+"occasion": "A short song of ascent on unity.",
+"structure": "How good and pleasant brothers dwell together, oil from Aaron's beard, dew of Hermon on Zion, life forevermore.",
+"world_behind": "Crowds lodging together in the city during feast days made unity a practical issue rather than an idea.",
+"deep_background": [
+{
+"concept": "Holy anointing oil",
+"note": "The oil used for priests and the tabernacle was made from a guarded recipe and could not be imitated for ordinary use."
+}
+]
+},
+"Psa.134": {
+"occasion": "The final song of ascent, blessing for the night watch.",
+"structure": "Bless the LORD all you servants in the house by night, lift holy hands, the LORD bless you from Zion.",
+"world_behind": "Levites kept night vigils at the sanctuary to maintain fire and order, so a song addressing them fits a real roster.",
+"deep_background": [
+{
+"concept": "Lifting holy hands",
+"note": "The hands of a priest had to be ritually clean, the gesture of a permitted approach to the altar."
+}
+]
+},
+"Psa.135": {
+"occasion": "A communal praise psalm on God's works.",
+"structure": "Praise the name, God's choice of Jacob, the LORD is above all gods, the works of creation, the exodus, the conquest, the futility of idols.",
+"world_behind": "The psalm borrows language from the exodus and conquest traditions, using them as public memory.",
+"deep_background": [
+{
+"concept": "His memorial name",
+"note": "A memorial name was invoked to keep a bond alive, the way treaties were recited to make them binding."
+}
+]
+},
+"Psa.136": {
+"occasion": "An antiphonal thanksgiving at the temple.",
+"structure": "Give thanks, his love endures forever, repeated after each line through creation, exodus, conquest and providence.",
+"world_behind": "Responsive reading trained a crowd that mostly could not read; the refrain let everyone participate with one memorised line.",
+"deep_background": [
+{
+"concept": "Endures forever",
+"note": "The Hebrew word is the covenant word for steadfast love, the character declared at Sinai and echoed in every stanza."
+}
+]
+},
+"Psa.137": {
+"occasion": "A lament of exiles in Babylon after the destruction of Jerusalem.",
+"structure": "By the rivers of Babylon, harps hung on willows, the taunt of captors, lament of memory, a demand for judgment on Edom and Babylon.",
+"world_behind": "Deportation was an imperial policy that moved artisans and scribes to the capital to serve the empire.",
+"deep_background": [
+{
+"concept": "The rivers of Babylon",
+"note": "Babylon's irrigation canals stood in for the waters of a temple liturgy, so worship began in a foreign land."
+}
+]
+},
+"Psa.138": {
+"occasion": "A personal thanksgiving for God's answer and protection.",
+"structure": "I give you thanks with my whole heart, praise before the gods, the day I called you answered, the LORD regards the lowly, he will fulfill his purpose.",
+"world_behind": "Proclaiming God's name before kings and their pantheons was a public act with potential legal consequences.",
+"deep_background": [
+{
+"concept": "The lowly",
+"note": "God's attention to the lowly is a recurrent claim in the psalter, contrasting with court patronage systems."
+}
+]
+},
+"Psa.139": {
+"occasion": "A psalm on God's intimate knowledge of the psalmist.",
+"structure": "You have searched me, you know my rising and sitting, you surround me, where can I flee, formed in the womb, search me and know my heart.",
+"world_behind": "The psalm's anatomy language belongs to a world where the heart was the mind and the kidneys the seat of feeling.",
+"deep_background": [
+{
+"concept": "Written in your book",
+"note": "A heavenly register records the psalmist's days, the same image used elsewhere for the register of the living."
+}
+]
+},
+"Psa.140": {
+"occasion": "A lament against violent and powerful adversaries.",
+"structure": "Deliver me from evil men, their tongues like serpents, a plea for God's protection, a prayer that their plans fail, a closing confidence.",
+"world_behind": "The psalm's picture of the poor is one whose case is not heard at court because the rich control it.",
+"deep_background": [
+{
+"concept": "Snakes under the lips",
+"note": "The imagery draws on the desert viper, a creature that needed no provocation to kill."
+}
+]
+},
+"Psa.141": {
+"occasion": "An evening prayer for restraint and protection.",
+"structure": "I call to you, let my prayer be incense, set a guard over my mouth, let the righteous rebuke me, a plea for escape from traps.",
+"world_behind": "Evening incense was offered at the temple altar, so the psalm's worshipper defers to a full liturgy.",
+"deep_background": [
+{
+"concept": "Prayer as incense",
+"note": "Incense accompanied sacrifice in the temple courts, and the psalms explicitly replace sacrifice with prayer in the exile and after."
+}
+]
+},
+"Psa.142": {
+"occasion": "A prayer from a cave, a maskil of David.",
+"structure": "I cry with my voice, no one cares for me, my refuge is in you, deliver me from prison that I may praise.",
+"world_behind": "A cave in the Judean wilderness was a hideout, not a place anyone could be found, so the psalm's loneliness is geographic.",
+"deep_background": [
+{
+"concept": "My portion in the land of the living",
+"note": "Covenant language for an allotment, applied to the psalmist's life itself when land and safety are denied."
+}
+]
+},
+"Psa.143": {
+"occasion": "A penitential prayer, recalling God's former deeds.",
+"structure": "Hear my prayer, my spirit faints, I remember the days of old, teach me your way, lead me on level ground.",
+"world_behind": "The psalm's posture of hands toward the sanctuary and defeat is that of a worshipper who cannot yet reach it.",
+"deep_background": [
+{
+"concept": "Level ground",
+"note": "Mountain tracks were uneven and dangerous, so a straight path is a prayer for safety and direction in one image."
+}
+]
+},
+"Psa.144": {
+"occasion": "A royal prayer for deliverance and prosperity.",
+"structure": "Blessed be my rock, man's days like a shadow, part the heavens, rescue me from foreign hands, a new song, the blessed state described.",
+"world_behind": "Kings led armies and relied on city walls and storehouses, so a prayer for sons like cornerstones was a prayer for future defence.",
+"deep_background": [
+{
+"concept": "Their mouths speak deceit",
+"note": "Diplomatic oaths were routinely broken, so the psalm's request for deliverance from strange lips is about treaty betrayal."
+}
+]
+},
+"Psa.145": {
+"occasion": "A praise psalm in acrostic form, the last Davidic psalm.",
+"structure": "I will extol you, generation to generation, the LORD is gracious and merciful, near to all who call, he upholds the falling, he is near to all who call.",
+"world_behind": "Acrostic praise was a teaching form, and its completeness announced that no letter, and so no part of life, is left out of praise.",
+"deep_background": [
+{
+"concept": "Your kingdom",
+"note": "God's kingship is described as ever enduring, a political claim in a world where dynasties rose and fell quickly."
+}
+]
+},
+"Psa.146": {
+"occasion": "The first of five closing Hallelujah psalms.",
+"structure": "Praise the LORD, put no trust in princes, the LORD made heaven and earth, he executes justice for the oppressed, he lifts up the bowed down.",
+"world_behind": "Court poets praised kings and their power, and this psalm refuses that practice by transferring unreserved trust to God alone.",
+"deep_background": [
+{
+"concept": "His breath departs",
+"note": "Ancient Hebrew thought tied life to breath, so the mortality stated here is total, not merely political."
+}
+]
+},
+"Psa.147": {
+"occasion": "A praise psalm for the restoration of Jerusalem.",
+"structure": "Praise the LORD, he builds Jerusalem and gathers the outcasts, he heals the brokenhearted, he counts and names the stars, he satisfies the earth with rain.",
+"world_behind": "Rebuilding walls and streets after exile was communal labour, so the psalm's claim is political as well as spiritual.",
+"deep_background": [
+{
+"concept": "He gives the beasts their food",
+"note": "The psalm's attention to animals signalled a creator who cares for all life, an argument against thinking only of the nation."
+}
+]
+},
+"Psa.148": {
+"occasion": "A cosmic call to praise.",
+"structure": "Praise from the heavens, angels, sun and moon, then from the earth, creatures and kings, then the horn of the people.",
+"world_behind": "The psalm structures creation in a hierarchy of praise, the same way an ancient court assembled its servants.",
+"deep_background": [
+{
+"concept": "The horn of his people",
+"note": "The horn is both the appeal for strength and the animal horn used for alarm, so the closing line gathers both."
+}
+]
+},
+"Psa.149": {
+"occasion": "A praise psalm for the congregation in Zion.",
+"structure": "Sing a new song, let the children of Zion be glad, the LORD takes pleasure in his people, let the saints execute judgment with a two-edged sword.",
+"world_behind": "Two-edged swords were advanced weapons, used both to pierce and cut, so the psalm's martial imagery is deliberately foreign to most of the book.",
+"deep_background": [
+{
+"concept": "Songs in the night",
+"note": "Sleeping on watch or in danger, the faithful sang, a practice reflected in later monastic worship."
+}
+]
+},
+"Psa.150": {
+"occasion": "The closing doxology of the whole psalter.",
+"structure": "Praise him in the sanctuary, praise him for his mighty deeds, praise with trumpet, lute, harp, timbrel, strings, pipe and cymbals, let everything that has breath praise the LORD.",
+"world_behind": "The list of instruments is the temple orchestra, each one part of the daily and festal worship cycle.",
+"deep_background": [
+{
+"concept": "Everything that has breath",
+"note": "The final word is based on the divine name, turning a closing doxology into a play on God's own title."
+}
+]
+},
+"Psa.42": {
+"occasion": "A lament of one cut off from the sanctuary, the first of Book II.",
+"structure": "As a deer pants for water, tears day and night, remembering the festal crowd, a refrain of hope, the deep calling to deep.",
+"world_behind": "The psalmist is taunted by neighbours and cannot join the pilgrimage, a social as well as spiritual exile.",
+"deep_background": [
+{
+"concept": "Deep calls to deep",
+"note": "Waterfalls and underground springs north of Israel, at the sources of the Jordan, produced the roar the image depends on."
+}
+]
+},
+"Psa.43": {
+"occasion": "A continuation of Psalm 42, pleading for vindication.",
+"structure": "Vindicate me O God, why have you cast me off, send out your light and truth, then I will go to the altar of God with joy.",
+"world_behind": "Going to the altar required a clean standing and a public procession, which the psalmist is currently denied.",
+"deep_background": [
+{
+"concept": "Light and truth",
+"note": "The pair function as guides through hostile country, the way a royal envoy travelled under a safe-conduct."
+}
+]
+},
+"Psa.44": {
+"occasion": "A national lament after a defeat, rehearsing past deliverance.",
+"structure": "We have heard with our ears, God drove out the nations, but now you have rejected us, we are counted as sheep for slaughter, a final appeal to rise and help.",
+"world_behind": "Defeat meant loss of land, tribute and status, and nations read such loss as evidence that their god had failed.",
+"deep_background": [
+{
+"concept": "Sheep for the slaughter",
+"note": "The image of covenant people as sacrificial animals is the one Paul quotes in Romans on suffering and hope."
+}
+]
+},
+"Psa.45": {
+"occasion": "A royal wedding song for a king's marriage.",
+"structure": "Prologue to an excellent theme, the king's beauty and victory, weapons blessed, the queen's arrival from a foreign land, the bride's new loyalty, an everlasting name.",
+"world_behind": "Royal marriages sealed alliances, and the bride's departure from her family is reflected in the advice to forget her people.",
+"deep_background": [
+{
+"concept": "Ophir gold",
+"note": "Ophir was the legendary source of the finest gold, used to describe maximum royal wealth."
+}
+]
+},
+"Psa.46": {
+"occasion": "A Zion hymn of confidence in God's presence, a refuge in upheaval.",
+"structure": "God is our refuge, therefore we will not fear, the city of God is glad, the nations rage, be still and know, the LORD of hosts is with us.",
+"world_behind": "Jerusalem's defence was its water supply and walls; the psalm's river imagery reverses the siege anxiety of a walled city.",
+"deep_background": [
+{
+"concept": "Be still",
+"note": "The command is addressed to the raging nations, not to the worshipper's heart, and means cease fighting."
+}
+]
+},
+"Psa.47": {
+"occasion": "A psalm celebrating God's kingship over the nations.",
+"structure": "Clap your hands all peoples, God is the great king, he subdues peoples, God ascends with a shout, sing praises with understanding.",
+"world_behind": "The ark's ascent to Zion was re-enacted in procession with trumpet and shout, which the psalm's movement of praise relies on.",
+"deep_background": [
+{
+"concept": "The shields of the earth",
+"note": "Shields belonged to kings and their gods; calling them God's means every defence ultimately belongs to him."
+}
+]
+},
+"Psa.48": {
+"occasion": "A Zion hymn praising the city's security.",
+"structure": "Great is the LORD in the city of our God, beautiful in elevation, kings assembled and fled, God establishes it forever, we have thought on your steadfast love.",
+"world_behind": "Ancient cities were praised by listing their walls, gates and towers, and the psalm uses that same civic rhetoric.",
+"deep_background": [
+{
+"concept": "The ships of Tarshish",
+"note": "Long-distance trading ships became proverbial for wealth and power, so their breaking signals the collapse of imperial commerce."
+}
+]
+},
+"Psa.49": {
+"occasion": "A wisdom psalm on the futility of wealth.",
+"structure": "Call to all peoples, why fear the rich, no one can ransom a brother, the fate of the foolish, the upright will have dominion, do not fear when men grow rich.",
+"world_behind": "Ransom in Israel was the price paid to release a life, and the psalm's claim is that no such price exists for death.",
+"deep_background": [
+{
+"concept": "Like sheep in Sheol",
+"note": "The psalm pictures death as a shepherd driving the wealthy into the grave, reversing the pastoral image of God."
+}
+]
+},
+"Psa.50": {
+"occasion": "A covenant lawsuit psalm in which God speaks.",
+"structure": "The LORD summons the earth, he judges his people, he rejects empty sacrifice, he calls for thanksgiving and vows, he rebukes the wicked who quote his law.",
+"world_behind": "The prophetic lawsuit form was used at the temple, where the accuser and the accused were both ritual participants.",
+"deep_background": [
+{
+"concept": "The cattle on a thousand hills",
+"note": "Because God owns every animal, sacrifice cannot be feeding him, so the psalm attacks sacrifice as payment rather than trust."
+}
+]
 }
 }
