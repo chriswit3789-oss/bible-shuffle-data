@@ -10377,5 +10377,489 @@
 "note": "The promise is quoted at the Jerusalem council in Acts as grounds for including the nations."
 }
 ]
+},
+"Mat.1": {
+"occasion": "Genealogy, virgin birth, and the Magi arrive in Bethlehem.",
+"structure": "Legal genealogy from Abraham, Joseph's dream, the visit of the Magi, the flight to Egypt, and the return to Nazareth.",
+"world_behind": "Matthew opens on a Jewish audience, tracing the line to Abraham and David to prove the Messiah's legal claim.",
+"deep_background": [
+{
+"concept": "Magi",
+"note": "Eastern astrologer-priests read the sky for royal births, and their gifts fit a king."
+}
+]
+},
+"Mat.2": {
+"occasion": "Herod's slaughter and the flight to Egypt.",
+"structure": "Magi warned in a dream, flight to Egypt, the killing of the infants, and the return to Nazareth.",
+"world_behind": "Herod the Great was ruthless about rivals, and Bethlehem lay within his reach, so the violence fits his record.",
+"deep_background": [
+{
+"concept": "Rachel weeping",
+"note": "The verse quotes Jeremiah's Ramah lament, tying the massacre to Israel's exile grief."
+}
+]
+},
+"Mat.3": {
+"occasion": "John the Baptist prepares the way and baptizes Jesus.",
+"structure": "John's preaching, the Pharisees rebuked, the baptism, the Spirit descending, the Father's voice.",
+"world_behind": "Baptism by immersion in the Jordan was a rite for converts, so John's call to Israel was provocative.",
+"deep_background": [
+{
+"concept": "Jordan",
+"note": "Crossing the Jordan meant entering the land, so baptism there carried a new-exodus meaning."
+}
+]
+},
+"Mat.4": {
+"occasion": "Temptation in the wilderness and the first disciples called.",
+"structure": "Three temptations, withdrawal to Galilee, calling of four fishermen, and a healing tour.",
+"world_behind": "The Spirit drives Jesus into Judean desert country, where forty days of fasting echoes Israel's forty years.",
+"deep_background": [
+{
+"concept": "Forty days",
+"note": "Forty days echoes Israel's forty years of testing and Moses' forty days on the mountain."
+}
+]
+},
+"Mat.5": {
+"occasion": "The Sermon on the Mount opens with the beatitudes.",
+"structure": "Beatitudes, salt and light, the law interpreted, anger, lust, oaths, and love of enemies.",
+"world_behind": "Teaching on a hillside was ordinary for Galilean teachers, who sat to teach and taught in memorable patterns.",
+"deep_background": [
+{
+"concept": "Blessed",
+"note": "Blessing language in the Old Testament named God's favor, not merely a happy mood."
+}
+]
+},
+"Mat.6": {
+"occasion": "True piety, the Lord's Prayer, and trust in God.",
+"structure": "Almsgiving, prayer, fasting, the Lord's Prayer, treasures in heaven, and anxiety about provision.",
+"world_behind": "Public giving and loud prayer were visible social performances in village life, so private practice was a real contrast.",
+"deep_background": [
+{
+"concept": "Mammon",
+"note": "Mammon means wealth treated as a rival master, not just money itself."
+}
+]
+},
+"Mat.7": {
+"occasion": "Judging, prayer, and the narrow gate close the sermon.",
+"structure": "Do not judge, ask and receive, the golden rule, the two gates, false prophets, and the house on rock.",
+"world_behind": "The sermon ends with a building image his hearers knew, since Galilean houses stood on bedrock or sand.",
+"deep_background": [
+{
+"concept": "Narrow gate",
+"note": "City gates were narrow enough to control traffic, so the image meant a deliberate choice."
+}
+]
+},
+"Mat.8": {
+"occasion": "Authority displayed over disease, distance, and storm.",
+"structure": "Leper cleansed, centurion's servant healed, Peter's mother-in-law, the storm stilled, and two demoniacs freed.",
+"world_behind": "A centurion commanded about eighty soldiers, and his appeal on behalf of a slave was socially unusual.",
+"deep_background": [
+{
+"concept": "Gadarene tombs",
+"note": "Rock-cut tombs outside a town were considered unclean and were associated with the demonic."
+}
+]
+},
+"Mat.9": {
+"occasion": "Forgiveness, calling, and the harvest.",
+"structure": "Paralytic forgiven and healed, Matthew called, fasting questioned, two women healed, and the crowds likened to a harvest.",
+"world_behind": "Tax collectors worked for Rome and were shunned, so dining with them was a public scandal.",
+"deep_background": [
+{
+"concept": "Fringe of his garment",
+"note": "The tassels on a Jewish man's cloak marked covenant loyalty, so touching them was a plea for mercy."
+}
+]
+},
+"Mat.10": {
+"occasion": "The Twelve commissioned and sent.",
+"structure": "Twelve named and sent, instructions for the road, persecution foretold, and the cost of discipleship.",
+"world_behind": "Traveling teachers depended on hospitality, so the instructions about lodging reflect real practice.",
+"deep_background": [
+{
+"concept": "Shake off the dust",
+"note": "Shaking dust from the feet was a gesture of disassociation, treating a town as outside Israel."
+}
+]
+},
+"Mat.11": {
+"occasion": "John's question from prison and woe to the unrepentant towns.",
+"structure": "John's messengers, Jesus' testimony about John, woe to Chorazin and Bethsaida, and the invitation to the weary.",
+"world_behind": "Herod Antipas held John in the fortress at Machaerus, so the question came from a man awaiting execution.",
+"deep_background": [
+{
+"concept": "Yoke",
+"note": "A rabbi's yoke meant his teaching, so a light yoke meant a bearable way of life."
+}
+]
+},
+"Mat.12": {
+"occasion": "Sabbath conflict and the sign of Jonah.",
+"structure": "Grainfield and hand controversies, Beelzebub accusation, the unforgivable sin, the sign of Jonah, and true family.",
+"world_behind": "Sabbath law debate was live in the first century, and healing was classed as work by some schools.",
+"deep_background": [
+{
+"concept": "Sign of Jonah",
+"note": "Jonah spent three days in the fish, which the Gospel reads as a pattern for burial and return."
+}
+]
+},
+"Mat.13": {
+"occasion": "The parable discourse by the lake.",
+"structure": "Sower, weeds among wheat, mustard seed, leaven, hidden treasure, pearl, and the net, then rejection at Nazareth.",
+"world_behind": "Farming on the Galilean plain used broadcast sowing, so seed falling on paths and rock was ordinary experience.",
+"deep_background": [
+{
+"concept": "Leaven",
+"note": "Leaven usually pictured corruption in Jewish teaching, so using it for the kingdom reverses expectation."
+}
+]
+},
+"Mat.14": {
+"occasion": "John beheaded and the five thousand fed.",
+"structure": "Herod's banquet and John's death, withdrawal to a lonely place, feeding of five thousand, and walking on the sea.",
+"world_behind": "Herod's birthday banquet with a rash oath fits the court culture of a client king answerable to Rome.",
+"deep_background": [
+{
+"concept": "Deserted place",
+"note": "A wilderness setting echoes Israel fed in the desert, framing the meal as new provision."
+}
+]
+},
+"Mat.15": {
+"occasion": "Tradition, a Canaanite woman, and a second feeding.",
+"structure": "Handwashing dispute, the woman's persistent plea, healings by the lake, and four thousand fed.",
+"world_behind": "Ritual handwashing was a marker of purity practiced strictly by some groups and not by others.",
+"deep_background": [
+{
+"concept": "Dogs under the table",
+"note": "Household dogs were pets, not street animals, which softens the image into a promise of crumbs."
+}
+]
+},
+"Mat.16": {
+"occasion": "Peter's confession and the first passion prediction.",
+"structure": "A sign demanded, the leaven warning, confession at Caesarea Philippi, and the rebuke of Peter.",
+"world_behind": "Caesarea Philippi sat at a pagan shrine, making the confession land against a backdrop of rival gods.",
+"deep_background": [
+{
+"concept": "Keys of the kingdom",
+"note": "Keys meant authority to open and shut, an image drawn from the steward of a household."
+}
+]
+},
+"Mat.17": {
+"occasion": "The transfiguration on a high mountain.",
+"structure": "Glory revealed with Moses and Elijah, the boy with a seizure healed, and the temple tax paid from a fish.",
+"world_behind": "High mountains were places of revelation in Jewish memory, and Moses and Elijah were expected to return.",
+"deep_background": [
+{
+"concept": "Temple tax",
+"note": "Every adult male paid the half-shekel for the temple, so the question tested Jesus' standing."
+}
+]
+},
+"Mat.18": {
+"occasion": "Teaching on humility and forgiveness.",
+"structure": "A child in their midst, causing stumbling, the lost sheep, restoring a brother, and seventy times seven.",
+"world_behind": "Children had no status, so placing a child as the model overturned the honor ranking of the day.",
+"deep_background": [
+{
+"concept": "Seventy-seven",
+"note": "The number answers a rabbinic limit of three forgivenesses, exceeding even a generous reading."
+}
+]
+},
+"Mat.19": {
+"occasion": "Teaching on divorce and the rich young man.",
+"structure": "Marriage and divorce, children welcomed, the rich man's refusal, and the reward of the disciples.",
+"world_behind": "Divorce was a legal dispute between schools, and a father's property interests shaped how passage was discussed.",
+"deep_background": [
+{
+"concept": "Camel and needle",
+"note": "Some readers propose a needle gate, but the image is meant as deliberate impossibility with men."
+}
+]
+},
+"Mat.20": {
+"occasion": "Grace equal in the vineyard and the last passion prediction.",
+"structure": "Laborers hired at every hour, James and John's request, and two blind men healed at Jericho.",
+"world_behind": "Day laborers gathered at dawn in the market square, and a denarius was one day's wage.",
+"deep_background": [
+{
+"concept": "Greatness reversed",
+"note": "Honor culture ranked seating at a host's table, so servanthood as greatness was a direct inversion."
+}
+]
+},
+"Mat.21": {
+"occasion": "Entry into Jerusalem and the temple confrontation.",
+"structure": "Triumphal entry, fig tree cursed, temple cleansed, and the parable of the tenants.",
+"world_behind": "Pilgrim crowds came to Jerusalem for Passover under Roman guard, so any procession was politically loaded.",
+"deep_background": [
+{
+"concept": "Fig tree",
+"note": "A tree in leaf before season suggests false promise, an acted parable beside the temple action."
+}
+]
+},
+"Mat.22": {
+"occasion": "Controversy in the temple courts.",
+"structure": "Wedding banquet parable, tribute to Caesar, the resurrection question, and the greatest commandment.",
+"world_behind": "Coins carried Caesar's image, and Roman taxation was a daily irritant carrying political weight.",
+"deep_background": [
+{
+"concept": "Tetradrachm",
+"note": "The temple tax was paid in the Tyrian standard, which explains the demand for the coin."
+}
+]
+},
+"Mat.23": {
+"occasion": "The seven woes against the scribes and Pharisees.",
+"structure": "The crowds warned, seven woes pronounced, and a lament over Jerusalem.",
+"world_behind": "Pharisees were lay reformers who took purity seriously, and their influence was significant in towns.",
+"deep_background": [
+{
+"concept": "Tomb guardians",
+"note": "Whitewashed tombs were marked to prevent defilement, so the image means subtle uncleanness."
+}
+]
+},
+"Mat.24": {
+"occasion": "The Olivet discourse on the end of the age.",
+"structure": "The temple's fall predicted, signs and distress, the coming of the Son of Man, and a fig tree lesson.",
+"world_behind": "The temple's stones were enormous, so predicting its collapse was politically dangerous in the day.",
+"deep_background": [
+{
+"concept": "Abomination",
+"note": "The term refers to the desecration spoken of by Daniel, which readers have applied to several events."
+}
+]
+},
+"Mat.25": {
+"occasion": "Parables of readiness and judgment.",
+"structure": "Ten virgins, the talents, and the sheep and goats.",
+"world_behind": "Wedding processions waited for the groom at night, so lamps and oil were practical necessities.",
+"deep_background": [
+{
+"concept": "Talent",
+"note": "A talent was a weight of silver worth many years of wages, so the sums are enormous."
+}
+]
+},
+"Mat.26": {
+"occasion": "The passion begins: supper, arrest, and trial.",
+"structure": "Plot and anointing, last supper, Gethsemane, arrest, trials before Caiaphas, and Peter's denial.",
+"world_behind": "Passover pilgrims crowded Jerusalem, and the Roman prefect came up from Caesarea for the feast.",
+"deep_background": [
+{
+"concept": "Thirty pieces",
+"note": "The sum matches the price of a slave in Exodus, marking the betrayal as an insult."
+}
+]
+},
+"Mat.27": {
+"occasion": "Crucifixion and burial.",
+"structure": "Pilate and the crowd, scourging, crucifixion, the cry of dereliction, the temple curtain, and the guarded tomb.",
+"world_behind": "Roman crucifixion was reserved for rebels and slaves, and the body was normally left unburied.",
+"deep_background": [
+{
+"concept": "Curtain torn",
+"note": "The inner curtain screened the holiest place, so tearing it signalled unrestricted access to God."
+}
+]
+},
+"Mat.28": {
+"occasion": "Resurrection and the great commission.",
+"structure": "The empty tomb, the guards' report, the appearance in Galilee, and the sending of the eleven.",
+"world_behind": "A Roman guard unit posted at a tomb carried liability for losing a body, which explains the bribe.",
+"deep_background": [
+{
+"concept": "Great commission",
+"note": "The command reaches all nations, extending a message that began with Israel alone."
+}
+]
+},
+"Mrk.1": {
+"occasion": "John prepares, Jesus is baptized, and the Galilean ministry begins.",
+"structure": "John's preaching, baptism and temptation, four disciples called, a Capernaum sabbath, and a leper cleansed.",
+"world_behind": "Capernaum sat on the lake's trade route, so a synagogue, a customs post, and fishing work all stood within sight.",
+"deep_background": [
+{
+"concept": "Immediately",
+"note": "Mark's favourite word drives the pace, presenting the ministry as urgent and compact."
+}
+]
+},
+"Mrk.2": {
+"occasion": "Forgiveness, calling, and the first sabbath disputes.",
+"structure": "Paralytic lowered through the roof, Levi called, fasting questioned, and grain picked on the sabbath.",
+"world_behind": "A mud and thatch roof could be dug open, which is exactly how the friends reached the room.",
+"deep_background": [
+{
+"concept": "New wine",
+"note": "Wineskins were animal skins that cracked when old, so new wine required fresh skins."
+}
+]
+},
+"Mrk.3": {
+"occasion": "A healing on the sabbath and the twelve appointed.",
+"structure": "Withered hand restored, crowds by the lake, the twelve named, the Beelzebub charge, and true family defined.",
+"world_behind": "Herodians were supporters of the ruling house, and their alliance with Pharisees shows shared alarm.",
+"deep_background": [
+{
+"concept": "Unforgivable sin",
+"note": "The warning is about attributing God's own work to an unclean spirit, not about any single slip."
+}
+]
+},
+"Mrk.4": {
+"occasion": "Parables by the lake and the storm stilled.",
+"structure": "Sower, lamp under a basket, growing seed, mustard seed, and the calming of the sea.",
+"world_behind": "Boats on the lake were small and open, so sudden Galilee squalls were genuinely dangerous.",
+"deep_background": [
+{
+"concept": "Storms on Galilee",
+"note": "Cold air off the surrounding hills funnels onto the water, producing violent sudden winds."
+}
+]
+},
+"Mrk.5": {
+"occasion": "A demoniac freed, a daughter raised, a woman healed.",
+"structure": "Gerasene tombs, the herd of pigs, Jairus' plea, the bleeding woman, and the girl raised.",
+"world_behind": "Pig herding near a Gentile region tells you the economy and population there were not observant Jewish.",
+"deep_background": [
+{
+"concept": "Legion",
+"note": "A legion was a Roman army unit of thousands, used here as a name for the many spirits."
+}
+]
+},
+"Mrk.6": {
+"occasion": "Nazareth rejects him, John dies, and five thousand eat.",
+"structure": "Rejection at Nazareth, the twelve sent out, Herod's banquet and John's death, the five thousand fed, and walking on the water.",
+"world_behind": "Herod Antipas ruled Galilee, and his banquet with a tetrarch's court fits the politics of the region.",
+"deep_background": [
+{
+"concept": "Green grass",
+"note": "Mark alone notes the grass, which points to spring and the Passover season."
+}
+]
+},
+"Mrk.7": {
+"occasion": "Tradition questioned and a Gentile woman answered.",
+"structure": "Handwashing dispute, the Syrophoenician woman, and a deaf man healed in the Decapolis.",
+"world_behind": "The Decapolis was a Greek-speaking region east of the lake, which explains the crowd's response to a Gentile mission.",
+"deep_background": [
+{
+"concept": "Corban",
+"note": "Corban meant a gift dedicated to God, which some used to avoid supporting parents."
+}
+]
+},
+"Mrk.8": {
+"occasion": "Four thousand fed and Peter confesses.",
+"structure": "Second feeding, the leaven warning, a blind man healed in stages, and the confession at Caesarea Philippi.",
+"world_behind": "Caesarea Philippi stood near a spring sacred to Pan, so the confession lands beside pagan worship.",
+"deep_background": [
+{
+"concept": "Two-stage healing",
+"note": "The gradual healing is unique to Mark and stresses that sight came slowly to the disciples too."
+}
+]
+},
+"Mrk.9": {
+"occasion": "Transfiguration and teaching on greatness.",
+"structure": "Glory on the mountain, the boy with a spirit, the argument about greatness, and warnings about stumbling.",
+"world_behind": "A father's cry about unbelief reflects the ordinary desperation of a family with an afflicted child.",
+"deep_background": [
+{
+"concept": "Salt",
+"note": "Salt preserved and seasoned, so the image calls for a distinctive, useful life."
+}
+]
+},
+"Mrk.10": {
+"occasion": "Teaching on marriage, wealth, and service.",
+"structure": "Divorce, children blessed, the rich man, James and John's request, and Bartimaeus healed.",
+"world_behind": "Jericho sat on the pilgrim road to Jerusalem, which is why a blind beggar would be positioned there.",
+"deep_background": [
+{
+"concept": "Camel and needle",
+"note": "The image is deliberately impossible, making wealth's obstacle a matter of God's action."
+}
+]
+},
+"Mrk.11": {
+"occasion": "Entry into Jerusalem and the temple cleansed.",
+"structure": "Triumphal entry, fig tree cursed, temple cleared, and the authority question.",
+"world_behind": "The temple court hosted merchants and money changers for pilgrims, making the trade necessary and profitable.",
+"deep_background": [
+{
+"concept": "Colt never ridden",
+"note": "An unridden animal was suitable for sacred use, which fits the deliberate symbolism."
+}
+]
+},
+"Mrk.12": {
+"occasion": "Temple controversy and a widow's gift.",
+"structure": "Tenants parable, tribute to Caesar, resurrection question, greatest commandment, and the widow's two coins.",
+"world_behind": "The treasury stood in the women's court, where gifts were given publicly and audibly.",
+"deep_background": [
+{
+"concept": "Corban and Caesar",
+"note": "Roman coinage and temple coinage were different currencies, which frames the tribute question."
+}
+]
+},
+"Mrk.13": {
+"occasion": "The Olivet discourse on the temple's fall and the end.",
+"structure": "Temple stones foretold, birth pangs, persecution, the abomination, the coming, and the fig tree lesson.",
+"world_behind": "Herod's temple was one of the largest construction projects of the era, still unfinished in Jesus' day.",
+"deep_background": [
+{
+"concept": "No stone left",
+"note": "The Roman siege and fire left the temple dismantled, which later readers took as confirmation."
+}
+]
+},
+"Mrk.14": {
+"occasion": "Anointing, last supper, arrest, and denial.",
+"structure": "Bethany anointing, Passover meal, Gethsemane, arrest, night trial, and Peter's three denials.",
+"world_behind": "Passover required a lamb and unleavened bread, and Jerusalem swelled with pilgrims for the feast.",
+"deep_background": [
+{
+"concept": "Abba",
+"note": "Abba is an intimate family address for father, unusual in prayer language of the period."
+}
+]
+},
+"Mrk.15": {
+"occasion": "Trial before Pilate, crucifixion, and burial.",
+"structure": "Pilate and Barabbas, mockery, crucifixion, the cry of dereliction, the curtain torn, and Joseph's tomb.",
+"world_behind": "Pilate governed Judaea directly and was known for harsh responses to unrest, which fits the crowd scene.",
+"deep_background": [
+{
+"concept": "Scourging",
+"note": "Roman flogging used bone and metal in the lash and often preceded crucifixion, weakening the victim first."
+}
+]
+},
+"Mrk.16": {
+"occasion": "The empty tomb and the resurrection appearances.",
+"structure": "Women at the tomb, the young man's announcement, the longer ending with appearances and commission.",
+"world_behind": "A stone rolled across a tomb entrance was heavy, and a Roman seal or guard made tampering risky.",
+"deep_background": [
+{
+"concept": "Longer ending",
+"note": "Manuscript evidence varies here, which is why some Bibles mark the final verses as a later addition."
+}
+]
 }
 }
