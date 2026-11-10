@@ -3889,13 +3889,13 @@
 ]
 },
 "1Ch.2": {
-"occasion": "Judah's descendants are traced to David.",
-"structure": "Judah's sons, Caleb's line, Jerahmeel's line.",
-"world_behind": "Post-exilic land claims depended on documented tribal descent.",
+"occasion": "Judah's descendants are traced down to David's own generation.",
+"structure": "Judah's sons, the line of Perez and Hezron to David, Caleb's descendants and their villages, and the families of Jerahmeel.",
+"world_behind": "After the exile, land and temple rights rested on documented tribal descent, so the writer preserves branch names and the towns their families founded.",
 "deep_background": [
 {
 "concept": "Caleb the Kenizzite",
-"note": "Foreign-origin ancestry is included without apology in the tribal record."
+"note": "An ancestry traced partly to Edom is included without apology, showing that membership grew by adoption as well as blood."
 }
 ]
 },
@@ -3955,13 +3955,13 @@
 ]
 },
 "1Ch.8": {
-"occasion": "Benjamin's line and Saul's family are recorded.",
-"structure": "Benjamin's sons, families of Gibeon, Saul's house.",
-"world_behind": "The writer prepares for Saul's story by establishing his lineage.",
+"occasion": "The genealogy of Benjamin, running through the line of Saul.",
+"structure": "Benjamin's sons, heads of households, the founders of villages, then the branch through Kish and Ner to Saul and Jonathan.",
+"world_behind": "Benjamin's territory sat on the ridge road north of Jerusalem, and its town lists survive because families kept their allotments intact through the exile.",
 "deep_background": [
 {
-"concept": "The nearby capital",
-"note": "Gibeah and Jerusalem sit within a short distance, explaining later conflict."
+"concept": "The shortest tribe",
+"note": "Benjamin was nearly destroyed in the Judges period, so an intact post-exilic register reads as a story of survival."
 }
 ]
 },
@@ -4065,13 +4065,13 @@
 ]
 },
 "1Ch.18": {
-"occasion": "David's campaigns extend Israel's borders.",
-"structure": "Philistia, Moab, Zobah, Aram, Edom subdued, officers appointed.",
-"world_behind": "Garrisons and tribute were how empires converted victories into revenue.",
+"occasion": "David's victories and the officials of his court.",
+"structure": "Philistines and Moab subdued, Zobah and Aram defeated at the Euphrates, Edom garrisoned, and a list of the king's officers.",
+"world_behind": "Control of the road to the Euphrates meant tolls and trade, and a standing army needed a commander, a recorder and a guard corps.",
 "deep_background": [
 {
-"concept": "Dedicated vessels",
-"note": "Gold and bronze taken are set apart for the temple, tying war to worship."
+"concept": "Dedicated spoils",
+"note": "War spoils set aside for the sanctuary show that the conquest was treated as funding the temple, not private enrichment."
 }
 ]
 },
@@ -4131,13 +4131,13 @@
 ]
 },
 "1Ch.24": {
-"occasion": "Priests are divided by lot and named.",
-"structure": "Eleazar and Ithamar, the lots, the roster.",
-"world_behind": "Casting lots placed a community's schedule beyond personal rivalries.",
+"occasion": "The priestly divisions of Aaron's sons, assigned by lot.",
+"structure": "The descendants of Eleazar and Ithamar, the twenty-four courses drawn by lot, and the heads of the levitical families.",
+"world_behind": "Twenty-four rotations meant each priest served roughly two weeks a year, which is how temple service was actually staffed.",
 "deep_background": [
 {
-"concept": "The twenty-four courses",
-"note": "This framework undergirds later references to priestly service in the first century."
+"concept": "Casting lots",
+"note": "Lots settled disputed claims without favouritism, so rival priestly houses could not accuse the assignment committee of partiality."
 }
 ]
 },
@@ -6540,7 +6540,7 @@
 ]
 },
 "Psa.112": {
-"occasion": "A wisdom psalm on the blessed household.",
+"occasion": "A wisdom psalm on the household that fears the LORD and lends freely.",
 "structure": "Blessed is the one who fears the LORD, prosperity for children, generosity to the poor, security without fear.",
 "world_behind": "Despite the conventional language of the prosperous household, the psalm explicitly ties blessing to lending generously.",
 "deep_background": [
@@ -6716,7 +6716,7 @@
 ]
 },
 "Psa.128": {
-"occasion": "A wisdom psalm on the blessed household.",
+"occasion": "A pilgrim wisdom psalm on the blessing of a settled household.",
 "structure": "Blessed are all who fear the LORD, you will eat from your hands' work, your wife as a fruitful vine, children like olive shoots, peace on Israel.",
 "world_behind": "Vine and olive were the two staple crops, each needing years of investment, so their fruit meant security.",
 "deep_background": [
@@ -10841,7 +10841,7 @@
 ]
 },
 "Mrk.15": {
-"occasion": "Trial before Pilate, crucifixion, and burial.",
+"occasion": "The Roman trial and the execution of Jesus, told at speed.",
 "structure": "Pilate and Barabbas, mockery, crucifixion, the cry of dereliction, the curtain torn, and Joseph's tomb.",
 "world_behind": "Pilate governed Judaea directly and was known for harsh responses to unrest, which fits the crowd scene.",
 "deep_background": [
@@ -11105,7 +11105,7 @@
 ]
 },
 "Luk.23": {
-"occasion": "Trial before Pilate, crucifixion, and burial.",
+"occasion": "The trial before Pilate and Herod, then the crucifixion with its two criminals.",
 "structure": "Accusations and Herod, Barabbas, the way to the cross, the two criminals, the death, and the tomb.",
 "world_behind": "Pilate sent a Galilean defendant to Herod Antipas as a courtesy during the feast.",
 "deep_background": [
@@ -12993,6 +12993,248 @@
 {
 "concept": "Kept",
 "note": "The doxology speaks of being kept from stumbling, matching the letter's concern about drifting."
+}
+]
+},
+"Rev.1": {
+"occasion": "A vision of the risen Christ given to John on Patmos.",
+"structure": "Greeting to the seven churches, the vision of the lampstands and the son of man, and the command to write.",
+"world_behind": "Patmos was a small Aegean island used for exile, and the seven cities were real congregations on a Roman road loop.",
+"deep_background": [
+{
+"concept": "Lord's day",
+"note": "Worship had already moved to the first day, the day of the resurrection, by the time this was written."
+}
+]
+},
+"Rev.2": {
+"occasion": "Letters to Ephesus, Smyrna, Pergamum and Thyatira.",
+"structure": "Each letter names the church's strength and fault, gives a command, and promises a reward to the one who conquers.",
+"world_behind": "Pergamum held a major imperial cult temple, and Smyrna's Christians faced pressure over emperor worship.",
+"deep_background": [
+{
+"concept": "Nicolaitans",
+"note": "A group tolerated in two churches, almost certainly teaching compromise with pagan civic life."
+}
+]
+},
+"Rev.3": {
+"occasion": "Letters to Sardis, Philadelphia and Laodicea.",
+"structure": "The dead church, the open door, and the lukewarm church, each with its command and promise.",
+"world_behind": "Laodicea piped in warm water from nearby springs, a fact the lukewarm image plays on directly.",
+"deep_background": [
+{
+"concept": "Gold refined",
+"note": "Laodicea was wealthy in banking and cloth, so the counsel to buy real gold is a rebuke of self-sufficiency."
+}
+]
+},
+"Rev.4": {
+"occasion": "The throne room opened in heaven.",
+"structure": "The door opened, the throne and its rainbow, the twenty-four elders, and the four living creatures in ceaseless praise.",
+"world_behind": "Imperial court ritual shaped what a first-century reader pictured when hearing of a throne surrounded by prostrate attendants.",
+"deep_background": [
+{
+"concept": "Sea of glass",
+"note": "The crystal sea replaces the barrier of the tabernacle, placing worshippers directly before the throne."
+}
+]
+},
+"Rev.5": {
+"occasion": "The scroll and the Lamb who alone can open it.",
+"structure": "The sealed scroll, John's weeping, the Lion who appears as a slain Lamb, and the universal song of praise.",
+"world_behind": "A sealed scroll required a qualified person to open it legally, which is the legal weight behind the scene.",
+"deep_background": [
+{
+"concept": "Seven horns and eyes",
+"note": "Horns meant power and eyes meant knowledge, so the Lamb is described as all-seeing and complete in authority."
+}
+]
+},
+"Rev.6": {
+"occasion": "The first six seals opened.",
+"structure": "Four horsemen, the martyrs under the altar, and the cosmic collapse that makes the powerful hide.",
+"world_behind": "Conquest, war, famine and death were the recognized horsemen of ruin in the ancient world, in that order.",
+"deep_background": [
+{
+"concept": "Under the altar",
+"note": "In the tabernacle the blood of sacrifices was poured at the altar's base, the image behind the martyrs' cry."
+}
+]
+},
+"Rev.7": {
+"occasion": "The sealing of the servants and the great multitude.",
+"structure": "Four angels holding the winds, the 144,000 sealed, and an innumerable crowd from every nation in white.",
+"world_behind": "A seal on the forehead marked ownership and protection, a practice drawn from both commerce and Ezekiel.",
+"deep_background": [
+{
+"concept": "12,000 from each tribe",
+"note": "The number is symbolic of completeness, twelve squared and multiplied, rather than a census figure."
+}
+]
+},
+"Rev.8": {
+"occasion": "The seventh seal and the first four trumpets.",
+"structure": "Silence in heaven, the prayers rising with incense, then hail, burning mountain, bitter star, and darkened lights.",
+"world_behind": "Incense offered with prayer was temple practice, and the censer came from the altar itself.",
+"deep_background": [
+{
+"concept": "A third",
+"note": "The fraction marks partial judgment, leaving room for repentance before the final pour-out."
+}
+]
+},
+"Rev.9": {
+"occasion": "The fifth and sixth trumpets.",
+"structure": "The fallen star and the locust swarm, then the four bound angels released with an army of horsemen.",
+"world_behind": "Locust swarms were a real catastrophe in the region, and armies were described as locusts for their numbers.",
+"deep_background": [
+{
+"concept": "Abyss",
+"note": "The abyss was the prison of bound spirits, an idea already current in Jewish writing of the period."
+}
+]
+},
+"Rev.10": {
+"occasion": "The angel with the little scroll.",
+"structure": "The mighty angel, the seven thunders sealed, the command to eat the scroll, and the sweetness turning bitter.",
+"world_behind": "Eating a scroll was a prophetic gesture from Ezekiel, taking the message in before speaking it.",
+"deep_background": [
+{
+"concept": "No more delay",
+"note": "The oath ends the waiting period, marking the shift from warning to fulfilment."
+}
+]
+},
+"Rev.11": {
+"occasion": "The two witnesses and the seventh trumpet.",
+"structure": "The measured temple, the witnesses' ministry and death, their resurrection, and the trumpet that announces the kingdom.",
+"world_behind": "Measuring a building signalled legal claim, and a body left in the street was the ultimate dishonour.",
+"deep_background": [
+{
+"concept": "Three and a half days",
+"note": "The half week mirrors the three and a half years of persecution, keeping the pattern of limited evil."
+}
+]
+},
+"Rev.12": {
+"occasion": "The woman, the dragon and the war in heaven.",
+"structure": "The woman and her child, the dragon's defeat and expulsion, and the persecution of the woman's other offspring.",
+"world_behind": "Dragons and heavenly wars drew on widespread ancient combat myths, here recast around the Messiah.",
+"deep_background": [
+{
+"concept": "A thousand two hundred sixty days",
+"note": "Three and a half prophetic years, the recurring period of oppression in Daniel."
+}
+]
+},
+"Rev.13": {
+"occasion": "The beast from the sea and the beast from the earth.",
+"structure": "The ten-horned beast, the second beast who compels worship, and the mark required to buy or sell.",
+"world_behind": "Roman provincial life required participation in civic cult, which made commerce and worship inseparable.",
+"deep_background": [
+{
+"concept": "Number of the beast",
+"note": "Letters served as numerals, so a name could be rendered as a number, which is why readers have always counted."
+}
+]
+},
+"Rev.14": {
+"occasion": "The Lamb on Mount Zion and the harvest of the earth.",
+"structure": "The 144,000 with the Lamb, three angelic announcements, and the two harvests, grain and vintage.",
+"world_behind": "Grape treading in a winepress was a familiar harvest image, used here for judgment rather than provision.",
+"deep_background": [
+{
+"concept": "Babylon's wine",
+"note": "The cup of wrath is the reverse of the wedding cup, turning seduction into judgment."
+}
+]
+},
+"Rev.15": {
+"occasion": "The seven bowls prepared and the song of Moses.",
+"structure": "The sea of glass with the victors singing, the temple filled with glory, and the bowls given to the angels.",
+"world_behind": "The plagues of Egypt are the pattern, and the song of Moses celebrates the first deliverance from them.",
+"deep_background": [
+{
+"concept": "No one could enter",
+"note": "The temple filled with smoke bars access, the same sign that once filled the tabernacle at its dedication."
+}
+]
+},
+"Rev.16": {
+"occasion": "The seven bowls poured out.",
+"structure": "Sores, sea, rivers, sun, darkness, Euphrates, and the seventh bowl with its hail and earthquake.",
+"world_behind": "The Euphrates marked the empire's eastern frontier, and armies were expected from beyond it.",
+"deep_background": [
+{
+"concept": "Armageddon",
+"note": "The name means the hill of Megiddo, a real battlefield where Israel had been defeated and delivered."
+}
+]
+},
+"Rev.17": {
+"occasion": "The woman on the beast and the meaning of Babylon.",
+"structure": "The harlot described, the beast explained, the ten kings, and the woman's downfall foretold.",
+"world_behind": "Rome was pictured as a woman seated on seven hills, a standard image in contemporary poetry and coins.",
+"deep_background": [
+{
+"concept": "Seven hills",
+"note": "The description let readers in the first century identify the city without naming it in a text that could be seized."
+}
+]
+},
+"Rev.18": {
+"occasion": "The fall of Babylon and the lament over her.",
+"structure": "The announcement of fall, the merchants and shipmasters mourning, and heaven's call to rejoice.",
+"world_behind": "Sea trade made merchants rich, and a great port's collapse ruined shippers along the whole route.",
+"deep_background": [
+{
+"concept": "One hour",
+"note": "The threefold 'in one hour' stresses how quickly accumulated wealth disappears."
+}
+]
+},
+"Rev.19": {
+"occasion": "The marriage supper and the rider on the white horse.",
+"structure": "Heaven's hallelujah, the bride made ready, the rider who judges, and the birds called to the feast.",
+"world_behind": "A wedding feast ran for days and was the standard image of joyful abundance in Jewish teaching.",
+"deep_background": [
+{
+"concept": "Faithful and True",
+"note": "The rider's names are given as character descriptions, in contrast to the beast's blasphemous titles."
+}
+]
+},
+"Rev.20": {
+"occasion": "The millennium and the final judgment.",
+"structure": "The dragon bound, the reign of the saints, the release and defeat of Satan, and the great white throne.",
+"world_behind": "Books of record were standard in courts and ledgers, which is why judgment is pictured by opening books.",
+"deep_background": [
+{
+"concept": "Thousand years",
+"note": "The number is symbolic of a complete reign, and how literally to read it has divided readers for centuries."
+}
+]
+},
+"Rev.21": {
+"occasion": "New heaven, new earth, and the new Jerusalem.",
+"structure": "The city descending, the dwelling of God with people, the measured city, and the nations bringing their glory in.",
+"world_behind": "Cities were walled for security, so a city whose gates never shut is a picture of total peace.",
+"deep_background": [
+{
+"concept": "No temple",
+"note": "The temple's function is taken over by God's own presence, making the building unnecessary."
+}
+]
+},
+"Rev.22": {
+"occasion": "The river of life and the closing invitation.",
+"structure": "The throne's river, the tree of life, the promise of coming, and the final warning and invitation.",
+"world_behind": "The book closes with a legal warning against altering it, a practice known from ancient literary and legal texts.",
+"deep_background": [
+{
+"concept": "Come",
+"note": "The last prayer of the Bible is an invitation, joining the Spirit and the bride in the same word."
 }
 ]
 }
