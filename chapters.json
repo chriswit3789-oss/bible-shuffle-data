@@ -11356,5 +11356,489 @@
 "note": "The same kind of fire appears at Peter's denial, tying the two scenes together."
 }
 ]
+},
+"Act.1": {
+"occasion": "The ascension and Matthias chosen to replace Judas.",
+"structure": "Final instructions, the ascension, the upper room prayer, and the casting of lots.",
+"world_behind": "Luke writes a second volume to Theophilus, continuing the account into the movement beyond Jerusalem.",
+"deep_background": [
+{
+"concept": "Forty days",
+"note": "Instruction over forty days matches the pattern of revelation before a major commission."
+}
+]
+},
+"Act.2": {
+"occasion": "Pentecost: the Spirit poured out and the church begins.",
+"structure": "Wind and fire, tongues understood by pilgrims, Peter's sermon on Joel and David, and three thousand baptised.",
+"world_behind": "Pentecost drew diaspora pilgrims to Jerusalem, so the crowd spoke many languages.",
+"deep_background": [
+{
+"concept": "New community",
+"note": "Shared possessions and daily temple worship describe a Jewish messianic community, not a separate religion yet."
+}
+]
+},
+"Act.3": {
+"occasion": "A lame man healed at the temple gate.",
+"structure": "Healing at the Beautiful gate, the crowd gathers, and Peter preaches repentance and restoration.",
+"world_behind": "Begging at a temple gate worked because worshippers gave alms before entering.",
+"deep_background": [
+{
+"concept": "Portico of Solomon",
+"note": "A colonnade on the temple mount served as an open-air teaching space."
+}
+]
+},
+"Act.4": {
+"occasion": "Arrest and bold testimony before the council.",
+"structure": "Detention overnight, interrogation about the name, Peter's defense, and the believers' prayer for boldness.",
+"world_behind": "The ruling council included the high priest's household and could detain preachers for disturbing order.",
+"deep_background": [
+{
+"concept": "Unschooled",
+"note": "The leaders were struck that these men lacked rabbinic training yet argued from scripture."
+}
+]
+},
+"Act.5": {
+"occasion": "Ananias and Sapphira, arrest, and Gamaliel's counsel.",
+"structure": "The deception and its judgment, signs and wonders, the apostles freed by an angel, and Gamaliel's advice to let it stand.",
+"world_behind": "Vows of property dedication were voluntary, so the sin was lying about the amount, not withholding it.",
+"deep_background": [
+{
+"concept": "Gamaliel",
+"note": "A respected teacher of the law whose student Saul later became the movement's chief opponent."
+}
+]
+},
+"Act.6": {
+"occasion": "Seven chosen to serve widows; Stephen accused.",
+"structure": "The complaint about neglected widows, the appointment of seven, and Stephen's disputation and arrest.",
+"world_behind": "Widows without family had no income, so daily distribution was a real survival matter.",
+"deep_background": [
+{
+"concept": "Hellenists",
+"note": "Greek-speaking Jews from the diaspora and Hebrew-speaking locals attended separate synagogues and felt friction."
+}
+]
+},
+"Act.7": {
+"occasion": "Stephen's speech and martyrdom.",
+"structure": "A retelling of Israel's history from Abraham to the temple, the accusation, the vision, and the stoning.",
+"world_behind": "Stoning was a public community execution carried out outside the city for blasphemy.",
+"deep_background": [
+{
+"concept": "Son of Man standing",
+"note": "The figure usually sits at the right hand; standing suggests a witness rising to receive the martyr."
+}
+]
+},
+"Act.8": {
+"occasion": "Persecution scatters the church; Philip in Samaria and the desert road.",
+"structure": "Saul's havoc, Philip's Samaritan revival, Simon the magician, and the Ethiopian official baptised.",
+"world_behind": "Samaritans and Jews shared ancestry but worshipped separately on Mount Gerizim, so the mission crossed a hard line.",
+"deep_background": [
+{
+"concept": "Ethiopian eunuch",
+"note": "A court official barred from full temple access by his condition, reading Isaiah on the desert road south."
+}
+]
+},
+"Act.9": {
+"occasion": "The conversion of Saul and Peter's wider ministry.",
+"structure": "Light on the Damascus road, Ananias, Saul's preaching, the escape in a basket, and Peter healing Aeneas and Dorcas.",
+"world_behind": "Damascus lay outside Roman Judaea, giving converts a place to regroup beyond the council's reach.",
+"deep_background": [
+{
+"concept": "Letters of arrest",
+"note": "Synagogue leaders could carry extradition letters between cities, which is how the pursuit was organised."
+}
+]
+},
+"Act.10": {
+"occasion": "Cornelius and the Gentile Pentecost.",
+"structure": "Peter's vision of clean and unclean animals, the visit to Caesarea, and the Spirit falling on Gentiles.",
+"world_behind": "A Roman centurion in Caesarea commanded troops of the occupying force, an unlikely host for Peter.",
+"deep_background": [
+{
+"concept": "Table and diet",
+"note": "The vision's point is people, not food, argued from the fact that God made the visitor acceptable."
+}
+]
+},
+"Act.11": {
+"occasion": "Peter defends the Gentile mission; Antioch becomes the base.",
+"structure": "Peter's report in Jerusalem, the acceptance of Gentiles, and Barnabas bringing Saul to teach at Antioch.",
+"world_behind": "Antioch was the empire's third city, a cosmopolitan hub where the movement first got a nickname.",
+"deep_background": [
+{
+"concept": "Christians",
+"note": "The label arose outside the community, likely as a mocking tag in a city famous for nicknames."
+}
+]
+},
+"Act.12": {
+"occasion": "Persecution under Herod and Peter's escape.",
+"structure": "James killed, Peter imprisoned and freed by an angel, and Herod's death at Caesarea.",
+"world_behind": "Herod Agrippa I ruled with Roman backing and staged games at Caesarea to court popular favour.",
+"deep_background": [
+{
+"concept": "Chains and gates",
+"note": "The detail of chains and iron gates reflects a real prison attached to the city guard."
+}
+]
+},
+"Act.13": {
+"occasion": "Barnabas and Saul sent out on the first journey.",
+"structure": "Antioch's commissioning, Cyprus, the confrontation with Elymas, and the sermon at Pisidian Antioch.",
+"world_behind": "Pisidian Antioch sat on a Roman road with a large Jewish community and prominent God-fearers.",
+"deep_background": [
+{
+"concept": "God-fearers",
+"note": "Gentile attenders of the synagogue, sympathetic but uncircumcised, were the most responsive audience."
+}
+]
+},
+"Act.14": {
+"occasion": "Iconium, Lystra, and Derbe, then the return.",
+"structure": "Opposition at Iconium, healing at Lystra, mistaken for gods, stoning, and strengthening the churches on the way back.",
+"world_behind": "Lystra was a Roman colony with a local legend that the gods once visited in disguise and were unrecognised.",
+"deep_background": [
+{
+"concept": "Zeus and Hermes",
+"note": "The crowd's identification fits a rural temple tradition, so Paul redirects them to the living Creator."
+}
+]
+},
+"Act.15": {
+"occasion": "The Jerusalem council settles the Gentile question.",
+"structure": "Debate over circumcision, Peter and James speak, a letter is drafted, and Judas and Silas carry it to Antioch.",
+"world_behind": "This was a formal gathering of elders, and the letter circulated to diaspora synagogues on the same circuit.",
+"deep_background": [
+{
+"concept": "Four requirements",
+"note": "The four prohibitions mirror the laws that Leviticus applies to resident aliens living among Israel."
+}
+]
+},
+"Act.16": {
+"occasion": "Timothy joins, the Macedonian call, and the Philippian jailer.",
+"structure": "Timothy circumcised, the Spirit redirects the journey, Lydia's conversion, and the earthquake and jailer's baptism.",
+"world_behind": "Philippi was a Roman colony, and beating citizens without trial was illegal, which embarrassed the magistrates.",
+"deep_background": [
+{
+"concept": "A colony",
+"note": "Roman citizenship could be claimed as leverage in a colony, which is precisely what Paul does."
+}
+]
+},
+"Act.17": {
+"occasion": "Thessalonica, Berea, and the Areopagus address.",
+"structure": "Synagogue debates, Berean scrutiny of scripture, and the speech to philosophers in Athens.",
+"world_behind": "Athens prided itself on debate, and the Areopagus was the traditional venue for examining new teaching.",
+"deep_background": [
+{
+"concept": "Unknown god",
+"note": "An altar to an unnamed god gave Paul a legitimate opening for a Greek audience."
+}
+]
+},
+"Act.18": {
+"occasion": "Corinth and a return east.",
+"structure": "Priscilla and Aquila, tentmaking, the ruler of the synagogue's conversion, and Gallio's dismissal of the charge.",
+"world_behind": "Corinth was a busy port with a large transient population and a shallow Jewish minority, all under one Roman proconsul.",
+"deep_background": [
+{
+"concept": "Gallio's decision",
+"note": "A proconsul's ruling set precedent, so this dismissal effectively protected the mission for a time."
+}
+]
+},
+"Act.19": {
+"occasion": "Three years at Ephesus and the riot of the silversmiths.",
+"structure": "Disciples of John rebaptised, the lecture hall ministry, extraordinary healings, and Demetrius's uproar.",
+"world_behind": "Ephesus held the temple of Artemis, one of the seven wonders, and its silver trade depended on pilgrimage souvenirs.",
+"deep_background": [
+{
+"concept": "Artemis of the Ephesians",
+"note": "The city's identity and income were tied to the cult, which is why the gospel threatened a whole economy."
+}
+]
+},
+"Act.20": {
+"occasion": "Through Macedonia and Greece to the Miletus farewell.",
+"structure": "Travels and plots, the raising of Eutychus at Troas, and the emotional address to the Ephesian elders.",
+"world_behind": "Sea travel followed seasonal winds, so Paul's haste to reach Jerusalem before Pentecost shaped the itinerary.",
+"deep_background": [
+{
+"concept": "Overseers",
+"note": "The address uses elder and overseer interchangeably, showing the terms described one role at this stage."
+}
+]
+},
+"Act.21": {
+"occasion": "The voyage to Jerusalem and the temple arrest.",
+"structure": "Warnings along the way, Agabus's prophecy, purification in the temple, and the riot that leads to arrest.",
+"world_behind": "Rumours of temple defilement could spark violence quickly, since the inner courts were guarded by warning notices.",
+"deep_background": [
+{
+"concept": "Chains",
+"note": "The tribune's custody protected Paul from the crowd, which is why the arrest preserved his life."
+}
+]
+},
+"Act.22": {
+"occasion": "Paul's defense on the temple stairs.",
+"structure": "Address in Hebrew, the account of the Damascus road, and the crowd's rejection at the mention of Gentiles.",
+"world_behind": "Speaking Aramaic to a Jerusalem crowd signalled a local, observant Jew, which bought him a hearing.",
+"deep_background": [
+{
+"concept": "Citizenship",
+"note": "Roman citizenship by birth was rarer than purchased citizenship and carried legal protections."
+}
+]
+},
+"Act.23": {
+"occasion": "Before the council and the transfer to Caesarea.",
+"structure": "Pharisee and Sadducee split, the plot on his life, and the night march to the governor.",
+"world_behind": "The Sanhedrin mixed two parties with opposed views on resurrection, which Paul exploits deliberately.",
+"deep_background": [
+{
+"concept": "Fortress Antonia",
+"note": "The Roman garrison overlooked the temple courts, so troops could intervene within minutes."
+}
+]
+},
+"Act.24": {
+"occasion": "The hearing before Felix at Caesarea.",
+"structure": "Tertullus's accusation, Paul's defense, and two years of detention with occasional hearings.",
+"world_behind": "Caesarea was the administrative capital, where the governor held court in Herod's palace complex.",
+"deep_background": [
+{
+"concept": "A bribe hoped for",
+"note": "Felix's expectation of payment reflects known habits of provincial governors of the period."
+}
+]
+},
+"Act.25": {
+"occasion": "Festus takes over and Paul appeals to Caesar.",
+"structure": "The case reopened, the request for a transfer to Jerusalem, and the appeal to the emperor.",
+"world_behind": "A governor was expected to clear his docket, and an appeal to Caesar transferred the case out of local politics.",
+"deep_background": [
+{
+"concept": "Caesar's court",
+"note": "Appealing to the emperor meant eventual trial in Rome, which shaped the rest of the story."
+}
+]
+},
+"Act.26": {
+"occasion": "Paul's defense before Agrippa.",
+"structure": "Festus's introduction, the full account of the calling, and Agrippa's near-convinced reply.",
+"world_behind": "Herod Agrippa II was a client king with temple oversight, so his opinion carried weight with the next governor.",
+"deep_background": [
+{
+"concept": "Third telling",
+"note": "The Damascus account is retold for the third time in Acts, each telling aimed at a different audience."
+}
+]
+},
+"Act.27": {
+"occasion": "The sea voyage and shipwreck.",
+"structure": "Warnings ignored, the storm, the angel's promise, the wreck at Malta, and survival of all aboard.",
+"world_behind": "Grain ships from Egypt ran the dangerous route past Crete late in the season, when sailing risk rose sharply.",
+"deep_background": [
+{
+"concept": "Fast",
+"note": "The Day of Atonement fast had passed, which marked the point when open-sea sailing was avoided."
+}
+]
+},
+"Act.28": {
+"occasion": "Malta, then Rome under house arrest.",
+"structure": "The viper and Publius's father healed, the arrival at Rome, and preaching to Jews and Gentiles for two years.",
+"world_behind": "House arrest with a soldier guard allowed visitors, since the prisoner paid for his own lodging.",
+"deep_background": [
+{
+"concept": "Unhindered",
+"note": "The book ends on that word, making the gospel's spread rather than Paul's fate the closing point."
+}
+]
+},
+"Rom.1": {
+"occasion": "Paul introduces the gospel to the church at Rome.",
+"structure": "Greeting and thesis, then the revelation of wrath against Gentile idolatry and its consequences.",
+"world_behind": "Rome held a large Jewish community and a growing mixed church after Claudius expelled and re-admitted Jews.",
+"deep_background": [
+{
+"concept": "Righteousness of God",
+"note": "Paul's key phrase means God's saving action, not only his fairness, which reshapes the whole letter."
+}
+]
+},
+"Rom.2": {
+"occasion": "Impartial judgment on moralists and Jews alike.",
+"structure": "The critic condemned by his own standard, judgment by works, the law written on hearts, and the value of circumcision.",
+"world_behind": "Synagogue attenders valued the law as a marker of identity, which made the argument about the heart pointed.",
+"deep_background": [
+{
+"concept": "Written on hearts",
+"note": "The phrase echoes the prophets' promise of an inward covenant rather than an external code."
+}
+]
+},
+"Rom.3": {
+"occasion": "All humanity under sin; justification by faith.",
+"structure": "Catena of texts on universal sin, the law's role, and righteousness through faith in Christ.",
+"world_behind": "Paul argues like a trained rabbi, stacking quotations so the conclusion cannot be evaded.",
+"deep_background": [
+{
+"concept": "Propitiation",
+"note": "The term draws on the mercy seat of the temple, where atonement was made once a year."
+}
+]
+},
+"Rom.4": {
+"occasion": "Abraham as the pattern of justification by faith.",
+"structure": "Faith credited as righteousness, the promise received before circumcision, and Abraham's faith in God who raises the dead.",
+"world_behind": "Circumcision was the entry sign of the covenant, so arguing Abraham was accepted before it was decisive.",
+"deep_background": [
+{
+"concept": "Credited",
+"note": "The bookkeeping image comes from the sacrificial and commercial language of the period."
+}
+]
+},
+"Rom.5": {
+"occasion": "Peace with God and the two Adams.",
+"structure": "Access and hope through suffering, the certainty of love, and the comparison of Adam and Christ.",
+"world_behind": "Patronage shaped how people understood reconciliation and access to a powerful figure.",
+"deep_background": [
+{
+"concept": "Reconciliation",
+"note": "The word pictures ending a state of hostility, which Paul applies to a relationship people did not initiate."
+}
+]
+},
+"Rom.6": {
+"occasion": "Baptism and freedom from sin's rule.",
+"structure": "Dead to sin, buried and raised with Christ, and the transfer from sin's mastery to God's service.",
+"world_behind": "Baptism by immersion was public and marked a change of allegiance as much as a ritual washing.",
+"deep_background": [
+{
+"concept": "Slaves of righteousness",
+"note": "Slavery was everywhere in Rome, so the image of a change of master landed concretely."
+}
+]
+},
+"Rom.7": {
+"occasion": "The law's proper role and the struggle against sin.",
+"structure": "The marriage analogy, the law's goodness, and the divided will crying for rescue.",
+"world_behind": "Marriage law bound a woman to her husband, an illustration his hearers accepted without argument.",
+"deep_background": [
+{
+"concept": "The divided will",
+"note": "The passage is disputed: some read it as pre-conversion struggle, others as the believer's ongoing fight."
+}
+]
+},
+"Rom.8": {
+"occasion": "Life in the Spirit and the security of love.",
+"structure": "No condemnation, adoption and crying Abba, creation's groaning, intercession, and the unbreakable love of God.",
+"world_behind": "Adoption in Roman law transferred a child into a new family with full inheritance rights and irreversible status.",
+"deep_background": [
+{
+"concept": "Abba",
+"note": "An Aramaic family address preserved in Greek-speaking churches, showing early bilingual worship."
+}
+]
+},
+"Rom.9": {
+"occasion": "Israel, election, and God's sovereign mercy.",
+"structure": "Paul's grief, the promise line, the potter and clay, and the inclusion of Gentiles.",
+"world_behind": "Israel's identity rested on election, so the question of Gentile inclusion struck at the foundations.",
+"deep_background": [
+{
+"concept": "Potter and clay",
+"note": "The image comes from the prophets and from a potter's workshop, familiar in every ancient town."
+}
+]
+},
+"Rom.10": {
+"occasion": "Israel's need and the word of faith.",
+"structure": "Zeal without knowledge, the near word of confession, and the chain of preaching and hearing.",
+"world_behind": "Confessing Jesus as Lord had civic consequences, since emperor worship demanded the same title.",
+"deep_background": [
+{
+"concept": "Beautiful feet",
+"note": "The quotation from Isaiah pictures a messenger arriving with news, feet dusty from the road."
+}
+]
+},
+"Rom.11": {
+"occasion": "The remnant, grafting, and mercy to all.",
+"structure": "Elijah's remnant, the olive tree and its grafted branches, and the doxology on God's wisdom.",
+"world_behind": "Grafting wild shoots into an older tree was real orchard practice, done to renew a failing stock.",
+"deep_background": [
+{
+"concept": "Wild olive",
+"note": "The wild olive was hardy and cheap, so grafting it in reversed every expectation of value."
+}
+]
+},
+"Rom.12": {
+"occasion": "The shape of a renewed life together.",
+"structure": "Living sacrifice, humility about gifts, sincere love, blessing persecutors, and overcoming evil with good.",
+"world_behind": "Sacrifice language was everywhere in pagan worship, so applying it to daily life was a deliberate transfer.",
+"deep_background": [
+{
+"concept": "Overcome evil",
+"note": "Refusing revenge relied on the conviction that God judges, which removed retaliation's justification."
+}
+]
+},
+"Rom.13": {
+"occasion": "Authorities, love, and the nearness of the day.",
+"structure": "Submission to governing powers, love as the law fulfilled, and waking because the night is far gone.",
+"world_behind": "Nero's early years were relatively orderly, and Roman rule depended on tax collection and public order.",
+"deep_background": [
+{
+"concept": "Sword",
+"note": "The sword was the symbol of capital authority, so the passage grants real coercive power to the state."
+}
+]
+},
+"Rom.14": {
+"occasion": "Weak and strong over food and days.",
+"structure": "Do not judge the scrupulous, do not stumble the strong, and pursue peace and mutual upbuilding.",
+"world_behind": "Meat sold in markets had often been offered at temples, which troubled scrupulous believers.",
+"deep_background": [
+{
+"concept": "Days",
+"note": "Sabbath and festival observance were communal markers, which made the dispute about identity, not diet."
+}
+]
+},
+"Rom.15": {
+"occasion": "Welcome one another; Paul's plans for Spain.",
+"structure": "The example of Christ, the inclusion of the Gentiles in scripture, and travel plans through Jerusalem to the west.",
+"world_behind": "Spain was the far western edge of the empire, and a trip there required a base of support in Rome.",
+"deep_background": [
+{
+"concept": "Collection",
+"note": "The gift for Jerusalem's poor was a practical bond between the Gentile churches and the mother church."
+}
+]
+},
+"Rom.16": {
+"occasion": "Commendation, greetings, and the final doxology.",
+"structure": "Phoebe commended, a long list of greetings, a warning about dividers, and praise to God.",
+"world_behind": "Travel required a letter of commendation, since inns were unreliable and hospitality networks were the safety net.",
+"deep_background": [
+{
+"concept": "Phoebe",
+"note": "She is called a servant of the church and a patron of many, showing women hosted and funded the mission."
+}
+]
 }
 }
