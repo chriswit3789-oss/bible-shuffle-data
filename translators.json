@@ -1,0 +1,172 @@
+{
+ "Gen.1.1": {
+  "word": "created",
+  "strong": "H1254",
+  "note": "The verb bara is used in the Hebrew Bible only with God as its subject. The KJV keeps the plain 'created'; the same verb is also rendered 'choose' and 'make' where it appears elsewhere."
+ },
+ "Exo.34.6": {
+  "word": "goodness",
+  "strong": "H2617",
+  "note": "KJV 'abundant in goodness' renders chesed, the covenant-loyalty word that appears elsewhere as 'mercy' and 'kindness'. The verse stacks God's own name in front of four character words, and English smooths what Hebrew leaves as a bare list."
+ },
+ "Deu.6.4": {
+  "word": "one",
+  "strong": "H259",
+  "note": "echad is the ordinary Hebrew word for 'one', and also for 'first'. KJV reads 'one' here; the same word is 'first' in the day lists of Genesis 1."
+ },
+ "Deu.6.5": {
+  "word": "might",
+  "strong": "H3966",
+  "note": "KJV 'might' translates me'od, which everywhere else means 'very' or 'exceedingly'. Literally the line runs 'with all your very-much', an intensifier doing the work of a noun."
+ },
+ "Jos.1.9": {
+  "word": "strong",
+  "strong": "H2388",
+  "note": "chazaq means to be or become strong, and it is the same verb used of hardening a heart and of repairing a wall. KJV keeps 'strong' here, paired against two verbs for being shattered."
+ },
+ "Psa.23.1": {
+  "word": "shepherd",
+  "strong": "H7462",
+  "note": "ra'ah is a verb, to pasture or tend. KJV turns it into the noun 'shepherd'; the same verb is rendered 'feed' elsewhere."
+ },
+ "Psa.51.10": {
+  "word": "create",
+  "strong": "H1254",
+  "note": "David asks for the verb of Genesis 1:1, bara, a making that only God performs. KJV keeps 'create' in both places."
+ },
+ "Psa.119.105": {
+  "word": "lamp",
+  "strong": "H5216",
+  "note": "ner is the small clay oil lamp of daily use, not the great light of Genesis 1. KJV keeps 'lamp'; older English verses in the same Bible render the word 'candle'."
+ },
+ "Psa.139.14": {
+  "word": "fearfully",
+  "strong": "H3372",
+  "note": "KJV 'fearfully and wonderfully made' pairs yare, to fear or revere, with palah, to be set apart and distinct. The 'fearfully' is awe, not dread."
+ },
+ "Isa.40.31": {
+  "word": "wait",
+  "strong": "H6960",
+  "note": "KJV 'wait upon' renders qavah, literally to bind or twist together, and elsewhere 'expect' or 'look for'. The verse then piles up four verbs for not collapsing: mount up, run, walk, not faint."
+ },
+ "Isa.53.5": {
+  "word": "wounded",
+  "strong": "H2490",
+  "note": "KJV 'wounded' is chalal, to pierce or bore through, elsewhere 'pierced' and 'slain'. 'Bruised' is daka, to crush fine, a stronger image than the English suggests."
+ },
+ "Jer.1.5": {
+  "word": "formed",
+  "strong": "H3335",
+  "note": "yatsar is the potter's verb, shaping clay. KJV keeps 'formed' here and 'potter' where the noun of the same root appears."
+ },
+ "Jer.29.11": {
+  "word": "thoughts",
+  "strong": "H4284",
+  "note": "KJV 'thoughts of peace' renders machashabah, a plan or device, and shalom, which the KJV elsewhere turns into 'welfare' and 'health'. 'Peace' is a narrower word than the Hebrew it stands for."
+ },
+ "Mic.6.8": {
+  "word": "mercy",
+  "strong": "H2617",
+  "note": "KJV 'love mercy' is chesed, covenant loyalty, the same word behind 'goodness' in Exodus 34:6. 'Mercy' is the older English choice for it, and 'kindness' is the modern one."
+ },
+ "Zep.3.17": {
+  "word": "rest",
+  "strong": "H2790",
+  "note": "KJV 'he will rest in his love' renders charash, which means to be silent or still, and elsewhere 'plough'. The line pictures God going quiet in his joy rather than settling down."
+ },
+ "Mat.6.33": {
+  "word": "seek",
+  "strong": "G2212",
+  "note": "zeteo is to seek or strive for. KJV keeps 'seek' with 'first', proton, standing in front of it; the word order carries the point of the verse."
+ },
+ "Mat.6.34": {
+  "word": "take thought",
+  "strong": "G3309",
+  "note": "KJV 'take no thought for the morrow' renders merimnao, to be anxious or pulled in two directions. 'Thought' misleads modern readers: the word is worry, and it appears twice in the verse."
+ },
+ "Mat.11.28": {
+  "word": "labour",
+  "strong": "G2872",
+  "note": "KJV 'all ye that labour and are heavy laden' pairs kopiao, to grow weary from work, with phortizo, to be loaded down. The invitation is addressed to the exhausted, not the idle."
+ },
+ "Luk.15.20": {
+  "word": "far off",
+  "strong": "G3112",
+  "note": "KJV 'yet a great way off' renders makran, far. The father sees the son while distance still separates them, before any confession is spoken."
+ },
+ "Jhn.1.1": {
+  "word": "Word",
+  "strong": "G3056",
+  "note": "logos means word, account, reason and message. KJV fixes it as 'Word' and capitalises it, a theological choice the Greek makes by grammar and context rather than by capitals."
+ },
+ "Jhn.3.16": {
+  "word": "so",
+  "strong": "G3779",
+  "note": "houtos means 'in this way', not primarily 'so much'. KJV 'For God so loved' carries the older sense of manner. 'Only begotten' is monogenes, literally one of a kind."
+ },
+ "Jhn.14.2": {
+  "word": "mansions",
+  "strong": "G3438",
+  "note": "mone means a staying place or dwelling, from the verb 'to remain'. KJV 'mansions' was a sixteenth-century word for a dwelling, closer to 'rooms' than to the modern sense."
+ },
+ "Rom.8.28": {
+  "word": "work together",
+  "strong": "G4903",
+  "note": "synergeo is to work together with someone. KJV reads 'all things work together', leaving open who does the working; the Greek verb is singular."
+ },
+ "Rom.12.2": {
+  "word": "transformed",
+  "strong": "G3339",
+  "note": "metamorphoo is to change form, the same verb used of the Transfiguration. KJV sets it against syschematizo, 'be conformed', which is about outward shape."
+ },
+ "1Co.13.4": {
+  "word": "suffereth long",
+  "strong": "G3114",
+  "note": "makrothymeo is long-temperedness, patience with people rather than with circumstances. KJV 'suffereth long' keeps the older sense of enduring; 'is kind' is chresteuomai, to be usefully good."
+ },
+ "Eph.2.8": {
+  "word": "gift",
+  "strong": "G1435",
+  "note": "KJV 'it is the gift of God' renders doron, a thing given. The sentence names charis, grace, and pistis, faith, and then calls the whole arrangement a gift."
+ },
+ "Php.4.13": {
+  "word": "can do",
+  "strong": "G2480",
+  "note": "ischyo is to have strength for something. KJV 'I can do all things' supplies the verb 'do'; the Greek says 'I have strength for all things' through the one who empowers."
+ },
+ "2Ti.1.7": {
+  "word": "fear",
+  "strong": "G1167",
+  "note": "deilia is cowardice, not the ordinary word for fear. KJV 'spirit of fear' is a soft landing; the Greek names timidity and sets it against power, love and self-control."
+ },
+ "Heb.4.12": {
+  "word": "quick",
+  "strong": "G2198",
+  "note": "KJV 'quick and powerful' means living and effective: zao, to live, and energes, active. 'Quick' here carries the old sense of alive."
+ },
+ "Heb.11.1": {
+  "word": "substance",
+  "strong": "G5287",
+  "note": "hypostasis is what stands under, a foundation or assured expectation. KJV 'substance' and 'evidence' render hypostasis and elegchos, the second a legal word for proof."
+ },
+ "Jas.1.2": {
+  "word": "temptations",
+  "strong": "G3986",
+  "note": "peirasmos means trial or test, and only by context a temptation to sin. KJV 'temptations' reads the testing as moral danger; the verse is about hardship endured."
+ },
+ "1Jn.4.8": {
+  "word": "love",
+  "strong": "G26",
+  "note": "agape is the love word of the New Testament, used of God's own character. KJV keeps 'love'; the sentence is a definition rather than a description."
+ },
+ "Rev.21.1": {
+  "word": "new",
+  "strong": "G2537",
+  "note": "kainos is new in kind, not merely recent; Greek has a separate word, neos, for new in time. English 'new' carries both, so the distinction disappears."
+ },
+ "Rev.21.4": {
+  "word": "wipe away",
+  "strong": "G1813",
+  "note": "exaleipho is to smear out or erase, used of wiping a surface and of blotting out a record. KJV 'wipe away' is literal; the same verb stands behind 'blotted out' elsewhere."
+ }
+}
